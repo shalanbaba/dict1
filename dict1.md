@@ -777,7 +777,7 @@
 - 起飞：lift off /ˈlɪft ɒf/
 - 发射：launch /lɔːntʃ/ [C1] √
 - 发射台：launch pad /ˈlɔːntʃ pæd/ √
-#### 服装：clothing /ˈkləʊðɪŋ/
+#### 服装：clothes /kləʊðz/
 - 内衣：underwear /ˈʌndəweə/
 - 体恤衫：t-shirt /ˈtiː ʃɜːt/
 - 袜子：socks /sɒks/
