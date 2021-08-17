@@ -53,7 +53,7 @@
 #### 飞机零部件：airplane parts
 #### 航天：aerospace
 
-#### 服装：clothing
+#### 服装：clothes
 #### 鞋子：shoes
 #### 包：bags
 #### 眼镜：glasses

@@ -994,6 +994,7 @@
 - 兽医：veterinarian /ˌvetərɪˈneəriən/, vet /vet/（缩）√
 - 农民：farmer /ˈfɑːmə/ √
 - 军人：soldier /ˈsəʊldʒə/ √
+- 水手：sailor /ˈseɪlə/ [B1]
 - 海军陆战队员：marine /məˈriːn/
 - 狙击手：sniper /ˈsnaɪpə/
 - 警察：policeman /pəˈliːsmən/ √, policewoman /pəˈliːswʊmən/, police officer /pəˈliːs ˈɒfɪsə/ √
