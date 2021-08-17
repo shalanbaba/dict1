@@ -13,11 +13,10 @@
 - 护照：passport /ˈpɑːspɔːt/ [A2]
 - 签证：visa /ˈviːzə/ [B1]
 - 身份证：identity card /aɪˈdentəti kɑːd/ [B1], ID card /ˌaɪ ˈdiː kɑːd/ [A2]
-- 课本：textbook /ˈtekstbʊk/
-- 广播：broadcast /ˈbrɔːdkɑːst/
-- 字典：dictionary /ˈdɪkʃəneri/
-- 照片：photo /ˈfəʊtəʊ/, photograph /ˈfəʊtəɡrɑːf/
-- 图片：picture /ˈpɪktʃə/ √
+- 课本：textbook /ˈtekstbʊk/ [A2]
+- 字典：dictionary /ˈdɪkʃəneri/ [A1]
+- 照片：photo /ˈfəʊtəʊ/ [A1], photograph /ˈfəʊtəɡrɑːf/ [A2]
+- 图片：picture /ˈpɪktʃə/ [A1] √
 - 视频：video /ˈvɪdiəʊ/
 - 相册：album /ˈælbəm/
 - 语音：voice /vɔɪs/
@@ -32,7 +31,7 @@
   - 文本消息：text message /tekst ˈmesɪdʒz/
   - 语音消息：voice message /vɔɪs ˈmesɪdʒz/
 - 传说：tale /teɪl/ √
-- 诗：poem /ˈpəʊɪm/
+- 诗：poem /ˈpəʊɪm/ [B1]
 - 歌词：lyrics /ˈlɪrɪks/
 - 书：book /bʊk/ [A1] √
 - 绘本：picture book /ˈpɪktʃə bʊk/ √
@@ -512,7 +511,7 @@
 - 梳妆台：dresser /ˈdresə/
 - 抽屉：drawer /drɔ:r/
 - 镜子：mirror /ˈmɪrə/
-#### 床上用品：bedding /ˈbedɪŋ/
+#### 床上用品：bedding /ˈbedɪŋ/ [CET4]
 - 床单：sheet /ʃiːt/
 - 枕头：pillow /ˈpɪləʊ/
 - 被子：quilt /kwɪlt/
@@ -669,7 +668,7 @@
 - 棍子：stick /stɪk/ √
 - 脚手架：scaffold /ˈskæfəʊld/
 - 灭火器：fire extinguisher /ˈfaɪə ɪkˈstɪŋɡwɪʃə/
-#### 文具：stationery /ˈsteɪʃəneri/
+#### 文具：stationery /ˈsteɪʃəneri/ [CET6]
 - 信封：envelope /ˈenvələʊp/
 - 橡皮：eraser /ɪˈreɪzə/
 - 算盘：abacus /ˈæbəkəs/
@@ -1059,7 +1058,7 @@
 - 领导：leader /ˈliːdə/
 - 经理：manager /ˈmænɪdʒə/
 - 队长：captain /ˈkæptɪn/ √
-#### 称谓：titles /ˈtaɪtlz/
+#### 称谓：titles /ˈtaɪtlz/ [CET4]
 - 女士：Miss /mɪs/ [A1], madam /ˈmædəm/ [B1]
 - 夫人：Mrs /ˈmɪsɪz/ [A1], madam /ˈmædəm/ [B1]
 - 先生：Mr /ˈmɪstə/ [A1], sir /sɜː/ [B1]
@@ -1696,11 +1695,13 @@
 - 雷达：radar /ˈreɪdɑː/
 - 导弹：missile /ˈmɪsl/ √
 - 航空母舰：aircraft carrier /ˈeəkrɑːft kæriə/
+- 战列舰：battleship /ˈbætlʃɪp/
 - 炸弹：bomb /bɒm/ √
 - 轰炸机：bomber /ˈbɒmə/ √
 - 舰：ship /ʃɪp/ √
 - 潜水艇：submarine /ˌsʌbməˈriːn/ √
 #### 动词：verbs /vɜːbz/ [A2]
+- 广播：broadcast /ˈbrɔːdkɑːst/ [B2]
 - 射击：shoot /ʃuːt/
 - 保护：protect /prəˈtekt/
 - 救援：rescue /ˈreskjuː/
