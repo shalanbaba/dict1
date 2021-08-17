@@ -322,10 +322,10 @@
 - 花坛沿：flower bed edge /ˈflaʊə bed edʒ/
 - 消防栓：fire hydrant /ˈfaɪə ˈhaɪdrənt/ √
 - 工地：construction site /kənˈstrʌkʃn saɪt/
-- 运河：canal /kəˈnæl/ [ORT 1+]
-- 船闸：lock /lɒk/ [ORT 1+]
+- 运河：canal /kəˈnæl/ [ORT1+]
+- 船闸：lock /lɒk/ [ORT1+]
 - 坝：dam /dæm/
-- 堰：weir /wɪə/ [ORT 5]
+- 堰：weir /wɪə/ [ORT5]
 - 地铁站：metro station /ˈmetrəʊ ˈsteɪʃn/ √
 - 面包店：bakery /ˈbeɪkəri/ √
 - 咖啡馆：cafe /ˈkæfeɪ/ √
@@ -437,7 +437,7 @@
 - 烟囱：chimney /ˈtʃɪmni/
 - 楼梯：stairs /steəz/
 - 壁炉：fireplace /ˈfaɪəpleɪs/
-- 地板或屋顶上的门：trap door /træp dɔː/ [ORT 5]
+- 地板或屋顶上的门：trap door /træp dɔː/ [ORT5]
 - 窗：window /ˈwɪndəʊ/
 - 纱窗：window screen /ˈwɪndəʊ skriːn/
 - 纱门：screen door /skriːn dɔː/
@@ -831,7 +831,7 @@
   - 乌龟：turtle /ˈtɜːtl/（水陆）, tortoise /ˈtɔːtəs/（陆）√
   - 海龟：sea turtle /siː ˈtɜːtl/
   - 变色龙：chameleon /kəˈmiːliən/
-  - 火蜥蜴：salamander /ˈsæləmændə/ [ORT 2] √
+  - 火蜥蜴：salamander /ˈsæləmændə/ [ORT2] √
   - 鳄鱼：crocodile /ˈkrɒkədaɪl/
 - 鸟：birds /bɜːdz/ √
   - 小鸟：birdie /ˈbɜːdi/ √
@@ -1525,7 +1525,7 @@
 - 羽毛球：badminton /ˈbædmɪntən/
 - 高尔夫：golf /ɡɒlf/
 - 徒步：hike /haɪk/ √
-- 保龄球：bowling /ˈbəʊlɪŋ/ [ORT 4]
+- 保龄球：bowling /ˈbəʊlɪŋ/ [ORT4]
 - 拳击：boxing /ˈbɒksɪŋ/
 - 体操：gymnastics /dʒɪmˈnæstɪks/
 - 健身：fitness /ˈfɪtnəs/
@@ -1593,7 +1593,7 @@
 - 顶点：summit /ˈsʌmɪt/
 - 冒险：adventure /ədˈventʃə/
 - 技能：skill /skɪl/
-- 某种东西：whatsit /ˈwɒtsɪt/ [ORT 5]
+- 某种东西：whatsit /ˈwɒtsɪt/ [ORT5]
 - 假期：vacation /veɪˈkeɪʃn/（美）, holiday /ˈhɒlədeɪ/（英）√
 - 快递：express /ɪkˈspres/
 - 事情, 东西：thing /θɪŋ/
