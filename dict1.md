@@ -324,7 +324,7 @@
 - 工地：construction site /kənˈstrʌkʃn saɪt/
 - 运河：canal /kəˈnæl/ [ORT1+]
 - 船闸：lock /lɒk/ [ORT1+]
-- 坝：dam /dæm/
+- 坝：dam /dæm/ [CET4]
 - 堰：weir /wɪə/ [ORT5]
 - 地铁站：metro station /ˈmetrəʊ ˈsteɪʃn/ √
 - 面包店：bakery /ˈbeɪkəri/ √
