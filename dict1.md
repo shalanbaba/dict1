@@ -752,7 +752,7 @@
 - 飞机：airplane /ˈeəpleɪn/（美）√, aeroplane /ˈeərəpleɪn/（英）√
 - 直升机：helicopter /ˈhelɪkɒptə/ √
 - 热气球：hot air balloon /hɒt eə bəˈluːn/ √
-#### 船：boats /bəʊts/ √
+#### 船：boats /bəʊts/ [A1] √
 - 皮划艇：kayak /ˈkaɪæk/
 - 独木舟：canoe /kəˈnuː/
 - 橡皮筏：dinghy /ˈdɪŋɡi/ √
@@ -777,7 +777,7 @@
 - 起飞：lift off /ˈlɪft ɒf/
 - 发射：launch /lɔːntʃ/ [C1] √
 - 发射台：launch pad /ˈlɔːntʃ pæd/ √
-#### 服装：clothes /kləʊðz/
+#### 服装：clothes /kləʊðz/ [A1]
 - 内衣：underwear /ˈʌndəweə/
 - 体恤衫：t-shirt /ˈtiː ʃɜːt/
 - 袜子：socks /sɒks/
@@ -807,26 +807,26 @@
 - 袖子：sleeve /sliːv/
 - 长裤：trousers /ˈtraʊzəz/, pants /pænts/（美）
 - 雨衣：raincoat /ˈreɪnkəʊt/
-#### 鞋子：shoes /ʃuːz/
+#### 鞋子：shoes /ʃuːz/ [A1]
 - 拖鞋：slippers /ˈslɪpəz/
 - 雨靴：rain boots /reɪn buːts/
-#### 包：bags /bæɡz/
+#### 包：bags /bæɡz/ [A1]
 - 背包：backpack /ˈbækpæk/
-#### 眼镜：glasses /ˈɡlɑːsɪz/
+#### 眼镜：glasses /ˈɡlɑːsɪz/ [A1]
 - 墨镜：shades /ʃeɪdz/
 - 太阳眼镜：sunglasses /ˈsʌnɡlɑːsɪz/
 - 游泳眼镜：goggles /ˈɡɑːɡlz/
-#### 首饰：jewellery（英）, jewelry（美）/ˈdʒuːəlri/
+#### 首饰：jewellery（英）, jewelry（美）/ˈdʒuːəlri/ [A2]
 - 戒指：ring /rɪŋ/
 - 项链：necklace /ˈnekləs/
 - 耳环：earrings /iəriŋz/
-#### 缝纫：sewing /ˈsəʊɪŋ/
+#### 缝纫：sewing /ˈsəʊɪŋ/ [C1]
 - 针：needle /ˈniːdl/
 - 线：thread /θred/
 - 拉链：zip /zɪp/, zipper /ˈzɪpə/
 - 带扣：buckle /ˈbʌkl/
 - 纽扣：button /ˈbʌtn/
-#### 动物：the animal /ði ˈænɪml/ √
+#### 动物：the animal /ði ˈænɪml/ [A1] √
 - 爬行动物：reptiles /ˈreptaɪlz/
   - 蛇：snake /sneɪk/ √
   - 乌龟：turtle /ˈtɜːtl/（水陆）, tortoise /ˈtɔːtəs/（陆）√
@@ -941,7 +941,7 @@
 - 掌：paw /pɔː/
 - 大象鼻子：trunk /trʌŋk/ √
 - 爪子：claw /klɔː/
-#### 植物：the plant /ðə plænt/ √
+#### 植物：the plant /ðə plænt/ [A1] √
 - 花：flowers /ˈflaʊəz/ √
   - 樱花：sakura /sakurə/
 - 花苞：bud /bʌd/
@@ -963,7 +963,7 @@
 - 真菌：fungus /ˈfʌŋɡəs/
 - 细菌：bacteria /bækˈtɪəriə/
 - 病毒：virus /ˈvaɪrəs/
-#### 人：people /ˈpiːpl/
+#### 人：people /ˈpiːpl/ [A1]
 - 婴儿：baby /ˈbeɪbi/, infant /ˈɪnfənt/
 - 幼童：toddler /ˈtɒdlə/
 - 儿童：kid /kɪd/
@@ -986,7 +986,7 @@
 - 游客：tourist /ˈtʊərɪst/ [A2]
 - 访客：visitor /ˈvɪzɪtə/ [A2]
 - 囚犯：prisoner /ˈprɪznə/ [B1]
-#### 职业：jobs /dʒobs/
+#### 职业：jobs /dʒobs/ [A1]
 - 邮递员：postman /ˈpəʊstmən/
 - 宇航员：astronaut /ˈæstrənɔːt/ √, spaceman /ˈspeɪsmæn/
 - 消防员：firefighter /ˈfaɪəfaɪtə/ √
