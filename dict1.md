@@ -1308,7 +1308,7 @@
 - 橙：orange /ˈɒrɪndʒ/ √
 - 粉：pink /pɪŋk/ √
 - 绿：green /ɡriːn/ √
-- 灰：gray /ɡreɪ/
+- 灰：gray（美）, grey（英）/ɡreɪ/ [A1]
 - 黄：yellow /ˈjeləʊ/ √
 - 蓝：blue /bluː/ √
 - 白：white /waɪt/ √
