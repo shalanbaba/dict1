@@ -221,6 +221,7 @@
 - 湖：lake /leɪk/ √
 - 大陆：mainland /ˈmeɪnlænd/
 - 大海：sea /siː/ √
+- 潮水：tide /taɪd/ [B2]
 - 水坑：puddle /ˈpʌdl/ √
 - 池塘：pond /pɒnd/ √
 - 云：cloud /klaʊd/ √
