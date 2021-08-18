@@ -25,18 +25,18 @@
 - 论文：paper /ˈpeɪpə/ [A1]
 - 杂志：magazine /ˌmæɡəˈziːn/ [A2]
 - 文章：article /ˈɑːtɪkl/ [B1]
-- 广告：advertisement /ˌædvəˈtaɪzmənt/
-- 期刊：journal /ˈdʒɜːnl/
-- 消息：messages /ˈmesɪdʒz/
-  - 文本消息：text message /tekst ˈmesɪdʒz/
+- 广告：advertisement /ˌædvəˈtaɪzmənt/ [A2]
+- 期刊：journal /ˈdʒɜːnl/ [C1]
+- 消息：messages /ˈmesɪdʒz/ [A1]
+  - 文本消息：text message /tekst ˈmesɪdʒz/ [A2]
   - 语音消息：voice message /vɔɪs ˈmesɪdʒz/
-- 传说：tale /teɪl/ √
+- 传说：tale /teɪl/ [B2] √
 - 诗：poem /ˈpəʊɪm/ [B1]
 - 歌词：lyrics /ˈlɪrɪks/ [B2]
 - 书：book /bʊk/ [A1] √
 - 绘本：picture book /ˈpɪktʃə bʊk/ √
 - 日记：diary /ˈdaɪəri/ [A2]
-- 日志：journal /ˈdʒɜːnl/, log /lɔːɡ/
+- 日志：journal /ˈdʒɜːnl/ [C2], log /lɔːɡ/ [CET4]
 - 网站：website /ˈwebsaɪt/
 - 网址：uniform resource locator /ˈjuːnɪfɔːm rɪˈsɔːs ləʊˈkeɪtə/, URL /ˌjuː ɑː ˈel/
 - 二维码：quick response code /kwɪk rɪˈspɒns kəʊd/, QR code /kjuː ɑː kəʊd/
