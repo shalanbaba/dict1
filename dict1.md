@@ -388,17 +388,16 @@
 - 垃圾场：dump /dʌmp/
 - 变电站：transformer substation /trænsˈfɔːmə ˈsʌbsteɪʃn/
 - 亭子：pavilion /pəˈvɪliən/
-- 书报亭：kiosk /ˈkiːɒsk/
 - 加油站：gas station /ˈɡæs steɪʃn/
 - 厕所：toilet /ˈtɔɪlət/ √
 - 售票处：ticket office /ˈtɪkɪt ˈɒfɪs/
 - 检票口：ticket gate /ˈtɪkɪt ɡeɪt/
-- 站台：platform /ˈplætfɔːm/
-- 公交站：bus station /bʌs ˈsteiʃn/ √
+- 站台：platform /ˈplætfɔːm/ [A2]
+- 公交站：bus station /bʌs ˈsteiʃn/ [A2] √
 - 候车室：waiting room /ˈweɪtɪŋ ruːm/
-- 旅馆：inn /ɪn/
-- 喷泉：fountain /ˈfaʊntən/ √
-- 度假村：resort /rɪˈzɔːt/
+- 旅馆：inn /ɪn/ [CET4]
+- 喷泉：fountain /ˈfaʊntən/ [B1] √
+- 度假村：resort /rɪˈzɔːt/ [B1]
 - 理发店：barber shop /ˈbɑːbə ʃɒp/, hair salon /heə ˈsælɒn/
 - 肉铺：butcher shop /ˈbʊtʃə ʃɒp/
 - 水果店：fruit shop /fruːt ʃɒp/
@@ -416,8 +415,8 @@
 - 动物园：zoo /zuː/ √
 - 电线杆：wire pole /ˈwaɪə pəʊl/
 - 雕像：statue /ˈstætʃuː/
-- 电梯：elevator /ˈelɪveɪtə/（美）√, lift /lɪft/（英）
-- 扶梯：escalator /ˈeskəleɪtə/
+- 电梯：elevator /ˈelɪveɪtə/（美）√, lift /lɪft/（英）[A2]
+- 扶梯：escalator /ˈeskəleɪtə/ [B2]
 #### 住宅：the house /ðə haʊs/ [A1]
 - 厕所：bathroom /ˈbɑːθruːm/
 - 餐厅：dining room /ˈdaɪnɪŋ ruːm/
@@ -1701,6 +1700,7 @@
 - 舰：ship /ʃɪp/ √
 - 潜水艇：submarine /ˌsʌbməˈriːn/ √
 #### 动词：verbs /vɜːbz/ [A2]
+- 针织：knit /nɪt/ [B1]
 - 广播：broadcast /ˈbrɔːdkɑːst/ [B2]
 - 射击：shoot /ʃuːt/
 - 保护：protect /prəˈtekt/
