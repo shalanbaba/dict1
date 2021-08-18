@@ -1700,7 +1700,7 @@
 - 舰：ship /ʃɪp/ √
 - 潜水艇：submarine /ˌsʌbməˈriːn/ √
 #### 动词：verbs /vɜːbz/ [A2]
-- 针织：knit /nɪt/ [B1]
+- 织：knit /nɪt/ [B1]
 - 广播：broadcast /ˈbrɔːdkɑːst/ [B2]
 - 射击：shoot /ʃuːt/
 - 保护：protect /prəˈtekt/
