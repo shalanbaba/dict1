@@ -66,9 +66,9 @@
 - 地址：address /əˈdres/ [A1]
 - 邮编：zip code /zɪp kəʊd/
  #### 人名：the name of a person /ðə neɪm ɒv ə ˈpɜːsn/
-- 名：first name /fɜːst neɪm/
+- 名：first name /fɜːst neɪm/ [A2]
 - 中间名：middle name /ˈmɪdl neɪm/
-- 姓：last name /ˈlɑːst neɪm/, family name /ˈfæməli neɪm/, surname /ˈsɜːneɪm/
+- 姓：last name /ˈlɑːst neɪm/, family name /ˈfæməli neɪm/, surname /ˈsɜːneɪm/ [A2]
 #### 性别：genders /ˈdʒendəz/, sexes /ˈseksɪz/ [B2]
 - 男：male /meɪl/  [B2]
 - 女：female /ˈfiːmeɪl/ [B2] √
