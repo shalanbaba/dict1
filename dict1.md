@@ -17,14 +17,14 @@
 - 字典：dictionary /ˈdɪkʃəneri/ [A1]
 - 照片：photo /ˈfəʊtəʊ/ [A1], photograph /ˈfəʊtəɡrɑːf/ [A2]
 - 图片：picture /ˈpɪktʃə/ [A1] √
-- 视频：video /ˈvɪdiəʊ/
-- 相册：album /ˈælbəm/
-- 语音：voice /vɔɪs/
-- 新闻：news /njuːz/
-- 报纸：newspaper /njuːz ˈpeɪpə/
-- 论文：paper /ˈpeɪpə/
-- 杂志：magazine /ˌmæɡəˈziːn/
-- 文章：article /ˈɑːtɪkl/
+- 视频：video /ˈvɪdiəʊ/ [A2]
+- 相册：album /ˈælbəm/ [A2]
+- 语音：voice /vɔɪs/ [B1]
+- 新闻：news /njuːz/ [A2]
+- 报纸：newspaper /njuːz ˈpeɪpə/ [A1]
+- 论文：paper /ˈpeɪpə/ [A1]
+- 杂志：magazine /ˌmæɡəˈziːn/ [A2]
+- 文章：article /ˈɑːtɪkl/ [B1]
 - 广告：advertisement /ˌædvəˈtaɪzmənt/
 - 期刊：journal /ˈdʒɜːnl/
 - 消息：messages /ˈmesɪdʒz/
@@ -32,7 +32,7 @@
   - 语音消息：voice message /vɔɪs ˈmesɪdʒz/
 - 传说：tale /teɪl/ √
 - 诗：poem /ˈpəʊɪm/ [B1]
-- 歌词：lyrics /ˈlɪrɪks/
+- 歌词：lyrics /ˈlɪrɪks/ [B2]
 - 书：book /bʊk/ [A1] √
 - 绘本：picture book /ˈpɪktʃə bʊk/ √
 - 日记：diary /ˈdaɪəri/ [A2]
@@ -48,7 +48,7 @@
 - 海报：poster /ˈpəʊstə/ √
 - 明信片：postcard /ˈpəʊstkɑːd/
 - 邮件：mail /meɪl/
-- 小票, 收据：receipt /rɪˈsiːt/
+- 小票, 收据：receipt /rɪˈsiːt/ [A2]
 - 账单：bill /bɪl/
 - 计划：plan /plæn/, program /ˈprəʊɡræm/
 - 源代码：source code /sɔːs kəʊd/
