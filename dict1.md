@@ -35,33 +35,34 @@
 - 歌词：lyrics /ˈlɪrɪks/ [B2]
 - 书：book /bʊk/ [A1] √
 - 绘本：picture book /ˈpɪktʃə bʊk/ √
+- 漫画：comic /ˈkɒmɪk/ [A2]
 - 日记：diary /ˈdaɪəri/ [A2]
 - 日志：journal /ˈdʒɜːnl/ [C2], log /lɔːɡ/ [CET4]
-- 网站：website /ˈwebsaɪt/
+- 网站：website /ˈwebsaɪt/ [A1]
 - 网址：uniform resource locator /ˈjuːnɪfɔːm rɪˈsɔːs ləʊˈkeɪtə/, URL /ˌjuː ɑː ˈel/
 - 二维码：quick response code /kwɪk rɪˈspɒns kəʊd/, QR code /kjuː ɑː kəʊd/
 - 条形码：bar code /bɑː kəʊd/ √
-- 指纹：fingerprint /ˈfɪŋɡəprɪnt/
-- 传单：leaflet /ˈliːflət/
-- 通知：notification /ˌnəʊtɪfɪˈkeɪʃn/
-- 声明：announcement /əˈnaʊnsmənt/
-- 海报：poster /ˈpəʊstə/ √
-- 明信片：postcard /ˈpəʊstkɑːd/
-- 邮件：mail /meɪl/
+- 指纹：fingerprint /ˈfɪŋɡəprɪnt/ [CET4]
+- 传单：leaflet /ˈliːflət/ [B2]
+- 通知：notification /ˌnəʊtɪfɪˈkeɪʃn/ [CET4]
+- 声明：announcement /əˈnaʊnsmənt/ [B1]
+- 海报：poster /ˈpəʊstə/ [A2] √
+- 明信片：postcard /ˈpəʊstkɑːd/ [A2]
+- 邮件：mail /meɪl/ [A2]
 - 小票, 收据：receipt /rɪˈsiːt/ [A2]
-- 账单：bill /bɪl/
-- 计划：plan /plæn/, program /ˈprəʊɡræm/
+- 账单：bill /bɪl/ [A2]
+- 计划：plan /plæn/ [A2], program（美）, programme（英） /ˈprəʊɡræm/ [B2]
 - 源代码：source code /sɔːs kəʊd/
-- 菜单：menu /ˈmenjuː/
-- 名字：name /neɪm/ √
-- 应用程序：app /æp/, application /ˌæplɪˈkeɪʃn/
-- 网络：network /ˈnetwɜːk/
+- 菜单：menu /ˈmenjuː/ [A2]
+- 名字：name /neɪm/ [A1] √
+- 应用程序：app /æp/, application /ˌæplɪˈkeɪʃn/ [B2]
+- 网络：network /ˈnetwɜːk/ [B2]
 - 搜索引擎：search engine /sɜːtʃ ˈendʒɪn/
-- 秘密：secret /ˈsiːkrət/
-- 记录：record /ˈrekɔːd/
+- 秘密：secret /ˈsiːkrət/ [B1]
+- 记录：record /ˈrekɔːd/ [B2]
 - 区号：area code /ˈeəriə kəʊd/
-- 票, 罚单：ticket /ˈtɪkɪt/ √
-- 地址：address /əˈdres/
+- 票, 罚单：ticket /ˈtɪkɪt/ [A1] √
+- 地址：address /əˈdres/ [A1]
 - 邮编：zip code /zɪp kəʊd/
  #### 人名：the name of a person /ðə neɪm ɒv ə ˈpɜːsn/
 - 名：first name /fɜːst neɪm/
