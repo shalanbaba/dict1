@@ -56,6 +56,7 @@
 - 菜单：menu /ˈmenjuː/ [A2]
 - 名字：name /neɪm/ [A1] √
 - 应用程序：app /æp/, application /ˌæplɪˈkeɪʃn/ [B2]
+- 数据：data /ˈdeɪtə/ [B2]
 - 网络：network /ˈnetwɜːk/ [B2]
 - 搜索引擎：search engine /sɜːtʃ ˈendʒɪn/
 - 秘密：secret /ˈsiːkrət/ [B1]
