@@ -87,9 +87,9 @@
 - 字母：letter /ˈletə/ [A2]
 - 单词：word /wɜːd/ [A1]
 - 拼写：spell /spel/ [A2]
-- 拼读：phonics /ˈfɒnɪks/
 - 句子：sentence /ˈsentəns/ [A1]
 - 名词：noun /naʊn/ [A2]
+- 拼读：phonics /ˈfɒnɪks/
 #### 符号：symbols /ˈsɪmblz/ [B2]
 - 标点符号：punctuation /ˌpʌŋktʃuˈeɪʃn/ [B1]
   - 破折号：dash /dæʃ/ [B2]
@@ -828,26 +828,26 @@
 - 带扣：buckle /ˈbʌkl/
 - 纽扣：button /ˈbʌtn/
 #### 动物：the animal /ði ˈænɪml/ [A1] √
-- 爬行动物：reptiles /ˈreptaɪlz/
-  - 蛇：snake /sneɪk/ √
-  - 乌龟：turtle /ˈtɜːtl/（水陆）, tortoise /ˈtɔːtəs/（陆）√
+- 爬行动物：reptiles /ˈreptaɪlz/ [C1]
+  - 蛇：snake /sneɪk/ [A2] √
+  - 乌龟：turtle /ˈtɜːtl/（水陆）, tortoise /ˈtɔːtəs/（陆）[GK] √
   - 海龟：sea turtle /siː ˈtɜːtl/
   - 变色龙：chameleon /kəˈmiːliən/
   - 火蜥蜴：salamander /ˈsæləmændə/ [ORT2] √
-  - 鳄鱼：crocodile /ˈkrɒkədaɪl/
-- 鸟：birds /bɜːdz/ √
+  - 鳄鱼： [B2] /ˈkrɒkədaɪl/ [B2]
+- 鸟：birds /bɜːdz/ [A1] √
   - 小鸟：birdie /ˈbɜːdi/ √
   - 鸵鸟：ostrich /ˈɒstrɪtʃ/
   - 小鸭：duckling /ˈdʌklɪŋ/
   - 鸽子：pigeon /ˈpɪdʒɪn/ √
-  - 鹅：goose /ɡuːs/
+  - 鹅：goose /ɡuːs/ [CET4]
   - 小鹅：gosling /ˈɡɒzlɪŋ/ √
   - 小蝌蚪：tadpole /ˈtædpəʊl/ √
-  - 猫头鹰：owl /aʊl/
+  - 猫头鹰：owl /aʊl/ [B2]
   - 小猫头鹰：owlet /ˈaʊlət/
   - 乌鸦：crow /krəʊ/
-  - 燕子：swallow /ˈswɒləʊ/
-  - 火鸡：turkey /ˈtɜːki/
+  - 燕子：swallow /ˈswɒləʊ/ [CET4]
+  - 火鸡：turkey /ˈtɜːki/ [B1]
   - 母鸡：hen /hen/ √
   - 公鸡：rooster /ˈruːstə/ √
   - 孔雀：peacock /ˈpiːkɒk/ √
@@ -855,93 +855,94 @@
   - 巨嘴鸟：toucan /ˈtuːkæn/
   - 猎鹰：falcon /ˈfælkən/ √
 - 蛤蜊：clam /klæm/
-- 昆虫：insects /ˈɪnsekts/ √
-  - 虫子：bug /bʌɡ/ √
-  - 苍蝇：fly /flaɪ/ √
+- 昆虫：insects /ˈɪnsekts/ [A2] √
+  - 虫子：bug /bʌɡ/ [B1] √
+  - 苍蝇：fly /flaɪ/ [B1] √
   - 萤火虫：firefly /ˈfaɪəflaɪ/ √
-  - 蚊子：mosquito /məˈskiːtəʊ/ √
-  - 蚂蚁：ant /ænt/ √
+  - 蚊子：mosquito /məˈskiːtəʊ/ [B1] √
+  - 蚂蚁：ant /ænt/ [B1] √
   - 蜻蜓：dragonfly /ˈdræɡənflaɪ/ √
   - 瓢虫：ladybug /leɪdɪbʌɡ/ √
   - 蜜蜂：honeybee /ˈhʌnibiː/ √
-  - 黄蜂：wasp /wɒsp/
+  - 黄蜂：wasp /wɒsp/ [B2]
   - 大黄蜂：bumblebee /ˈbʌmblbiː/
   - 飞蛾：moth /mɒθ/ √
-  - 蝴蝶：butterfly /ˈbʌtəflaɪ/ √
+  - 蝴蝶：butterfly /ˈbʌtəflaɪ/ [B1] √
   - 茧：cocoon /kəˈkuːn/ √
   - 碟蛹：chrysalis /ˈkrɪsəlɪs/
-  - 蟋蟀：cricket /ˈkrɪkɪt/
+  - 蟋蟀：cricket /ˈkrɪkɪt/ [C2]
   - 甲壳虫：beetle /ˈbiːtl/
-- 蜘蛛：spider /ˈspaɪdə/ √
+- 蜘蛛：spider /ˈspaɪdə/ [B1] √
 - 蜈蚣：centipede /ˈsentɪpiːd/
-- 哺乳动物：mammals /ˈmæmlz/ √
+- 哺乳动物：mammals /ˈmæmlz/ [C1] √
   - 瞪羚：gazelle /ɡəˈzel/（peppa pig）
-  - 斑马：zebra /ˈzebrə/
-  - 长颈鹿：giraffe /dʒəˈrɑːf/
-  - 大熊猫：panda /ˈpændə/
+  - 斑马：zebra /ˈzebrə/ [B2] √
+  - 长颈鹿：giraffe /dʒəˈrɑːf/ [B1] √
+  - 大熊猫：panda /ˈpændə/ [GK] √
   - 考拉：koala /kəʊˈɑːlə/
-  - 松鼠：squirrel /ˈskwɪrəl/
+  - 松鼠：squirrel /ˈskwɪrəl/ [GK] √
   - 树懒：sloth /sləʊθ/ √
-  - 老虎：tiger /ˈtaɪɡə/ √
+  - 老虎：tiger /ˈtaɪɡə/ [B1] √
   - 海狮：sea lion /siː ˈlaɪən/
-  - 海豹：seal /siːl/ √
+  - 海豹：seal /siːl/ [B2] √
   - 海象：walrus /ˈwɔːlrəs/
-  - 鲸鱼：whale /weɪl/ √
+  - 鲸鱼：whale /weɪl/ [B1] √
   - 臭鼬：skunk /skʌŋk/ √
-  - 大象：elephant /ˈelɪfənt/ √
-  - 骆驼：camel /ˈkæml/ √
-  - 狐狸：fox /fɒks/ √
-  - 兔子：rabbit /ˈræbɪt/ √
+  - 大象：elephant /ˈelɪfənt/ [A2] √
+  - 骆驼：camel /ˈkæml/ [B1] √
+  - 狐狸：fox /fɒks/ [B2] √
+  - 兔子：rabbit /ˈræbɪt/ [A2] √
   - 小兔子：bunny /ˈbʌni/ √
-  - 猫：cat /kæt/ √
-  - 小猫：kitten /ˈkɪtn/ √
+  - 猫：cat /kæt/ [A1] √
+  - 小猫：kitten /ˈkɪtn/ [B1] √
   - 黑豹：panther /ˈpænθə/
-  - 狗：dog /dɒɡ/ √
-  - 小狗：puppy /ˈpʌpi/ √, piglet /ˈpɪɡlət/
-  - 猪：pig /pɪɡ/ √
+  - 狗：dog /dɒɡ/ [A1] √
+  - 小狗：puppy /ˈpʌpi/ [B1] √
+  - 猪：pig /pɪɡ/ [A1] √
   - 小猪：piggy /ˈpɪɡi/ √
   - 小鸡：chick /tʃɪk/ √
-  - 小羊：lamb /læm/ √
-  - 小马：foal /fəʊl/, pony /ˈpəʊni/ √
-  - 小兽：cub /kʌb/（凶猛）, calf /kɑːf/（温顺）
+  - 小羊：lamb /læm/ [B1] √
+  - 小马：foal /fəʊl/, pony /ˈpəʊni/ [C1] √
+  - 小牛：calf /kɑːf/ [B1]
+  - 幼崽：cub /kʌb/（凶猛）, calf /kɑːf/（温顺）
   - 小鹿：fawn /fɔːn/
-  - 袋鼠：kangaroo /ˌkæŋɡəˈruː/
+  - 袋鼠：kangaroo /ˌkæŋɡəˈruː/ [B1]
   - 小袋鼠：joey /ˈdʒəʊi/
-  - 驴：donkey /ˈdɒŋki/
+  - 驴：donkey /ˈdɒŋki/ [B1]
   - 牧羊犬：sheepdog /ˈʃi:pdɒg/
-  - 黑猩猩：chimpanzee ˌ/tʃɪmpænˈziː/
+  - 黑猩猩：chimpanzee /ˌtʃɪmpænˈziː/
   - 大猩猩：gorilla /ɡəˈrɪlə/ √
   - 猩猩：orangutan /əˈræŋətæn/
   - 犀牛：rhino /ˈraɪnəʊ/, rhinoceros /raɪˈnɒsərəs/
   - 河狸：beaver /ˈbiːvə/
-  - 狮子：lion ˈlaɪən √
-  - 熊：bear /beə/ √
-- 恐龙：dinosaur /ˈdaɪnəsɔː/ √
-- 鱼：fish /fɪʃ/ √
+  - 狮子：lion ˈlaɪən [A2] √
+  - 熊：bear /beə/ [A2] √
+- 恐龙：dinosaur /ˈdaɪnəsɔː/ [A2] √
+- 鱼：fish /fɪʃ/ [A1] √
   - 金鱼：goldfish /ˈɡəʊldfɪʃ/ √
-  - 鲨鱼：shark /ʃɑːk/ √
-  - 海豚：dolphin /ˈdɒlfɪn/ √
+  - 鲨鱼：shark /ʃɑːk/ [B1] √
+  - 海豚：dolphin /ˈdɒlfɪn/ [B1] √
   - 三文鱼：salmon /ˈsæmən/ [B1]
   - 银鳕鱼（小鳞犬牙南极鱼）：patagonian toothfish /pætəˈɡəunjən tuːθfɪʃ/
   - 热带鱼：tropical fish /ˈtrɒpɪkl fɪʃ/
-- 蟹：crab /kræb/ √
+- 蟹：crab /kræb/ [B2] √
 - 寄居蟹：hermit crab /ˈhɜːmɪt kræb/
-- 虾：shrimp /ʃrɪmp/ √
+- 虾：shrimp /ʃrɪmp/ [B1] √
 - 龙虾：lobster /ˈlɒbstə/
 - 小龙虾：crawfish /ˈkrɔːfɪʃ/
 - 水母：jellyfish /ˈdʒelifɪʃ/
-- 蠕虫：worms /wɜːmz/ √
+- 蠕虫：worms /wɜːmz/ [B2] √
   - 蚯蚓：earthworm /ˈɜːθwɜːm/
   - 鼻涕虫：slug /slʌɡ/
 - 毛毛虫：caterpillar /ˈkætəpɪlə/ √
-- 蜗牛：snail /sneɪl/ √
-- 宠物：pet /pet/ √
-- 珊瑚：coral /ˈkɒrəl/
-- 怪兽：monster /ˈmɒnstə/ √
-- 毛皮：fur /fɜː/
-- 掌：paw /pɔː/
-- 大象鼻子：trunk /trʌŋk/ √
-- 爪子：claw /klɔː/
+- 蜗牛：snail /sneɪl/ [CET6] √
+- 宠物：pet /pet/ [A1] √
+- 珊瑚：coral /ˈkɒrəl/ [C2]
+- 怪兽：monster /ˈmɒnstə/ [B1] √
+- 毛皮：fur /fɜː/ [B1]
+- 掌：paw /pɔː/ [B2]
+- 大象鼻子：trunk /trʌŋk/ [GK] √
+- 爪子：claw /klɔː/ [GK]
 #### 植物：the plant /ðə plænt/ [A1] √
 - 花：flowers /ˈflaʊəz/ √
   - 樱花：sakura /sakurə/
@@ -1153,7 +1154,7 @@
 - 腿：leg /leɡ/
 - 手臂：arm /ɑːm/
 - 大腿：thigh /θaɪ/
-- 小腿：calf /kɑːf/
+- 小腿：calf /kɑːf/ [C2]
 - 手掌：palm /pɑːm/
 - 手腕：wrist /rɪst/
 - 嘴唇：lip /lɪp/
