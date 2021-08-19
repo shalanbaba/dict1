@@ -68,7 +68,7 @@
  #### 人名：the name of a person /ðə neɪm ɒv ə ˈpɜːsn/
 - 名：first name /fɜːst neɪm/ [A2]
 - 中间名：middle name /ˈmɪdl neɪm/
-- 姓：last name /ˈlɑːst neɪm/, family name /ˈfæməli neɪm/, surname /ˈsɜːneɪm/ [A2]
+- 姓：last name /ˈlɑːst neɪm/ [A2], family name /ˈfæməli neɪm/, surname /ˈsɜːneɪm/ [A2]
 #### 性别：genders /ˈdʒendəz/, sexes /ˈseksɪz/ [B2]
 - 男：male /meɪl/  [B2]
 - 女：female /ˈfiːmeɪl/ [B2] √
@@ -93,22 +93,22 @@
 #### 符号：symbols /ˈsɪmblz/ [B2]
 - 标点符号：punctuation /ˌpʌŋktʃuˈeɪʃn/ [B1]
   - 破折号：dash /dæʃ/ [B2]
-  - 句号：full stop /fʊl stɒp/（英）[B1], period /ˈpɪəriəd/（美）[CET4]
+  - 句号：full stop /fʊl stɒp/（英）[B1], period /ˈpɪəriəd/（美）[B1]
   - 括号：brackets /ˈbrækɪts/ [B2]
-  - 引号：quotation marks /kwəʊˈteɪʃn mɑːks/
-  - 问号：question mark /ˈkwestʃən mɑːk/
-  - 逗号：comma /ˈkɒmə/
-  - 冒号：colon /ˈkəʊlən/
-- 井号：pound /paʊnd/
-- 星号：star /stɑː/
-- 感叹号：exclamation mark /ˌekskləˈmeɪʃn mɑːk/
-- 省略号：ellipsis /ɪˈlɪpsɪs/
-- 分号：semicolon /ˌsemiˈkəʊlən/
-- 连字符：hyphen /ˈhaɪfn/
-- 撇号：apostrophe /əˈpɒstrəfi/
-- 叉：cross /krɒs/
-- 勾：tick /tɪk/
-- 下划线：underline /ˌʌndəˈlaɪn/
+  - 引号：quotation marks /kwəʊˈteɪʃn mɑːks/ [B2]
+  - 问号：question mark /ˈkwestʃən mɑːk/ [B1]
+  - 逗号：comma /ˈkɒmə/ [B1]
+  - 冒号：colon /ˈkəʊlən/ [B2]
+  - 感叹号：exclamation mark /ˌekskləˈmeɪʃn mɑːk/ [B2]
+  - 分号：semicolon /ˌsemiˈkəʊlən/ [B2]
+  - 撇号：apostrophe /əˈpɒstrəfi/ [B2]
+  - 连字符：hyphen /ˈhaɪfn/ [B2]
+  - 省略号：ellipsis /ɪˈlɪpsɪs/
+- 井号：pound /paʊnd/ [GK]
+- 星号：star /stɑː/ [A2]
+- 叉：cross /krɒs/ [A1]
+- 勾：tick /tɪk/ [B1]
+- 下划线：underline /ˌʌndəˈlaɪn/ [B1]
 #### 品牌：brands /brændz/ [B2]
 - 宜家：IKEA /ˌaɪˈkiə/
 - 乐高：LEGO /ˈleɡəu/ √
@@ -418,7 +418,7 @@
 - 动物园：zoo /zuː/ √
 - 电线杆：wire pole /ˈwaɪə pəʊl/
 - 雕像：statue /ˈstætʃuː/
-- 电梯：elevator /ˈelɪveɪtə/（美）√, lift /lɪft/（英）[A2]
+- 电梯：elevator /ˈelɪveɪtə/（美）[A2] √, lift /lɪft/（英）[A2]
 - 扶梯：escalator /ˈeskəleɪtə/ [B2]
 #### 住宅：the house /ðə haʊs/ [A1]
 - 厕所：bathroom /ˈbɑːθruːm/
@@ -1182,7 +1182,7 @@
 - 困：sleepy /ˈsliːpi/
 - 疲倦：tired /ˈtaɪəd/
 - 生气：angry /ˈæŋɡri/ √
-#### 数学：maths /mæθs/（英）[A2], math /mæθ/（美）, mathematics /ˌmæθəˈmætɪks/ [KET]
+#### 数学：maths /mæθs/（英）[A2], math /mæθ/（美）[A2], mathematics /ˌmæθəˈmætɪks/ [KET]
 - 数字：numbers /ˈnʌmbəz/
   - 序数：ordinal numbers /ˈɔːdɪnl ˈnʌmbəz/
   - 基数：cardinal numbers /ˈkɑːdɪnl ˈnʌmbəz/
