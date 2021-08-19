@@ -83,18 +83,18 @@
 - 日语：Japanese /ˌdʒæpəˈniːz/
 - 韩语：Korean /kəˈriən/
 #### 英语：English /ˈɪŋɡlɪʃ/ √
-- 字母表：alphabet /ˈælfəbet/
-- 字母：letter /ˈletə/
-- 单词：word /wɜːd/
-- 拼写：spell /spel/
+- 字母表：alphabet /ˈælfəbet/ [B1]
+- 字母：letter /ˈletə/ [A2]
+- 单词：word /wɜːd/ [A1]
+- 拼写：spell /spel/ [A2]
 - 拼读：phonics /ˈfɒnɪks/
-- 句子：sentence /ˈsentəns/
-- 名词：noun /naʊn/
+- 句子：sentence /ˈsentəns/ [A1]
+- 名词：noun /naʊn/ [A2]
 #### 符号：symbols /ˈsɪmblz/ [B2]
-- 标点符号：punctuation /ˌpʌŋktʃuˈeɪʃn/
-  - 破折号：dash /dæʃ/
-  - 句号：full stop /fʊl stɒp/（英）, period /ˈpɪəriəd/（美）
-  - 括号：brackets /ˈbrækɪts/
+- 标点符号：punctuation /ˌpʌŋktʃuˈeɪʃn/ [B1]
+  - 破折号：dash /dæʃ/ [B2]
+  - 句号：full stop /fʊl stɒp/（英）[B1], period /ˈpɪəriəd/（美）[CET4]
+  - 括号：brackets /ˈbrækɪts/ [B2]
   - 引号：quotation marks /kwəʊˈteɪʃn mɑːks/
   - 问号：question mark /ˈkwestʃən mɑːk/
   - 逗号：comma /ˈkɒmə/
@@ -160,11 +160,11 @@
   - 南极洲：Antarctica /ænˈtɑːktɪkə/
 - 国家：countries /ˈkʌntriz/
   - 美国：United States /juˈnaɪtɪd steɪts/
-  - 中国：China /ˈtʃaɪnə/
-  - 日本：Japan /dʒəˈpæn/
-  - 韩国：Korea /kəˈriə/
-  - 泰国：Thailand /ˈtaɪlænd/
-  - 澳大利亚：Australia /ɒˈstreɪliə/ √
+  - 中国：China /ˈtʃaɪnə/ [CET4]
+  - 日本：Japan /dʒəˈpæn/ [GK]
+  - 韩国：South Korea /kəˈriə/ [GK]
+  - 泰国：Thailand /ˈtaɪlænd/ [GK]
+  - 澳大利亚：Australia /ɒˈstreɪliə/ [GK] √
 - 州（美）：states /steɪts/
   - 加利福尼亚：California /ˌkæləˈfɔːniə/
 - 城市：cities /ˈsɪtiz/ √
