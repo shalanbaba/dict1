@@ -851,7 +851,7 @@
   - 母鸡：hen /hen/ √
   - 公鸡：rooster /ˈruːstə/ √
   - 孔雀：peacock /ˈpiːkɒk/ √
-  - 海鸥：sea gull /siː ɡʌl/
+  - 海鸥：seagull /siːɡʌl/ [GK]
   - 巨嘴鸟：toucan /ˈtuːkæn/
   - 猎鹰：falcon /ˈfælkən/ √
 - 蛤蜊：clam /klæm/
