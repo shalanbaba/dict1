@@ -875,7 +875,7 @@
 - 蜘蛛：spider /ˈspaɪdə/ [B1] √
 - 蜈蚣：centipede /ˈsentɪpiːd/
 - 哺乳动物：mammals /ˈmæmlz/ [C1] √
-  - 瞪羚：gazelle /ɡəˈzel/（peppa pig）
+  - 瞪羚：gazelle /ɡəˈzel/
   - 斑马：zebra /ˈzebrə/ [B2] √
   - 长颈鹿：giraffe /dʒəˈrɑːf/ [B1] √
   - 大熊猫：panda /ˈpændə/ [GK] √
