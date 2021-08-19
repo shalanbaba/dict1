@@ -929,7 +929,7 @@
 - 寄居蟹：hermit crab /ˈhɜːmɪt kræb/
 - 虾：shrimp /ʃrɪmp/ [B1] √
 - 龙虾：lobster /ˈlɒbstə/
-- 小龙虾：crawfish /ˈkrɔːfɪʃ/
+- 小龙虾：crayfish /ˈkreɪfɪʃ/, crawfish /ˈkrɔːfɪʃ/
 - 水母：jellyfish /ˈdʒelifɪʃ/
 - 蠕虫：worms /wɜːmz/ [B2] √
   - 蚯蚓：earthworm /ˈɜːθwɜːm/
@@ -963,8 +963,8 @@
   - 橡果：acorn /ˈeɪkɔːn/
 #### 微生物：the microorganism /ðə ˌmaɪkrəʊˈɔːɡənɪzəm/
 - 真菌：fungus /ˈfʌŋɡəs/
-- 细菌：bacteria /bækˈtɪəriə/
-- 病毒：virus /ˈvaɪrəs/
+- 细菌：bacteria /bækˈtɪəriə/ [C1]
+- 病毒：virus /ˈvaɪrəs/ [B2]
 #### 人：people /ˈpiːpl/ [A1]
 - 婴儿：baby /ˈbeɪbi/, infant /ˈɪnfənt/
 - 幼童：toddler /ˈtɒdlə/
