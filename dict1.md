@@ -966,11 +966,11 @@
 - 细菌：bacteria /bækˈtɪəriə/ [C1]
 - 病毒：virus /ˈvaɪrəs/ [B2]
 #### 人：people /ˈpiːpl/ [A1]
-- 婴儿：baby /ˈbeɪbi/ [A1], infant /ˈɪnfənt/ [C2]
+- 婴儿：baby /ˈbeɪbi/ [A1] √, infant /ˈɪnfənt/ [C2]
 - 幼童：toddler /ˈtɒdlə/ [C2]
 - 儿童：kid /kɪd/ [A2]
 - 孩子：child /tʃaɪld/ [A1]
-- 男人：man /mæn/ [A1]
+- 男人：man /mæn/ [A1] √
 - 女人：woman /ˈwʊmən/ [A1]
 - 成年人：adult /ˈædʌlt/ [A1]
 - 男孩：boy /bɔɪ/ [A1] √
