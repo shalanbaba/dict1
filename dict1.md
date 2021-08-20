@@ -944,22 +944,22 @@
 - 大象鼻子：trunk /trʌŋk/ [GK] √
 - 爪子：claw /klɔː/ [GK]
 #### 植物：the plant /ðə plænt/ [A1] √
-- 花：flowers /ˈflaʊəz/ √
+- 花：flowers /ˈflaʊəz/ [A1] √
   - 樱花：sakura /sakurə/
 - 花苞：bud /bʌd/
 - 花瓣：petal /ˈpetl/
-- 树：/triːz/ √
+- 树：trees /triːz/ [A1] √
   - 橡树：oak tree /əʊk triː/
-- 草：grass /ɡrɑːs/ √
-- 藤：vine /vaɪn/
+- 草：grass /ɡrɑːs/ [A1] √
+- 藤：vine /vaɪn/ [C1]
 - 树干：tree trunk /triː trʌŋk/
-- 茎：stem /stem/
+- 茎：stem /stem/ [CET4]
 - 芽：sprout /spraʊt/
-- 根：root /ruːt/ √
-- 叶：leaf /liːf/ √
-- 树枝：branch /bræntʃ/, twig /twɪɡ/（小）
-- 灌木：bush /bʊʃ/
-- 种子：seeds /siːdz/
+- 根：root /ruːt/ [B2] √
+- 叶：leaf /liːf/ [B1] √
+- 树枝：branch /bræntʃ/ [B1], twig /twɪɡ/（小）
+- 灌木：bush /bʊʃ/ [B2]
+- 种子：seeds /siːdz/ [B2]
   - 橡果：acorn /ˈeɪkɔːn/
 #### 微生物：the microorganism /ðə ˌmaɪkrəʊˈɔːɡənɪzəm/
 - 真菌：fungus /ˈfʌŋɡəs/
