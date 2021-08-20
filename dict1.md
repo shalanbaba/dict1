@@ -966,25 +966,22 @@
 - 细菌：bacteria /bækˈtɪəriə/ [C1]
 - 病毒：virus /ˈvaɪrəs/ [B2]
 #### 人：people /ˈpiːpl/ [A1]
-- 婴儿：baby /ˈbeɪbi/, infant /ˈɪnfənt/
-- 幼童：toddler /ˈtɒdlə/
-- 儿童：kid /kɪd/
-- 孩子：child /tʃaɪld/
-- 男人：man /mæn/
-- 女人：woman /ˈwʊmən/
-- 成年人：adult /ˈædʌlt/
-- 男孩：boy /bɔɪ/ √
-- 女孩：girl /ɡɜːl/ √
-- 年轻人：young man /jʌŋ mæn/
-- 少年：teenager /ˈtiːneɪdʒə/
-- 老人：old person /əʊld ˈpɜːsn/
-- 孕妇：pregnant woman /ˈpreɡnənt ˈwʊmən/
-- 病人：patient /ˈpeɪʃnt/
-- 绅士：gentleman /ˈdʒentlmən/
-- 女士：lady /ˈleɪdi/
-- 行人：pedestrian /pəˈdestriən/
-- 观众：audience /ˈɔːdiəns/ √
-- 学生：student /ˈstjuːdnt/
+- 婴儿：baby /ˈbeɪbi/ [A1], infant /ˈɪnfənt/ [C2]
+- 幼童：toddler /ˈtɒdlə/ [C2]
+- 儿童：kid /kɪd/ [A2]
+- 孩子：child /tʃaɪld/ [A1]
+- 男人：man /mæn/ [A1]
+- 女人：woman /ˈwʊmən/ [A1]
+- 成年人：adult /ˈædʌlt/ [A1]
+- 男孩：boy /bɔɪ/ [A1] √
+- 女孩：girl [A1] /ɡɜːl/ √
+- 少年：teenager /ˈtiːneɪdʒə/ [A2]
+- 病人：patient /ˈpeɪʃnt/ [B1]
+- 绅士：gentleman /ˈdʒentlmən/ [B2]
+- 女士：lady /ˈleɪdi/ [B1]
+- 行人：pedestrian /pəˈdestriən/ [B1]
+- 观众：audience /ˈɔːdiəns/ [B1] √
+- 学生：student /ˈstjuːdnt/ [A1]
 - 游客：tourist /ˈtʊərɪst/ [A2]
 - 访客：visitor /ˈvɪzɪtə/ [A2]
 - 囚犯：prisoner /ˈprɪznə/ [B1]
@@ -1787,6 +1784,8 @@
 - 狼吞虎咽：gobble /ˈɡɒbl/
 - 尖叫：squeal /skwiːl/
 #### 形容词：adjectives /ˈædʒɪktɪvz/ [A2]
+- 怀孕的：pregnant /ˈpreɡnənt/ [B1]
+- 年轻的：young /jʌŋ/ [A1]
 - 紧急的：emergency /ɪˈmɜːdʒənsi/
 - 正确的：correct /kəˈrekt/
 - 聪明的：smart /smɑːt/
@@ -1805,7 +1804,7 @@
 - 少的：little /ˈlɪtl/
 - 更少的：less /les/
 - 最少的：least /liːst/
-- 旧的：old /əʊld/
+- 老的, 旧的：old /əʊld/
 - 新的：new /njuː/
 - 便宜的：cheap /tʃiːp/
 - 昂贵的：expensive /ɪkˈspensɪv/
