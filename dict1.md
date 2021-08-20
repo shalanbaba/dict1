@@ -145,12 +145,12 @@
   - 地球：Earth /ɜːθ/ [B1] √
 - 银河系：Milky Way Galaxy /ˈmɪlki weɪ ˈɡæləksi/
 #### 世界：the world /ðə wɜːld/ [A1]
-- 海洋：oceans /ˈəʊʃnz/
+- 海洋：oceans /ˈəʊʃnz/ [B1]
   - 太平洋：Pacific Ocean /pəˈsɪfɪk ˈəʊʃn/
   - 大西洋：Atlantic Ocean /ətˈlæntɪk ˈəʊʃn/
   - 北冰洋：Arctic Ocean /ˈɑːktɪk ˈəʊʃn/
   - 印度洋：Indian Ocean /ˈɪndiən ˈəʊʃn/
-- 洲：continents /ˈkɒntɪnənts/
+- 洲：continents /ˈkɒntɪnənts/ [B1]
   - 亚洲：Asia /ˈeɪʒə/
   - 欧洲：Europe /ˈjʊərəp/
   - 非洲：Africa /ˈæfrɪkə/
@@ -158,16 +158,16 @@
   - 北美洲：North America /nɔːθ əˈmerɪkə/
   - 澳洲：Australia /ɒˈstreɪliə/
   - 南极洲：Antarctica /ænˈtɑːktɪkə/
-- 国家：countries /ˈkʌntriz/
+- 国家：countries /ˈkʌntriz/ [A1]
   - 美国：United States /juˈnaɪtɪd steɪts/
   - 中国：China /ˈtʃaɪnə/ [CET4]
   - 日本：Japan /dʒəˈpæn/ [GK]
   - 韩国：South Korea /kəˈriə/ [GK]
   - 泰国：Thailand /ˈtaɪlænd/ [GK]
   - 澳大利亚：Australia /ɒˈstreɪliə/ [GK] √
-- 州（美）：states /steɪts/
+- 州（美）：states /steɪts/ [B1]
   - 加利福尼亚：California /ˌkæləˈfɔːniə/
-- 城市：cities /ˈsɪtiz/ √
+- 城市：cities /ˈsɪtiz/ [A1] √
   - 圣地亚哥：San Diego /sæn diˈeɪɡo/
   - 巴黎：Paris /ˈpærɪs/
   - 纽约：New York /njuː jɔːk/
@@ -177,7 +177,7 @@
   - 华盛顿：Washington /ˈwɒʃɪŋtən/
   - 洛杉矶：Los Angeles /lɔ:s ˈeɪndʒələz/
   - 旧金山：San Francisco /sæn frænˈsɪskəʊ/
-- 地点：places /ˈpleɪsɪz/
+- 地点：places /ˈpleɪsɪz/ [A1]
   - 五角大楼：Pentagon /ˈpentəɡən/
   - 白宫：White House /waɪt haʊs/
   - 故宫：Imperial Palace /ɪmˈpɪəriəl ˈpæləs/
@@ -1601,6 +1601,7 @@
 - 产品：product /ˈprɒdʌkt/
 - 奖品：prize /praɪz/
 - 包裹：package /ˈpækɪdʒ/
+- 注意：attention /əˈtenʃn/ [B1]
 - 对不起：sorry /ˈsɒri/ √
 - 感谢：thank /θæŋk/ √
 - 你好：hello /həˈləʊ/ √
@@ -1804,8 +1805,8 @@
 - 少的：little /ˈlɪtl/
 - 更少的：less /les/
 - 最少的：least /liːst/
-- 老的, 旧的：old /əʊld/
-- 新的：new /njuː/
+- 老的, 旧的：old /əʊld/ [A1]
+- 新的：new /njuː/ [A1]
 - 便宜的：cheap /tʃiːp/
 - 昂贵的：expensive /ɪkˈspensɪv/
 - 好的：good /ɡʊd/ √
