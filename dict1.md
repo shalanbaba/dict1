@@ -952,7 +952,7 @@
   - 橡树：oak tree /əʊk triː/
 - 草：grass /ɡrɑːs/ [A1] √
 - 藤：vine /vaɪn/ [C1]
-- 树干：tree trunk /triː trʌŋk/
+- 树干：trunk /trʌŋk/ [B2]
 - 茎：stem /stem/ [CET4]
 - 芽：sprout /spraʊt/
 - 根：root /ruːt/ [B2] √
