@@ -818,9 +818,9 @@
 - 太阳眼镜：sunglasses /ˈsʌnɡlɑːsɪz/
 - 游泳眼镜：goggles /ˈɡɑːɡlz/
 #### 首饰：jewellery（英）, jewelry（美）/ˈdʒuːəlri/ [A2]
-- 戒指：ring /rɪŋ/
-- 项链：necklace /ˈnekləs/
-- 耳环：earrings /iəriŋz/
+- 戒指：ring /rɪŋ/ [A2]
+- 项链：necklace /ˈnekləs/ [A2]
+- 耳环：earrings /iəriŋz/ [A2]
 #### 缝纫：sewing /ˈsəʊɪŋ/ [C1]
 - 针：needle /ˈniːdl/
 - 线：thread /θred/
