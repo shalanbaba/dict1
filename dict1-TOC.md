@@ -106,6 +106,7 @@
 #### 演出：the performance, the show
 #### 典礼：ceremonies
 #### 故事：the story
+#### 感叹：exclamations
 
 #### 武装部队：armed forces
 #### 军事活动：military actions
@@ -115,4 +116,3 @@
 #### 形容词：adjectives
 #### 副词：adverbs
 #### 代词：pronouns
-#### 感叹词：exclamations
