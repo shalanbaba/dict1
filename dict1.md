@@ -1670,15 +1670,15 @@
 - 神：god /ɡɒd/
 - 变形金刚：transformer /trænsˈfɔːmə/
 #### 感叹：exclamations /ˌekskləˈmeɪʃnz/
-- 早上好：good morning /ˌɡʊd ˈmɔːnɪŋ/ [A1]
-- 下午好：good afternoon /ˌɡʊd ɑːftəˈnuːn/ [A1]
-- 晚上好：good evening /ˌɡʊd ˈiːvnɪŋ/ [A1]
+- 早上好：good morning /ˌɡʊd ˈmɔːnɪŋ/ [A1] √
+- 下午好：good afternoon /ˌɡʊd ɑːftəˈnuːn/ [A1] √
+- 晚上好：good evening /ˌɡʊd ˈiːvnɪŋ/ [A1] √
 - 晚安：good night /ˌɡʊd ˈnaɪt/ [A1] √
 - 你好：hello /həˈləʊ/ [A1] √
 - 再见：bye /baɪ/ [A1] √
 - 好极了：hooray /huˈreɪ/ √
-- 嗨：hi /haɪ/ [A1], hey /heɪ/ [A2]
-- 好：OK /əʊˈkeɪ/ [A1]
+- 嗨：hi /haɪ/ [A1] √, hey /heɪ/ [A2] √
+- 好：OK /əʊˈkeɪ/ [A1] √
 #### 武装部队：armed forces /ɑːmd ˈfɔːsɪz/
 - 海军：navy /ˈneɪvi/
 - 陆军：army /ˈɑːmi/
