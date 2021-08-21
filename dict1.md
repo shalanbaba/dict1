@@ -987,27 +987,27 @@
 - 访客：visitor /ˈvɪzɪtə/ [A2]
 - 囚犯：prisoner /ˈprɪznə/ [B1]
 #### 职业：jobs /dʒobs/ [A1]
-- 邮递员：postman /ˈpəʊstmən/
+- 邮递员：postman /ˈpəʊstmən/ [B1]
 - 宇航员：astronaut /ˈæstrənɔːt/ √, spaceman /ˈspeɪsmæn/
-- 消防员：firefighter /ˈfaɪəfaɪtə/ √
-- 医生：doctor /ˈdɒktə/ √
-- 兽医：veterinarian /ˌvetərɪˈneəriən/, vet /vet/（缩）√
-- 农民：farmer /ˈfɑːmə/ √
-- 军人：soldier /ˈsəʊldʒə/ √
+- 消防员：firefighter /ˈfaɪəfaɪtə/ [B1] √
+- 医生：doctor /ˈdɒktə/ [A1] √
+- 兽医：veterinarian /ˌvetərɪˈneəriən/, vet /vet/（缩）[B1] √
+- 农民：farmer /ˈfɑːmə/ [A2] √
+- 军人：soldier /ˈsəʊldʒə/ [B1] √
 - 水手：sailor /ˈseɪlə/ [B1]
 - 海军陆战队员：marine /məˈriːn/
 - 狙击手：sniper /ˈsnaɪpə/
-- 警察：policeman /pəˈliːsmən/ √, policewoman /pəˈliːswʊmən/, police officer /pəˈliːs ˈɒfɪsə/ √
-- 飞行员：pilot /ˈpaɪlət/ √
-- 老师：teacher /ˈtiːtʃə/ √
-- 护士：nurse /nɜːs/ √
-- 服务员：waiter /ˈweɪtə/（男）, waitress /ˈweɪtrəs/（女）
-- 牙医：dentist /ˈdentɪst/ √
-- 科学家：scientist /ˈsaɪəntɪst/
-- 歌手：singer /ˈsɪŋə/ √
-- 理发师：barber /ˈbɑːbə/, hairdresser /ˈheədresə/
+- 警察：policeman /pəˈliːsmən/ [A2] √, policewoman /pəˈliːswʊmən/ [A2], police officer /pəˈliːs ˈɒfɪsə/ [A2] √
+- 飞行员：pilot /ˈpaɪlət/ [A2] √
+- 老师：teacher /ˈtiːtʃə/ [A1] √
+- 护士：nurse /nɜːs/ [A2] √
+- 服务员：waiter /ˈweɪtə/（男）[A1], waitress /ˈweɪtrəs/（女）[A1]
+- 牙医：dentist /ˈdentɪst/ [A2] √
+- 科学家：scientist /ˈsaɪəntɪst/ [B1]
+- 歌手：singer /ˈsɪŋə/ [A2] √
+- 理发师：barber /ˈbɑːbə/ [B1], hairdresser /ˈheədresə/ [B1]
 - 演员：actor /ˈæktə/（男）, actress /ˈæktrəs/（女）
-- 喜剧演员：comedian /kəˈmiːdiən/
+- 喜剧演员：comedian /kəˈmiːdiən/ [B2]
 - 特技演员：stuntman /ˈstʌntmæn/
 - 作家：writer /ˈraɪtə/
 - 舞者：dancer /ˈdɑːnsə/ √
