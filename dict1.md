@@ -1647,6 +1647,7 @@
 #### 演出：the performance /ðə pəˈfɔːməns/ [B1] √, the show /ðə ʃəʊ/ [A2] √
 - 座位：seat /siːt/ √
 - 戏剧, 话剧：drama /ˈdrɑːmə/
+- 歌剧：opera /ˈɒprə/ [A2]
 - 演讲：speech /spiːtʃ/
 - 舞台：stage /steɪdʒ/ √
 - 音乐会：concert /ˈkɒnsət/
