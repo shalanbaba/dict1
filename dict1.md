@@ -1646,9 +1646,9 @@
 - 篝火：campfire /ˈkæmpfaɪə/
 #### 演出：the performance /ðə pəˈfɔːməns/ [B1] √, the show /ðə ʃəʊ/ [A2] √
 - 座位：seat /siːt/ √
-- 戏剧, 话剧：drama /ˈdrɑːmə/
+- 戏剧, 话剧：drama /ˈdrɑːmə/ [B1]
 - 歌剧：opera /ˈɒprə/ [A2]
-- 演讲：speech /spiːtʃ/
+- 演讲：speech /spiːtʃ/ [B2]
 - 舞台：stage /steɪdʒ/ √
 - 音乐会：concert /ˈkɒnsət/
 - 音乐：music /ˈmjuːzɪk/ √
