@@ -1862,8 +1862,8 @@
 - 无论哪个：whichever /wɪtʃˈevə/
 - 无论谁：whoever /huːˈevə/
 #### 感叹词：exclamations /ˌekskləˈmeɪʃnz/
-- 好极了：hooray /huˈreɪ/ √
-- 好：OK /əʊˈkeɪ/ [A1] √
-- 再见：bye /baɪ/ [A1] √
 - 你好：hello /həˈləʊ/ [A1] √
 - 嗨：hi /haɪ/ [A1] √, hey /heɪ/ [A2] √
+- 再见：bye /baɪ/ [A1] √
+- 好极了：hooray /huˈreɪ/ √
+- 好：OK /əʊˈkeɪ/ [A1] √
