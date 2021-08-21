@@ -288,12 +288,12 @@
 - 洪水：flood /flʌd/ [B1] √
 - 台风：typhoon /taɪˈfuːn/
 #### 水：water /ˈwɔːtə/ [A1]
-- 泉水：spring /sprɪŋ/
-- 淡水：freshwater /ˈfreʃwɔːtə/
-- 咸水：saltwater /ˈsɔːltwɔːtə/
-- 矿泉水：mineral water /ˈmɪnərəl ˈwɔːtə/ 
+- 泉水：spring /sprɪŋ/ [C1]
+- 淡水：fresh water /ˈfreʃwɔːtə/ [C2]
+- 咸水：salt water /ˈsɔːltwɔːtə/
+- 矿泉水：mineral water /ˈmɪnərəl ˈwɔːtə/ [A2]
 - 开水：boiled water /bɔɪld ˈwɔːtə/
-- 自来水：tap water /tæp ˈwɔːtə/
+- 自来水：running water /ˈrʌnɪŋ ˈwɔːtə/ [C1]
 - 纯净水：purified water /ˈpjʊərɪfaɪd ˈwɔːtə/
 - 污水：waste water /weɪst ˈwɔːtə/
 #### 能源：energy /ˈenədʒi/ [B1]
@@ -1498,6 +1498,7 @@
   - 雪碧：sprite /spraɪt/
   - 可口可乐：coke /kəʊk/
   - 豆浆：soybean milk /sɒɪbiːn mɪlk/
+  - 气泡水：sparkling water /ˈspɑːklɪŋ ˈwɔːtə/ [B1]
 - 调味料：condiments /ˈkɒndɪmənts/
   - 酱油：soy sauce /sɔɪ sɔːs/
   - 番茄酱：ketchup /ˈketʃəp/
