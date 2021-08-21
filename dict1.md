@@ -1604,6 +1604,7 @@
 - 奖品：prize /praɪz/
 - 包裹：package /ˈpækɪdʒ/
 - 注意：attention /əˈtenʃn/ [B1]
+- 问候：greeting /ˈɡriːtɪŋ/ [B1]
 #### 教育：education /ˌedʒuˈkeɪʃn/ [B1]
 - 考试：examination /ɪɡˌzæmɪˈneɪʃn/
 - 班级：class /klɑːs/ √
@@ -1669,16 +1670,6 @@
 - 怪物：monster /ˈmɒnstə/
 - 神：god /ɡɒd/
 - 变形金刚：transformer /trænsˈfɔːmə/
-#### 感叹：exclamations /ˌekskləˈmeɪʃnz/
-- 早上好：good morning /ˌɡʊd ˈmɔːnɪŋ/ [A1] √
-- 下午好：good afternoon /ˌɡʊd ɑːftəˈnuːn/ [A1] √
-- 晚上好：good evening /ˌɡʊd ˈiːvnɪŋ/ [A1] √
-- 晚安：good night /ˌɡʊd ˈnaɪt/ [A1] √
-- 你好：hello /həˈləʊ/ [A1] √
-- 再见：bye /baɪ/ [A1] √
-- 好极了：hooray /huˈreɪ/ √
-- 嗨：hi /haɪ/ [A1] √, hey /heɪ/ [A2] √
-- 好：OK /əʊˈkeɪ/ [A1] √
 #### 武装部队：armed forces /ɑːmd ˈfɔːsɪz/
 - 海军：navy /ˈneɪvi/
 - 陆军：army /ˈɑːmi/
@@ -1709,6 +1700,7 @@
 - 舰：ship /ʃɪp/ √
 - 潜水艇：submarine /ˌsʌbməˈriːn/ √
 #### 动词：verbs /vɜːbz/ [A2]
+- 迎接：greet /ɡriːt/ [B1]
 - 感谢：thank /θæŋk/ √
 - 织：knit /nɪt/ [B1]
 - 广播：broadcast /ˈbrɔːdkɑːst/ [B2]
@@ -1869,3 +1861,9 @@
 - 无论什么：whatever /wɒtˈevə/
 - 无论哪个：whichever /wɪtʃˈevə/
 - 无论谁：whoever /huːˈevə/
+#### 感叹词：exclamations /ˌekskləˈmeɪʃnz/
+- 好极了：hooray /huˈreɪ/ √
+- 好：OK /əʊˈkeɪ/ [A1] √
+- 再见：bye /baɪ/ [A1] √
+- 你好：hello /həˈləʊ/ [A1] √
+- 嗨：hi /haɪ/ [A1] √, hey /heɪ/ [A2] √
