@@ -115,3 +115,4 @@
 #### 形容词：adjectives
 #### 副词：adverbs
 #### 代词：pronouns
+#### 感叹词：exclamations

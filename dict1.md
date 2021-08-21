@@ -37,14 +37,14 @@
 - 绘本：picture book /ˈpɪktʃə bʊk/ √
 - 漫画：comic /ˈkɒmɪk/ [A2]
 - 日记：diary /ˈdaɪəri/ [A2]
-- 日志：journal /ˈdʒɜːnl/ [C2], log /lɔːɡ/ [CET4]
+- 日志：journal /ˈdʒɜːnl/ [C2], log /lɔːɡ/
 - 网站：website /ˈwebsaɪt/ [A1]
 - 网址：uniform resource locator /ˈjuːnɪfɔːm rɪˈsɔːs ləʊˈkeɪtə/, URL /ˌjuː ɑː ˈel/
 - 二维码：quick response code /kwɪk rɪˈspɒns kəʊd/, QR code /kjuː ɑː kəʊd/
 - 条形码：bar code /bɑː kəʊd/ √
-- 指纹：fingerprint /ˈfɪŋɡəprɪnt/ [CET4]
+- 指纹：fingerprint /ˈfɪŋɡəprɪnt/
 - 传单：leaflet /ˈliːflət/ [B2]
-- 通知：notification /ˌnəʊtɪfɪˈkeɪʃn/ [CET4]
+- 通知：notification /ˌnəʊtɪfɪˈkeɪʃn/
 - 声明：announcement /əˈnaʊnsmənt/ [B1]
 - 海报：poster /ˈpəʊstə/ [A2] √
 - 明信片：postcard /ˈpəʊstkɑːd/ [A2]
@@ -75,13 +75,14 @@
 #### 名族：nationalities /ˌnæʃəˈnælɪtiz/ [A1]
 - 汉族：Han /hæn/
 #### 语言：languages /ˈlæŋɡwɪdʒɪz/ [A1]
-- 中文：Chinese /ˌtʃaɪˈniːz/ 
+- 中文：Chinese /ˌtʃaɪˈniːz/
 - 简体中文：Simplified Chinese /ˈsɪmplɪfaɪd ˌtʃaɪˈniːz/
 - 繁体中文：Traditional Chinese /trəˈdɪʃənl ˌtʃaɪˈniːz/
 - 美式英语：American English /əˈmerɪkən ˈɪŋɡlɪʃ/
 - 英式英语：British English /ˈbrɪtɪʃ ˈɪŋɡlɪʃ/
 - 日语：Japanese /ˌdʒæpəˈniːz/
 - 韩语：Korean /kəˈriən/
+- 法语：French /frentʃ/
 #### 英语：English /ˈɪŋɡlɪʃ/ √
 - 字母表：alphabet /ˈælfəbet/ [B1]
 - 字母：letter /ˈletə/ [A2]
@@ -104,8 +105,8 @@
   - 撇号：apostrophe /əˈpɒstrəfi/ [B2]
   - 连字符：hyphen /ˈhaɪfn/ [B2]
   - 省略号：ellipsis /ɪˈlɪpsɪs/
-- 井号：pound /paʊnd/ [GK]
-- 星号：star /stɑː/ [A2]
+- 井号：pound /paʊnd/
+- 星号：asterisk /ˈæstərɪsk/
 - 叉：cross /krɒs/ [A1]
 - 勾：tick /tɪk/ [B1]
 - 下划线：underline /ˌʌndəˈlaɪn/ [B1]
@@ -160,11 +161,11 @@
   - 南极洲：Antarctica /ænˈtɑːktɪkə/
 - 国家：countries /ˈkʌntriz/ [A1]
   - 美国：United States /juˈnaɪtɪd steɪts/
-  - 中国：China /ˈtʃaɪnə/ [CET4]
-  - 日本：Japan /dʒəˈpæn/ [GK]
-  - 韩国：South Korea /kəˈriə/ [GK]
-  - 泰国：Thailand /ˈtaɪlænd/ [GK]
-  - 澳大利亚：Australia /ɒˈstreɪliə/ [GK] √
+  - 中国：China /ˈtʃaɪnə/
+  - 日本：Japan /dʒəˈpæn/
+  - 韩国：South Korea /kəˈriə/
+  - 泰国：Thailand /ˈtaɪlænd/
+  - 澳大利亚：Australia /ɒˈstreɪliə/ √
 - 州（美）：states /steɪts/ [B1]
   - 加利福尼亚：California /ˌkæləˈfɔːniə/
 - 城市：cities /ˈsɪtiz/ [A1] √
@@ -327,7 +328,7 @@
 - 工地：construction site /kənˈstrʌkʃn saɪt/
 - 运河：canal /kəˈnæl/ [ORT1+]
 - 船闸：lock /lɒk/ [ORT1+]
-- 坝：dam /dæm/ [CET4]
+- 坝：dam /dæm/
 - 堰：weir /wɪə/ [ORT5]
 - 地铁站：metro station /ˈmetrəʊ ˈsteɪʃn/ √
 - 面包店：bakery /ˈbeɪkəri/ √
@@ -398,7 +399,7 @@
 - 站台：platform /ˈplætfɔːm/ [A2]
 - 公交站：bus station /bʌs ˈsteiʃn/ [A2] √
 - 候车室：waiting room /ˈweɪtɪŋ ruːm/
-- 旅馆：inn /ɪn/ [CET4]
+- 旅馆：inn /ɪn/
 - 喷泉：fountain /ˈfaʊntən/ [B1] √
 - 度假村：resort /rɪˈzɔːt/ [B1]
 - 理发店：barber shop /ˈbɑːbə ʃɒp/, hair salon /heə ˈsælɒn/
@@ -513,7 +514,7 @@
 - 梳妆台：dresser /ˈdresə/
 - 抽屉：drawer /drɔ:r/
 - 镜子：mirror /ˈmɪrə/
-#### 床上用品：bedding /ˈbedɪŋ/ [CET4]
+#### 床上用品：bedding /ˈbedɪŋ/
 - 床单：sheet /ʃiːt/
 - 枕头：pillow /ˈpɪləʊ/
 - 被子：quilt /kwɪlt/
@@ -670,7 +671,7 @@
 - 棍子：stick /stɪk/ √
 - 脚手架：scaffold /ˈskæfəʊld/
 - 灭火器：fire extinguisher /ˈfaɪə ɪkˈstɪŋɡwɪʃə/
-#### 文具：stationery /ˈsteɪʃəneri/ [CET6]
+#### 文具：stationery /ˈsteɪʃəneri/
 - 信封：envelope /ˈenvələʊp/
 - 橡皮：eraser /ɪˈreɪzə/
 - 算盘：abacus /ˈæbəkəs/
@@ -830,7 +831,7 @@
 #### 动物：the animal /ði ˈænɪml/ [A1] √
 - 爬行动物：reptiles /ˈreptaɪlz/ [C1]
   - 蛇：snake /sneɪk/ [A2] √
-  - 乌龟：turtle /ˈtɜːtl/（水陆）, tortoise /ˈtɔːtəs/（陆）[GK] √
+  - 乌龟：turtle /ˈtɜːtl/（水陆）, tortoise /ˈtɔːtəs/（陆） √
   - 海龟：sea turtle /siː ˈtɜːtl/
   - 变色龙：chameleon /kəˈmiːliən/
   - 火蜥蜴：salamander /ˈsæləmændə/ [ORT2] √
@@ -840,18 +841,18 @@
   - 鸵鸟：ostrich /ˈɒstrɪtʃ/
   - 小鸭：duckling /ˈdʌklɪŋ/
   - 鸽子：pigeon /ˈpɪdʒɪn/ √
-  - 鹅：goose /ɡuːs/ [CET4]
+  - 鹅：goose /ɡuːs/
   - 小鹅：gosling /ˈɡɒzlɪŋ/ √
   - 小蝌蚪：tadpole /ˈtædpəʊl/ √
   - 猫头鹰：owl /aʊl/ [B2]
   - 小猫头鹰：owlet /ˈaʊlət/
   - 乌鸦：crow /krəʊ/
-  - 燕子：swallow /ˈswɒləʊ/ [CET4]
+  - 燕子：swallow /ˈswɒləʊ/
   - 火鸡：turkey /ˈtɜːki/ [B1]
   - 母鸡：hen /hen/ √
   - 公鸡：rooster /ˈruːstə/ √
   - 孔雀：peacock /ˈpiːkɒk/ √
-  - 海鸥：seagull /siːɡʌl/ [GK]
+  - 海鸥：seagull /siːɡʌl/
   - 巨嘴鸟：toucan /ˈtuːkæn/
   - 猎鹰：falcon /ˈfælkən/ √
 - 蛤蜊：clam /klæm/
@@ -878,9 +879,9 @@
   - 瞪羚：gazelle /ɡəˈzel/
   - 斑马：zebra /ˈzebrə/ [B2] √
   - 长颈鹿：giraffe /dʒəˈrɑːf/ [B1] √
-  - 大熊猫：panda /ˈpændə/ [GK] √
+  - 大熊猫：panda /ˈpændə/ √
   - 考拉：koala /kəʊˈɑːlə/
-  - 松鼠：squirrel /ˈskwɪrəl/ [GK] √
+  - 松鼠：squirrel /ˈskwɪrəl/ √
   - 树懒：sloth /sləʊθ/ √
   - 老虎：tiger /ˈtaɪɡə/ [B1] √
   - 海狮：sea lion /siː ˈlaɪən/
@@ -935,14 +936,14 @@
   - 蚯蚓：earthworm /ˈɜːθwɜːm/
   - 鼻涕虫：slug /slʌɡ/
 - 毛毛虫：caterpillar /ˈkætəpɪlə/ √
-- 蜗牛：snail /sneɪl/ [CET6] √
+- 蜗牛：snail /sneɪl/ √
 - 宠物：pet /pet/ [A1] √
 - 珊瑚：coral /ˈkɒrəl/ [C2]
 - 怪兽：monster /ˈmɒnstə/ [B1] √
 - 毛皮：fur /fɜː/ [B1]
 - 掌：paw /pɔː/ [B2]
-- 大象鼻子：trunk /trʌŋk/ [GK] √
-- 爪子：claw /klɔː/ [GK]
+- 大象鼻子：trunk /trʌŋk/ √
+- 爪子：claw /klɔː/
 #### 植物：the plant /ðə plænt/ [A1] √
 - 花：flowers /ˈflaʊəz/ [A1] √
   - 樱花：sakura /sakurə/
@@ -953,7 +954,7 @@
 - 草：grass /ɡrɑːs/ [A1] √
 - 藤：vine /vaɪn/ [C1]
 - 树干：trunk /trʌŋk/ [B2]
-- 茎：stem /stem/ [CET4]
+- 茎：stem /stem/
 - 芽：sprout /spraʊt/
 - 根：root /ruːt/ [B2] √
 - 叶：leaf /liːf/ [B1] √
@@ -1058,7 +1059,7 @@
 - 领导：leader /ˈliːdə/
 - 经理：manager /ˈmænɪdʒə/
 - 队长：captain /ˈkæptɪn/ √
-#### 称谓：titles /ˈtaɪtlz/ [CET4]
+#### 称谓：titles /ˈtaɪtlz/
 - 女士：Miss /mɪs/ [A1], madam /ˈmædəm/ [B1]
 - 夫人：Mrs /ˈmɪsɪz/ [A1], madam /ˈmædəm/ [B1]
 - 先生：Mr /ˈmɪstə/ [A1], sir /sɜː/ [B1]
@@ -1180,7 +1181,7 @@
 - 困：sleepy /ˈsliːpi/
 - 疲倦：tired /ˈtaɪəd/
 - 生气：angry /ˈæŋɡri/ √
-#### 数学：maths /mæθs/（英）[A2], math /mæθ/（美）[A2], mathematics /ˌmæθəˈmætɪks/ [KET]
+#### 数学：maths /mæθs/（英）[A2], math /mæθ/（美）[A2], mathematics /ˌmæθəˈmætɪks/
 - 数字：numbers /ˈnʌmbəz/
   - 序数：ordinal numbers /ˈɔːdɪnl ˈnʌmbəz/
   - 基数：cardinal numbers /ˈkɑːdɪnl ˈnʌmbəz/
@@ -1569,6 +1570,7 @@
 - 水枪：water gun /ˈwɔːtə ɡʌn/ √
 - 滑板车：scooter /ˈskuːtə/
 - 骰子：dice /daɪs/
+- 弹珠：marble /ˈmɑːbl/
 #### 乐器：musical instruments /ˈmjuːzɪkl ˈɪnstrʊmənts/
 - 吉他：guitar /ɡɪˈtɑː/
 - 钢琴：piano /piˈænəʊ/
@@ -1602,11 +1604,6 @@
 - 奖品：prize /praɪz/
 - 包裹：package /ˈpækɪdʒ/
 - 注意：attention /əˈtenʃn/ [B1]
-- 对不起：sorry /ˈsɒri/ √
-- 感谢：thank /θæŋk/ √
-- 你好：hello /həˈləʊ/ √
-- 再见：bye /baɪ/ √
-- 好极了：hooray /huˈreɪ/ √
 #### 教育：education /ˌedʒuˈkeɪʃn/ [B1]
 - 考试：examination /ɪɡˌzæmɪˈneɪʃn/
 - 班级：class /klɑːs/ √
@@ -1702,6 +1699,7 @@
 - 舰：ship /ʃɪp/ √
 - 潜水艇：submarine /ˌsʌbməˈriːn/ √
 #### 动词：verbs /vɜːbz/ [A2]
+- 感谢：thank /θæŋk/ √
 - 织：knit /nɪt/ [B1]
 - 广播：broadcast /ˈbrɔːdkɑːst/ [B2]
 - 射击：shoot /ʃuːt/
@@ -1785,6 +1783,7 @@
 - 狼吞虎咽：gobble /ˈɡɒbl/
 - 尖叫：squeal /skwiːl/
 #### 形容词：adjectives /ˈædʒɪktɪvz/ [A2]
+- 抱歉的：sorry /ˈsɒri/ √
 - 怀孕的：pregnant /ˈpreɡnənt/ [B1]
 - 年轻的：young /jʌŋ/ [A1]
 - 紧急的：emergency /ɪˈmɜːdʒənsi/
@@ -1860,3 +1859,7 @@
 - 无论什么：whatever /wɒtˈevə/
 - 无论哪个：whichever /wɪtʃˈevə/
 - 无论谁：whoever /huːˈevə/
+#### 感叹词：exclamations /ˌekskləˈmeɪʃnz/
+- 你好：hello /həˈləʊ/ [A1] √
+- 再见：bye /baɪ/ [A1] √
+- 好极了：hooray /huˈreɪ/ √
