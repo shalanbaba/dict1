@@ -1181,7 +1181,7 @@
 - 困：sleepy /ˈsliːpi/
 - 疲倦：tired /ˈtaɪəd/
 - 生气：angry /ˈæŋɡri/ √
-#### 数学：maths /mæθs/（英）[A2], math /mæθ/（美）[A2], mathematics /ˌmæθəˈmætɪks/
+#### 数学：math /mæθ/（美）[A2], maths /mæθs/（英）[A2], mathematics /ˌmæθəˈmætɪks/
 - 数字：numbers /ˈnʌmbəz/
   - 序数：ordinal numbers /ˈɔːdɪnl ˈnʌmbəz/
   - 基数：cardinal numbers /ˈkɑːdɪnl ˈnʌmbəz/
