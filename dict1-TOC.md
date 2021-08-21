@@ -10,7 +10,6 @@
 
 #### 宇宙：the universe
 #### 世界：the world
-#### 行政区（中）：administrative regions
 
 #### 自然：nature
 #### 天气：the weather
