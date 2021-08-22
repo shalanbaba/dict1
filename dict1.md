@@ -1,1871 +1,1871 @@
-#### 信息：information /ˌɪnfəˈmeɪʃn/ [A2]
-- 线索：clue /kluː/ [B2]
-- 预报：forecast /ˈfɔːkɑːst/ [B1]
-- 问题：question /ˈkwestʃən/ [A1]
-- 答案：answer /ˈɑːnsə/ [A1]
-- 签名：signature /ˈsɪɡnətʃə/ [B1]
-- 分数：score /skɔː/ [B1]
-- 评级：grade /ɡreɪd/ [B1]
-- 标签：label /ˈleɪbl/ [B1]
-- 报告：report /rɪˈpɔːt/ [B1]
-- 信：letter /ˈletə/ [A1]
-- 户口本：household register /ˈhaʊshəʊld ˈredʒɪstə/
-- 护照：passport /ˈpɑːspɔːt/ [A2]
-- 签证：visa /ˈviːzə/ [B1]
-- 身份证：identity card /aɪˈdentəti kɑːd/ [B1], ID card /ˌaɪ ˈdiː kɑːd/ [A2]
-- 课本：textbook /ˈtekstbʊk/ [A2]
-- 字典：dictionary /ˈdɪkʃəneri/ [A1]
-- 照片：photo /ˈfəʊtəʊ/ [A1], photograph /ˈfəʊtəɡrɑːf/ [A2]
-- 图片：picture /ˈpɪktʃə/ [A1] √
-- 视频：video /ˈvɪdiəʊ/ [A2]
-- 相册：album /ˈælbəm/ [A2]
-- 语音：voice /vɔɪs/ [B1]
-- 新闻：news /njuːz/ [A2]
-- 报纸：newspaper /njuːz ˈpeɪpə/ [A1]
-- 论文：paper /ˈpeɪpə/ [A1]
-- 杂志：magazine /ˌmæɡəˈziːn/ [A2]
-- 文章：article /ˈɑːtɪkl/ [B1]
-- 广告：advertisement /ˌædvəˈtaɪzmənt/ [A2]
-- 期刊：journal /ˈdʒɜːnl/ [C1]
-- 消息：messages /ˈmesɪdʒz/ [A1]
-  - 文本消息：text message /tekst ˈmesɪdʒz/ [A2]
-  - 语音消息：voice message /vɔɪs ˈmesɪdʒz/
-- 传说：tale /teɪl/ [B2] √
-- 诗：poem /ˈpəʊɪm/ [B1]
-- 歌词：lyrics /ˈlɪrɪks/ [B2]
-- 书：book /bʊk/ [A1] √
-- 绘本：picture book /ˈpɪktʃə bʊk/ √
-- 漫画：comic /ˈkɒmɪk/ [A2]
-- 日记：diary /ˈdaɪəri/ [A2]
-- 日志：journal /ˈdʒɜːnl/ [C2], log /lɔːɡ/
-- 网站：website /ˈwebsaɪt/ [A1]
-- 网址：uniform resource locator /ˈjuːnɪfɔːm rɪˈsɔːs ləʊˈkeɪtə/, URL /ˌjuː ɑː ˈel/
-- 二维码：quick response code /kwɪk rɪˈspɒns kəʊd/, QR code /kjuː ɑː kəʊd/
-- 条形码：bar code /bɑː kəʊd/ √
-- 指纹：fingerprint /ˈfɪŋɡəprɪnt/
-- 传单：leaflet /ˈliːflət/ [B2]
-- 通知：notification /ˌnəʊtɪfɪˈkeɪʃn/
-- 声明：announcement /əˈnaʊnsmənt/ [B1]
-- 海报：poster /ˈpəʊstə/ [A2] √
-- 明信片：postcard /ˈpəʊstkɑːd/ [A2]
-- 邮件：mail /meɪl/ [A2]
-- 小票, 收据：receipt /rɪˈsiːt/ [A2]
-- 账单：bill /bɪl/ [A2]
-- 计划：plan /plæn/ [A2], program（美）, programme（英） /ˈprəʊɡræm/ [B2]
-- 源代码：source code /sɔːs kəʊd/
-- 菜单：menu /ˈmenjuː/ [A2]
-- 名字：name /neɪm/ [A1] √
-- 应用程序：app /æp/, application /ˌæplɪˈkeɪʃn/ [B2]
-- 数据：data /ˈdeɪtə/ [B2]
-- 网络：network /ˈnetwɜːk/ [B2]
-- 搜索引擎：search engine /sɜːtʃ ˈendʒɪn/
-- 秘密：secret /ˈsiːkrət/ [B1]
-- 记录：record /ˈrekɔːd/ [B2]
-- 区号：area code /ˈeəriə kəʊd/
-- 票, 罚单：ticket /ˈtɪkɪt/ [A1] √
-- 地址：address /əˈdres/ [A1]
-- 邮编：zip code /zɪp kəʊd/
- #### 人名：the name of a person /ðə neɪm ɒv ə ˈpɜːsn/
-- 名：first name /fɜːst neɪm/ [A2]
-- 中间名：middle name /ˈmɪdl neɪm/
-- 姓：last name /ˈlɑːst neɪm/ [A2], family name /ˈfæməli neɪm/, surname /ˈsɜːneɪm/ [A2]
-#### 性别：genders /ˈdʒendəz/, sexes /ˈseksɪz/ [B2]
-- 男：male /meɪl/  [B2]
-- 女：female /ˈfiːmeɪl/ [B2] √
-#### 名族：nationalities /ˌnæʃəˈnælɪtiz/ [A1]
-- 汉族：Han /hæn/
-#### 语言：languages /ˈlæŋɡwɪdʒɪz/ [A1]
-- 中文：Chinese /ˌtʃaɪˈniːz/
-- 简体中文：Simplified Chinese /ˈsɪmplɪfaɪd ˌtʃaɪˈniːz/
-- 繁体中文：Traditional Chinese /trəˈdɪʃənl ˌtʃaɪˈniːz/
-- 美式英语：American English /əˈmerɪkən ˈɪŋɡlɪʃ/
-- 英式英语：British English /ˈbrɪtɪʃ ˈɪŋɡlɪʃ/
-- 日语：Japanese /ˌdʒæpəˈniːz/
-- 韩语：Korean /kəˈriən/
-- 法语：French /frentʃ/
-#### 英语：English /ˈɪŋɡlɪʃ/ √
-- 字母表：alphabet /ˈælfəbet/ [B1]
-- 字母：letter /ˈletə/ [A2]
-- 单词：word /wɜːd/ [A1]
-- 拼写：spell /spel/ [A2]
-- 句子：sentence /ˈsentəns/ [A1]
-- 名词：noun /naʊn/ [A2]
-- 拼读：phonics /ˈfɒnɪks/
-#### 符号：symbols /ˈsɪmblz/ [B2]
-- 标点符号：punctuation /ˌpʌŋktʃuˈeɪʃn/ [B1]
-  - 破折号：dash /dæʃ/ [B2]
-  - 句号：full stop /fʊl stɒp/（英）[B1], period /ˈpɪəriəd/（美）[B1]
-  - 括号：brackets /ˈbrækɪts/ [B2]
-  - 引号：quotation marks /kwəʊˈteɪʃn mɑːks/ [B2]
-  - 问号：question mark /ˈkwestʃən mɑːk/ [B1]
-  - 逗号：comma /ˈkɒmə/ [B1]
-  - 冒号：colon /ˈkəʊlən/ [B2]
-  - 感叹号：exclamation mark /ˌekskləˈmeɪʃn mɑːk/ [B2]
-  - 分号：semicolon /ˌsemiˈkəʊlən/ [B2]
-  - 撇号：apostrophe /əˈpɒstrəfi/ [B2]
-  - 连字符：hyphen /ˈhaɪfn/ [B2]
-  - 省略号：ellipsis /ɪˈlɪpsɪs/
-- 井号：pound /paʊnd/
-- 星号：asterisk /ˈæstərɪsk/
-- 叉：cross /krɒs/ [A1]
-- 勾：tick /tɪk/ [B1]
-- 下划线：underline /ˌʌndəˈlaɪn/ [B1]
-#### 品牌：brands /brændz/ [B2]
-- 宜家：IKEA /ˌaɪˈkiə/
-- 乐高：LEGO /ˈleɡəu/ √
-- 皮克斯：Pixar /ˈpɪksar/
-- 开市客：Costco /ˈkɔskəʊ/
-- 亚马逊：Amazon /ˈæməzɑːn/
-- 中国石化：Sinopec /ˈsaɪnəʊpek/
-- 星巴克：Starbucks /stɑːbʌkz/
-- 迪士尼：Disney /ˈdɪzni/
-- 麦当劳：McDonaldˈs /məkˈdɔːnəldz/
-- 特斯拉：Tesla /ˈteslə/
-- 罗森：Lawson /ˈlɔːsn/
-- 全家：FamilyMart /ˈfæməli mɑːt/
-- 优衣库：UNIQLO /ˈjuːnɪkləʊ/
-- 无印良品：MUJI /muːdʒiː/
-- 耐克：Nike /ˈnaɪki/
-#### 名字：names /neɪmz/ [A1]
-- 奥尔夫：Olaf /ˈəʊlɑːf/
-- 瓦力：WALL·E /wɔːl iː/
-- 麦克唐纳：MacDonald /məkˈdɔnəld/
-#### 宇宙：the universe /ði ˈjuːnɪvɜːs/ [B1]
-- 行星：planet /ˈplænɪt/
-- 小行星：asteroid /ˈæstərɔɪd/
-- 流星：shooting star /ˈʃuːtɪŋ stɑː/, meteor /ˈmiːtiə/
-- 彗星：comet /ˈkɒmɪt/
-- 卫星：satellite /ˈsætəlaɪt/
-- 黑洞：black hole /blæk həʊl/
-- 星系：galaxy /ˈɡæləksi/
-- 恒星：star /stɑː/ [A2] √
-- 太阳系：the Solar System /ðə səʊlə ˈsɪstəm/
-  - 太阳：Sun /sʌn/ [A1] √
-  - 月亮：Moon /muːn/ [A2] √
-  - 火星：Mars /mɑːz/ √
-  - 地球：Earth /ɜːθ/ [B1] √
-- 银河系：Milky Way Galaxy /ˈmɪlki weɪ ˈɡæləksi/
-#### 世界：the world /ðə wɜːld/ [A1]
-- 海洋：oceans /ˈəʊʃnz/ [B1]
-  - 太平洋：Pacific Ocean /pəˈsɪfɪk ˈəʊʃn/
-  - 大西洋：Atlantic Ocean /ətˈlæntɪk ˈəʊʃn/
-  - 北冰洋：Arctic Ocean /ˈɑːktɪk ˈəʊʃn/
-  - 印度洋：Indian Ocean /ˈɪndiən ˈəʊʃn/
-- 洲：continents /ˈkɒntɪnənts/ [B1]
-  - 亚洲：Asia /ˈeɪʒə/
-  - 欧洲：Europe /ˈjʊərəp/
-  - 非洲：Africa /ˈæfrɪkə/
-  - 南美洲：South America /saʊθ əˈmerɪkə/
-  - 北美洲：North America /nɔːθ əˈmerɪkə/
-  - 澳洲：Australia /ɒˈstreɪliə/
-  - 南极洲：Antarctica /ænˈtɑːktɪkə/
-- 国家：countries /ˈkʌntriz/ [A1]
-  - 美国：United States /juˈnaɪtɪd steɪts/
-  - 中国：China /ˈtʃaɪnə/
-  - 日本：Japan /dʒəˈpæn/
-  - 韩国：South Korea /kəˈriə/
-  - 泰国：Thailand /ˈtaɪlænd/
-  - 澳大利亚：Australia /ɒˈstreɪliə/ √
-- 州（美）：states /steɪts/ [B1]
-  - 加利福尼亚：California /ˌkæləˈfɔːniə/
-- 城市：cities /ˈsɪtiz/ [A1] √
-  - 圣地亚哥：San Diego /sæn diˈeɪɡo/
-  - 巴黎：Paris /ˈpærɪs/
-  - 纽约：New York /njuː jɔːk/
-  - 东京：Tokyo /ˈtəʊkiəʊ/
-  - 首尔：Seoul /səʊl/
-  - 莫斯科：Moscow /ˈmɒskəʊ/
-  - 华盛顿：Washington /ˈwɒʃɪŋtən/
-  - 洛杉矶：Los Angeles /lɔ:s ˈeɪndʒələz/
-  - 旧金山：San Francisco /sæn frænˈsɪskəʊ/
-- 地点：places /ˈpleɪsɪz/ [A1]
-  - 五角大楼：Pentagon /ˈpentəɡən/
-  - 白宫：White House /waɪt haʊs/
-  - 故宫：Imperial Palace /ɪmˈpɪəriəl ˈpæləs/
-  - 故宫博物院：Palace Museum /ˈpæləs mjuˈziːəm/
-  - 紫禁城：Forbidden City /fəˈbɪdn ˈsɪti/
-  - 长城：Great Wall /ɡreɪt wɔːl/
-  - 金字塔：pyramid /ˈpɪrəmɪd/
-  - 自然保护区：natural reserve /ˈnætʃrəl rɪˈzɜːv/
-- 行政区（中）：administrative regions /ədˈmɪnɪstreɪtɪv ˈriːdʒənz/
-  - 省：province /ˈprɒvɪns/
-  - 直辖市：municipality /mjuːˌnɪsɪˈpæləti/
-  - 自治区：autonomous region /ɔːˈtɒnəməs ˈriːdʒən/
-  - 特别行政区：special administrative region /ˈspeʃl ədˈmɪnɪstreɪtɪv ˈriːdʒən/
-  - 市：city /ˈsɪti/ √
-  - 县：county /ˈkaʊnti/
-  - 镇：town /taʊn/ √
-  - 街道：subdistrict /ˈsʌbˌdɪstrɪkt/
-  - 乡：township /ˈtaʊnʃɪp/
-  - 村：village /ˈvɪlɪdʒ/
-#### 自然：nature /ˈneɪtʃə/ √ [A2]
-- 海岸：seashore /ˈsiːʃɔː/
-- 沿海：coast /kəʊst/
-- 海滩：beach /biːtʃ/ √
-- 草地：lawn /lɔːn/
-- 雪花：snowflake /ˈsnəʊfleɪk/
-- 海边：seaside /ˈsiːsaɪd/
-- 冰山：iceberg /ˈaɪsbɜːɡ/
-- 岛屿：island /ˈaɪlənd/ √
-- 瀑布：waterfall /ˈwɔːtəfɔːl/ √
-- 彩虹：rainbow /ˈreɪnbəʊ/ √
-- 森林：forest /ˈfɒrɪst/ √
-- 山洞：cave /keɪv/ √
-- 山丘：hill /hɪl/
-- 山谷：valley /ˈvæli/
-- 岛：island /ˈaɪlənd/ √
-- 山：mountain /ˈmaʊntən/ √
-- 河：river /ˈrɪvə/ √
-- 泥：mud /mʌd/ √
-- 土：soil /sɔɪl/ √
-- 火山：volcano /vɒlˈkeɪnəʊ/ √
-- 湖：lake /leɪk/ √
-- 大陆：mainland /ˈmeɪnlænd/
-- 大海：sea /siː/ √
-- 潮水：tide /taɪd/ [B2]
-- 水坑：puddle /ˈpʌdl/ √
-- 池塘：pond /pɒnd/ √
-- 云：cloud /klaʊd/ √
-- 雾：fog /fɒɡ/
-- 风：wind /wɪnd/ √
-- 微风：breeze /briːz/
-- 雨：rain /reɪn/ √
-- 小雨：light rain /laɪt reɪn/
-- 大雨：heavy rain /ˈhevi reɪn/
-- 闪电：lightning /ˈlaɪtnɪŋ/ √
-- 暴风雨：storm /stɔːm/ √
-- 雷：thunder /ˈθʌndə(r)/ √
-- 雪：snow /snəʊ/ √
-- 冰：ice /aɪs/ √
-- 泥：mud /mʌd/ √
-- 雾霾：smog /smɒɡ/
-- 沙尘暴：sandstorm /ˈsændstɔːm/
-- 雷阵雨：thundershower /ˈθʌndəˌʃaʊə/ 
-- 霜冻：frost /frɒst/
-- 声音：sound /saʊnd/
-- 气温：temperature /ˈtemprətʃə/
-- 湿度：humidity /hjuːˈmɪdəti/
-- 光：light /laɪt/
-- 电：electricity /ɪˌlekˈtrɪsəti/
-- 空气：air /eə/
-- 引力：gravity /ˈɡrævəti/ √
-- 生态系统：ecosystem /ˈiːkəʊsɪstəm/
-- 磁力：magnetic force /mæɡˈnetɪk fɔːs/
-- 磁铁：magnet /ˈmæɡnət/
-- 岩石：rock /rɒk/
-- 南极：south pole /saʊθ pəʊl/
-- 北极：north pole /nɔːθ pəʊl/
-- 液体：liquid /ˈlɪkwɪd/
-- 固体：solid /ˈsɒlɪd/
-- 气体：gas /ɡæs/
-- 烟：smoke /sməʊk/
-- 蒸汽：steam /stiːm/
-- 影子：shadow /ˈʃædəʊ/ √
-- 蜂巢：hive /haɪv/ √
-- 鸟巢：nest /nest/ √
-- 巢穴：den /den/
-- 蜘蛛网：spider web /ˈspaɪdə web/ √
-- 山峰：peak /piːk/
-- 沙漠：desert /ˈdezət/
-- 珊瑚礁：coral reef /ˈkɒrəl riːf/
-- 贝壳：shell /ʃel/ √
-- 油田：oilfield /ˈɔɪlfiːld/
-#### 天气：the weather /ðə ˈweðə/ √ [A1]
-- 晴：sunny /ˈsʌni/ √
-- 雨：rainy /ˈreɪni/
-- 有风：windy /ˈwɪndi/
-- 微风：breezy /ˈbriːzi/
-- 局部多云：partly cloudy /ˈpɑːtli ˈklaʊdi/
-- 大部多云：mostly cloudy /ˈməʊstli ˈklaʊdi/
-- 雪：snowy /ˈsnəʊi/
-- 多云, 阴：cloudy /ˈklaʊdi/
-- 雾：foggy /ˈfɒɡi/
-- 雾霾：smoggy /ˈsmɒɡi/
-#### 自然灾害：natural disasters /ˈnætʃrəl dɪˈzɑːstəz/
-- 龙卷风：tornado /tɔːˈneɪdəʊ/ [B2]
-- 地震：earthquake /ˈɜːθkweɪk/ [B2]
-- 海啸：tsunami /tsuːˈnɑːmi/
-- 洪水：flood /flʌd/ [B1] √
-- 台风：typhoon /taɪˈfuːn/
-#### 水：water /ˈwɔːtə/ [A1]
-- 泉水：spring /sprɪŋ/ [C1]
-- 淡水：fresh water /ˈfreʃwɔːtə/ [C2]
-- 咸水：salt water /ˈsɔːltwɔːtə/
-- 矿泉水：mineral water /ˈmɪnərəl ˈwɔːtə/ [A2]
-- 开水：boiled water /bɔɪld ˈwɔːtə/
-- 自来水：running water /ˈrʌnɪŋ ˈwɔːtə/ [C1]
-- 纯净水：purified water /ˈpjʊərɪfaɪd ˈwɔːtə/
-- 污水：waste water /weɪst ˈwɔːtə/
-#### 能源：energy /ˈenədʒi/ [B1]
-- 煤炭：coal /kəʊl/
-- 木炭：charcoal /ˈtʃɑːkəʊl/
-- 石油：petroleum /pəˈtrəʊliəm/
-- 天然气：natural gas /ˈnætʃrəl ɡæs/
-- 汽油：gas /ɡæs/（美）, gasoline /ˌɡæsəˈliːn/（美）, petrol /ˈpetrəl/（英）
-- 柴油：diesel /ˈdiːzl/
-- 电：electricity /ɪˌlekˈtrɪsəti/
-  - 电池：battery /ˈbætəri/
-#### 原材料：raw materials /rɔː məˈtɪərɪəlz/
-- 金属：metals /ˈmetlz/
-  - 铁：iron /ˈaɪən/
-  - 钢：steel /stiːl/
-  - 铜：copper /ˈkɒpə/
-  - 不锈钢：stainless steel /ˈsteɪnləs stiːl/
-- 塑料：plastic /ˈplæstɪk/
-- 木：wood /wʊd/
-- 羊毛：wool /wʊl/
-- 羊绒：cashmere /ˈkæʃmɪə/
-- 瓷：porcelain /ˈpɔːsəlɪn/
-- 陶：pottery /ˈpɒtəri/
-- 棉：cotton /ˈkɒtn/
-- 玻璃：glass /ɡlɑːs/
-- 石头：stone /stəʊn/
-- 大理石：marble /ˈmɑːbl/
-#### 城市：the city /ðə ˈsɪti/ [A1] √
-- 花坛：flower bed /ˈflaʊə bed/ √
-- 花坛沿：flower bed edge /ˈflaʊə bed edʒ/
-- 消防栓：fire hydrant /ˈfaɪə ˈhaɪdrənt/ √
-- 工地：construction site /kənˈstrʌkʃn saɪt/
-- 运河：canal /kəˈnæl/ [ORT1+]
-- 船闸：lock /lɒk/ [ORT1+]
-- 坝：dam /dæm/
-- 堰：weir /wɪə/ [ORT5]
-- 地铁站：metro station /ˈmetrəʊ ˈsteɪʃn/ √
-- 面包店：bakery /ˈbeɪkəri/ √
-- 咖啡馆：cafe /ˈkæfeɪ/ √
-- 商场：shopping mall /ˈʃɒpɪŋ mɔːl/ √, mall /mɔːl/ √
-- 电影院：camera /ˈkæmrə/
-- 市场：market /ˈmɑːkɪt/ √, mart /mɑːt/
-- 超市：supermarket /ˈsuːpəmɑːkɪt/
-- 停车场：parking lot /ˈpɑːkɪŋ lɒt/ √
-- 停车位：parking stall /ˈpɑːkɪŋ stɔːl/ √
-- 车库, 修车店：garage /ˈɡærɑːʒ/ √
-- 图书馆：library /ˈlaɪbrəri/ √
-- 博物院：museum /mjuˈziːəm/
-- 学校：school /skuːl/ √
-- 托儿所：nursery /ˈnɜːsəri/
-- 幼儿园：kindergarten /ˈkɪndəɡɑːtn/ √
-- 小学：primary school /ˈpraɪməri skuːl/
-- 初中：junior high school /ˈdʒuːniə haɪ skuːl/
-- 高中：senior high school /ˈsiːniə haɪ skuːl/
-- 大学：university /ˌjuːnɪˈvɜːsəti/
-- 学院：college /ˈkɒlɪdʒ/
-- 教室：classroom /ˈklɑːsruːm/
-- 公寓：apartment /əˈpɑːtmənt/ [A2]
-- 岗亭：sentry box /ˈsentri bɒks/
-- 便利店：convenience store /kənˈviːniəns stɔː/
-- 银行：bank /bæŋk/
-- 旅馆：hotel /həʊˈtel/ √
-- 汽车旅馆：motel /məʊˈtel/
-- 餐厅：restaurant /ˈrestrɒnt/ √
-- 广场：plaza /ˈplɑːzə/, square /skweə/
-- 办公楼：office building /ˈɒfɪs ˈbɪldɪŋ/
-- 电影院：cinema /ˈsɪnəmə/
-- 家庭旅馆：guesthouse /ˈɡesthaʊs/
-- 酒吧：bar /bɑː/
-- 宠物店：pet shop /pet ʃɒp/
-- 书店：bookstore /ˈbʊkˌstɔː/
-- 游泳池：swimming pool /ˈswɪmɪŋ puːl/
-- 体育场：stadium /ˈsteɪdiəm/
-- 健身房：gym /dʒɪm/
-- 植物园：botanical garden /bəˌtænɪkl ˈɡɑːdn/
-- 港口：harbor /ˈhɑ:bə/
-- 火车站：railway station /ˈreɪlweɪ ˈsteɪʃn/
-- 药店：pharmacy /ˈfɑːməsi/
-- 医院：hospital /ˈhɒspɪtl/ √
-- 牙医诊所：dental clinic /ˈdentl ˈklɪnɪk/ √
-- 网球场：tennis court /ˈtenɪs kɔːt/
-- 篮球场：basketball court /ˈbɑːskɪtbɔːl kɔːt/
-- 足球场：football court /ˈfʊtbɔːl kɔːt/
-- 操场：playground ˈpleɪɡraʊnd
-- 田径场：track-and-field ground /træk ənd fiːld ɡraʊnd/
-- 跑道：racetrack /ˈreɪstræk/
-- 库房：shed /ʃed/
-- 地下车库：underground garage /ˌʌndəˈɡraʊnd ˈɡærɑːʒ/
-- 城堡：castle /ˈkɑːsl/
-- 寺庙：temple /ˈtempl/
-- 宫殿：palace /ˈpæləs/
-- 公园：park /pɑːk/ √
-- 工厂：factory /ˈfæktri/
-- 商店：shop /ʃɒp/, store /stɔː/
-- 垃圾房：garbage room /ˈɡɑːbɪdʒ ruːm/
-- 垃圾场：dump /dʌmp/
-- 变电站：transformer substation /trænsˈfɔːmə ˈsʌbsteɪʃn/
-- 亭子：pavilion /pəˈvɪliən/
-- 加油站：gas station /ˈɡæs steɪʃn/
-- 厕所：toilet /ˈtɔɪlət/ √
-- 售票处：ticket office /ˈtɪkɪt ˈɒfɪs/
-- 检票口：ticket gate /ˈtɪkɪt ɡeɪt/
-- 站台：platform /ˈplætfɔːm/ [A2]
-- 公交站：bus station /bʌs ˈsteiʃn/ [A2] √
-- 候车室：waiting room /ˈweɪtɪŋ ruːm/
-- 旅馆：inn /ɪn/
-- 喷泉：fountain /ˈfaʊntən/ [B1] √
-- 度假村：resort /rɪˈzɔːt/ [B1]
-- 理发店：barber shop /ˈbɑːbə ʃɒp/, hair salon /heə ˈsælɒn/
-- 肉铺：butcher shop /ˈbʊtʃə ʃɒp/
-- 水果店：fruit shop /fruːt ʃɒp/
-- 杂货店：grocery /ˈɡrəʊsəri/
-- 冰屋：igloo /ˈɪɡluː/
-- 剧场：theater /ˈθɪətə(r)/
-- 电影院：cinima /ˈsɪnəmə/
-- 教堂：church /tʃɜːtʃ/
-- 市政厅：town hall /ˌtaʊn ˈhɔːl/ 
-- 洗衣店：laundry /ˈlɔːndri/
-- 免税店：duty free store /ˌduːti ˈfriː stɔː/
-- 桥：bridge /brɪdʒ/ √
-- 塔：tower /ˈtaʊə/
-- 溜冰场：ice rink /ˈaɪs rɪŋk/
-- 动物园：zoo /zuː/ √
-- 电线杆：wire pole /ˈwaɪə pəʊl/
-- 雕像：statue /ˈstætʃuː/
-- 电梯：elevator /ˈelɪveɪtə/（美）[A2] √, lift /lɪft/（英）[A2]
-- 扶梯：escalator /ˈeskəleɪtə/ [B2]
-#### 住宅：the house /ðə haʊs/ [A1]
-- 厕所：bathroom /ˈbɑːθruːm/
-- 餐厅：dining room /ˈdaɪnɪŋ ruːm/
-- 客厅：living room /ˈlɪvɪŋ ruːm/
-- 厨房：kitchen /ˈkɪtʃɪn/
-- 卧室：bedroom /ˈbedruːm/
-- 书房：study /ˈstʌdi/
-- 儿童房：childrenˈs room /ˈtʃɪldrənz ruːm/
-- 阳台：balcony /ˈbælkəni/
-- 储藏室：storeroom /ˈstɔːruːm/
-- 玄关：hallway /ˈhɔːlweɪ/
-- 地窖：cellar /ˈselə/
-- 淋浴房：shower room /ˈʃaʊə ruːm/
-- 院子：yard /jɑːd/
-- 花园：garden /ˈɡɑːdn/
-- 后院：backyard /bækˈjɑːd/
-- 烟囱：chimney /ˈtʃɪmni/
-- 楼梯：stairs /steəz/
-- 壁炉：fireplace /ˈfaɪəpleɪs/
-- 地板或屋顶上的门：trap door /træp dɔː/ [ORT5]
-- 窗：window /ˈwɪndəʊ/
-- 纱窗：window screen /ˈwɪndəʊ skriːn/
-- 纱门：screen door /skriːn dɔː/
-- 窗帘：curtain /ˈkɜːtn/
-- 墙纸：wallpaper /ˈwɔːlpeɪpə/
-- 天窗：skylight /ˈskaɪlaɪt/
-- 水槽：sink /sɪŋk/
-- 浴缸：tub /tʌb/
-- 栏杆：railing /ˈreɪlɪŋ/
-- 扶手：handrail /ˈhændreɪl/
-- 一楼：ground floor /ɡraʊnd flɔː/（英）, first floor /fɜːst flɔː/（美）
-- 地下一楼：basement level 1 /ˈbeɪsmənt ˈlevl wʌn/, basement first floor /ˈbeɪsmənt fɜːst flɔː/
-- 天台：rooftop /ˈruːftɒp/
-- 地下室：basement /ˈbeɪsmənt/
-- 大门：gate /ɡeɪt/
-- 大堂：lobby /ˈlɒbi/
-- 地面：floor /flɔː/
-- 屋顶：roof /ruːf/
-- 天花板：ceiling /ˈsiːlɪŋ/
-- 墙壁：wall /wɔːl/
-- 地毯：carpet /ˈkɑːpɪt/, rug /rʌɡ/
-- 花瓶：vase /veɪs/
-#### 游乐场：the playground /ðə ˈpleɪɡraʊnd/ [A2] √
-- 摩天轮：ferris wheel /ferɪs wiːl/
-- 旋转木马：merry-go-round /ˈmeri ɡəʊ raʊnd/
-- 过山车：roller coaster /rəʊlə kəʊstə/
-- 跷跷板：seesaw /ˈsiː sɔː/ √
-- 滑梯：slide /slaɪd/ √
-- 秋千：swing /swɪŋ/ √
-#### 农场：the farm /ðə fɑːm/ [A1] √
-- 猪圈：pigpen /pɪɡpen/
-- 干草：hay /heɪ/
-- 马厩：stable /ˈsteɪbl/
-- 村舍：cottage /ˈkɒtɪdʒ/
-- 小屋：cabin /ˈkæbɪn/, hut /hʌt/
-- 牲口房：barn /bɑːn/
-- 围栏, 篱笆：fence /fens/ √
-#### 建材：construction materials /kənˈstrʌkʃn məˈtɪərɪəlz/
-- 水泥：cement /sɪˈment/
-- 混凝土：concrete /ˈkɒŋkriːt/ √
-- 沙：sand /sænd/ √
-- 砖：brick /brɪk/ √
-- 木地板：wood floor /wʊd flɔː/
-- 瓷砖：ceramic tile /səˈræmɪk taɪl/, porcelain tile /ˈpɔːsəlɪn taɪl/
-- 钉子：nail /neɪl/
-- 水管：water pipe /ˈwɔːtə paɪp/
-#### 灯：the light /ðə laɪt/ [A2]
-- 灯泡：bulb /bʌlb/ [B2]
-- 台灯：lamp /læmp/
-- 路灯：street light /striːt laɪt/
-- 手电筒：flashlight /ˈflæʃlaɪt/（美）√, torch /tɔːtʃ/（英）√
-- 灯笼：lantern /ˈlæntən/ √
-#### 家具：furniture /ˈfɜːnɪtʃə/ [A2]
-- 高脚椅：highchair /ˌhaɪˈtʃeə/
-- 椅子：chair /tʃeə/ √
-- 桌子：desk /desk/ √
-- 橱柜：cupboard /ˈkʌbəd/ √
-- 床垫：mattress /ˈmætrəs/
-- 餐桌：dining table /ˈdaɪnɪŋ ˈteɪbl/
-- 桌子：table /ˈteɪbl/ √
-- 书架：bookshelf /ˈbʊkʃelf/ √
-- 书桌：desk /desk/
-- 凳子：stool /stuːl/
-- 鞋架：shoe rack /ʃuː ræk/
-- 柜子：cabinet /ˈkæbɪnət/
-- 床头柜：bedside table /ˈbedsaɪd ˈteɪbl/
-- 沙发：sofa /ˈsəʊfə/
-- 床：bed /bed/ √
-- 架子：shelf /ʃelf/
-- 衣柜：wardrobe /ˈwɔːdrəʊb/ √
-- 梳妆台：dresser /ˈdresə/
-- 抽屉：drawer /drɔ:r/
-- 镜子：mirror /ˈmɪrə/
-#### 床上用品：bedding /ˈbedɪŋ/
-- 床单：sheet /ʃiːt/
-- 枕头：pillow /ˈpɪləʊ/
-- 被子：quilt /kwɪlt/
-- 毯子：blanket /blanket/
-- 靠垫：cushion /ˈkʊʃn/
-#### 清洁用品：cleaning supplies /ˈkliːnɪŋ səˈplaɪz/
-- 扫帚：broom /bruːm/
-- 簸箕：dustpan /ˈdʌstpæn/
-- 海绵：sponge /spʌndʒ/
-- 垃圾桶：waste bin /weɪst bɪn/
-- 拖把：mop /mɒp/
-- 刷子：brush /brʌʃ/
-- 晾衣架：drying rack /ˈdraɪɪŋ ræk/
-- 衣架：coat hanger /kəʊt hanger/
-- 夹子：peg /peɡ/
-- 洗衣液：laundry detergent /ˈlɔːndri dɪˈtɜːdʒənt/
-- 洗衣粉：washing powder /ˈwɒʃɪŋ ˈpaʊdə/
-- 肥皂：soap /səʊp/
-#### 个人护理用品：personal care products /ˈpɜːsənl keə ˈprɒdʌkts/
-- 梳子：comb /kəʊm/
-- 指甲钳：nail clipper /neɪl ˈklɪpə/
-- 牙线：flosser /fˈlɒsər/
-- 牙刷：toothbrush /ˈtuːθbrʌʃ/
-- 牙膏：toothpaste /ˈtuːθpeɪst/
-- 毛巾：towel /ˈtaʊəl/
-- 浴巾：bath towel /bɑːθ ˈtaʊəl/
-- 脸盆：washbasin /ˈwɒʃbeɪsn/
-- 牙签：toothpick /ˈtuːθpɪk/
-- 洗手液：hand sanitizer /hænd ˈsænɪtaɪzə/, liquid hand soap /ˈlɪkwɪd hænd səʊp/
-- 洗发水：shampoo /ʃæmˈpuː/
-- 护发素：hair conditioner /heə kənˈdɪʃənə/
-- 沐浴露：body wash /ˈbɒdi wɒʃ/
-- 身体乳：body lotion /ˈbɒdi ˈləʊʃn/
-- 漱口水：mouthwash /ˈmaʊθwɒʃ/
-- 护手霜：hand lotion /hænd ˈləʊʃn/
-- 纸巾：tissue /ˈtɪʃuː/
-- 餐巾：napkin /ˈnæpkɪn/
-- 尿布：diaper /ˈdaɪpə/ √
-- 防晒霜：sunscreen /ˈsʌnskriːn/
-- 扇子：fan /fæn/
-#### 化妆品：cosmetics /kɒzˈmetɪks/
-- 口红：lipstick /ˈlɪpstɪk/
-#### 厨具：cooking utensils /ˈkʊkɪŋ juːˈtenslz/
-- 火锅：hotpot /ˈhɒtpɒt/ √
-- 锅：pot /pɒt/（深）
-- 锅盖：lid /lɪd/
-- 炒锅：wok /wɒk/
-- 煎锅：frying pan /ˈfraɪɪŋ pæn/
-- 烤盘：oven dish /ˈʌvn dɪʃ/
-- 水壶：kettle /ˈketl/
-- 燃气灶：gas stove /ɡæs stəʊv/
-- 搅拌机：blender /ˈblendə/
-- 砧板：cutting board /ˈkʌtɪŋ bɔːd/
-- 菜刀：kitchen knife /ˈkɪtʃɪn naɪf/
-- 水果刀：fruit knife /fruːt naɪf/
-- 削皮刀：peeler /ˈpiːlə/
-#### 餐具：tableware /ˈteɪblweə/
-- 碟：dish /dɪʃ/
-- 盘：plate /pleɪt/
-- 碗：bowl /bəʊl/
-- 勺：spoon /spuːn/（浅）√, scoop /skuːp/（深）
-- 刀：knife /naɪf/
-- 叉：fork /fɔːk/ √
-- 筷子：chopsticks /ˈtʃɒpstɪks/ √
-- 杯：cup /kʌp/
-- 马克杯：mug /mʌɡ/
-- 茶壶：teapot /ˈtiːpɒt/
-- 玻璃杯：glass /ɡlɑːs/
-- 高脚杯：goblet /ˈɡɒblət/
-#### 容器 ：containers /kənˈteɪnəz/ [B2]
-- 瓶：bottle /ˈbɒtl/
-- 罐头：can /kæn,/ tin /tɪn/
-- 罐：jar /dʒɑː/
-- 保温杯：vacuum flask /ˈvækjuːm flɑːsk/
-- 篮子：basket /ˈbɑːskɪt/
-- 桶：bucket /ˈbʌkɪt/
-- 盒子：box /bɒks/
-- 储物箱：storage box /ˈstɔːrɪdʒ bɒks/
-#### 宠物用品：pet supplies /pet səˈplaɪz/
-- 狗绳：dog leash /dɔːɡ liːʃ/
-- 笼子：cage /keɪdʒ/
-#### 垃圾分类：the garbage classification /ðə ˈɡɑːbɪdʒ ˌklæsɪfɪˈkeɪʃn/
-- 干垃圾：residual waste /rɪˈzɪdjuəl weɪst/
-- 湿垃圾：household food waste /ˈhaʊshəʊld fuːd weɪst/
-- 可回收垃圾：recyclable waste /ˌriːˈsaɪkləbl weɪst/
-- 有害垃圾：hazardous waste /ˈhæzədəs weɪst/
-#### 通信：communications /kəˌmjuːnɪˈkeɪʃnz/ [B1]
-- 强信号：strong signal /strɒŋ ˈsɪɡnəl/
-- 弱信号：weak signal /wiːk ˈsɪɡnəl/
-- 天线：antenna /ænˈtenə/
-#### 电器和电子产品：appliances and electronics /əˈplaɪənsɪz ənd ɪˌlekˈtrɒnɪks/
-- 净水器：water purifier /ˈwɔːtə ˈpjʊərɪfaɪə/
-- 秤：scale /skeɪl/
-- 钟：clock /klɒk/
-- 表：watch /wɒtʃ/
-- 遥控器：remote control /rɪˈməʊt kənˈtrəʊl/
-- 摄像机：camcorder /ˈkæmkɔːdə/
-- 电视机：television /ˈtelɪvɪʒn/ √
-- 冰箱：fridge /frɪdʒ/, refrigerator /rɪˈfrɪdʒəreɪtə/
-- 烤箱：oven /ˈʌvn/
-- 微波炉：microwave /ˈmaɪkrəweɪv/
-- 洗碗机：dishwasher /ˈdɪʃwɔːʃə/
-- 烘干机：dryer /ˈdraɪə/
-- 电吹风：hair dryer /heə ˈdraɪə/
-- 电饭煲：rice cooker /raɪs ˈkʊkə/
-- 电水壶：electric kettle /ɪˈlektrɪk ˈketl/
-- 电风扇：fan /fæn/ √
-- 显示器：monitor /ˈmɒnɪtə/
-- 消毒柜：sterilizer /ˈsterəlaɪzə/
-- 油烟机：range hood /reɪndʒ hʊd/
-- 燃气灶：gas stove /ɡæs stəʊv/
-- 电脑：computer /kəmˈpjuːtə/
-- 手机：cell phones /sel fəʊn/
-- 平板电脑：pad /pæd/
-- 笔记本电脑：laptop /ˈlæptɒp/
-- 台式机：desktop /ˈdesktɒp/
-- 扬声器：speaker /ˈspiːkə/
-- 计算器：calculator /ˈkælkjuleɪtə/
-- 键盘：keyboard /ˈkiːbɔːd/
-- 鼠标：mouse /maʊs/
-- 电蚊拍：mosquito swatter /məˈskiːtəʊ ˈswɒtə/
-- 话筒：microphone /ˈmaɪkrəfəʊn/
-- 变压器：transformer /trænsˈfɔːmə/
-- 充电器：charger /ˈtʃɑːdʒə/
-- 移动电源：power bank /ˈpaʊə bæŋk/
-- 门禁卡：access card /ˈækses kɑːd/
-- 读卡器：card reader /kɑːd ˈriːdə/
-- 开关：switch /swɪtʃ/
-- 插座：socket /ˈsɒkɪt/
-- 插线板：power strip /ˈpaʊə strɪp/
-- 闸机：barrier /ˈbæriə/
-#### 机器：machines /məˈʃiːnz/ [A2]
-- 挖掘机：digger /ˈdɪɡə/
-- 混凝土搅拌车：concrete mixer /ˈkɒŋkriːt ˈmɪksə/
-- 塔吊：tower crane /ˈtaʊə kreɪn/
-- 吊车：mobile crane /ˈməʊbaɪl kreɪn/
-- 绞车：winch /wɪntʃ/ √
-- 割草机：lawn mower /lɔːn ˈməʊə/
-#### 零件：parts /pɑːts/ [B2]
-- 螺丝：screw /skruː/
-- 螺母：nut /nʌt/
-- 钩子：hook /hʊk/
-- 齿轮：gear /ɡɪə/
-#### 工具：tools /tuːlz/ [B2]
-- 洒水壶：watering can /ˈwɔːtərɪŋ kæn/
-- 锄头：hoe /həʊ/
-- 软管：hose /həʊz/
-- 犁：plow /plaʊ/
-- 铁锹：spade /speɪd/
-- 铁铲：shovel /ˈʃʌvl/ √
-- 螺丝刀：screwdriver /ˈskruːdraɪvə/
-- 锤子：hammer /ˈhæmə/ √
-- 杆子：pole /pəʊl/
-- 棍子：stick /stɪk/ √
-- 脚手架：scaffold /ˈskæfəʊld/
-- 灭火器：fire extinguisher /ˈfaɪə ɪkˈstɪŋɡwɪʃə/
-#### 文具：stationery /ˈsteɪʃəneri/
-- 信封：envelope /ˈenvələʊp/
-- 橡皮：eraser /ɪˈreɪzə/
-- 算盘：abacus /ˈæbəkəs/
-- 剪刀：scissors /ˈsɪzəz/ [A2]
-- 墨水：ink /ɪŋk/
-- 纸：paper /ˈpeɪpə/
-- 颜料：paints /peɪnts/
-  - 水彩：watercolor /ˈwɔ:təkʌlə/
-- 蜡笔：crayon /ˈkreɪɒn/ √
-- 粉笔：chalk /tʃɔːk/
-- 彩色铅笔：colored pencil /ˈkʌləd ˈpensl/
-- 水彩笔：colored marker /ˈkʌləd ˈmɑːkə/
-- 圆珠笔：ballpoint pen /ˈbɔːlpɔɪnt pen/
-- 笔：pen /pen/
-- 钢笔：fountain pen /ˈfaʊntən pen/
-- 地球仪：globe /ɡləʊb/
-- 黑板：chalkboard /ˈtʃɔːkbɔːd/, blackboard /ˈblækbɔːd/
-- 白板：whiteboard /ˈwaɪtbɔːd/
-- 胶水：glue /ɡluː/ √
-- 胶带：tape /teɪp/
-- 放大镜：magnifying glass /mægnɪfaɪɪŋ ɡlɑːs/
-#### 交通：transportation /ˌtrænspɔːˈteɪʃn/ [C1]
-- 入口：entrance /ˈentrəns/ √
-- 出口：exit /ˈeksɪt/ √
-- 公园：park /pɑːk/ √
-- 码头：pier /pɪə/
-- 机场：airport /ˈeəpɔːt/ √
-- 公共交通：public transportation /ˈpʌblɪk ˌtrænspɔːˈteɪʃn/
-- 轨道交通：metro /ˈmetrəʊ/
-- 距离：distance /ˈdɪstəns/
-- 公交车站：bus stop /bʌs stɒp/ √
-- 人行道：sidewalk /ˈsaɪdwɔːk/（美）, pavement /ˈpeɪvmənt/（英）
-- 路锥：traffic cone /ˈtræfɪk kəʊn/ √
-- 井盖：manhole cover /ˈmænhəʊl ˈkʌvə/
-- 交通信号灯：traffic light /ˈtræfɪk laɪt/
-- 路障：roadblock /ˈrəʊdblɒk/
-- 护栏：guardrail /ˈɡɑːdreɪl/
-- 路桩：bollard /ˈbɒlɑːd/
-- 减速带：speed bump /spiːd bʌmp/ √
-- 路牙：curb /kɜːb/
-- 路肩：shoulder /ˈʃəʊldə/
-- 三岔路口：t-intersection /tiː ˌɪntəˈsekʃn/, y-intersection /waɪ ˌɪntəˈsekʃn/
-- 路口：intersection /ˌɪntəˈsekʃn/
-- 天桥：overpass /ˈəʊvəpɑːs/
-- 斑马线：zebra crossing /ˈzebrə ˈkrɒsɪŋ/
-- 公路：highway /ˈhaɪweɪ/
-- 高速：expressway /ɪkˈspresweɪ/, freeway /ˈfriːweɪ/（美）
-- 高架：elevated road /ˈelɪveɪtɪd rəʊd/
-- 内环：inner ring /ˈɪnə rɪŋ/
-- 中环：middle ring /ˈmɪdl rɪŋ/
-- 外环：outer ring /ˈaʊtə rɪŋ/
-- 支路：branch road /bræntʃ rəʊd/
-- 巷：lane /leɪn/
-- 弄：alley /ˈæli/
-- 大道：avenue /ˈævənjuː/ √
-- 环路：circle /ˈsɜːkl/
-- 支路：branch road /bræntʃ rəʊd/
-- 隧道：tunnel /ˈtʌnl/ √
-- 铁路：railway /ˈreɪlweɪ/
-- 轨道：track /træk/ [C1]
-#### 车辆：vehicles /ˈviːɪkəlz/ [B1]
-- 卡车：truck /trʌk/（美）√, lorry /ˈlɔːri/（英）√
-- 挂车：trailer /ˈtreɪlə/
-- 拖车：tow truck /təʊ trʌk/ √
-- 洒水车：sprinkler /ˈsprɪŋklə/
-- 扫地车：sweeper /ˈswiːpə/
-- 公交车：bus /bʌs/ √
-- 摩托车：motorbike /ˈməʊtəbaɪk/ √, motorcycle /ˈməʊtəsaɪkl/ √
-- 房车：camper van /ˈkæmpə væn/ √
-- 班车：shuttle bus /ˈʃʌtl bʌs/ √
-- 电动自行车：electric bicycle /ɪˈlektrɪk ˈbaɪsɪkl/ √
-- 双层巴士：double-decker bus /ˈdʌbl ˈdekə bʌs/ √
-#### 火车：trains /treɪnz/ [A1] √
-- 蒸汽火车：steam train /stiːm treɪn/, puffer billy /ˈpʌfə ˈbɪli/
-- 磁悬浮列车：maglev train /ˈmæɡlev treɪn/
-- 高铁：high-speed train /haɪ spiːd treɪn/ √
-- 地铁：metro /ˈmetrəʊ/ √, subway /ˈsʌbweɪ/（美）, underground /ˌʌndəˈɡraʊnd/（英）
-- 轻轨：light rail /laɪt reɪl/, overground /ˈəuvəɡraund/（英）
-#### 航空器：aircrafts /ˈeəkrɑːfts/ [B2] √
-- 飞机：airplane /ˈeəpleɪn/（美）√, aeroplane /ˈeərəpleɪn/（英）√
-- 直升机：helicopter /ˈhelɪkɒptə/ √
-- 热气球：hot air balloon /hɒt eə bəˈluːn/ √
-#### 船：boats /bəʊts/ [A1] √
-- 皮划艇：kayak /ˈkaɪæk/
-- 独木舟：canoe /kəˈnuː/
-- 橡皮筏：dinghy /ˈdɪŋɡi/ √
-- 帆船：sailboat /ˈseɪlbəʊt/ √
-- 渔船：fishing boat /ˈfɪʃɪŋ bəʊt/ √
-- 救生船：lifeboat /ˈlaɪfbəʊt/
-- 渡轮：ferry /ˈferi/
-#### 汽车零部件：car parts /kɑː pɑːts/
-- 发动机, 引擎：engine /ˈendʒɪn/ √
-- 轮胎：tyre /ˈtaɪə/（英）, tire /ˈtaɪə/（美）
-- 雨刮器：wiper /ˈwaɪpə/ √
-- 轮子：wheel /wiːl/ √
-- 喇叭：horn /hɔːn/ √
-#### 火车零部件：train parts /treɪn pɑːts/
-- 火车车厢：coach /kəʊtʃ/
-#### 飞机零部件：airplane parts /ˈerpleɪn pɑːts/
-- 驾驶舱：cockpit /ˈkɒkpɪt/
-#### 航天：aerospace /ˈeərəʊspeɪs/
-- 火箭：rocket /ˈrɒkɪt/ [B2] √
-- 航天飞机：space shuttle /speɪs ˈʃʌtl/
-- 点火：ignition /ɪɡˈnɪʃn/
-- 起飞：lift off /ˈlɪft ɒf/
-- 发射：launch /lɔːntʃ/ [C1] √
-- 发射台：launch pad /ˈlɔːntʃ pæd/ √
-#### 服装：clothes /kləʊðz/ [A1]
-- 内衣：underwear /ˈʌndəweə/
-- 体恤衫：t-shirt /ˈtiː ʃɜːt/
-- 袜子：socks /sɒks/
-- 连裤袜：tights /taɪts/
-- 内裤：underpants /ˈʌndəpænts/（美）, pants /pænts/（英）
-- 牛仔裤：jeans /dʒiːnz/
-- 毛衣：sweater /ˈswetə/
-- 套头毛衣：sweater /ˈswetə/（美）, jumper /ˈdʒʌmpə/（英）
-- 短裤：shorts /ʃɔːts/
-- 裙子：skirt /skɜːt/
-- 帽子：hat /hæt/, cap /kæp/
-- 围巾：scarf /skɑːf/ √
-- 手套：gloves /ɡlʌvz/, mittens /ˈmɪtnz/ √
-- 靴子：boots /buːts/ √
-- 连衣裙：dress /dres/
-- 夹克衫：jacket /ˈdʒækɪt/
-- 睡衣：pajama /pəˈdʒɑːmə/
-- 腰带：belt /belt/
-- 领带：tie /taɪ/
-- 演出服：costume /ˈkɒstjuːm/
-- 制服：uniform /ˈjuːnɪfɔːm/
-- 倒挂衣：bib /bɪb/
-- 假发：wig /wɪɡ/
-- 外套：coat /kəʊt/
-- 羽绒服：down jacket /daʊn ˈdʒækɪt/
-- 围裙：apron /ˈeɪprən/
-- 袖子：sleeve /sliːv/
-- 长裤：trousers /ˈtraʊzəz/, pants /pænts/（美）
-- 雨衣：raincoat /ˈreɪnkəʊt/
-#### 鞋子：shoes /ʃuːz/ [A1]
-- 拖鞋：slippers /ˈslɪpəz/
-- 雨靴：rain boots /reɪn buːts/
-#### 包：bags /bæɡz/ [A1]
-- 背包：backpack /ˈbækpæk/
-#### 眼镜：glasses /ˈɡlɑːsɪz/ [A1]
-- 墨镜：shades /ʃeɪdz/
-- 太阳眼镜：sunglasses /ˈsʌnɡlɑːsɪz/
-- 游泳眼镜：goggles /ˈɡɑːɡlz/
-#### 首饰：jewellery（英）, jewelry（美）/ˈdʒuːəlri/ [A2]
-- 戒指：ring /rɪŋ/ [A2]
-- 项链：necklace /ˈnekləs/ [A2]
-- 耳环：earrings /iəriŋz/ [A2]
-#### 缝纫：sewing /ˈsəʊɪŋ/ [C1]
-- 针：needle /ˈniːdl/
-- 线：thread /θred/
-- 拉链：zip /zɪp/, zipper /ˈzɪpə/
-- 带扣：buckle /ˈbʌkl/
-- 纽扣：button /ˈbʌtn/
-#### 动物：the animal /ði ˈænɪml/ [A1] √
-- 爬行动物：reptiles /ˈreptaɪlz/ [C1]
-  - 蛇：snake /sneɪk/ [A2] √
-  - 乌龟：turtle /ˈtɜːtl/（水陆）, tortoise /ˈtɔːtəs/（陆） √
-  - 海龟：sea turtle /siː ˈtɜːtl/
-  - 变色龙：chameleon /kəˈmiːliən/
-  - 火蜥蜴：salamander /ˈsæləmændə/ [ORT2] √
-  - 鳄鱼： [B2] /ˈkrɒkədaɪl/ [B2]
-- 鸟：birds /bɜːdz/ [A1] √
-  - 小鸟：birdie /ˈbɜːdi/ √
-  - 鸵鸟：ostrich /ˈɒstrɪtʃ/
-  - 小鸭：duckling /ˈdʌklɪŋ/
-  - 鸽子：pigeon /ˈpɪdʒɪn/ √
-  - 鹅：goose /ɡuːs/
-  - 小鹅：gosling /ˈɡɒzlɪŋ/ √
-  - 小蝌蚪：tadpole /ˈtædpəʊl/ √
-  - 猫头鹰：owl /aʊl/ [B2]
-  - 小猫头鹰：owlet /ˈaʊlət/
-  - 乌鸦：crow /krəʊ/
-  - 燕子：swallow /ˈswɒləʊ/
-  - 火鸡：turkey /ˈtɜːki/ [B1]
-  - 母鸡：hen /hen/ √
-  - 公鸡：rooster /ˈruːstə/ √
-  - 孔雀：peacock /ˈpiːkɒk/ √
-  - 海鸥：seagull /siːɡʌl/
-  - 巨嘴鸟：toucan /ˈtuːkæn/
-  - 猎鹰：falcon /ˈfælkən/ √
-- 蛤蜊：clam /klæm/
-- 昆虫：insects /ˈɪnsekts/ [A2] √
-  - 虫子：bug /bʌɡ/ [B1] √
-  - 苍蝇：fly /flaɪ/ [B1] √
-  - 萤火虫：firefly /ˈfaɪəflaɪ/ √
-  - 蚊子：mosquito /məˈskiːtəʊ/ [B1] √
-  - 蚂蚁：ant /ænt/ [B1] √
-  - 蜻蜓：dragonfly /ˈdræɡənflaɪ/ √
-  - 瓢虫：ladybug /leɪdɪbʌɡ/ √
-  - 蜜蜂：honeybee /ˈhʌnibiː/ √
-  - 黄蜂：wasp /wɒsp/ [B2]
-  - 大黄蜂：bumblebee /ˈbʌmblbiː/
-  - 飞蛾：moth /mɒθ/ √
-  - 蝴蝶：butterfly /ˈbʌtəflaɪ/ [B1] √
-  - 茧：cocoon /kəˈkuːn/ √
-  - 碟蛹：chrysalis /ˈkrɪsəlɪs/
-  - 蟋蟀：cricket /ˈkrɪkɪt/ [C2]
-  - 甲壳虫：beetle /ˈbiːtl/
-- 蜘蛛：spider /ˈspaɪdə/ [B1] √
-- 蜈蚣：centipede /ˈsentɪpiːd/
-- 哺乳动物：mammals /ˈmæmlz/ [C1] √
-  - 瞪羚：gazelle /ɡəˈzel/
-  - 斑马：zebra /ˈzebrə/ [B2] √
-  - 长颈鹿：giraffe /dʒəˈrɑːf/ [B1] √
-  - 大熊猫：panda /ˈpændə/ √
-  - 考拉：koala /kəʊˈɑːlə/
-  - 松鼠：squirrel /ˈskwɪrəl/ √
-  - 树懒：sloth /sləʊθ/ √
-  - 老虎：tiger /ˈtaɪɡə/ [B1] √
-  - 海狮：sea lion /siː ˈlaɪən/
-  - 海豹：seal /siːl/ [B2] √
-  - 海象：walrus /ˈwɔːlrəs/
-  - 鲸鱼：whale /weɪl/ [B1] √
-  - 臭鼬：skunk /skʌŋk/ √
-  - 大象：elephant /ˈelɪfənt/ [A2] √
-  - 骆驼：camel /ˈkæml/ [B1] √
-  - 狐狸：fox /fɒks/ [B2] √
-  - 兔子：rabbit /ˈræbɪt/ [A2] √
-  - 小兔子：bunny /ˈbʌni/ √
-  - 猫：cat /kæt/ [A1] √
-  - 小猫：kitten /ˈkɪtn/ [B1] √
-  - 黑豹：panther /ˈpænθə/
-  - 狗：dog /dɒɡ/ [A1] √
-  - 小狗：puppy /ˈpʌpi/ [B1] √
-  - 猪：pig /pɪɡ/ [A1] √
-  - 小猪：piggy /ˈpɪɡi/ √
-  - 小鸡：chick /tʃɪk/ √
-  - 小羊：lamb /læm/ [B1] √
-  - 小马：foal /fəʊl/, pony /ˈpəʊni/ [C1] √
-  - 小牛：calf /kɑːf/ [B1]
-  - 幼崽：cub /kʌb/（凶猛）, calf /kɑːf/（温顺）
-  - 小鹿：fawn /fɔːn/
-  - 袋鼠：kangaroo /ˌkæŋɡəˈruː/ [B1]
-  - 小袋鼠：joey /ˈdʒəʊi/
-  - 驴：donkey /ˈdɒŋki/ [B1]
-  - 牧羊犬：sheepdog /ˈʃi:pdɒg/
-  - 黑猩猩：chimpanzee /ˌtʃɪmpænˈziː/
-  - 大猩猩：gorilla /ɡəˈrɪlə/ √
-  - 猩猩：orangutan /əˈræŋətæn/
-  - 犀牛：rhino /ˈraɪnəʊ/, rhinoceros /raɪˈnɒsərəs/
-  - 河狸：beaver /ˈbiːvə/
-  - 狮子：lion ˈlaɪən [A2] √
-  - 熊：bear /beə/ [A2] √
-- 恐龙：dinosaur /ˈdaɪnəsɔː/ [A2] √
-- 鱼：fish /fɪʃ/ [A1] √
-  - 金鱼：goldfish /ˈɡəʊldfɪʃ/ √
-  - 鲨鱼：shark /ʃɑːk/ [B1] √
-  - 海豚：dolphin /ˈdɒlfɪn/ [B1] √
-  - 三文鱼：salmon /ˈsæmən/ [B1]
-  - 银鳕鱼（小鳞犬牙南极鱼）：patagonian toothfish /pætəˈɡəunjən tuːθfɪʃ/
-  - 热带鱼：tropical fish /ˈtrɒpɪkl fɪʃ/
-- 蟹：crab /kræb/ [B2] √
-- 寄居蟹：hermit crab /ˈhɜːmɪt kræb/
-- 虾：shrimp /ʃrɪmp/ [B1] √
-- 龙虾：lobster /ˈlɒbstə/
-- 小龙虾：crayfish /ˈkreɪfɪʃ/, crawfish /ˈkrɔːfɪʃ/
-- 水母：jellyfish /ˈdʒelifɪʃ/
-- 蠕虫：worms /wɜːmz/ [B2] √
-  - 蚯蚓：earthworm /ˈɜːθwɜːm/
-  - 鼻涕虫：slug /slʌɡ/
-- 毛毛虫：caterpillar /ˈkætəpɪlə/ √
-- 蜗牛：snail /sneɪl/ √
-- 宠物：pet /pet/ [A1] √
-- 珊瑚：coral /ˈkɒrəl/ [C2]
-- 怪兽：monster /ˈmɒnstə/ [B1] √
-- 毛皮：fur /fɜː/ [B1]
-- 掌：paw /pɔː/ [B2]
-- 大象鼻子：trunk /trʌŋk/ √
-- 爪子：claw /klɔː/
-#### 植物：the plant /ðə plænt/ [A1] √
-- 花：flowers /ˈflaʊəz/ [A1] √
-  - 樱花：sakura /sakurə/
-- 花苞：bud /bʌd/
-- 花瓣：petal /ˈpetl/
-- 树：trees /triːz/ [A1] √
-  - 橡树：oak tree /əʊk triː/
-- 草：grass /ɡrɑːs/ [A1] √
-- 藤：vine /vaɪn/ [C1]
-- 树干：trunk /trʌŋk/ [B2]
-- 茎：stem /stem/
-- 芽：sprout /spraʊt/
-- 根：root /ruːt/ [B2] √
-- 叶：leaf /liːf/ [B1] √
-- 树枝：branch /bræntʃ/ [B1], twig /twɪɡ/（小）
-- 灌木：bush /bʊʃ/ [B2]
-- 种子：seeds /siːdz/ [B2]
-  - 橡果：acorn /ˈeɪkɔːn/
-#### 微生物：the microorganism /ðə ˌmaɪkrəʊˈɔːɡənɪzəm/
-- 真菌：fungus /ˈfʌŋɡəs/
-- 细菌：bacteria /bækˈtɪəriə/ [C1]
-- 病毒：virus /ˈvaɪrəs/ [B2]
-#### 人：people /ˈpiːpl/ [A1]
-- 婴儿：baby /ˈbeɪbi/ [A1] √, infant /ˈɪnfənt/ [C2]
-- 幼童：toddler /ˈtɒdlə/ [C2]
-- 儿童：kid /kɪd/ [A2]
-- 孩子：child /tʃaɪld/ [A1]
-- 男人：man /mæn/ [A1] √
-- 女人：woman /ˈwʊmən/ [A1]
-- 成年人：adult /ˈædʌlt/ [A1]
-- 男孩：boy /bɔɪ/ [A1] √
-- 女孩：girl [A1] /ɡɜːl/ √
-- 少年：teenager /ˈtiːneɪdʒə/ [A2]
-- 病人：patient /ˈpeɪʃnt/ [B1]
-- 绅士：gentleman /ˈdʒentlmən/ [B2]
-- 女士：lady /ˈleɪdi/ [B1]
-- 行人：pedestrian /pəˈdestriən/ [B1]
-- 观众：audience /ˈɔːdiəns/ [B1] √
-- 学生：student /ˈstjuːdnt/ [A1]
-- 游客：tourist /ˈtʊərɪst/ [A2]
-- 访客：visitor /ˈvɪzɪtə/ [A2]
-- 囚犯：prisoner /ˈprɪznə/ [B1]
-#### 职业：jobs /dʒobs/ [A1]
-- 邮递员：postman /ˈpəʊstmən/ [B1]
-- 宇航员：astronaut /ˈæstrənɔːt/ √, spaceman /ˈspeɪsmæn/
-- 消防员：firefighter /ˈfaɪəfaɪtə/ [B1] √
-- 医生：doctor /ˈdɒktə/ [A1] √
-- 兽医：veterinarian /ˌvetərɪˈneəriən/, vet /vet/（缩）[B1] √
-- 农民：farmer /ˈfɑːmə/ [A2] √
-- 军人：soldier /ˈsəʊldʒə/ [B1] √
-- 水手：sailor /ˈseɪlə/ [B1]
-- 海军陆战队员：marine /məˈriːn/
-- 狙击手：sniper /ˈsnaɪpə/
-- 警察：policeman /pəˈliːsmən/ [A2] √, policewoman /pəˈliːswʊmən/ [A2], police officer /pəˈliːs ˈɒfɪsə/ [A2] √
-- 飞行员：pilot /ˈpaɪlət/ [A2] √
-- 老师：teacher /ˈtiːtʃə/ [A1] √
-- 护士：nurse /nɜːs/ [A2] √
-- 服务员：waiter /ˈweɪtə/（男）[A1], waitress /ˈweɪtrəs/（女）[A1]
-- 牙医：dentist /ˈdentɪst/ [A2] √
-- 科学家：scientist /ˈsaɪəntɪst/ [B1]
-- 歌手：singer /ˈsɪŋə/ [A2] √
-- 理发师：barber /ˈbɑːbə/ [B1], hairdresser /ˈheədresə/ [B1]
-- 演员：actor /ˈæktə/（男）, actress /ˈæktrəs/（女）
-- 喜剧演员：comedian /kəˈmiːdiən/ [B2]
-- 特技演员：stuntman /ˈstʌntmæn/
-- 作家：writer /ˈraɪtə/
-- 舞者：dancer /ˈdɑːnsə/ √
-- 律师：lawyer /ˈlɔɪə/
-- 厨师：chef /ʃef/ √
-- 图书管理员：librarian /laɪˈbreəriən/
-- 动物饲养员：zookeeper /ˈzuːkiːpə/ √
-- 作者：author /ˈɔːθə/
-- 画家：artist /ˈɑːtɪst/
-- 教练：coach /kəʊtʃ/ √
-- 音乐家：musician /mjuˈzɪʃn/
-- 运动员：athlete /ˈæθliːt/
-- 探险家：explorer /ɪkˈsplɔːrə/
-- 园丁：gardener /ˈɡɑːdnə/ √
-- 裁缝：tailor /ˈteɪlə/
-- 木匠：carpenter /ˈkɑːpəntə/
-- 屠夫：butcher /ˈbʊtʃə/
-- 管家：housekeeper /ˈhaʊskiːpə/
-- 乘务员：attendant /əˈtendənt/
-- 烘焙师：baker /ˈbeɪkə/ √
-- 渔夫：fisherman /ˈfɪʃəmən/, fisherwoman /ˈfɪʃəwʊmən/
-- 保安：guard /ɡɑːd/
-- 环卫工：sanitation worker /ˌsænɪˈteɪʃn ˈwɜːkə/
-- 保洁工：cleaner /ˈkliːnə/ √
-- 魔术师：conjurer /ˈkʌndʒərə/
-- 潜水员：diver /ˈdaɪvə/
-- 建筑师：architect /ˈɑːkɪtekt/
-- 会计：accountant /əˈkaʊntənt/
-- 摄影师：photographer /fəˈtɒɡrəfə/
-- 金融家：financier /faɪˈnænsiə/
-- 法官：judge /dʒʌdʒ/
-- 司机：driver /ˈdraɪvə/ √
-- 收银员：cashier /kæˈʃɪə/
-- 工程师：engineer /ˌendʒɪˈnɪə/
-- 记者：reporter /rɪˈpɔːtə/
-- 秘书：secretary /ˈsekrətri/
-- 骑士：knight /naɪt/ √
-- 机械师：mechanic /məˈkænɪk/ √
-- 巫师：wizard /ˈwɪzəd/
-- 巫婆：witch /wɪtʃ/ √
-- 矿工：miner /ˈmaɪnə/
-#### 职位：positions /pəˈzɪʃnz/ [B2]
-- 校长, 总裁, 主席, 总统：president /ˈprezɪdənt/
-- 国王：king /kɪŋ/ √
-- 皇后：queen /kwiːn/ √
-- 公主：princess /ˌprɪnˈses/ √
-- 王子：prince /prɪns/ √
-- 校长：principal /ˈprɪnsəpl/
-- 领导：leader /ˈliːdə/
-- 经理：manager /ˈmænɪdʒə/
-- 队长：captain /ˈkæptɪn/ √
-#### 称谓：titles /ˈtaɪtlz/
-- 女士：Miss /mɪs/ [A1], madam /ˈmædəm/ [B1]
-- 夫人：Mrs /ˈmɪsɪz/ [A1], madam /ˈmædəm/ [B1]
-- 先生：Mr /ˈmɪstə/ [A1], sir /sɜː/ [B1]
-#### 关系：relationships /rɪˈleɪʃnʃɪps/ [B1]
-- 丈夫：husband /ˈhʌzbənd/
-- 妻子：wife /waɪf/
-- 爸爸：father /ˈfɑːðə/, dad /dæd/ √
-- 妈妈：mother /ˈmʌðə/, mom /mɑːm/（美）, mum /mʌm/（英）
-- 舅舅：uncle /ˈʌŋkl/
-- 舅妈：aunt /ɑːnt/
-- 父母：parent /ˈpeərənt/
-- 爷爷, 外公：grandpa /ˈɡrænpɑː/
-- 奶奶, 外婆：grandma /ˈɡrænmɑː/
-- 姐姐：sister /ˈsɪstə/ √
-- 兄弟：brother /ˈbrʌðə/ √
-- 堂、表兄弟姐妹：cousin /ˈkʌzn/
-- 兄弟姐妹：sibling /ˈsɪblɪŋ/
-- 外甥：nephew /ˈnefjuː/
-- 外甥女：niece /niːs/
-- 儿子：son /sʌn/
-- 女儿：daughter /ˈdɔːtə/
-- 孙子, 外孙：grandson /ˈɡrænsʌn/
-- 孙女, 外孙女：granddaughter /ˈɡrændɔːtə/
-- 双胞胎：twins /twɪnz/
-- 家庭：family /ˈfæməli/
-- 朋友：friend /frend/
-- 笔友：pen pal /pen pæl/
-- 队员：crew member /kruː ˈmembə/
-- 同学：classmate /ˈklɑːsmeɪt/
-- 同事：colleague /ˈkɒliːɡ/
-- 邻居：neighbor /ˈneɪbə/
-- 住户：household /ˈhaʊshəʊld/ [B2]
-- 室友：roommate /ˈruːmmeɪt/ [B2]
-#### 健康：health /helθ/ [A2]
-- 维生素：vitamin /ˈvɪtəmɪn/
-- 药丸：pill /pɪl/
-- 药：drug /drʌɡ/, medicine /ˈmedɪsn/
-- 疫苗：vaccine /vækˈsiːn/
-- 体温计：thermometer /θəˈmɒmɪtə/
-- 轮椅：wheelchair /ˈwiːltʃeə/
-- 口罩：mask /mɑːsk/ √
-- 冰袋：ice pack /aɪs pæk/
-- 疼痛：ache /eɪk/
-- 咳嗽：cough /kɒf/
-- 打针：injection /ɪnˈdʒekʃn/
-- 过敏：allergy /ˈælədʒi/
-- 水疗：spa /spɑː/
-- 按摩：massage /ˈmæsɑːʒ/
-- 洗澡：bath /bɑːθ/
-- 淋浴：shower /ˈʃaʊə/
-#### 身体：the body /ðə ˈbɒdi/ [A1]
-- 骨架：skeleton /ˈskelɪtn/
-- 头：head /hed/ √
-- 拇指：thumb /θʌm/
-- 食指：pointer finger /ˈpɔɪntə ˈfɪŋɡə/
-- 中指：middle finger /ˈmɪdl ˈfɪŋɡə/
-- 无名指：ring finger /rɪŋ ˈfɪŋɡə/
-- 小手指：little finger /ˈlɪtl ˈfɪŋɡə/
-- 大脚趾：big toe /bɪɡ təʊ/
-- 第二脚趾：second toe /ˈsekənd təʊ/
-- 第三脚趾：third toe /θɜːd təʊ/
-- 第四脚趾：fourth toe /fɔːθ təʊ/
-- 小脚趾：little toe /ˈlɪtl təʊ/
-- 脚尖：tiptoe /ˈtɪptəʊ/
-- 肚子：tummy /ˈtʌmi/（儿语）√
-- 腹部：belly /ˈbeli/
-- 肚脐：belly button /ˈbeli ˈbʌtn/
-- 胃：stomach /ˈstʌmək/
-- 脸颊：cheek /tʃiːk/
-- 脸：face /feɪs/
-- 耳垂：earlobe /ˈɪələʊb/
-- 眉毛：eyebrow /ˈaɪbraʊ/
-- 眼皮：eyelid /ˈaɪlɪd/
-- 睫毛：eyelash /ˈaɪlæʃ/
-- 额头：forehead /ˈfɔːhed/
-- 下巴：chin /tʃɪn/
-- 胡子（下巴）：beard /bɪəd/
-- 臀：bottom /ˈbɒtəm/
-- 髋部：hip /hɪp/
-- 背：back /bæk/
-- 胸：chest /tʃest/
-- 颈：neck /nek/
-- 血：blood /blʌd/
-- 骨：bone /bəʊn/
-- 皮肤：skin /skɪn/
-- 手肘：elbow /ˈelbəʊ/ √
-- 脚踝：ankle /ˈæŋkl/
-- 脚后跟：heel /hiːl/
-- 脚底板：sole /səʊl/
-- 腿：leg /leɡ/
-- 手臂：arm /ɑːm/
-- 大腿：thigh /θaɪ/
-- 小腿：calf /kɑːf/ [C2]
-- 手掌：palm /pɑːm/
-- 手腕：wrist /rɪst/
-- 嘴唇：lip /lɪp/
-- 手指甲：fingernail /ˈfɪŋɡəneɪl/
-- 脚趾甲：toenail /ˈtəʊneɪl/
-#### 五官感觉：five senses /ˈsensɪz/
-- 视觉：sight /saɪt/
-- 听觉：hearing /hɪərɪŋ/
-- 触觉：touch /tʌtʃ/
-- 嗅觉：smell /smel/
-- 味觉：taste /teɪst/
-#### 情感：emotions /ɪˈməʊʃnz/ [B2]
-- 爱：love /lʌv/ √
-- 喜欢：like /laɪk/
-- 讨厌：hate /heɪt/
-#### 感觉：feelings /ˈfiːlɪŋz/ [B1]
-- 无聊：bored /bɔːd/
-- 舒服：comfortable /ˈkʌmftəbl/
-- 开心：happy /ˈhæpi/, glad /ɡlæd/
-- 伤心：sad /sæd/
-- 饱：full /fʊl/
-- 饿：hungry /ˈhʌŋɡri/
-- 口渴：thirsty /ˈθɜːsti/
-- 害怕：afraid /əˈfreɪd/
-- 惊讶：surprise /səˈpraɪz/
-- 困：sleepy /ˈsliːpi/
-- 疲倦：tired /ˈtaɪəd/
-- 生气：angry /ˈæŋɡri/ √
-#### 数学：math /mæθ/（美）[A2], maths /mæθs/（英）[A2], mathematics /ˌmæθəˈmætɪks/
-- 数字：numbers /ˈnʌmbəz/
-  - 序数：ordinal numbers /ˈɔːdɪnl ˈnʌmbəz/
-  - 基数：cardinal numbers /ˈkɑːdɪnl ˈnʌmbəz/
-    - 0：zero /ˈzɪərəʊ/ √
-    - 1：one /wʌn/ √
-    - 2：two /tuː/ √
-    - 3：three /θriː/ √
-    - 4：four /fɔː/ √
-    - 5：five /faɪv/ √
-    - 6：six /sɪks/ √
-    - 7：seven /ˈsevn/ √
-    - 8：eight /eɪt/ √
-    - 9：nine /naɪn/ √
-    - 10：ten /ten/ √
-    - 11：eleven /ɪˈlevn/
-    - 12：twelve /twelv/
-    - 13：thirteen /ˌθɜːˈtiːn/
-    - 14：fourteen /ˌfɔːˈtiːn/
-    - 15：fifteen /ˌfɪfˈtiːn/
-    - 16：sixteen /ˌsɪksˈtiːn/
-    - 17：seventeen /ˌsevnˈtiːn/
-    - 18：eighteen /ˌeɪˈtiːn/
-    - 19：nineteen /ˌnaɪnˈtiːn/
-    - 20：twenty /ˈtwenti/
-    - 21：twenty-one /ˈtwenti wʌn/
-    - 30：thirty /ˈθɜːti/
-    - 40：forty /ˈfɔːti/
-    - 50：fifty /ˈfɪfti/
-    - 60：sixty /ˈsɪksti/
-    - 70：seventy /ˈsevnti/
-    - 80：eighty /ˈeɪti/
-    - 90：ninety /ˈnaɪnti/
-    - 100：one hundred /wʌn ˈhʌndrəd/
-    - 101：one hundred and one /wʌn ˈhʌndrəd ənd wʌn/
-    - 200：two hundred /tuː ˈhʌndrəd/
-    - 1000：one thousand /wʌn ˈθaʊznd/, one kilo /wʌn ˈkiːləʊ/
-    - 1101：one thousand one hundred and one /wʌn ˈθaʊznd wʌn ˈhʌndrəd ənd wʌn/
-    - 百万：million /ˈmɪljən/, mega /ˈmeɡə/
-    - 十亿：billion /ˈbɪljən/, giga /ˈɡɪɡə/
-    - 万亿：trillion /ˈtrɪljən/, tera /ˈterə/
-- 十进制：decimalism /ˈdesɪməlɪzəm/
-- 二进制：binary system /ˈbaɪnəri ˈsɪstəm/
-- 运算符：operators /ˈɒpəreɪtəs/
-  - 加：plus /plʌs/
-  - 减：subtract /səbˈtrækt/
-  - 乘：multiply /ˈmʌltɪplaɪ/
-  - 除：divide /dɪˈvaɪd/
-- 数数：count /kaʊnt/
-- 百分比：percentage /pəˈsentɪdʒ/
-#### 时间：time /taɪm/ [A2]
-- 上午：morning /ˈmɔːnɪŋ/ √
-- 下午：afternoon /ˌɑːftəˈnuːn/
-- 晚上：evening /ˈiːvnɪŋ/
-- 日期：date /deɪt/
-- 日历：the calendar /ðə ˈkælɪndəz/
-  - 月份：months /mʌnθs/
-    - 一月：January /ˈdʒænjuəri/ [A1]
-  - 季度：quarter /ˈkwɔːtə/
-  - 周末：weekend /ˌwiːkˈend/
-  - 星期：days of a week /deɪz ɒv ə wiːk/
-    - 星期一：Monday /ˈmʌndeɪ/ [A1]
-- 节日：festival days /ˈfestɪvl deɪz/
-  - 植树节：Arbor Day /ˈɑːbə deɪ/
-  - 元旦：New Yearˈs Day /ˌnjuː jɪəz ˌdeɪ/
-  - 春节：Spring Festival /sprɪŋ ˈfestɪvl/ √
-  - 元宵节：Lantern Festival /ˈlæntən ˈfestɪvl/ √
-  - 清明节：Qingming Festival /ˈkɪŋˈmɪŋ ˈfestɪvl/
-  - 情人节：Valentineˈs Day /ˈvæləntaɪnz deɪ/
-  - 端午节：Dragon Boat Festival /ˈdræɡən bəʊt ˈfestɪvl/
-  - 妇女节：Womenˈs Day /ˈwɪmɪnz deɪ/
-  - 中秋节：Mid-Autumn Festival /mɪd ˈɔ:təm ˈfestɪvl/
-  - 教师节：Teachersˈ Day /ˈtiːtʃəz deɪ/
-  - 儿童节：Childrenˈs Day /ˈtʃɪldrənz deɪ/ √
-  - 国庆节：National Day /ˈnæʃnəl deɪ/
-  - 劳动节：Labor Day /ˈleɪbə deɪ/
-  - 万圣节：All Saintsˈ Day /ˌɔːl ˈseɪnts deɪ/, All Hallowsˈ Day /ˌɔːl ˈhæləʊz deɪ/
-  - 万圣节前夜：Halloween /ˌhæləʊˈiːn/ √
-  - 复活节：Easter /ˈiːstə/
-  - 圣诞节：Christmas /ˈkrɪsməs/ √
-  - 平安夜：Christmas Eve /ˈkrɪsməs iːv/
-- 特别的日子：special days /ˈspeʃl deɪz/
-  - 生日：birthday /ˈbɜːθdeɪ/ √
-  - 周年纪念日：anniversary /ˌænɪˈvɜːsəri/
-- 时钟：the clock /ðə klɒk/ √
-- 季节：seasons /ˈsiːznz/
-  - 春：spring /sprɪŋ/ √
-  - 夏：summer /ˈsʌmə/ √
-  - 秋：autumn /ˈɔːtəm/ √, fall /fɔːl/ √
-  - 冬：winter /ˈwɪntə/ √
-- 年龄：age /eɪdʒ/
-#### 计量单位：units of measure /ˈjuːnɪts ɒv ˈmeʒə/
-- 长度：length /leŋkθ/
-- 容量：capacity /kəˈpæsəti/
-- 质量：quality /ˈkwɒləti/
-- 体积：volume /ˈvɒljuːm/
-- 速度：speed /spiːd/
-#### 量词：quantifiers /ˈkwɒntɪfaɪəz/
-- 片：slice /slaɪs/
-- 张：piece /piːs/
-- 块：block /blɒk/
-- 组, 群：group /ɡruːp/
-- 推：stack /stæk/
-- 束：bunch /bʌntʃ/
-- 堆：heap /hiːp/
-- 滴：drop /drɒp/
-- 很多：many /ˈmeni/
-- 很少：few /fjuː/
-- 一些：some /səm/, any /ˈeni/
-- 一打：dozen /ˈdʌzn/
-#### 方位：directions /dəˈrekʃnz/ [B1]
-- 东：east /iːst/
-- 西：west /west/
-- 北：north /nɔːθ/
-- 南：south /saʊθ/
-- 左：left /left/ √
-- 右：right /raɪt/ √
-- 上：up /ʌp/ √
-- 下：down /daʊn/ √
-- 前：before /bɪˈfɔː/
-- 后：after /ˈɑːftə/
-#### 颜色：colors /ˈkʌləz/ [A1]
-- 红：red /red/ √
-- 橙：orange /ˈɒrɪndʒ/ √
-- 粉：pink /pɪŋk/ √
-- 绿：green /ɡriːn/ √
-- 灰：gray（美）, grey（英）/ɡreɪ/ [A1]
-- 黄：yellow /ˈjeləʊ/ √
-- 蓝：blue /bluː/ √
-- 白：white /waɪt/ √
-- 棕：brown /braʊn/ √
-- 银：silver /ˈsɪlvə/
-- 金：gold /ɡəʊld/ √
-- 黑：black /blæk/ √
-- 紫：purple /ˈpɜːpl/ √
-- 浅色：light color /laɪt ˈkʌlə/
-- 深色：dark color /dɑːk ˈkʌlə/
-#### 形状：shapes /ʃeɪps/ [B1]
-- 圆：circle /ˈsɜːkl/ √
-- 多边形：polygon /ˈpɒlɪɡən/
-- 正方形：square /skweə/ √
-- 矩形：rectangle /ˈrektæŋɡl/ √
-- 椭圆：ellipse /ɪˈlɪps/, oval /ˈəʊvl/ √
-- 半圆：semicircle /ˈsemisɜːkl/, half circle /hɑːf ˈsɜːkl/
-- 菱形：diamond /ˈdaɪəmənd/
-- 梯形：trapezoid /ˈtræpəzɔɪd/
-- 线：line /laɪn/ √
-- 曲线：curve /kɜːv/
-- 直线：straight line /streɪt laɪn/
-- 星型：star /stɑː/ √
-- 心型：heart /hɑːt/ √
-- 直角：right angle /raɪt ˈæŋɡl/
-- 锐角：acute angle /əˈkjuːt ˈæŋɡl/
-- 钝角：obtuse angle /əbˈtjuːs ˈæŋɡl/
-- 圆角：rounded corner /ˈraʊndɪd ˈkɔːnə/, circular corner /ˈsɜːkjələ ˈkɔːnə/
-- 角：angle /ˈæŋɡl/
-- 边：side /saɪd/
-- 正方体：cube /kjuːb/ √
-- 圆锥体：cone /kəʊn/
-- 球体：sphere /sfɪə/
-- 圆柱体：cylinder /ˈsɪlɪndə/
-- 扇形：sector /ˈsektə/
-#### 味道：tastes /teɪsts/ [B1]
-- 酸：sour /ˈsaʊə/
-- 甜：sweet /swiːt/ √
-- 苦：bitter /ˈbɪtə/
-- 辣：spicy /ˈspaɪsi/ √
-- 咸：salty /ˈsɔːlti/
-- 浓：strong flavor /strɒŋ ˈfleɪvə/
-- 淡：weak flavor /wiːk ˈfleɪvə/
-- 腻：greasy /ˈɡriːsi/
-- 麻：numbing /ˈnʌmɪŋ/
-- 爽口：refreshing /rɪˈfreʃɪŋ/
-- 生：undercooked /ˌʌndəˈkʊkt/
-- 老：tough /tʌf/
-- 嫩：tender /ˈtendə/
-#### 气味：smells /smelz/ [B1]
-- 臭：stink /ˈstɪŋk/
-#### 声音：sounds /saʊndz/ [A2]
-- 咕噜声（猪）：grunt /ɡrʌnt/
-- 汪（狗）：woof /wʊf/ √
-- 嘶（蛇）：hiss /hɪs/ √
-- 喵（猫）：meow /miˈaʊ/ √
-- 吱吱（兔子, 老鼠）：squeak /skwiːk/ √
-- 嗡嗡（蜜蜂）：buzz /bʌz/ √
-- 鸟叫声：tweet /twiːt/
-- 羊叫声：baa /bɑː/
-- 吭哧（火车）：choochoo /ˈtʃu: tʃu:/ √
-- 咀嚼声：crunch /krʌntʃ/
-- 呱呱（青蛙）：ribbit /ˈrɪbɪt/ √
-- 嘎嘎（鸭子）：quack /kwæk/
-- 喔喔（公鸡）：cock-a-doodle-doo /ˌkɒk ə ˌduːdl ˈduː/
-#### 食物：food /fuːd/ [A1] √
-- 早饭：breakfast /ˈbrekfəst/
-- 中饭：lunch /lʌntʃ/ √
-- 晚饭：dinner /ˈdɪnə/ √, supper /ˈsʌpə/
-- 套餐：combo meal /ˈkɒmbəʊ miːl/
-- 自助餐：buffet /bəˈfeɪ/
-- 野餐：picnic /ˈpɪknɪk/ √
-- 快餐：fast food /ˌfɑːst ˈfuːd/
-- 谷物：grain /ɡreɪn/
-- 海鲜：seafood /ˈsiːfuːd/
-- 米饭：rice /raɪs/ √
-- 汤：soup /suːp/
-- 墨西哥卷饼：taco /ˈtækəʊ/
-- 面粉：flour /ˈflaʊə/
-- 蜂蜜：honey /ˈhʌni/ √
-- 黄油：butter /ˈbʌtə/
-- 甜品：dessert /dɪˈzɜːt/
-  - 布丁：pudding /ˈpʊdɪŋ/
-- 奶酪, 芝士：cheese /tʃiːz/ √
-- 意大利面：pasta /ˈpɑːstə/
-- 面条：noodle /ˈnuːdl/ √
-- 汉堡：hamburger /ˈhæmbɜːɡə/ √
-- 小麦：wheat /wiːt/
-- 水饺：boiled dumpling /bɔɪld ˈdʌmplɪŋ/
-- 蒸饺：steamed dumpling /stiːmd ˈdʌmplɪŋ/
-- 煎饺：fried dumpling /fraɪd ˈdʌmplɪŋ/
-- 馒头：steamed bun /stiːmd bʌn/
-- 肉包子：steamed meat bun /stiːmd miːt bʌn/
-- 面条：noodle /ˈnuːdl/ √
-- 面包：bread /bred/ √
-- 蛋糕：cake /keɪk/ √
-- 纸杯蛋糕：cupcake /ˈkʌpkeɪk/
-- 蛋挞：egg tart /eɡ tɑːt/
-- 松饼：muffin /ˈmʌfɪn/ √
-- 饼干：biscuit /ˈbɪskɪt/ √、cookie /ˈkʊki/ √、cracker /ˈkrækə/
-- 甜甜圈：doughnut /ˈdəʊnʌt/ √
-- 馅饼：pie /paɪ/
-- 吐司（面包）：toast /təʊst/
-- 披萨：pizza /ˈpiːtsə/ √
-- 肉圆：meatball /ˈmiːtbɔːl/
-- 泡菜：pickle /ˈpɪkl/
-- 酸黄瓜：pickle /ˈpɪkl/
-- 芝麻：sesame /ˈsesəmi/
-- 豌豆：pea /piː/
-- 绿豆：mung bean /mʌŋ biːn/
-- 黄豆：soybean /sɒɪbiːn/
-- 红豆：red bean /red biːn/
-- 玉米：corn /kɔːn/ √
-- 肉：meat /miːt/
-  - 鱼肉：fish /fɪʃ/ √
-  - 猪肉：pork /pɔːk/
-  - 牛肉：beef /biːf/ √
-  - 鸡肉：chicken /ˈtʃɪkɪn/
-  - 羊肉：lamb /læm/, mutton /ˈmʌtn/
-- 零食：snacks /snæk/
-  - 棉花糖：cotton candy /ˈkɒtn ˈkændi/（丝）, marshmallow /ˌmɑːʃˈmæləʊ/（粒）
-  - 糖果：candy /ˈkændi/ √
-  - 棒棒糖：lollipop /ˈlɒlipɒp/ √
-  - 棒冰：ice lolly /aɪs ˈlɒli/ √
-  - 冰激凌：ice cream /aɪs kriːm/ √
-  - 薯片：crisp /krɪsp/（英）, chip /tʃɪp/（美）
-  - 薯条：french fry /frentʃ fraɪ/（美）, chip /tʃɪp/（英）
-  - 坚果：nut /nʌt/
-- 水果：fruit /fruːt/
-  - 菠萝：pineapple /ˈpaɪnæpl/ √
-  - 苹果：apple /ˈæpl/ √
-  - 桔子：orange /ˈɒrɪndʒ/ √
-  - 梨：pear /peə/ √
-  - 西瓜：watermelon /ˈwɔːtəmelən/ √
-  - 草莓：strawberry /ˈstrɔːbəri/ √
-  - 蓝莓：blueberry /ˈbluːbəri/ √
-  - 猕猴桃：wiki /ˈwɪki/ √
-  - 香蕉：banana /bəˈnɑːnə/ √
-  - 牛油果：avocado /ˌævəˈkɑːdəʊ/
-  - 火龙果：pitaya /pɪˈtaɪə/
-  - 红枣：red date /red deɪt/, jujube /ˈdʒu:dʒu:b/
-  - 枇杷：loquat /ˈləʊkwɒt/
-  - 荔枝：litchi /ˈli:ˌtʃi:/
-  - 柚子：pomelo /ˈpɒmɪləʊ/
-  - 西柚：grapefruit /ˈɡreɪpfruːt/
-  - 甘蔗：sugar cane /ˈʃʊɡə keɪn/
-  - 柿子：persimmon /pəˈsɪmən/
-  - 石榴：pomegranate /ˈpɒmɪɡrænɪt/
-  - 榴莲：durian /ˈdʊəriən/
-  - 山楂：haw /hɔː/
-  - 李子：plum /plʌm/ √
-  - 桂圆：longan /ˈlɒŋɡən/
-  - 莲雾：wax-apple /wæks ˈæpl/
-  - 金桔：kumquat /ˈkʌmkwɒt/
-  - 桃子：peach /piːtʃ/ √
-  - 橄榄：olive /ˈɒlɪv/
-- 蔬菜：vegetables /ˈvedʒtəblz/
-  - 黄瓜, 青瓜：cucumber /ˈkjuːkʌmbə/
-  - 茄子：eggplant /ˈeɡplænt/
-  - 卷心菜：cabbage ˈkæbɪdʒ
-  - 紫甘蓝：purple cabbage /ˈpɜːpl ˈkæbɪdʒ/
-  - 生姜：ginger /ˈdʒɪndʒə/
-  - 大蒜：garlic /ˈɡɑːlɪk/
-  - 西兰花：broccoli /ˈbrɒkəli/
-  - 花菜：cauliflower /ˈkɒliflaʊə/
-  - 芹菜：celery /ˈseləri/
-  - 芦笋：asparagus /əˈspærəɡəs/
-  - 红薯：sweet potato /swiːt pəˈteɪtəʊ/
-  - 洋葱：onion /ˈʌnjən/
-  - 南瓜：pumpkin /ˈpʌmpkɪn/ √
-  - 蘑菇：mushroom /ˈmʌʃrʊm/
-  - 胡萝卜：carrot /ˈkærət/ √
-  - 生菜：lettuce /ˈletɪs/
-  - 菠菜：spinach /ˈspɪnɪtʃ/
-  - 空心菜：water spinach /ˈwɔːtə ˈspɪnɪtʃ/
-  - 青椒, 甜椒：sweet pepper /swiːt ˈpepə/ √, bell pepper /bel ˈpepə/
-  - 红辣椒：chili pepper /ˈtʃɪli ˈpepə/ √
-  - 葱：green onion /ɡriːn ˈʌnjən/
-- 饮料：drink /drɪŋk/
-  - 茶：tea /tiː/ √
-  - 咖啡：coffee /ˈkɔːfi/ √
-  - 奶：milk /mɪlk/ √
-  - 酸奶：yogurt /ˈjɒɡət/ √
-  - 果汁：juice /dʒuːs/ √
-  - 柠檬水：lemonade /ˌleməˈneɪd/
-  - 米酒：rice wine /raɪs waɪn/
-  - 黄酒：huangjiu（拼音）√
-  - 雪碧：sprite /spraɪt/
-  - 可口可乐：coke /kəʊk/
-  - 豆浆：soybean milk /sɒɪbiːn mɪlk/
-  - 气泡水：sparkling water /ˈspɑːklɪŋ ˈwɔːtə/ [B1]
-- 调味料：condiments /ˈkɒndɪmənts/
-  - 酱油：soy sauce /sɔɪ sɔːs/
-  - 番茄酱：ketchup /ˈketʃəp/
-  - 醋：vinegar /ˈvɪnɪɡə/ √
-  - 盐：salt /sɔːlt/ √  
-  - 糖：sugar /ˈʃʊɡə/ √
-#### 烹饪：cooking /ˈkʊkɪŋ/ [A2]
-- 煮：boil /bɔɪl/
-- 炒, 煎：fry /fraɪ/
-- 炸：deep-fry /diːp fraɪ/
-- 蒸：steam /stiːm/
-- 烧烤：grill /ɡrɪl/
-- 烘焙：bake /beɪk/
-- 烤：roast /rəʊst/
-- 削：peel /piːl/
-- 切：cut /kʌt/
-#### 旅行：travel /ˈtrævl/ [A1], the trip /ðə trɪp/ [A2]
-- 行李：baggage ˈbæɡɪdʒ（美）, luggage ˈlʌɡɪdʒ（英）
-#### 运动：sports /spɔːts/ [A1]
-- 篮球：basketball /ˈbɑːskɪtbɔːl/ √
-- 足球：football /ˈfʊtbɔːl/（英）√, soccer /ˈsɒkə/（美）√
-- 网球：tennis /ˈtenɪs/ √
-- 排球：volleyball /ˈvɒlibɔːl/
-- 棒球：baseball /ˈbeɪsbɔːl/
-- 橄榄球：football /ˈfʊtbɔːl/ √
-- 羽毛球：badminton /ˈbædmɪntən/
-- 高尔夫：golf /ɡɒlf/
-- 徒步：hike /haɪk/ √
-- 保龄球：bowling /ˈbəʊlɪŋ/ [ORT4]
-- 拳击：boxing /ˈbɒksɪŋ/
-- 体操：gymnastics /dʒɪmˈnæstɪks/
-- 健身：fitness /ˈfɪtnəs/
-- 乒乓球：table tennis /ˈteɪbl tenɪs/
-#### 运动装备：sports equipments /spɔːts ɪˈkwɪpmənts/
-- 头盔：helmet /ˈhelmɪt/ √
-- 球拍：racket /ˈrækɪt/
-- 垫子：mat /mæt/
-- 野餐垫：picnic rug /ˈpɪknɪk rʌɡ/
-- 口哨：whistle /ˈwɪsl/ √
-- 帐篷：tent /tent/ √
-- 蹦床：trampoline /ˌtræmpəˈliːn/ √
-- 篮球筐：basketball hoop /ˈbɑːskɪtbɔːl huːp/
-- 自行车：bike /baɪk/, bicycle /ˈbaɪsɪkl/ √
-- 雪橇：sleigh /sleɪ/
-- 平衡车：balance bike /ˈbæləns baɪk/ √
-- 跳绳：jump rope /dʒʌmp rəʊp/（美）√, skipping rope /skɪpɪŋ rəʊp/（英）
-- 钓鱼竿：fishing rod /ˈfɪʃɪŋ rɒd/
-- 平角游泳裤：swimming trunks /ˈswɪmɪŋ trʌŋks/
-- 三角游泳裤：swimming brief /ˈswɪmɪŋ briːf/
-- 游泳衣：swimming shirt /ˈswɪmɪŋ ʃɜːt/
-- 降落伞：parachute /ˈpærəʃuːt/
-- 拐杖：cane /keɪn/
-- 雨伞：umbrella /ʌmˈbrelə/
-- 救生衣：life vest /laɪf vest/
-- 游泳圈：swimming ring /ˈswɪmɪŋ rɪŋ/
-- 救生圈：life buoy /laɪf bɔɪ/
-- 球棒（棒球）：bat /bæt/
-#### 游戏：games /ɡeɪmz/ [A1]
-- 捉迷藏：hide and seek /haɪd ənd siːk/ √
-- 躲猫猫：peekaboo /ˈpiːkəbuː/ √
-#### 玩具：toys /tɔɪz/ [A2]
-- 粘土：clay /kleɪ/ √
-- 橡皮泥：play dough /pleɪ dəʊ/
-- 拼图：jigsaw /ˈdʒɪɡsɔː/
-- 木偶：puppet /ˈpʌpɪt/
-- 玩偶：doll /dɒl/ [A1]
-- 迷宫：puzzle /ˈpʌzl/ [A2]
-- 积木：bricks /brɪks/（乐高）[B2] √, building blocks /ˈbɪldɪŋ blɔks/
-- 风车：windmill /ˈwɪndmɪl/
-- 水枪：water gun /ˈwɔːtə ɡʌn/ √
-- 滑板车：scooter /ˈskuːtə/
-- 骰子：dice /daɪs/
-- 弹珠：marble /ˈmɑːbl/
-#### 乐器：musical instruments /ˈmjuːzɪkl ˈɪnstrʊmənts/
-- 吉他：guitar /ɡɪˈtɑː/
-- 钢琴：piano /piˈænəʊ/
-- 小提琴：violin /ˌvaɪəˈlɪn/
-- 鼓：drum /drʌm/
-- 小号：trumpet /ˈtrʌmpɪt/ √
-#### 社会：society /səˈsaɪəti/ [B1]
-- 法律：law /lɔː/
-- 规则：rule /ruːl/
-- 政府：government /ˈɡʌvənmənt/
-- 政党：party /ˈpɑːti/
-- 结婚：marriage /ˈmærɪdʒ/
-- 离婚：divorce /dɪˈvɔːs/
-- 公司：company /ˈkʌmpəni/
-- 航空公司：airline /ˈeəlaɪn/
-- 俱乐部：club /klʌb/
-#### 生活：life /laɪf/ [B1]
-- 娱乐：recreation /ˌriːkriˈeɪʃn/
-- 沟通：communication /kəˌmjuːnɪˈkeɪʃn/ [B1]
-- 爱好：hobby /ˈhɒbi/
-- 恶作剧：trick /trɪk/
-- 顶点：summit /ˈsʌmɪt/
-- 冒险：adventure /ədˈventʃə/
-- 技能：skill /skɪl/
-- 某种东西：whatsit /ˈwɒtsɪt/ [ORT5]
-- 假期：vacation /veɪˈkeɪʃn/（美）, holiday /ˈhɒlədeɪ/（英）√
-- 快递：express /ɪkˈspres/
-- 事情, 东西：thing /θɪŋ/
-- 小心：caution /ˈkɔːʃn/
-- 产品：product /ˈprɒdʌkt/
-- 奖品：prize /praɪz/
-- 包裹：package /ˈpækɪdʒ/
-- 注意：attention /əˈtenʃn/ [B1]
-- 问候：greeting /ˈɡriːtɪŋ/ [B1]
-#### 教育：education /ˌedʒuˈkeɪʃn/ [B1]
-- 考试：examination /ɪɡˌzæmɪˈneɪʃn/
-- 班级：class /klɑːs/ √
-- 课：lesson /ˈlesn/
-- 托班：daycare /ˈdeɪkeə/
-- 小班：preschool /ˈpriːskuːl/
-- 中班：prekindergarten /priː'kɪndəgɑ:tn/
-- 大班：kindergarten /ˈkɪndəɡɑːtn/
-- 一年级：first grade /fɜːst ɡreɪd/
-- 体育：pe /ˌpiː ˈiː/, physical education /ˈfɪzɪkl ˌedʒuˈkeɪʃn/
-- 艺术：art /ɑːt/
-#### 金融：finance /faɪˈnæns/ [B2]
-- 股市：stock /stɒk/
-- 保险：insurance /ɪnˈʃʊərəns/
-- 钱：money /ˈmʌni/ √
-- 小费：tip /tɪp/
-- 税：tax /tæks/
-#### 货币：currencies /ˈkʌrənsiz/ [B1]
-- 人民币：chinese yuan /ˌtʃaɪˈniːz juˈɑːn/, renminbi /ˈrenmɪnbi/
-- 港元：hong kong dollar /ˈhɔŋ ˈkɔŋ ˈdɒlə/
-- 美元：united states dollar /juˈnaɪtɪd steɪts ˈdɒlə/
-- 英镑：great britain pound /ˌɡreɪt ˈbrɪtn paʊnd/
-- 单位：units /ˈjuːnɪts/
-  - 镑：pound /paʊnd/ √
-  - 十分钱：dime /daɪm/
-  - 一分钱：penny /ˈpeni/
-#### 购物：shopping /ˈʃɒpɪŋ/ [A2] √
-- 卖：sale /seɪl/
-- 买：buy /baɪ/
-- 折扣：discount /ˈdɪskaʊnt/
-#### 聚会：the party /ðə ˈpɑːti/ [A1] √
-- 气球：balloon /bəˈluːn/ √
-- 礼物：present /ˈpreznt/ √
-- 蜡烛：candle /ˈkændl/ √
-- 火柴：match /mætʃ/
-- 旗：flag /flæɡ/
-- 干杯：cheers /tʃɪəz/
-- 篝火：campfire /ˈkæmpfaɪə/
-#### 演出：the performance /ðə pəˈfɔːməns/ [B1] √, the show /ðə ʃəʊ/ [A2] √
-- 座位：seat /siːt/ √
-- 戏剧, 话剧：drama /ˈdrɑːmə/ [B1]
-- 歌剧：opera /ˈɒprə/ [A2]
-- 演讲：speech /spiːtʃ/ [B2]
-- 舞台：stage /steɪdʒ/ √
-- 音乐会：concert /ˈkɒnsət/
-- 音乐：music /ˈmjuːzɪk/ √
-- 旋律、曲调：tune /tjuːn/
-- 节奏：rhythm /ˈrɪðəm/
-- 歌曲：song /sɒŋ/ √
-- 电影：movie /ˈmuːvi/（美）, film /fɪlm/（英）
-- 卡通：cartoon /kɑːˈtuːn/
-- 变：presto /ˈprestəʊ/ √
-- 马戏：circus /ˈsɜːkəs/
-- 戏法：juggling /ˈdʒʌɡlɪŋ/
-#### 典礼：ceremonies /ˈserəməniz/ [B1]
-- 婚礼：wedding /ˈwedɪŋ/
-- 葬礼：funeral /ˈfjuːnərəl/
-#### 故事：the story /ðə ˈstɔːri/ [A2]
-- 宝藏：treasure /ˈtreʒə/
-- 精灵：elf /elf/
-- 圣诞老人：father christmas /ˈfɑːðə ˈkrɪsməs/, santa claus /ˈsæntə klɔːz/
-- 美人鱼：mermaid /ˈmɜːmeɪd/
-- 独角兽：unicorn /ˈjuːnɪkɔːn/
-- 怪物：monster /ˈmɒnstə/
-- 神：god /ɡɒd/
-- 变形金刚：transformer /trænsˈfɔːmə/
-#### 武装部队：armed forces /ɑːmd ˈfɔːsɪz/
-- 海军：navy /ˈneɪvi/
-- 陆军：army /ˈɑːmi/
-- 空军：air force /ˈeə fɔːs/
-- 海军陆战队：marine corps /məˈriːn kɔː/
-#### 军事活动：military actions /ˈmɪlətri ˈækʃnz/
-- 站岗：stand guard /stænd ɡɑːd/
-#### 武器：weapons /ˈwepən/ [B2]
-- 弓：bow /bəʊ/
-- 箭：arrow /ˈærəʊ/
-- 盾：shield /ʃiːld/
-- 盔甲：armour /ˈɑːmə/
-- 剑：sword /sɔːd/
-- 枪：gun /ɡʌn/ √
-- 机枪：machine gun /məˈʃiːn ɡʌn/
-- 手枪：pistol /ˈpɪstl/
-- 狙击步枪：snipe rifle /snaɪp ˈraɪfl/
-- 自动步枪：automatic rifle /ˌɔːtəˈmætɪk ˈraɪfl/
-- 子弹：bullet /ˈbʊlɪt/
-- 坦克：tank /tæŋk/ √
-- 战斗机：fighter plane /ˈfaɪtə pleɪn/ √
-- 雷达：radar /ˈreɪdɑː/
-- 导弹：missile /ˈmɪsl/ √
-- 航空母舰：aircraft carrier /ˈeəkrɑːft kæriə/
-- 战列舰：battleship /ˈbætlʃɪp/
-- 炸弹：bomb /bɒm/ √
-- 轰炸机：bomber /ˈbɒmə/ √
-- 舰：ship /ʃɪp/ √
-- 潜水艇：submarine /ˌsʌbməˈriːn/ √
-#### 动词：verbs /vɜːbz/ [A2]
-- 迎接：greet /ɡriːt/ [B1]
-- 感谢：thank /θæŋk/ √
-- 织：knit /nɪt/ [B1]
-- 广播：broadcast /ˈbrɔːdkɑːst/ [B2]
-- 射击：shoot /ʃuːt/
-- 保护：protect /prəˈtekt/
-- 救援：rescue /ˈreskjuː/
-- 擦除：erase /ɪˈreɪz/
-- 检查：check /tʃek/
-- 巡逻：patrol /pəˈtrəʊl/
-- 吻：kiss /kɪs/ √
-- 追逐：chase /tʃeɪs/ √
-- 帮助：help /help/ √
-- 打架：fight /faɪt/ √
-- 偎依：snuggle /ˈsnʌɡl/ √
-- 洗：wash /wɒʃ/ √
-- 喝：drink /drɪŋk/ √
-- 吃：eat /iːt/ √
-- 攀登：climb /klaɪm/ √
-- 爬：crawl /krɔːl/ √
-- 骑：ride /raɪd/ √
-- 鞠躬：bow /baʊ/
-- 复制：copy /ˈkɒpi/
-- 粘贴：paste /peɪst/
-- 跳水, 潜水：dive /daɪv/
-- 跋涉：trek /trek/
-- 训练：train /treɪn/
-- 伤害：hurt /hɜːt/ √
-- 滑动：slide /slaɪd/
-- 钓鱼：fish /fɪʃ/
-- 划船：row /rəʊ/ √
-- 走：walk /wɔːk/ √
-- 慢跑：jog /dʒɒɡ/
-- 跑：run /rʌn/ √
-- 伸展：stretch /stretʃ/
-- 滚：roll /rəʊl/
-- 跳：jump /dʒʌmp/ √
-- 挥：wave /weɪv/ √
-- 跺脚：stamp /stæmp/ √
-- 弯曲：bend /bend/ √
-- 坐：sit /sɪt/ √
-- 说：talk /tɔːk/
-- 站：stand /stænd/ √
-- 听：listen /ˈlɪsn/
-- 跳舞：dance /dæns/ √
-- 拍：clap /klæp/ √
-- 旋转：spin /spɪn/ √
-- 轻拍：pat /pæt/
-- 滑雪：ski /skiː/
-- 看：see /siː/ √
-- 尝：taste /teɪst/
-- 听：hear /hɪə/ √
-- 闻：smell /smel/ √
-- 摸：touch /tʌtʃ/ √
-- 哭：cry /kraɪ/ √
-- 笑：laugh /lɑːf/ √, smile /smaɪl/ √
-- 玩：play /pleɪ/ √
-- 处理：handle /ˈhændl/
-- 穿、戴：wear /weə/ √
-- 写：write /raɪt/
-- 读：read /riːd/ √
-- 画：draw /drɔː/ √
-- 出生：born /bɔːn/
-- 死亡：death /deθ/
-- 睡：sleep /sliːp/ √
-- 打盹：nap /næp/
-- 梦：dream /driːm/ √
-- 刷：brush /brʌʃ/
-- 工作：work /wɜːk/
-- 跪：kneel /niːl/
-- 躺：lie /laɪ/
-- 蹲：squat /skwɒt/
-- 蹲伏：crouch /kraʊtʃ/
-- 敲：knock /nɒk/
-- 孵化：hatch /hætʃ/ √
-- 融化：melt /melt/
-- 猜：guess /ɡes/
-- 行进：march /mɑːtʃ/ √
-- 露营：camp /kæmp/ √
-- 挠痒：tickle /ˈtɪkl/ √
-- 撞：bump /bʌmp/ √
-- 挤：squeeze /skwiːz/
-- 狼吞虎咽：gobble /ˈɡɒbl/
-- 尖叫：squeal /skwiːl/
-#### 形容词：adjectives /ˈædʒɪktɪvz/ [A2]
-- 抱歉的：sorry /ˈsɒri/ √
-- 怀孕的：pregnant /ˈpreɡnənt/ [B1]
-- 年轻的：young /jʌŋ/ [A1]
-- 紧急的：emergency /ɪˈmɜːdʒənsi/
-- 正确的：correct /kəˈrekt/
-- 聪明的：smart /smɑːt/
-- 贪婪的：greedy /ˈɡriːdi/
-- 拥挤的：crowded /ˈkraʊdɪd/
-- 毛茸茸的：furry /ˈfɜːri/
-- 有趣的：interesting /ˈɪntrəstɪŋ/
-- 搞笑的：funny /ˈfʌni/ √
-- 美丽的：beautiful /ˈbjuːtɪfl/
-- 热的：hot /hɒt/ √
-- 冷的：cold /kəʊld/ √
-- 长的：long /lɒŋ/
-- 短的：short /ʃɔːt/
-- 大的：large /lɑːdʒ, big /bɪɡ/ √
-- 小的：little /ˈlɪtl/ √, small /smɔːl/ √
-- 少的：little /ˈlɪtl/
-- 更少的：less /les/
-- 最少的：least /liːst/
-- 老的, 旧的：old /əʊld/ [A1]
-- 新的：new /njuː/ [A1]
-- 便宜的：cheap /tʃiːp/
-- 昂贵的：expensive /ɪkˈspensɪv/
-- 好的：good /ɡʊd/ √
-- 更好的：better /ˈbetə/
-- 最好的：best /best/
-- 坏的：bad /bæd/
-- 更坏的：worse /wɜːs/
-- 最坏的：worst /wɜːst/
-- 多的：much /mʌtʃ/
-- 更多的：more /mɔː/
-- 最多的：most /məʊst/
-- 野生的：wild /waɪld/
-- 愚蠢的：stupid /ˈstjuːpɪd/
-- 恶心的：silly /ˈsɪli/ √
-- 脏的：dirty /ˈdɜːti/
-- 好奇的：curious /ˈkjʊəriəs/
-- 极地的：polar /ˈpəʊlə/ √
-- 疲倦：worn /wɔːn/, tired /ˈtaɪəd/
-- 卡住的：stuck /stʌk/ √
-- 相同：same /seɪm/
-- 不同：different /ˈdɪfrənt/
-#### 副词：adverbs /ˈædvɜːbz/ [A2]
-- 是：yes /jes/ √
-- 不：no /nəʊ/ √
-- 进：in /ɪn/ √
-- 出：out /aʊt/ √
-- 一起：together /təˈɡeðə/
-#### 代词：pronouns /ˈprəʊnaʊnz/ [B1]
-- 我：I /aɪ/（主）[A1] √, me /miː/（宾）[A1] √
-- 你：you /juː/ √
-- 他：he /hiː/（主）, him /hɪm/（宾）
-- 她：she /ʃiː/, her /hə/（宾）
-- 它：it /ɪt/ √
-- 我们：we /wiː/（主）, us /əs/（宾）
-- 我们的：our /ˈaʊə/（形）, ours /ˈaʊəz/（名）
-- 他们：they /ðeɪ/（主）, them /ðəm/（宾）
-- 我的：my /maɪ/（形）, mine /maɪn/（名）√
-- 你的：your /jɔː/（形）, yours /jɔːz/（名）
-- 他们的：their /ðeə/（形）, theirs /ðeəz/（名）
-- 一些事物：something /ˈsʌmθɪŋ/
-- 任何事物：anything /ˈeniθɪŋ/
-- 一切事物：everything /ˈevriθɪŋ/
-- 什么都没有：nothing /ˈnʌθɪŋ/
-- 这个：this /ðɪs/ √
-- 那个：that /ðæt/ √
-- 什么：what /wɒt/ √
-- 什么时候：when /wen/ √
-- 谁：who /huː/ √
-- 谁的：whose /huːz/
-- 哪个：which /wɪtʃ/ √
-- 无论什么：whatever /wɒtˈevə/
-- 无论哪个：whichever /wɪtʃˈevə/
-- 无论谁：whoever /huːˈevə/
-#### 感叹词：exclamations /ˌekskləˈmeɪʃnz/
-- 你好：hello /həˈləʊ/ [A1] √
-- 嗨：hi /haɪ/ [A1] √, hey /heɪ/ [A2] √
-- 再见：bye /baɪ/ [A1] √
-- 好极了：hooray /huˈreɪ/ √
-- 好：OK /əʊˈkeɪ/ [A1] √
+#### 信息: information /ˌɪnfəˈmeɪʃn/ [A2]
+- 线索: clue /kluː/ [B2]
+- 预报: forecast /ˈfɔːkɑːst/ [B1]
+- 问题: question /ˈkwestʃən/ [A1]
+- 答案: answer /ˈɑːnsə/ [A1]
+- 签名: signature /ˈsɪɡnətʃə/ [B1]
+- 分数: score /skɔː/ [B1]
+- 评级: grade /ɡreɪd/ [B1]
+- 标签: label /ˈleɪbl/ [B1]
+- 报告: report /rɪˈpɔːt/ [B1]
+- 信: letter /ˈletə/ [A1]
+- 户口本: household register /ˈhaʊshəʊld ˈredʒɪstə/
+- 护照: passport /ˈpɑːspɔːt/ [A2]
+- 签证: visa /ˈviːzə/ [B1]
+- 身份证: identity card /aɪˈdentəti kɑːd/ [B1], ID card /ˌaɪ ˈdiː kɑːd/ [A2]
+- 课本: textbook /ˈtekstbʊk/ [A2]
+- 字典: dictionary /ˈdɪkʃəneri/ [A1]
+- 照片: photo /ˈfəʊtəʊ/ [A1], photograph /ˈfəʊtəɡrɑːf/ [A2]
+- 图片: picture /ˈpɪktʃə/ [A1] √
+- 视频: video /ˈvɪdiəʊ/ [A2]
+- 相册: album /ˈælbəm/ [A2]
+- 语音: voice /vɔɪs/ [B1]
+- 新闻: news /njuːz/ [A2]
+- 报纸: newspaper /njuːz ˈpeɪpə/ [A1]
+- 论文: paper /ˈpeɪpə/ [A1]
+- 杂志: magazine /ˌmæɡəˈziːn/ [A2]
+- 文章: article /ˈɑːtɪkl/ [B1]
+- 广告: advertisement /ˌædvəˈtaɪzmənt/ [A2]
+- 期刊: journal /ˈdʒɜːnl/ [C1]
+- 消息: messages /ˈmesɪdʒz/ [A1]
+  - 文本消息: text message /tekst ˈmesɪdʒz/ [A2]
+  - 语音消息: voice message /vɔɪs ˈmesɪdʒz/
+- 传说: tale /teɪl/ [B2] √
+- 诗: poem /ˈpəʊɪm/ [B1]
+- 歌词: lyrics /ˈlɪrɪks/ [B2]
+- 书: book /bʊk/ [A1] √
+- 绘本: picture book /ˈpɪktʃə bʊk/ √
+- 漫画: comic /ˈkɒmɪk/ [A2]
+- 日记: diary /ˈdaɪəri/ [A2]
+- 日志: journal /ˈdʒɜːnl/ [C2], log /lɔːɡ/
+- 网站: website /ˈwebsaɪt/ [A1]
+- 网址: uniform resource locator /ˈjuːnɪfɔːm rɪˈsɔːs ləʊˈkeɪtə/, URL /ˌjuː ɑː ˈel/
+- 二维码: quick response code /kwɪk rɪˈspɒns kəʊd/, QR code /kjuː ɑː kəʊd/
+- 条形码: bar code /bɑː kəʊd/ √
+- 指纹: fingerprint /ˈfɪŋɡəprɪnt/
+- 传单: leaflet /ˈliːflət/ [B2]
+- 通知: notification /ˌnəʊtɪfɪˈkeɪʃn/
+- 声明: announcement /əˈnaʊnsmənt/ [B1]
+- 海报: poster /ˈpəʊstə/ [A2] √
+- 明信片: postcard /ˈpəʊstkɑːd/ [A2]
+- 邮件: mail /meɪl/ [A2]
+- 小票, 收据: receipt /rɪˈsiːt/ [A2]
+- 账单: bill /bɪl/ [A2]
+- 计划: plan /plæn/ [A2], program（美）, programme（英） /ˈprəʊɡræm/ [B2]
+- 源代码: source code /sɔːs kəʊd/
+- 菜单: menu /ˈmenjuː/ [A2]
+- 名字: name /neɪm/ [A1] √
+- 应用程序: app /æp/, application /ˌæplɪˈkeɪʃn/ [B2]
+- 数据: data /ˈdeɪtə/ [B2]
+- 网络: network /ˈnetwɜːk/ [B2]
+- 搜索引擎: search engine /sɜːtʃ ˈendʒɪn/
+- 秘密: secret /ˈsiːkrət/ [B1]
+- 记录: record /ˈrekɔːd/ [B2]
+- 区号: area code /ˈeəriə kəʊd/
+- 票, 罚单: ticket /ˈtɪkɪt/ [A1] √
+- 地址: address /əˈdres/ [A1]
+- 邮编: zip code /zɪp kəʊd/
+ #### 人名: the name of a person /ðə neɪm ɒv ə ˈpɜːsn/
+- 名: first name /fɜːst neɪm/ [A2]
+- 中间名: middle name /ˈmɪdl neɪm/
+- 姓: last name /ˈlɑːst neɪm/ [A2], family name /ˈfæməli neɪm/, surname /ˈsɜːneɪm/ [A2]
+#### 性别: genders /ˈdʒendəz/, sexes /ˈseksɪz/ [B2]
+- 男: male /meɪl/  [B2]
+- 女: female /ˈfiːmeɪl/ [B2] √
+#### 名族: nationalities /ˌnæʃəˈnælɪtiz/ [A1]
+- 汉族: Han /hæn/
+#### 语言: languages /ˈlæŋɡwɪdʒɪz/ [A1]
+- 中文: Chinese /ˌtʃaɪˈniːz/
+- 简体中文: Simplified Chinese /ˈsɪmplɪfaɪd ˌtʃaɪˈniːz/
+- 繁体中文: Traditional Chinese /trəˈdɪʃənl ˌtʃaɪˈniːz/
+- 美式英语: American English /əˈmerɪkən ˈɪŋɡlɪʃ/
+- 英式英语: British English /ˈbrɪtɪʃ ˈɪŋɡlɪʃ/
+- 日语: Japanese /ˌdʒæpəˈniːz/
+- 韩语: Korean /kəˈriən/
+- 法语: French /frentʃ/
+#### 英语: English /ˈɪŋɡlɪʃ/ √
+- 字母表: alphabet /ˈælfəbet/ [B1]
+- 字母: letter /ˈletə/ [A2]
+- 单词: word /wɜːd/ [A1]
+- 拼写: spell /spel/ [A2]
+- 句子: sentence /ˈsentəns/ [A1]
+- 名词: noun /naʊn/ [A2]
+- 拼读: phonics /ˈfɒnɪks/
+#### 符号: symbols /ˈsɪmblz/ [B2]
+- 标点符号: punctuation /ˌpʌŋktʃuˈeɪʃn/ [B1]
+  - 破折号: dash /dæʃ/ [B2]
+  - 句号: full stop /fʊl stɒp/（英）[B1], period /ˈpɪəriəd/（美）[B1]
+  - 括号: brackets /ˈbrækɪts/ [B2]
+  - 引号: quotation marks /kwəʊˈteɪʃn mɑːks/ [B2]
+  - 问号: question mark /ˈkwestʃən mɑːk/ [B1]
+  - 逗号: comma /ˈkɒmə/ [B1]
+  - 冒号: colon /ˈkəʊlən/ [B2]
+  - 感叹号: exclamation mark /ˌekskləˈmeɪʃn mɑːk/ [B2]
+  - 分号: semicolon /ˌsemiˈkəʊlən/ [B2]
+  - 撇号: apostrophe /əˈpɒstrəfi/ [B2]
+  - 连字符: hyphen /ˈhaɪfn/ [B2]
+  - 省略号: ellipsis /ɪˈlɪpsɪs/
+- 井号: pound /paʊnd/
+- 星号: asterisk /ˈæstərɪsk/
+- 叉: cross /krɒs/ [A1]
+- 勾: tick /tɪk/ [B1]
+- 下划线: underline /ˌʌndəˈlaɪn/ [B1]
+#### 品牌: brands /brændz/ [B2]
+- 宜家: IKEA /ˌaɪˈkiə/
+- 乐高: LEGO /ˈleɡəu/ √
+- 皮克斯: Pixar /ˈpɪksar/
+- 开市客: Costco /ˈkɔskəʊ/
+- 亚马逊: Amazon /ˈæməzɑːn/
+- 中国石化: Sinopec /ˈsaɪnəʊpek/
+- 星巴克: Starbucks /stɑːbʌkz/
+- 迪士尼: Disney /ˈdɪzni/
+- 麦当劳: McDonaldˈs /məkˈdɔːnəldz/
+- 特斯拉: Tesla /ˈteslə/
+- 罗森: Lawson /ˈlɔːsn/
+- 全家: FamilyMart /ˈfæməli mɑːt/
+- 优衣库: UNIQLO /ˈjuːnɪkləʊ/
+- 无印良品: MUJI /muːdʒiː/
+- 耐克: Nike /ˈnaɪki/
+#### 名字: names /neɪmz/ [A1]
+- 奥尔夫: Olaf /ˈəʊlɑːf/
+- 瓦力: WALL·E /wɔːl iː/
+- 麦克唐纳: MacDonald /məkˈdɔnəld/
+#### 宇宙: the universe /ði ˈjuːnɪvɜːs/ [B1]
+- 行星: planet /ˈplænɪt/
+- 小行星: asteroid /ˈæstərɔɪd/
+- 流星: shooting star /ˈʃuːtɪŋ stɑː/, meteor /ˈmiːtiə/
+- 彗星: comet /ˈkɒmɪt/
+- 卫星: satellite /ˈsætəlaɪt/
+- 黑洞: black hole /blæk həʊl/
+- 星系: galaxy /ˈɡæləksi/
+- 恒星: star /stɑː/ [A2] √
+- 太阳系: the Solar System /ðə səʊlə ˈsɪstəm/
+  - 太阳: Sun /sʌn/ [A1] √
+  - 月亮: Moon /muːn/ [A2] √
+  - 火星: Mars /mɑːz/ √
+  - 地球: Earth /ɜːθ/ [B1] √
+- 银河系: Milky Way Galaxy /ˈmɪlki weɪ ˈɡæləksi/
+#### 世界: the world /ðə wɜːld/ [A1]
+- 海洋: oceans /ˈəʊʃnz/ [B1]
+  - 太平洋: Pacific Ocean /pəˈsɪfɪk ˈəʊʃn/
+  - 大西洋: Atlantic Ocean /ətˈlæntɪk ˈəʊʃn/
+  - 北冰洋: Arctic Ocean /ˈɑːktɪk ˈəʊʃn/
+  - 印度洋: Indian Ocean /ˈɪndiən ˈəʊʃn/
+- 洲: continents /ˈkɒntɪnənts/ [B1]
+  - 亚洲: Asia /ˈeɪʒə/
+  - 欧洲: Europe /ˈjʊərəp/
+  - 非洲: Africa /ˈæfrɪkə/
+  - 南美洲: South America /saʊθ əˈmerɪkə/
+  - 北美洲: North America /nɔːθ əˈmerɪkə/
+  - 澳洲: Australia /ɒˈstreɪliə/
+  - 南极洲: Antarctica /ænˈtɑːktɪkə/
+- 国家: countries /ˈkʌntriz/ [A1]
+  - 美国: United States /juˈnaɪtɪd steɪts/
+  - 中国: China /ˈtʃaɪnə/
+  - 日本: Japan /dʒəˈpæn/
+  - 韩国: South Korea /kəˈriə/
+  - 泰国: Thailand /ˈtaɪlænd/
+  - 澳大利亚: Australia /ɒˈstreɪliə/ √
+- 州（美）: states /steɪts/ [B1]
+  - 加利福尼亚: California /ˌkæləˈfɔːniə/
+- 城市: cities /ˈsɪtiz/ [A1] √
+  - 圣地亚哥: San Diego /sæn diˈeɪɡo/
+  - 巴黎: Paris /ˈpærɪs/
+  - 纽约: New York /njuː jɔːk/
+  - 东京: Tokyo /ˈtəʊkiəʊ/
+  - 首尔: Seoul /səʊl/
+  - 莫斯科: Moscow /ˈmɒskəʊ/
+  - 华盛顿: Washington /ˈwɒʃɪŋtən/
+  - 洛杉矶: Los Angeles /lɔ:s ˈeɪndʒələz/
+  - 旧金山: San Francisco /sæn frænˈsɪskəʊ/
+- 地点: places /ˈpleɪsɪz/ [A1]
+  - 五角大楼: Pentagon /ˈpentəɡən/
+  - 白宫: White House /waɪt haʊs/
+  - 故宫: Imperial Palace /ɪmˈpɪəriəl ˈpæləs/
+  - 故宫博物院: Palace Museum /ˈpæləs mjuˈziːəm/
+  - 紫禁城: Forbidden City /fəˈbɪdn ˈsɪti/
+  - 长城: Great Wall /ɡreɪt wɔːl/
+  - 金字塔: pyramid /ˈpɪrəmɪd/
+  - 自然保护区: natural reserve /ˈnætʃrəl rɪˈzɜːv/
+- 行政区（中）: administrative regions /ədˈmɪnɪstreɪtɪv ˈriːdʒənz/
+  - 省: province /ˈprɒvɪns/
+  - 直辖市: municipality /mjuːˌnɪsɪˈpæləti/
+  - 自治区: autonomous region /ɔːˈtɒnəməs ˈriːdʒən/
+  - 特别行政区: special administrative region /ˈspeʃl ədˈmɪnɪstreɪtɪv ˈriːdʒən/
+  - 市: city /ˈsɪti/ √
+  - 县: county /ˈkaʊnti/
+  - 镇: town /taʊn/ √
+  - 街道: subdistrict /ˈsʌbˌdɪstrɪkt/
+  - 乡: township /ˈtaʊnʃɪp/
+  - 村: village /ˈvɪlɪdʒ/
+#### 自然: nature /ˈneɪtʃə/ √ [A2]
+- 海岸: seashore /ˈsiːʃɔː/
+- 沿海: coast /kəʊst/
+- 海滩: beach /biːtʃ/ √
+- 草地: lawn /lɔːn/
+- 雪花: snowflake /ˈsnəʊfleɪk/
+- 海边: seaside /ˈsiːsaɪd/
+- 冰山: iceberg /ˈaɪsbɜːɡ/
+- 岛屿: island /ˈaɪlənd/ √
+- 瀑布: waterfall /ˈwɔːtəfɔːl/ √
+- 彩虹: rainbow /ˈreɪnbəʊ/ √
+- 森林: forest /ˈfɒrɪst/ √
+- 山洞: cave /keɪv/ √
+- 山丘: hill /hɪl/
+- 山谷: valley /ˈvæli/
+- 岛: island /ˈaɪlənd/ √
+- 山: mountain /ˈmaʊntən/ √
+- 河: river /ˈrɪvə/ √
+- 泥: mud /mʌd/ √
+- 土: soil /sɔɪl/ √
+- 火山: volcano /vɒlˈkeɪnəʊ/ √
+- 湖: lake /leɪk/ √
+- 大陆: mainland /ˈmeɪnlænd/
+- 大海: sea /siː/ √
+- 潮水: tide /taɪd/ [B2]
+- 水坑: puddle /ˈpʌdl/ √
+- 池塘: pond /pɒnd/ √
+- 云: cloud /klaʊd/ √
+- 雾: fog /fɒɡ/
+- 风: wind /wɪnd/ √
+- 微风: breeze /briːz/
+- 雨: rain /reɪn/ √
+- 小雨: light rain /laɪt reɪn/
+- 大雨: heavy rain /ˈhevi reɪn/
+- 闪电: lightning /ˈlaɪtnɪŋ/ √
+- 暴风雨: storm /stɔːm/ √
+- 雷: thunder /ˈθʌndə(r)/ √
+- 雪: snow /snəʊ/ √
+- 冰: ice /aɪs/ √
+- 泥: mud /mʌd/ √
+- 雾霾: smog /smɒɡ/
+- 沙尘暴: sandstorm /ˈsændstɔːm/
+- 雷阵雨: thundershower /ˈθʌndəˌʃaʊə/ 
+- 霜冻: frost /frɒst/
+- 声音: sound /saʊnd/
+- 气温: temperature /ˈtemprətʃə/
+- 湿度: humidity /hjuːˈmɪdəti/
+- 光: light /laɪt/
+- 电: electricity /ɪˌlekˈtrɪsəti/
+- 空气: air /eə/
+- 引力: gravity /ˈɡrævəti/ √
+- 生态系统: ecosystem /ˈiːkəʊsɪstəm/
+- 磁力: magnetic force /mæɡˈnetɪk fɔːs/
+- 磁铁: magnet /ˈmæɡnət/
+- 岩石: rock /rɒk/
+- 南极: south pole /saʊθ pəʊl/
+- 北极: north pole /nɔːθ pəʊl/
+- 液体: liquid /ˈlɪkwɪd/
+- 固体: solid /ˈsɒlɪd/
+- 气体: gas /ɡæs/
+- 烟: smoke /sməʊk/
+- 蒸汽: steam /stiːm/
+- 影子: shadow /ˈʃædəʊ/ √
+- 蜂巢: hive /haɪv/ √
+- 鸟巢: nest /nest/ √
+- 巢穴: den /den/
+- 蜘蛛网: spider web /ˈspaɪdə web/ √
+- 山峰: peak /piːk/
+- 沙漠: desert /ˈdezət/
+- 珊瑚礁: coral reef /ˈkɒrəl riːf/
+- 贝壳: shell /ʃel/ √
+- 油田: oilfield /ˈɔɪlfiːld/
+#### 天气: the weather /ðə ˈweðə/ √ [A1]
+- 晴: sunny /ˈsʌni/ √
+- 雨: rainy /ˈreɪni/
+- 有风: windy /ˈwɪndi/
+- 微风: breezy /ˈbriːzi/
+- 局部多云: partly cloudy /ˈpɑːtli ˈklaʊdi/
+- 大部多云: mostly cloudy /ˈməʊstli ˈklaʊdi/
+- 雪: snowy /ˈsnəʊi/
+- 多云, 阴: cloudy /ˈklaʊdi/
+- 雾: foggy /ˈfɒɡi/
+- 雾霾: smoggy /ˈsmɒɡi/
+#### 自然灾害: natural disasters /ˈnætʃrəl dɪˈzɑːstəz/
+- 龙卷风: tornado /tɔːˈneɪdəʊ/ [B2]
+- 地震: earthquake /ˈɜːθkweɪk/ [B2]
+- 海啸: tsunami /tsuːˈnɑːmi/
+- 洪水: flood /flʌd/ [B1] √
+- 台风: typhoon /taɪˈfuːn/
+#### 水: water /ˈwɔːtə/ [A1]
+- 泉水: spring /sprɪŋ/ [C1]
+- 淡水: fresh water /ˈfreʃwɔːtə/ [C2]
+- 咸水: salt water /ˈsɔːltwɔːtə/
+- 矿泉水: mineral water /ˈmɪnərəl ˈwɔːtə/ [A2]
+- 开水: boiled water /bɔɪld ˈwɔːtə/
+- 自来水: running water /ˈrʌnɪŋ ˈwɔːtə/ [C1]
+- 纯净水: purified water /ˈpjʊərɪfaɪd ˈwɔːtə/
+- 污水: waste water /weɪst ˈwɔːtə/
+#### 能源: energy /ˈenədʒi/ [B1]
+- 煤炭: coal /kəʊl/
+- 木炭: charcoal /ˈtʃɑːkəʊl/
+- 石油: petroleum /pəˈtrəʊliəm/
+- 天然气: natural gas /ˈnætʃrəl ɡæs/
+- 汽油: gas /ɡæs/（美）, gasoline /ˌɡæsəˈliːn/（美）, petrol /ˈpetrəl/（英）
+- 柴油: diesel /ˈdiːzl/
+- 电: electricity /ɪˌlekˈtrɪsəti/
+  - 电池: battery /ˈbætəri/
+#### 原材料: raw materials /rɔː məˈtɪərɪəlz/
+- 金属: metals /ˈmetlz/
+  - 铁: iron /ˈaɪən/
+  - 钢: steel /stiːl/
+  - 铜: copper /ˈkɒpə/
+  - 不锈钢: stainless steel /ˈsteɪnləs stiːl/
+- 塑料: plastic /ˈplæstɪk/
+- 木: wood /wʊd/
+- 羊毛: wool /wʊl/
+- 羊绒: cashmere /ˈkæʃmɪə/
+- 瓷: porcelain /ˈpɔːsəlɪn/
+- 陶: pottery /ˈpɒtəri/
+- 棉: cotton /ˈkɒtn/
+- 玻璃: glass /ɡlɑːs/
+- 石头: stone /stəʊn/
+- 大理石: marble /ˈmɑːbl/
+#### 城市: the city /ðə ˈsɪti/ [A1] √
+- 花坛: flower bed /ˈflaʊə bed/ √
+- 花坛沿: flower bed edge /ˈflaʊə bed edʒ/
+- 消防栓: fire hydrant /ˈfaɪə ˈhaɪdrənt/ √
+- 工地: construction site /kənˈstrʌkʃn saɪt/
+- 运河: canal /kəˈnæl/ [ORT1+]
+- 船闸: lock /lɒk/ [ORT1+]
+- 坝: dam /dæm/
+- 堰: weir /wɪə/ [ORT5]
+- 地铁站: metro station /ˈmetrəʊ ˈsteɪʃn/ √
+- 面包店: bakery /ˈbeɪkəri/ √
+- 咖啡馆: cafe /ˈkæfeɪ/ √
+- 商场: shopping mall /ˈʃɒpɪŋ mɔːl/ √, mall /mɔːl/ √
+- 电影院: camera /ˈkæmrə/
+- 市场: market /ˈmɑːkɪt/ √, mart /mɑːt/
+- 超市: supermarket /ˈsuːpəmɑːkɪt/
+- 停车场: parking lot /ˈpɑːkɪŋ lɒt/ √
+- 停车位: parking stall /ˈpɑːkɪŋ stɔːl/ √
+- 车库, 修车店: garage /ˈɡærɑːʒ/ √
+- 图书馆: library /ˈlaɪbrəri/ √
+- 博物院: museum /mjuˈziːəm/
+- 学校: school /skuːl/ √
+- 托儿所: nursery /ˈnɜːsəri/
+- 幼儿园: kindergarten /ˈkɪndəɡɑːtn/ √
+- 小学: primary school /ˈpraɪməri skuːl/
+- 初中: junior high school /ˈdʒuːniə haɪ skuːl/
+- 高中: senior high school /ˈsiːniə haɪ skuːl/
+- 大学: university /ˌjuːnɪˈvɜːsəti/
+- 学院: college /ˈkɒlɪdʒ/
+- 教室: classroom /ˈklɑːsruːm/
+- 公寓: apartment /əˈpɑːtmənt/ [A2]
+- 岗亭: sentry box /ˈsentri bɒks/
+- 便利店: convenience store /kənˈviːniəns stɔː/
+- 银行: bank /bæŋk/
+- 旅馆: hotel /həʊˈtel/ √
+- 汽车旅馆: motel /məʊˈtel/
+- 餐厅: restaurant /ˈrestrɒnt/ √
+- 广场: plaza /ˈplɑːzə/, square /skweə/
+- 办公楼: office building /ˈɒfɪs ˈbɪldɪŋ/
+- 电影院: cinema /ˈsɪnəmə/
+- 家庭旅馆: guesthouse /ˈɡesthaʊs/
+- 酒吧: bar /bɑː/
+- 宠物店: pet shop /pet ʃɒp/
+- 书店: bookstore /ˈbʊkˌstɔː/
+- 游泳池: swimming pool /ˈswɪmɪŋ puːl/
+- 体育场: stadium /ˈsteɪdiəm/
+- 健身房: gym /dʒɪm/
+- 植物园: botanical garden /bəˌtænɪkl ˈɡɑːdn/
+- 港口: harbor /ˈhɑ:bə/
+- 火车站: railway station /ˈreɪlweɪ ˈsteɪʃn/
+- 药店: pharmacy /ˈfɑːməsi/
+- 医院: hospital /ˈhɒspɪtl/ √
+- 牙医诊所: dental clinic /ˈdentl ˈklɪnɪk/ √
+- 网球场: tennis court /ˈtenɪs kɔːt/
+- 篮球场: basketball court /ˈbɑːskɪtbɔːl kɔːt/
+- 足球场: football court /ˈfʊtbɔːl kɔːt/
+- 操场: playground ˈpleɪɡraʊnd
+- 田径场: track-and-field ground /træk ənd fiːld ɡraʊnd/
+- 跑道: racetrack /ˈreɪstræk/
+- 库房: shed /ʃed/
+- 地下车库: underground garage /ˌʌndəˈɡraʊnd ˈɡærɑːʒ/
+- 城堡: castle /ˈkɑːsl/
+- 寺庙: temple /ˈtempl/
+- 宫殿: palace /ˈpæləs/
+- 公园: park /pɑːk/ √
+- 工厂: factory /ˈfæktri/
+- 商店: shop /ʃɒp/, store /stɔː/
+- 垃圾房: garbage room /ˈɡɑːbɪdʒ ruːm/
+- 垃圾场: dump /dʌmp/
+- 变电站: transformer substation /trænsˈfɔːmə ˈsʌbsteɪʃn/
+- 亭子: pavilion /pəˈvɪliən/
+- 加油站: gas station /ˈɡæs steɪʃn/
+- 厕所: toilet /ˈtɔɪlət/ √
+- 售票处: ticket office /ˈtɪkɪt ˈɒfɪs/
+- 检票口: ticket gate /ˈtɪkɪt ɡeɪt/
+- 站台: platform /ˈplætfɔːm/ [A2]
+- 公交站: bus station /bʌs ˈsteiʃn/ [A2] √
+- 候车室: waiting room /ˈweɪtɪŋ ruːm/
+- 旅馆: inn /ɪn/
+- 喷泉: fountain /ˈfaʊntən/ [B1] √
+- 度假村: resort /rɪˈzɔːt/ [B1]
+- 理发店: barber shop /ˈbɑːbə ʃɒp/, hair salon /heə ˈsælɒn/
+- 肉铺: butcher shop /ˈbʊtʃə ʃɒp/
+- 水果店: fruit shop /fruːt ʃɒp/
+- 杂货店: grocery /ˈɡrəʊsəri/
+- 冰屋: igloo /ˈɪɡluː/
+- 剧场: theater /ˈθɪətə(r)/
+- 电影院: cinima /ˈsɪnəmə/
+- 教堂: church /tʃɜːtʃ/
+- 市政厅: town hall /ˌtaʊn ˈhɔːl/ 
+- 洗衣店: laundry /ˈlɔːndri/
+- 免税店: duty free store /ˌduːti ˈfriː stɔː/
+- 桥: bridge /brɪdʒ/ √
+- 塔: tower /ˈtaʊə/
+- 溜冰场: ice rink /ˈaɪs rɪŋk/
+- 动物园: zoo /zuː/ √
+- 电线杆: wire pole /ˈwaɪə pəʊl/
+- 雕像: statue /ˈstætʃuː/
+- 电梯: elevator /ˈelɪveɪtə/（美）[A2] √, lift /lɪft/（英）[A2]
+- 扶梯: escalator /ˈeskəleɪtə/ [B2]
+#### 住宅: the house /ðə haʊs/ [A1]
+- 厕所: bathroom /ˈbɑːθruːm/
+- 餐厅: dining room /ˈdaɪnɪŋ ruːm/
+- 客厅: living room /ˈlɪvɪŋ ruːm/
+- 厨房: kitchen /ˈkɪtʃɪn/
+- 卧室: bedroom /ˈbedruːm/
+- 书房: study /ˈstʌdi/
+- 儿童房: childrenˈs room /ˈtʃɪldrənz ruːm/
+- 阳台: balcony /ˈbælkəni/
+- 储藏室: storeroom /ˈstɔːruːm/
+- 玄关: hallway /ˈhɔːlweɪ/
+- 地窖: cellar /ˈselə/
+- 淋浴房: shower room /ˈʃaʊə ruːm/
+- 院子: yard /jɑːd/
+- 花园: garden /ˈɡɑːdn/
+- 后院: backyard /bækˈjɑːd/
+- 烟囱: chimney /ˈtʃɪmni/
+- 楼梯: stairs /steəz/
+- 壁炉: fireplace /ˈfaɪəpleɪs/
+- 地板或屋顶上的门: trap door /træp dɔː/ [ORT5]
+- 窗: window /ˈwɪndəʊ/
+- 纱窗: window screen /ˈwɪndəʊ skriːn/
+- 纱门: screen door /skriːn dɔː/
+- 窗帘: curtain /ˈkɜːtn/
+- 墙纸: wallpaper /ˈwɔːlpeɪpə/
+- 天窗: skylight /ˈskaɪlaɪt/
+- 水槽: sink /sɪŋk/
+- 浴缸: tub /tʌb/
+- 栏杆: railing /ˈreɪlɪŋ/
+- 扶手: handrail /ˈhændreɪl/
+- 一楼: ground floor /ɡraʊnd flɔː/（英）, first floor /fɜːst flɔː/（美）
+- 地下一楼: basement level 1 /ˈbeɪsmənt ˈlevl wʌn/, basement first floor /ˈbeɪsmənt fɜːst flɔː/
+- 天台: rooftop /ˈruːftɒp/
+- 地下室: basement /ˈbeɪsmənt/
+- 大门: gate /ɡeɪt/
+- 大堂: lobby /ˈlɒbi/
+- 地面: floor /flɔː/
+- 屋顶: roof /ruːf/
+- 天花板: ceiling /ˈsiːlɪŋ/
+- 墙壁: wall /wɔːl/
+- 地毯: carpet /ˈkɑːpɪt/, rug /rʌɡ/
+- 花瓶: vase /veɪs/
+#### 游乐场: the playground /ðə ˈpleɪɡraʊnd/ [A2] √
+- 摩天轮: ferris wheel /ferɪs wiːl/
+- 旋转木马: merry-go-round /ˈmeri ɡəʊ raʊnd/
+- 过山车: roller coaster /rəʊlə kəʊstə/
+- 跷跷板: seesaw /ˈsiː sɔː/ √
+- 滑梯: slide /slaɪd/ √
+- 秋千: swing /swɪŋ/ √
+#### 农场: the farm /ðə fɑːm/ [A1] √
+- 猪圈: pigpen /pɪɡpen/
+- 干草: hay /heɪ/
+- 马厩: stable /ˈsteɪbl/
+- 村舍: cottage /ˈkɒtɪdʒ/
+- 小屋: cabin /ˈkæbɪn/, hut /hʌt/
+- 牲口房: barn /bɑːn/
+- 围栏, 篱笆: fence /fens/ √
+#### 建材: construction materials /kənˈstrʌkʃn məˈtɪərɪəlz/
+- 水泥: cement /sɪˈment/
+- 混凝土: concrete /ˈkɒŋkriːt/ √
+- 沙: sand /sænd/ √
+- 砖: brick /brɪk/ √
+- 木地板: wood floor /wʊd flɔː/
+- 瓷砖: ceramic tile /səˈræmɪk taɪl/, porcelain tile /ˈpɔːsəlɪn taɪl/
+- 钉子: nail /neɪl/
+- 水管: water pipe /ˈwɔːtə paɪp/
+#### 灯: the light /ðə laɪt/ [A2]
+- 灯泡: bulb /bʌlb/ [B2]
+- 台灯: lamp /læmp/
+- 路灯: street light /striːt laɪt/
+- 手电筒: flashlight /ˈflæʃlaɪt/（美）√, torch /tɔːtʃ/（英）√
+- 灯笼: lantern /ˈlæntən/ √
+#### 家具: furniture /ˈfɜːnɪtʃə/ [A2]
+- 高脚椅: highchair /ˌhaɪˈtʃeə/
+- 椅子: chair /tʃeə/ √
+- 桌子: desk /desk/ √
+- 橱柜: cupboard /ˈkʌbəd/ √
+- 床垫: mattress /ˈmætrəs/
+- 餐桌: dining table /ˈdaɪnɪŋ ˈteɪbl/
+- 桌子: table /ˈteɪbl/ √
+- 书架: bookshelf /ˈbʊkʃelf/ √
+- 书桌: desk /desk/
+- 凳子: stool /stuːl/
+- 鞋架: shoe rack /ʃuː ræk/
+- 柜子: cabinet /ˈkæbɪnət/
+- 床头柜: bedside table /ˈbedsaɪd ˈteɪbl/
+- 沙发: sofa /ˈsəʊfə/
+- 床: bed /bed/ √
+- 架子: shelf /ʃelf/
+- 衣柜: wardrobe /ˈwɔːdrəʊb/ √
+- 梳妆台: dresser /ˈdresə/
+- 抽屉: drawer /drɔ:r/
+- 镜子: mirror /ˈmɪrə/
+#### 床上用品: bedding /ˈbedɪŋ/
+- 床单: sheet /ʃiːt/
+- 枕头: pillow /ˈpɪləʊ/
+- 被子: quilt /kwɪlt/
+- 毯子: blanket /blanket/
+- 靠垫: cushion /ˈkʊʃn/
+#### 清洁用品: cleaning supplies /ˈkliːnɪŋ səˈplaɪz/
+- 扫帚: broom /bruːm/
+- 簸箕: dustpan /ˈdʌstpæn/
+- 海绵: sponge /spʌndʒ/
+- 垃圾桶: waste bin /weɪst bɪn/
+- 拖把: mop /mɒp/
+- 刷子: brush /brʌʃ/
+- 晾衣架: drying rack /ˈdraɪɪŋ ræk/
+- 衣架: coat hanger /kəʊt hanger/
+- 夹子: peg /peɡ/
+- 洗衣液: laundry detergent /ˈlɔːndri dɪˈtɜːdʒənt/
+- 洗衣粉: washing powder /ˈwɒʃɪŋ ˈpaʊdə/
+- 肥皂: soap /səʊp/
+#### 个人护理用品: personal care products /ˈpɜːsənl keə ˈprɒdʌkts/
+- 梳子: comb /kəʊm/
+- 指甲钳: nail clipper /neɪl ˈklɪpə/
+- 牙线: flosser /fˈlɒsər/
+- 牙刷: toothbrush /ˈtuːθbrʌʃ/
+- 牙膏: toothpaste /ˈtuːθpeɪst/
+- 毛巾: towel /ˈtaʊəl/
+- 浴巾: bath towel /bɑːθ ˈtaʊəl/
+- 脸盆: washbasin /ˈwɒʃbeɪsn/
+- 牙签: toothpick /ˈtuːθpɪk/
+- 洗手液: hand sanitizer /hænd ˈsænɪtaɪzə/, liquid hand soap /ˈlɪkwɪd hænd səʊp/
+- 洗发水: shampoo /ʃæmˈpuː/
+- 护发素: hair conditioner /heə kənˈdɪʃənə/
+- 沐浴露: body wash /ˈbɒdi wɒʃ/
+- 身体乳: body lotion /ˈbɒdi ˈləʊʃn/
+- 漱口水: mouthwash /ˈmaʊθwɒʃ/
+- 护手霜: hand lotion /hænd ˈləʊʃn/
+- 纸巾: tissue /ˈtɪʃuː/
+- 餐巾: napkin /ˈnæpkɪn/
+- 尿布: diaper /ˈdaɪpə/ √
+- 防晒霜: sunscreen /ˈsʌnskriːn/
+- 扇子: fan /fæn/
+#### 化妆品: cosmetics /kɒzˈmetɪks/
+- 口红: lipstick /ˈlɪpstɪk/
+#### 厨具: cooking utensils /ˈkʊkɪŋ juːˈtenslz/
+- 火锅: hotpot /ˈhɒtpɒt/ √
+- 锅: pot /pɒt/（深）
+- 锅盖: lid /lɪd/
+- 炒锅: wok /wɒk/
+- 煎锅: frying pan /ˈfraɪɪŋ pæn/
+- 烤盘: oven dish /ˈʌvn dɪʃ/
+- 水壶: kettle /ˈketl/
+- 燃气灶: gas stove /ɡæs stəʊv/
+- 搅拌机: blender /ˈblendə/
+- 砧板: cutting board /ˈkʌtɪŋ bɔːd/
+- 菜刀: kitchen knife /ˈkɪtʃɪn naɪf/
+- 水果刀: fruit knife /fruːt naɪf/
+- 削皮刀: peeler /ˈpiːlə/
+#### 餐具: tableware /ˈteɪblweə/
+- 碟: dish /dɪʃ/
+- 盘: plate /pleɪt/
+- 碗: bowl /bəʊl/
+- 勺: spoon /spuːn/（浅）√, scoop /skuːp/（深）
+- 刀: knife /naɪf/
+- 叉: fork /fɔːk/ √
+- 筷子: chopsticks /ˈtʃɒpstɪks/ √
+- 杯: cup /kʌp/
+- 马克杯: mug /mʌɡ/
+- 茶壶: teapot /ˈtiːpɒt/
+- 玻璃杯: glass /ɡlɑːs/
+- 高脚杯: goblet /ˈɡɒblət/
+#### 容器 : containers /kənˈteɪnəz/ [B2]
+- 瓶: bottle /ˈbɒtl/
+- 罐头: can /kæn,/ tin /tɪn/
+- 罐: jar /dʒɑː/
+- 保温杯: vacuum flask /ˈvækjuːm flɑːsk/
+- 篮子: basket /ˈbɑːskɪt/
+- 桶: bucket /ˈbʌkɪt/
+- 盒子: box /bɒks/
+- 储物箱: storage box /ˈstɔːrɪdʒ bɒks/
+#### 宠物用品: pet supplies /pet səˈplaɪz/
+- 狗绳: dog leash /dɔːɡ liːʃ/
+- 笼子: cage /keɪdʒ/
+#### 垃圾分类: the garbage classification /ðə ˈɡɑːbɪdʒ ˌklæsɪfɪˈkeɪʃn/
+- 干垃圾: residual waste /rɪˈzɪdjuəl weɪst/
+- 湿垃圾: household food waste /ˈhaʊshəʊld fuːd weɪst/
+- 可回收垃圾: recyclable waste /ˌriːˈsaɪkləbl weɪst/
+- 有害垃圾: hazardous waste /ˈhæzədəs weɪst/
+#### 通信: communications /kəˌmjuːnɪˈkeɪʃnz/ [B1]
+- 强信号: strong signal /strɒŋ ˈsɪɡnəl/
+- 弱信号: weak signal /wiːk ˈsɪɡnəl/
+- 天线: antenna /ænˈtenə/
+#### 电器和电子产品: appliances and electronics /əˈplaɪənsɪz ənd ɪˌlekˈtrɒnɪks/
+- 净水器: water purifier /ˈwɔːtə ˈpjʊərɪfaɪə/
+- 秤: scale /skeɪl/
+- 钟: clock /klɒk/
+- 表: watch /wɒtʃ/
+- 遥控器: remote control /rɪˈməʊt kənˈtrəʊl/
+- 摄像机: camcorder /ˈkæmkɔːdə/
+- 电视机: television /ˈtelɪvɪʒn/ √
+- 冰箱: fridge /frɪdʒ/, refrigerator /rɪˈfrɪdʒəreɪtə/
+- 烤箱: oven /ˈʌvn/
+- 微波炉: microwave /ˈmaɪkrəweɪv/
+- 洗碗机: dishwasher /ˈdɪʃwɔːʃə/
+- 烘干机: dryer /ˈdraɪə/
+- 电吹风: hair dryer /heə ˈdraɪə/
+- 电饭煲: rice cooker /raɪs ˈkʊkə/
+- 电水壶: electric kettle /ɪˈlektrɪk ˈketl/
+- 电风扇: fan /fæn/ √
+- 显示器: monitor /ˈmɒnɪtə/
+- 消毒柜: sterilizer /ˈsterəlaɪzə/
+- 油烟机: range hood /reɪndʒ hʊd/
+- 燃气灶: gas stove /ɡæs stəʊv/
+- 电脑: computer /kəmˈpjuːtə/
+- 手机: cell phones /sel fəʊn/
+- 平板电脑: pad /pæd/
+- 笔记本电脑: laptop /ˈlæptɒp/
+- 台式机: desktop /ˈdesktɒp/
+- 扬声器: speaker /ˈspiːkə/
+- 计算器: calculator /ˈkælkjuleɪtə/
+- 键盘: keyboard /ˈkiːbɔːd/
+- 鼠标: mouse /maʊs/
+- 电蚊拍: mosquito swatter /məˈskiːtəʊ ˈswɒtə/
+- 话筒: microphone /ˈmaɪkrəfəʊn/
+- 变压器: transformer /trænsˈfɔːmə/
+- 充电器: charger /ˈtʃɑːdʒə/
+- 移动电源: power bank /ˈpaʊə bæŋk/
+- 门禁卡: access card /ˈækses kɑːd/
+- 读卡器: card reader /kɑːd ˈriːdə/
+- 开关: switch /swɪtʃ/
+- 插座: socket /ˈsɒkɪt/
+- 插线板: power strip /ˈpaʊə strɪp/
+- 闸机: barrier /ˈbæriə/
+#### 机器: machines /məˈʃiːnz/ [A2]
+- 挖掘机: digger /ˈdɪɡə/
+- 混凝土搅拌车: concrete mixer /ˈkɒŋkriːt ˈmɪksə/
+- 塔吊: tower crane /ˈtaʊə kreɪn/
+- 吊车: mobile crane /ˈməʊbaɪl kreɪn/
+- 绞车: winch /wɪntʃ/ √
+- 割草机: lawn mower /lɔːn ˈməʊə/
+#### 零件: parts /pɑːts/ [B2]
+- 螺丝: screw /skruː/
+- 螺母: nut /nʌt/
+- 钩子: hook /hʊk/
+- 齿轮: gear /ɡɪə/
+#### 工具: tools /tuːlz/ [B2]
+- 洒水壶: watering can /ˈwɔːtərɪŋ kæn/
+- 锄头: hoe /həʊ/
+- 软管: hose /həʊz/
+- 犁: plow /plaʊ/
+- 铁锹: spade /speɪd/
+- 铁铲: shovel /ˈʃʌvl/ √
+- 螺丝刀: screwdriver /ˈskruːdraɪvə/
+- 锤子: hammer /ˈhæmə/ √
+- 杆子: pole /pəʊl/
+- 棍子: stick /stɪk/ √
+- 脚手架: scaffold /ˈskæfəʊld/
+- 灭火器: fire extinguisher /ˈfaɪə ɪkˈstɪŋɡwɪʃə/
+#### 文具: stationery /ˈsteɪʃəneri/
+- 信封: envelope /ˈenvələʊp/
+- 橡皮: eraser /ɪˈreɪzə/
+- 算盘: abacus /ˈæbəkəs/
+- 剪刀: scissors /ˈsɪzəz/ [A2]
+- 墨水: ink /ɪŋk/
+- 纸: paper /ˈpeɪpə/
+- 颜料: paints /peɪnts/
+  - 水彩: watercolor /ˈwɔ:təkʌlə/
+- 蜡笔: crayon /ˈkreɪɒn/ √
+- 粉笔: chalk /tʃɔːk/
+- 彩色铅笔: colored pencil /ˈkʌləd ˈpensl/
+- 水彩笔: colored marker /ˈkʌləd ˈmɑːkə/
+- 圆珠笔: ballpoint pen /ˈbɔːlpɔɪnt pen/
+- 笔: pen /pen/
+- 钢笔: fountain pen /ˈfaʊntən pen/
+- 地球仪: globe /ɡləʊb/
+- 黑板: chalkboard /ˈtʃɔːkbɔːd/, blackboard /ˈblækbɔːd/
+- 白板: whiteboard /ˈwaɪtbɔːd/
+- 胶水: glue /ɡluː/ √
+- 胶带: tape /teɪp/
+- 放大镜: magnifying glass /mægnɪfaɪɪŋ ɡlɑːs/
+#### 交通: transportation /ˌtrænspɔːˈteɪʃn/ [C1]
+- 入口: entrance /ˈentrəns/ √
+- 出口: exit /ˈeksɪt/ √
+- 公园: park /pɑːk/ √
+- 码头: pier /pɪə/
+- 机场: airport /ˈeəpɔːt/ √
+- 公共交通: public transportation /ˈpʌblɪk ˌtrænspɔːˈteɪʃn/
+- 轨道交通: metro /ˈmetrəʊ/
+- 距离: distance /ˈdɪstəns/
+- 公交车站: bus stop /bʌs stɒp/ √
+- 人行道: sidewalk /ˈsaɪdwɔːk/（美）, pavement /ˈpeɪvmənt/（英）
+- 路锥: traffic cone /ˈtræfɪk kəʊn/ √
+- 井盖: manhole cover /ˈmænhəʊl ˈkʌvə/
+- 交通信号灯: traffic light /ˈtræfɪk laɪt/
+- 路障: roadblock /ˈrəʊdblɒk/
+- 护栏: guardrail /ˈɡɑːdreɪl/
+- 路桩: bollard /ˈbɒlɑːd/
+- 减速带: speed bump /spiːd bʌmp/ √
+- 路牙: curb /kɜːb/
+- 路肩: shoulder /ˈʃəʊldə/
+- 三岔路口: t-intersection /tiː ˌɪntəˈsekʃn/, y-intersection /waɪ ˌɪntəˈsekʃn/
+- 路口: intersection /ˌɪntəˈsekʃn/
+- 天桥: overpass /ˈəʊvəpɑːs/
+- 斑马线: zebra crossing /ˈzebrə ˈkrɒsɪŋ/
+- 公路: highway /ˈhaɪweɪ/
+- 高速: expressway /ɪkˈspresweɪ/, freeway /ˈfriːweɪ/（美）
+- 高架: elevated road /ˈelɪveɪtɪd rəʊd/
+- 内环: inner ring /ˈɪnə rɪŋ/
+- 中环: middle ring /ˈmɪdl rɪŋ/
+- 外环: outer ring /ˈaʊtə rɪŋ/
+- 支路: branch road /bræntʃ rəʊd/
+- 巷: lane /leɪn/
+- 弄: alley /ˈæli/
+- 大道: avenue /ˈævənjuː/ √
+- 环路: circle /ˈsɜːkl/
+- 支路: branch road /bræntʃ rəʊd/
+- 隧道: tunnel /ˈtʌnl/ √
+- 铁路: railway /ˈreɪlweɪ/
+- 轨道: track /træk/ [C1]
+#### 车辆: vehicles /ˈviːɪkəlz/ [B1]
+- 卡车: truck /trʌk/（美）√, lorry /ˈlɔːri/（英）√
+- 挂车: trailer /ˈtreɪlə/
+- 拖车: tow truck /təʊ trʌk/ √
+- 洒水车: sprinkler /ˈsprɪŋklə/
+- 扫地车: sweeper /ˈswiːpə/
+- 公交车: bus /bʌs/ √
+- 摩托车: motorbike /ˈməʊtəbaɪk/ √, motorcycle /ˈməʊtəsaɪkl/ √
+- 房车: camper van /ˈkæmpə væn/ √
+- 班车: shuttle bus /ˈʃʌtl bʌs/ √
+- 电动自行车: electric bicycle /ɪˈlektrɪk ˈbaɪsɪkl/ √
+- 双层巴士: double-decker bus /ˈdʌbl ˈdekə bʌs/ √
+#### 火车: trains /treɪnz/ [A1] √
+- 蒸汽火车: steam train /stiːm treɪn/, puffer billy /ˈpʌfə ˈbɪli/
+- 磁悬浮列车: maglev train /ˈmæɡlev treɪn/
+- 高铁: high-speed train /haɪ spiːd treɪn/ √
+- 地铁: metro /ˈmetrəʊ/ √, subway /ˈsʌbweɪ/（美）, underground /ˌʌndəˈɡraʊnd/（英）
+- 轻轨: light rail /laɪt reɪl/, overground /ˈəuvəɡraund/（英）
+#### 航空器: aircrafts /ˈeəkrɑːfts/ [B2] √
+- 飞机: airplane /ˈeəpleɪn/（美）√, aeroplane /ˈeərəpleɪn/（英）√
+- 直升机: helicopter /ˈhelɪkɒptə/ √
+- 热气球: hot air balloon /hɒt eə bəˈluːn/ √
+#### 船: boats /bəʊts/ [A1] √
+- 皮划艇: kayak /ˈkaɪæk/
+- 独木舟: canoe /kəˈnuː/
+- 橡皮筏: dinghy /ˈdɪŋɡi/ √
+- 帆船: sailboat /ˈseɪlbəʊt/ √
+- 渔船: fishing boat /ˈfɪʃɪŋ bəʊt/ √
+- 救生船: lifeboat /ˈlaɪfbəʊt/
+- 渡轮: ferry /ˈferi/
+#### 汽车零部件: car parts /kɑː pɑːts/
+- 发动机, 引擎: engine /ˈendʒɪn/ √
+- 轮胎: tyre /ˈtaɪə/（英）, tire /ˈtaɪə/（美）
+- 雨刮器: wiper /ˈwaɪpə/ √
+- 轮子: wheel /wiːl/ √
+- 喇叭: horn /hɔːn/ √
+#### 火车零部件: train parts /treɪn pɑːts/
+- 火车车厢: coach /kəʊtʃ/
+#### 飞机零部件: airplane parts /ˈerpleɪn pɑːts/
+- 驾驶舱: cockpit /ˈkɒkpɪt/
+#### 航天: aerospace /ˈeərəʊspeɪs/
+- 火箭: rocket /ˈrɒkɪt/ [B2] √
+- 航天飞机: space shuttle /speɪs ˈʃʌtl/
+- 点火: ignition /ɪɡˈnɪʃn/
+- 起飞: lift off /ˈlɪft ɒf/
+- 发射: launch /lɔːntʃ/ [C1] √
+- 发射台: launch pad /ˈlɔːntʃ pæd/ √
+#### 服装: clothes /kləʊðz/ [A1]
+- 内衣: underwear /ˈʌndəweə/
+- 体恤衫: t-shirt /ˈtiː ʃɜːt/
+- 袜子: socks /sɒks/
+- 连裤袜: tights /taɪts/
+- 内裤: underpants /ˈʌndəpænts/（美）, pants /pænts/（英）
+- 牛仔裤: jeans /dʒiːnz/
+- 毛衣: sweater /ˈswetə/
+- 套头毛衣: sweater /ˈswetə/（美）, jumper /ˈdʒʌmpə/（英）
+- 短裤: shorts /ʃɔːts/
+- 裙子: skirt /skɜːt/
+- 帽子: hat /hæt/, cap /kæp/
+- 围巾: scarf /skɑːf/ √
+- 手套: gloves /ɡlʌvz/, mittens /ˈmɪtnz/ √
+- 靴子: boots /buːts/ √
+- 连衣裙: dress /dres/
+- 夹克衫: jacket /ˈdʒækɪt/
+- 睡衣: pajama /pəˈdʒɑːmə/
+- 腰带: belt /belt/
+- 领带: tie /taɪ/
+- 演出服: costume /ˈkɒstjuːm/
+- 制服: uniform /ˈjuːnɪfɔːm/
+- 倒挂衣: bib /bɪb/
+- 假发: wig /wɪɡ/
+- 外套: coat /kəʊt/
+- 羽绒服: down jacket /daʊn ˈdʒækɪt/
+- 围裙: apron /ˈeɪprən/
+- 袖子: sleeve /sliːv/
+- 长裤: trousers /ˈtraʊzəz/, pants /pænts/（美）
+- 雨衣: raincoat /ˈreɪnkəʊt/
+#### 鞋子: shoes /ʃuːz/ [A1]
+- 拖鞋: slippers /ˈslɪpəz/
+- 雨靴: rain boots /reɪn buːts/
+#### 包: bags /bæɡz/ [A1]
+- 背包: backpack /ˈbækpæk/
+#### 眼镜: glasses /ˈɡlɑːsɪz/ [A1]
+- 墨镜: shades /ʃeɪdz/
+- 太阳眼镜: sunglasses /ˈsʌnɡlɑːsɪz/
+- 游泳眼镜: goggles /ˈɡɑːɡlz/
+#### 首饰: jewellery（英）, jewelry（美）/ˈdʒuːəlri/ [A2]
+- 戒指: ring /rɪŋ/ [A2]
+- 项链: necklace /ˈnekləs/ [A2]
+- 耳环: earrings /iəriŋz/ [A2]
+#### 缝纫: sewing /ˈsəʊɪŋ/ [C1]
+- 针: needle /ˈniːdl/
+- 线: thread /θred/
+- 拉链: zip /zɪp/, zipper /ˈzɪpə/
+- 带扣: buckle /ˈbʌkl/
+- 纽扣: button /ˈbʌtn/
+#### 动物: the animal /ði ˈænɪml/ [A1] √
+- 爬行动物: reptiles /ˈreptaɪlz/ [C1]
+  - 蛇: snake /sneɪk/ [A2] √
+  - 乌龟: turtle /ˈtɜːtl/（水陆）, tortoise /ˈtɔːtəs/（陆） √
+  - 海龟: sea turtle /siː ˈtɜːtl/
+  - 变色龙: chameleon /kəˈmiːliən/
+  - 火蜥蜴: salamander /ˈsæləmændə/ [ORT2] √
+  - 鳄鱼:  [B2] /ˈkrɒkədaɪl/ [B2]
+- 鸟: birds /bɜːdz/ [A1] √
+  - 小鸟: birdie /ˈbɜːdi/ √
+  - 鸵鸟: ostrich /ˈɒstrɪtʃ/
+  - 小鸭: duckling /ˈdʌklɪŋ/
+  - 鸽子: pigeon /ˈpɪdʒɪn/ √
+  - 鹅: goose /ɡuːs/
+  - 小鹅: gosling /ˈɡɒzlɪŋ/ √
+  - 小蝌蚪: tadpole /ˈtædpəʊl/ √
+  - 猫头鹰: owl /aʊl/ [B2]
+  - 小猫头鹰: owlet /ˈaʊlət/
+  - 乌鸦: crow /krəʊ/
+  - 燕子: swallow /ˈswɒləʊ/
+  - 火鸡: turkey /ˈtɜːki/ [B1]
+  - 母鸡: hen /hen/ √
+  - 公鸡: rooster /ˈruːstə/ √
+  - 孔雀: peacock /ˈpiːkɒk/ √
+  - 海鸥: seagull /siːɡʌl/
+  - 巨嘴鸟: toucan /ˈtuːkæn/
+  - 猎鹰: falcon /ˈfælkən/ √
+- 蛤蜊: clam /klæm/
+- 昆虫: insects /ˈɪnsekts/ [A2] √
+  - 虫子: bug /bʌɡ/ [B1] √
+  - 苍蝇: fly /flaɪ/ [B1] √
+  - 萤火虫: firefly /ˈfaɪəflaɪ/ √
+  - 蚊子: mosquito /məˈskiːtəʊ/ [B1] √
+  - 蚂蚁: ant /ænt/ [B1] √
+  - 蜻蜓: dragonfly /ˈdræɡənflaɪ/ √
+  - 瓢虫: ladybug /leɪdɪbʌɡ/ √
+  - 蜜蜂: honeybee /ˈhʌnibiː/ √
+  - 黄蜂: wasp /wɒsp/ [B2]
+  - 大黄蜂: bumblebee /ˈbʌmblbiː/
+  - 飞蛾: moth /mɒθ/ √
+  - 蝴蝶: butterfly /ˈbʌtəflaɪ/ [B1] √
+  - 茧: cocoon /kəˈkuːn/ √
+  - 碟蛹: chrysalis /ˈkrɪsəlɪs/
+  - 蟋蟀: cricket /ˈkrɪkɪt/ [C2]
+  - 甲壳虫: beetle /ˈbiːtl/
+- 蜘蛛: spider /ˈspaɪdə/ [B1] √
+- 蜈蚣: centipede /ˈsentɪpiːd/
+- 哺乳动物: mammals /ˈmæmlz/ [C1] √
+  - 瞪羚: gazelle /ɡəˈzel/
+  - 斑马: zebra /ˈzebrə/ [B2] √
+  - 长颈鹿: giraffe /dʒəˈrɑːf/ [B1] √
+  - 大熊猫: panda /ˈpændə/ √
+  - 考拉: koala /kəʊˈɑːlə/
+  - 松鼠: squirrel /ˈskwɪrəl/ √
+  - 树懒: sloth /sləʊθ/ √
+  - 老虎: tiger /ˈtaɪɡə/ [B1] √
+  - 海狮: sea lion /siː ˈlaɪən/
+  - 海豹: seal /siːl/ [B2] √
+  - 海象: walrus /ˈwɔːlrəs/
+  - 鲸鱼: whale /weɪl/ [B1] √
+  - 臭鼬: skunk /skʌŋk/ √
+  - 大象: elephant /ˈelɪfənt/ [A2] √
+  - 骆驼: camel /ˈkæml/ [B1] √
+  - 狐狸: fox /fɒks/ [B2] √
+  - 兔子: rabbit /ˈræbɪt/ [A2] √
+  - 小兔子: bunny /ˈbʌni/ √
+  - 猫: cat /kæt/ [A1] √
+  - 小猫: kitten /ˈkɪtn/ [B1] √
+  - 黑豹: panther /ˈpænθə/
+  - 狗: dog /dɒɡ/ [A1] √
+  - 小狗: puppy /ˈpʌpi/ [B1] √
+  - 猪: pig /pɪɡ/ [A1] √
+  - 小猪: piggy /ˈpɪɡi/ √
+  - 小鸡: chick /tʃɪk/ √
+  - 小羊: lamb /læm/ [B1] √
+  - 小马: foal /fəʊl/, pony /ˈpəʊni/ [C1] √
+  - 小牛: calf /kɑːf/ [B1]
+  - 幼崽: cub /kʌb/（凶猛）, calf /kɑːf/（温顺）
+  - 小鹿: fawn /fɔːn/
+  - 袋鼠: kangaroo /ˌkæŋɡəˈruː/ [B1]
+  - 小袋鼠: joey /ˈdʒəʊi/
+  - 驴: donkey /ˈdɒŋki/ [B1]
+  - 牧羊犬: sheepdog /ˈʃi:pdɒg/
+  - 黑猩猩: chimpanzee /ˌtʃɪmpænˈziː/
+  - 大猩猩: gorilla /ɡəˈrɪlə/ √
+  - 猩猩: orangutan /əˈræŋətæn/
+  - 犀牛: rhino /ˈraɪnəʊ/, rhinoceros /raɪˈnɒsərəs/
+  - 河狸: beaver /ˈbiːvə/
+  - 狮子: lion ˈlaɪən [A2] √
+  - 熊: bear /beə/ [A2] √
+- 恐龙: dinosaur /ˈdaɪnəsɔː/ [A2] √
+- 鱼: fish /fɪʃ/ [A1] √
+  - 金鱼: goldfish /ˈɡəʊldfɪʃ/ √
+  - 鲨鱼: shark /ʃɑːk/ [B1] √
+  - 海豚: dolphin /ˈdɒlfɪn/ [B1] √
+  - 三文鱼: salmon /ˈsæmən/ [B1]
+  - 银鳕鱼（小鳞犬牙南极鱼）: patagonian toothfish /pætəˈɡəunjən tuːθfɪʃ/
+  - 热带鱼: tropical fish /ˈtrɒpɪkl fɪʃ/
+- 蟹: crab /kræb/ [B2] √
+- 寄居蟹: hermit crab /ˈhɜːmɪt kræb/
+- 虾: shrimp /ʃrɪmp/ [B1] √
+- 龙虾: lobster /ˈlɒbstə/
+- 小龙虾: crayfish /ˈkreɪfɪʃ/, crawfish /ˈkrɔːfɪʃ/
+- 水母: jellyfish /ˈdʒelifɪʃ/
+- 蠕虫: worms /wɜːmz/ [B2] √
+  - 蚯蚓: earthworm /ˈɜːθwɜːm/
+  - 鼻涕虫: slug /slʌɡ/
+- 毛毛虫: caterpillar /ˈkætəpɪlə/ √
+- 蜗牛: snail /sneɪl/ √
+- 宠物: pet /pet/ [A1] √
+- 珊瑚: coral /ˈkɒrəl/ [C2]
+- 怪兽: monster /ˈmɒnstə/ [B1] √
+- 毛皮: fur /fɜː/ [B1]
+- 掌: paw /pɔː/ [B2]
+- 大象鼻子: trunk /trʌŋk/ √
+- 爪子: claw /klɔː/
+#### 植物: the plant /ðə plænt/ [A1] √
+- 花: flowers /ˈflaʊəz/ [A1] √
+  - 樱花: sakura /sakurə/
+- 花苞: bud /bʌd/
+- 花瓣: petal /ˈpetl/
+- 树: trees /triːz/ [A1] √
+  - 橡树: oak tree /əʊk triː/
+- 草: grass /ɡrɑːs/ [A1] √
+- 藤: vine /vaɪn/ [C1]
+- 树干: trunk /trʌŋk/ [B2]
+- 茎: stem /stem/
+- 芽: sprout /spraʊt/
+- 根: root /ruːt/ [B2] √
+- 叶: leaf /liːf/ [B1] √
+- 树枝: branch /bræntʃ/ [B1], twig /twɪɡ/（小）
+- 灌木: bush /bʊʃ/ [B2]
+- 种子: seeds /siːdz/ [B2]
+  - 橡果: acorn /ˈeɪkɔːn/
+#### 微生物: the microorganism /ðə ˌmaɪkrəʊˈɔːɡənɪzəm/
+- 真菌: fungus /ˈfʌŋɡəs/
+- 细菌: bacteria /bækˈtɪəriə/ [C1]
+- 病毒: virus /ˈvaɪrəs/ [B2]
+#### 人: people /ˈpiːpl/ [A1]
+- 婴儿: baby /ˈbeɪbi/ [A1] √, infant /ˈɪnfənt/ [C2]
+- 幼童: toddler /ˈtɒdlə/ [C2]
+- 儿童: kid /kɪd/ [A2]
+- 孩子: child /tʃaɪld/ [A1]
+- 男人: man /mæn/ [A1] √
+- 女人: woman /ˈwʊmən/ [A1]
+- 成年人: adult /ˈædʌlt/ [A1]
+- 男孩: boy /bɔɪ/ [A1] √
+- 女孩: girl [A1] /ɡɜːl/ √
+- 少年: teenager /ˈtiːneɪdʒə/ [A2]
+- 病人: patient /ˈpeɪʃnt/ [B1]
+- 绅士: gentleman /ˈdʒentlmən/ [B2]
+- 女士: lady /ˈleɪdi/ [B1]
+- 行人: pedestrian /pəˈdestriən/ [B1]
+- 观众: audience /ˈɔːdiəns/ [B1] √
+- 学生: student /ˈstjuːdnt/ [A1]
+- 游客: tourist /ˈtʊərɪst/ [A2]
+- 访客: visitor /ˈvɪzɪtə/ [A2]
+- 囚犯: prisoner /ˈprɪznə/ [B1]
+#### 职业: jobs /dʒobs/ [A1]
+- 邮递员: postman /ˈpəʊstmən/ [B1]
+- 宇航员: astronaut /ˈæstrənɔːt/ √, spaceman /ˈspeɪsmæn/
+- 消防员: firefighter /ˈfaɪəfaɪtə/ [B1] √
+- 医生: doctor /ˈdɒktə/ [A1] √
+- 兽医: veterinarian /ˌvetərɪˈneəriən/, vet /vet/（缩）[B1] √
+- 农民: farmer /ˈfɑːmə/ [A2] √
+- 军人: soldier /ˈsəʊldʒə/ [B1] √
+- 水手: sailor /ˈseɪlə/ [B1]
+- 海军陆战队员: marine /məˈriːn/
+- 狙击手: sniper /ˈsnaɪpə/
+- 警察: policeman /pəˈliːsmən/ [A2] √, policewoman /pəˈliːswʊmən/ [A2], police officer /pəˈliːs ˈɒfɪsə/ [A2] √
+- 飞行员: pilot /ˈpaɪlət/ [A2] √
+- 老师: teacher /ˈtiːtʃə/ [A1] √
+- 护士: nurse /nɜːs/ [A2] √
+- 服务员: waiter /ˈweɪtə/（男）[A1], waitress /ˈweɪtrəs/（女）[A1]
+- 牙医: dentist /ˈdentɪst/ [A2] √
+- 科学家: scientist /ˈsaɪəntɪst/ [B1]
+- 歌手: singer /ˈsɪŋə/ [A2] √
+- 理发师: barber /ˈbɑːbə/ [B1], hairdresser /ˈheədresə/ [B1]
+- 演员: actor /ˈæktə/ （男）, actress /ˈæktrəs/（女）
+- 喜剧演员: comedian /kəˈmiːdiən/ [B2]
+- 特技演员: stuntman /ˈstʌntmæn/
+- 作家: writer /ˈraɪtə/
+- 舞者: dancer /ˈdɑːnsə/ √
+- 律师: lawyer /ˈlɔɪə/
+- 厨师: chef /ʃef/ √
+- 图书管理员: librarian /laɪˈbreəriən/
+- 动物饲养员: zookeeper /ˈzuːkiːpə/ √
+- 作者: author /ˈɔːθə/
+- 画家: artist /ˈɑːtɪst/
+- 教练: coach /kəʊtʃ/ √
+- 音乐家: musician /mjuˈzɪʃn/
+- 运动员: athlete /ˈæθliːt/
+- 探险家: explorer /ɪkˈsplɔːrə/
+- 园丁: gardener /ˈɡɑːdnə/ √
+- 裁缝: tailor /ˈteɪlə/
+- 木匠: carpenter /ˈkɑːpəntə/
+- 屠夫: butcher /ˈbʊtʃə/
+- 管家: housekeeper /ˈhaʊskiːpə/
+- 乘务员: attendant /əˈtendənt/
+- 烘焙师: baker /ˈbeɪkə/ √
+- 渔夫: fisherman /ˈfɪʃəmən/, fisherwoman /ˈfɪʃəwʊmən/
+- 保安: guard /ɡɑːd/
+- 环卫工: sanitation worker /ˌsænɪˈteɪʃn ˈwɜːkə/
+- 保洁工: cleaner /ˈkliːnə/ √
+- 魔术师: conjurer /ˈkʌndʒərə/
+- 潜水员: diver /ˈdaɪvə/
+- 建筑师: architect /ˈɑːkɪtekt/
+- 会计: accountant /əˈkaʊntənt/
+- 摄影师: photographer /fəˈtɒɡrəfə/
+- 金融家: financier /faɪˈnænsiə/
+- 法官: judge /dʒʌdʒ/
+- 司机: driver /ˈdraɪvə/ √
+- 收银员: cashier /kæˈʃɪə/
+- 工程师: engineer /ˌendʒɪˈnɪə/
+- 记者: reporter /rɪˈpɔːtə/
+- 秘书: secretary /ˈsekrətri/
+- 骑士: knight /naɪt/ √
+- 机械师: mechanic /məˈkænɪk/ √
+- 巫师: wizard /ˈwɪzəd/
+- 巫婆: witch /wɪtʃ/ √
+- 矿工: miner /ˈmaɪnə/
+#### 职位: positions /pəˈzɪʃnz/ [B2]
+- 校长, 总裁, 主席, 总统: president /ˈprezɪdənt/
+- 国王: king /kɪŋ/ √
+- 皇后: queen /kwiːn/ √
+- 公主: princess /ˌprɪnˈses/ √
+- 王子: prince /prɪns/ √
+- 校长: principal /ˈprɪnsəpl/
+- 领导: leader /ˈliːdə/
+- 经理: manager /ˈmænɪdʒə/
+- 队长: captain /ˈkæptɪn/ √
+#### 称谓: titles /ˈtaɪtlz/
+- 女士: Miss /mɪs/ [A1], madam /ˈmædəm/ [B1]
+- 夫人: Mrs /ˈmɪsɪz/ [A1], madam /ˈmædəm/ [B1]
+- 先生: Mr /ˈmɪstə/ [A1], sir /sɜː/ [B1]
+#### 关系: relationships /rɪˈleɪʃnʃɪps/ [B1]
+- 丈夫: husband /ˈhʌzbənd/
+- 妻子: wife /waɪf/
+- 爸爸: father /ˈfɑːðə/, dad /dæd/ √
+- 妈妈: mother /ˈmʌðə/, mom /mɑːm/（美）, mum /mʌm/（英）
+- 舅舅: uncle /ˈʌŋkl/
+- 舅妈: aunt /ɑːnt/
+- 父母: parent /ˈpeərənt/
+- 爷爷, 外公: grandpa /ˈɡrænpɑː/
+- 奶奶, 外婆: grandma /ˈɡrænmɑː/
+- 姐姐: sister /ˈsɪstə/ √
+- 兄弟: brother /ˈbrʌðə/ √
+- 堂、表兄弟姐妹: cousin /ˈkʌzn/
+- 兄弟姐妹: sibling /ˈsɪblɪŋ/
+- 外甥: nephew /ˈnefjuː/
+- 外甥女: niece /niːs/
+- 儿子: son /sʌn/
+- 女儿: daughter /ˈdɔːtə/
+- 孙子, 外孙: grandson /ˈɡrænsʌn/
+- 孙女, 外孙女: granddaughter /ˈɡrændɔːtə/
+- 双胞胎: twins /twɪnz/
+- 家庭: family /ˈfæməli/
+- 朋友: friend /frend/
+- 笔友: pen pal /pen pæl/
+- 队员: crew member /kruː ˈmembə/
+- 同学: classmate /ˈklɑːsmeɪt/
+- 同事: colleague /ˈkɒliːɡ/
+- 邻居: neighbor /ˈneɪbə/
+- 住户: household /ˈhaʊshəʊld/ [B2]
+- 室友: roommate /ˈruːmmeɪt/ [B2]
+#### 健康: health /helθ/ [A2]
+- 维生素: vitamin /ˈvɪtəmɪn/
+- 药丸: pill /pɪl/
+- 药: drug /drʌɡ/, medicine /ˈmedɪsn/
+- 疫苗: vaccine /vækˈsiːn/
+- 体温计: thermometer /θəˈmɒmɪtə/
+- 轮椅: wheelchair /ˈwiːltʃeə/
+- 口罩: mask /mɑːsk/ √
+- 冰袋: ice pack /aɪs pæk/
+- 疼痛: ache /eɪk/
+- 咳嗽: cough /kɒf/
+- 打针: injection /ɪnˈdʒekʃn/
+- 过敏: allergy /ˈælədʒi/
+- 水疗: spa /spɑː/
+- 按摩: massage /ˈmæsɑːʒ/
+- 洗澡: bath /bɑːθ/
+- 淋浴: shower /ˈʃaʊə/
+#### 身体: the body /ðə ˈbɒdi/ [A1]
+- 骨架: skeleton /ˈskelɪtn/
+- 头: head /hed/ √
+- 拇指: thumb /θʌm/
+- 食指: pointer finger /ˈpɔɪntə ˈfɪŋɡə/
+- 中指: middle finger /ˈmɪdl ˈfɪŋɡə/
+- 无名指: ring finger /rɪŋ ˈfɪŋɡə/
+- 小手指: little finger /ˈlɪtl ˈfɪŋɡə/
+- 大脚趾: big toe /bɪɡ təʊ/
+- 第二脚趾: second toe /ˈsekənd təʊ/
+- 第三脚趾: third toe /θɜːd təʊ/
+- 第四脚趾: fourth toe /fɔːθ təʊ/
+- 小脚趾: little toe /ˈlɪtl təʊ/
+- 脚尖: tiptoe /ˈtɪptəʊ/
+- 肚子: tummy /ˈtʌmi/（儿语）√
+- 腹部: belly /ˈbeli/
+- 肚脐: belly button /ˈbeli ˈbʌtn/
+- 胃: stomach /ˈstʌmək/
+- 脸颊: cheek /tʃiːk/
+- 脸: face /feɪs/
+- 耳垂: earlobe /ˈɪələʊb/
+- 眉毛: eyebrow /ˈaɪbraʊ/
+- 眼皮: eyelid /ˈaɪlɪd/
+- 睫毛: eyelash /ˈaɪlæʃ/
+- 额头: forehead /ˈfɔːhed/
+- 下巴: chin /tʃɪn/
+- 胡子（下巴）: beard /bɪəd/
+- 臀: bottom /ˈbɒtəm/
+- 髋部: hip /hɪp/
+- 背: back /bæk/
+- 胸: chest /tʃest/
+- 颈: neck /nek/
+- 血: blood /blʌd/
+- 骨: bone /bəʊn/
+- 皮肤: skin /skɪn/
+- 手肘: elbow /ˈelbəʊ/ √
+- 脚踝: ankle /ˈæŋkl/
+- 脚后跟: heel /hiːl/
+- 脚底板: sole /səʊl/
+- 腿: leg /leɡ/
+- 手臂: arm /ɑːm/
+- 大腿: thigh /θaɪ/
+- 小腿: calf /kɑːf/ [C2]
+- 手掌: palm /pɑːm/
+- 手腕: wrist /rɪst/
+- 嘴唇: lip /lɪp/
+- 手指甲: fingernail /ˈfɪŋɡəneɪl/
+- 脚趾甲: toenail /ˈtəʊneɪl/
+#### 五官感觉: five senses /ˈsensɪz/
+- 视觉: sight /saɪt/
+- 听觉: hearing /hɪərɪŋ/
+- 触觉: touch /tʌtʃ/
+- 嗅觉: smell /smel/
+- 味觉: taste /teɪst/
+#### 情感: emotions /ɪˈməʊʃnz/ [B2]
+- 爱: love /lʌv/ √
+- 喜欢: like /laɪk/
+- 讨厌: hate /heɪt/
+#### 感觉: feelings /ˈfiːlɪŋz/ [B1]
+- 无聊: bored /bɔːd/
+- 舒服: comfortable /ˈkʌmftəbl/
+- 开心: happy /ˈhæpi/, glad /ɡlæd/
+- 伤心: sad /sæd/
+- 饱: full /fʊl/
+- 饿: hungry /ˈhʌŋɡri/
+- 口渴: thirsty /ˈθɜːsti/
+- 害怕: afraid /əˈfreɪd/
+- 惊讶: surprise /səˈpraɪz/
+- 困: sleepy /ˈsliːpi/
+- 疲倦: tired /ˈtaɪəd/
+- 生气: angry /ˈæŋɡri/ √
+#### 数学: math /mæθ/（美）[A2], maths /mæθs/（英）[A2], mathematics /ˌmæθəˈmætɪks/
+- 数字: numbers /ˈnʌmbəz/
+  - 序数: ordinal numbers /ˈɔːdɪnl ˈnʌmbəz/
+  - 基数: cardinal numbers /ˈkɑːdɪnl ˈnʌmbəz/
+    - 0: zero /ˈzɪərəʊ/ √
+    - 1: one /wʌn/ √
+    - 2: two /tuː/ √
+    - 3: three /θriː/ √
+    - 4: four /fɔː/ √
+    - 5: five /faɪv/ √
+    - 6: six /sɪks/ √
+    - 7: seven /ˈsevn/ √
+    - 8: eight /eɪt/ √
+    - 9: nine /naɪn/ √
+    - 10: ten /ten/ √
+    - 11: eleven /ɪˈlevn/
+    - 12: twelve /twelv/
+    - 13: thirteen /ˌθɜːˈtiːn/
+    - 14: fourteen /ˌfɔːˈtiːn/
+    - 15: fifteen /ˌfɪfˈtiːn/
+    - 16: sixteen /ˌsɪksˈtiːn/
+    - 17: seventeen /ˌsevnˈtiːn/
+    - 18: eighteen /ˌeɪˈtiːn/
+    - 19: nineteen /ˌnaɪnˈtiːn/
+    - 20: twenty /ˈtwenti/
+    - 21: twenty-one /ˈtwenti wʌn/
+    - 30: thirty /ˈθɜːti/
+    - 40: forty /ˈfɔːti/
+    - 50: fifty /ˈfɪfti/
+    - 60: sixty /ˈsɪksti/
+    - 70: seventy /ˈsevnti/
+    - 80: eighty /ˈeɪti/
+    - 90: ninety /ˈnaɪnti/
+    - 100: one hundred /wʌn ˈhʌndrəd/
+    - 101: one hundred and one /wʌn ˈhʌndrəd ənd wʌn/
+    - 200: two hundred /tuː ˈhʌndrəd/
+    - 1000: one thousand /wʌn ˈθaʊznd/, one kilo /wʌn ˈkiːləʊ/
+    - 1101: one thousand one hundred and one /wʌn ˈθaʊznd wʌn ˈhʌndrəd ənd wʌn/
+    - 百万: million /ˈmɪljən/, mega /ˈmeɡə/
+    - 十亿: billion /ˈbɪljən/, giga /ˈɡɪɡə/
+    - 万亿: trillion /ˈtrɪljən/, tera /ˈterə/
+- 十进制: decimalism /ˈdesɪməlɪzəm/
+- 二进制: binary system /ˈbaɪnəri ˈsɪstəm/
+- 运算符: operators /ˈɒpəreɪtəs/
+  - 加: plus /plʌs/
+  - 减: subtract /səbˈtrækt/
+  - 乘: multiply /ˈmʌltɪplaɪ/
+  - 除: divide /dɪˈvaɪd/
+- 数数: count /kaʊnt/
+- 百分比: percentage /pəˈsentɪdʒ/
+#### 时间: time /taɪm/ [A2]
+- 上午: morning /ˈmɔːnɪŋ/ √
+- 下午: afternoon /ˌɑːftəˈnuːn/
+- 晚上: evening /ˈiːvnɪŋ/
+- 日期: date /deɪt/
+- 日历: the calendar /ðə ˈkælɪndəz/
+  - 月份: months /mʌnθs/
+    - 一月: January /ˈdʒænjuəri/ [A1]
+  - 季度: quarter /ˈkwɔːtə/
+  - 周末: weekend /ˌwiːkˈend/
+  - 星期: days of a week /deɪz ɒv ə wiːk/
+    - 星期一: Monday /ˈmʌndeɪ/ [A1]
+- 节日: festival days /ˈfestɪvl deɪz/
+  - 植树节: Arbor Day /ˈɑːbə deɪ/
+  - 元旦: New Yearˈs Day /ˌnjuː jɪəz ˌdeɪ/
+  - 春节: Spring Festival /sprɪŋ ˈfestɪvl/ √
+  - 元宵节: Lantern Festival /ˈlæntən ˈfestɪvl/ √
+  - 清明节: Qingming Festival /ˈkɪŋˈmɪŋ ˈfestɪvl/
+  - 情人节: Valentineˈs Day /ˈvæləntaɪnz deɪ/
+  - 端午节: Dragon Boat Festival /ˈdræɡən bəʊt ˈfestɪvl/
+  - 妇女节: Womenˈs Day /ˈwɪmɪnz deɪ/
+  - 中秋节: Mid-Autumn Festival /mɪd ˈɔ:təm ˈfestɪvl/
+  - 教师节: Teachersˈ Day /ˈtiːtʃəz deɪ/
+  - 儿童节: Childrenˈs Day /ˈtʃɪldrənz deɪ/ √
+  - 国庆节: National Day /ˈnæʃnəl deɪ/
+  - 劳动节: Labor Day /ˈleɪbə deɪ/
+  - 万圣节: All Saintsˈ Day /ˌɔːl ˈseɪnts deɪ/, All Hallowsˈ Day /ˌɔːl ˈhæləʊz deɪ/
+  - 万圣节前夜: Halloween /ˌhæləʊˈiːn/ √
+  - 复活节: Easter /ˈiːstə/
+  - 圣诞节: Christmas /ˈkrɪsməs/ √
+  - 平安夜: Christmas Eve /ˈkrɪsməs iːv/
+- 特别的日子: special days /ˈspeʃl deɪz/
+  - 生日: birthday /ˈbɜːθdeɪ/ √
+  - 周年纪念日: anniversary /ˌænɪˈvɜːsəri/
+- 时钟: the clock /ðə klɒk/ √
+- 季节: seasons /ˈsiːznz/
+  - 春: spring /sprɪŋ/ √
+  - 夏: summer /ˈsʌmə/ √
+  - 秋: autumn /ˈɔːtəm/ √, fall /fɔːl/ √
+  - 冬: winter /ˈwɪntə/ √
+- 年龄: age /eɪdʒ/
+#### 计量单位: units of measure /ˈjuːnɪts ɒv ˈmeʒə/
+- 长度: length /leŋkθ/
+- 容量: capacity /kəˈpæsəti/
+- 质量: quality /ˈkwɒləti/
+- 体积: volume /ˈvɒljuːm/
+- 速度: speed /spiːd/
+#### 量词: quantifiers /ˈkwɒntɪfaɪəz/
+- 片: slice /slaɪs/
+- 张: piece /piːs/
+- 块: block /blɒk/
+- 组, 群: group /ɡruːp/
+- 推: stack /stæk/
+- 束: bunch /bʌntʃ/
+- 堆: heap /hiːp/
+- 滴: drop /drɒp/
+- 很多: many /ˈmeni/
+- 很少: few /fjuː/
+- 一些: some /səm/, any /ˈeni/
+- 一打: dozen /ˈdʌzn/
+#### 方位: directions /dəˈrekʃnz/ [B1]
+- 东: east /iːst/
+- 西: west /west/
+- 北: north /nɔːθ/
+- 南: south /saʊθ/
+- 左: left /left/ √
+- 右: right /raɪt/ √
+- 上: up /ʌp/ √
+- 下: down /daʊn/ √
+- 前: before /bɪˈfɔː/
+- 后: after /ˈɑːftə/
+#### 颜色: colors /ˈkʌləz/ [A1]
+- 红: red /red/ √
+- 橙: orange /ˈɒrɪndʒ/ √
+- 粉: pink /pɪŋk/ √
+- 绿: green /ɡriːn/ √
+- 灰: gray（美）, grey（英）/ɡreɪ/ [A1]
+- 黄: yellow /ˈjeləʊ/ √
+- 蓝: blue /bluː/ √
+- 白: white /waɪt/ √
+- 棕: brown /braʊn/ √
+- 银: silver /ˈsɪlvə/
+- 金: gold /ɡəʊld/ √
+- 黑: black /blæk/ √
+- 紫: purple /ˈpɜːpl/ √
+- 浅色: light color /laɪt ˈkʌlə/
+- 深色: dark color /dɑːk ˈkʌlə/
+#### 形状: shapes /ʃeɪps/ [B1]
+- 圆: circle /ˈsɜːkl/ √
+- 多边形: polygon /ˈpɒlɪɡən/
+- 正方形: square /skweə/ √
+- 矩形: rectangle /ˈrektæŋɡl/ √
+- 椭圆: ellipse /ɪˈlɪps/, oval /ˈəʊvl/ √
+- 半圆: semicircle /ˈsemisɜːkl/, half circle /hɑːf ˈsɜːkl/
+- 菱形: diamond /ˈdaɪəmənd/
+- 梯形: trapezoid /ˈtræpəzɔɪd/
+- 线: line /laɪn/ √
+- 曲线: curve /kɜːv/
+- 直线: straight line /streɪt laɪn/
+- 星型: star /stɑː/ √
+- 心型: heart /hɑːt/ √
+- 直角: right angle /raɪt ˈæŋɡl/
+- 锐角: acute angle /əˈkjuːt ˈæŋɡl/
+- 钝角: obtuse angle /əbˈtjuːs ˈæŋɡl/
+- 圆角: rounded corner /ˈraʊndɪd ˈkɔːnə/, circular corner /ˈsɜːkjələ ˈkɔːnə/
+- 角: angle /ˈæŋɡl/
+- 边: side /saɪd/
+- 正方体: cube /kjuːb/ √
+- 圆锥体: cone /kəʊn/
+- 球体: sphere /sfɪə/
+- 圆柱体: cylinder /ˈsɪlɪndə/
+- 扇形: sector /ˈsektə/
+#### 味道: tastes /teɪsts/ [B1]
+- 酸: sour /ˈsaʊə/
+- 甜: sweet /swiːt/ √
+- 苦: bitter /ˈbɪtə/
+- 辣: spicy /ˈspaɪsi/ √
+- 咸: salty /ˈsɔːlti/
+- 浓: strong flavor /strɒŋ ˈfleɪvə/
+- 淡: weak flavor /wiːk ˈfleɪvə/
+- 腻: greasy /ˈɡriːsi/
+- 麻: numbing /ˈnʌmɪŋ/
+- 爽口: refreshing /rɪˈfreʃɪŋ/
+- 生: undercooked /ˌʌndəˈkʊkt/
+- 老: tough /tʌf/
+- 嫩: tender /ˈtendə/
+#### 气味: smells /smelz/ [B1]
+- 臭: stink /ˈstɪŋk/
+#### 声音: sounds /saʊndz/ [A2]
+- 咕噜声（猪）: grunt /ɡrʌnt/
+- 汪（狗）: woof /wʊf/ √
+- 嘶（蛇）: hiss /hɪs/ √
+- 喵（猫）: meow /miˈaʊ/ √
+- 吱吱（兔子, 老鼠）: squeak /skwiːk/ √
+- 嗡嗡（蜜蜂）: buzz /bʌz/ √
+- 鸟叫声: tweet /twiːt/
+- 羊叫声: baa /bɑː/
+- 吭哧（火车）: choochoo /ˈtʃu: tʃu:/ √
+- 咀嚼声: crunch /krʌntʃ/
+- 呱呱（青蛙）: ribbit /ˈrɪbɪt/ √
+- 嘎嘎（鸭子）: quack /kwæk/
+- 喔喔（公鸡）: cock-a-doodle-doo /ˌkɒk ə ˌduːdl ˈduː/
+#### 食物: food /fuːd/ [A1] √
+- 早饭: breakfast /ˈbrekfəst/
+- 中饭: lunch /lʌntʃ/ √
+- 晚饭: dinner /ˈdɪnə/ √, supper /ˈsʌpə/
+- 套餐: combo meal /ˈkɒmbəʊ miːl/
+- 自助餐: buffet /bəˈfeɪ/
+- 野餐: picnic /ˈpɪknɪk/ √
+- 快餐: fast food /ˌfɑːst ˈfuːd/
+- 谷物: grain /ɡreɪn/
+- 海鲜: seafood /ˈsiːfuːd/
+- 米饭: rice /raɪs/ √
+- 汤: soup /suːp/
+- 墨西哥卷饼: taco /ˈtækəʊ/
+- 面粉: flour /ˈflaʊə/
+- 蜂蜜: honey /ˈhʌni/ √
+- 黄油: butter /ˈbʌtə/
+- 甜品: dessert /dɪˈzɜːt/
+  - 布丁: pudding /ˈpʊdɪŋ/
+- 奶酪, 芝士: cheese /tʃiːz/ √
+- 意大利面: pasta /ˈpɑːstə/
+- 面条: noodle /ˈnuːdl/ √
+- 汉堡: hamburger /ˈhæmbɜːɡə/ √
+- 小麦: wheat /wiːt/
+- 水饺: boiled dumpling /bɔɪld ˈdʌmplɪŋ/
+- 蒸饺: steamed dumpling /stiːmd ˈdʌmplɪŋ/
+- 煎饺: fried dumpling /fraɪd ˈdʌmplɪŋ/
+- 馒头: steamed bun /stiːmd bʌn/
+- 肉包子: steamed meat bun /stiːmd miːt bʌn/
+- 面条: noodle /ˈnuːdl/ √
+- 面包: bread /bred/ √
+- 蛋糕: cake /keɪk/ √
+- 纸杯蛋糕: cupcake /ˈkʌpkeɪk/
+- 蛋挞: egg tart /eɡ tɑːt/
+- 松饼: muffin /ˈmʌfɪn/ √
+- 饼干: biscuit /ˈbɪskɪt/ √、cookie /ˈkʊki/ √、cracker /ˈkrækə/
+- 甜甜圈: doughnut /ˈdəʊnʌt/ √
+- 馅饼: pie /paɪ/
+- 吐司（面包）: toast /təʊst/
+- 披萨: pizza /ˈpiːtsə/ √
+- 肉圆: meatball /ˈmiːtbɔːl/
+- 泡菜: pickle /ˈpɪkl/
+- 酸黄瓜: pickle /ˈpɪkl/
+- 芝麻: sesame /ˈsesəmi/
+- 豌豆: pea /piː/
+- 绿豆: mung bean /mʌŋ biːn/
+- 黄豆: soybean /sɒɪbiːn/
+- 红豆: red bean /red biːn/
+- 玉米: corn /kɔːn/ √
+- 肉: meat /miːt/
+  - 鱼肉: fish /fɪʃ/ √
+  - 猪肉: pork /pɔːk/
+  - 牛肉: beef /biːf/ √
+  - 鸡肉: chicken /ˈtʃɪkɪn/
+  - 羊肉: lamb /læm/, mutton /ˈmʌtn/
+- 零食: snacks /snæk/
+  - 棉花糖: cotton candy /ˈkɒtn ˈkændi/（丝）, marshmallow /ˌmɑːʃˈmæləʊ/（粒）
+  - 糖果: candy /ˈkændi/ √
+  - 棒棒糖: lollipop /ˈlɒlipɒp/ √
+  - 棒冰: ice lolly /aɪs ˈlɒli/ √
+  - 冰激凌: ice cream /aɪs kriːm/ √
+  - 薯片: crisp /krɪsp/（英）, chip /tʃɪp/（美）
+  - 薯条: french fry /frentʃ fraɪ/（美）, chip /tʃɪp/（英）
+  - 坚果: nut /nʌt/
+- 水果: fruit /fruːt/
+  - 菠萝: pineapple /ˈpaɪnæpl/ √
+  - 苹果: apple /ˈæpl/ √
+  - 桔子: orange /ˈɒrɪndʒ/ √
+  - 梨: pear /peə/ √
+  - 西瓜: watermelon /ˈwɔːtəmelən/ √
+  - 草莓: strawberry /ˈstrɔːbəri/ √
+  - 蓝莓: blueberry /ˈbluːbəri/ √
+  - 猕猴桃: wiki /ˈwɪki/ √
+  - 香蕉: banana /bəˈnɑːnə/ √
+  - 牛油果: avocado /ˌævəˈkɑːdəʊ/
+  - 火龙果: pitaya /pɪˈtaɪə/
+  - 红枣: red date /red deɪt/, jujube /ˈdʒu:dʒu:b/
+  - 枇杷: loquat /ˈləʊkwɒt/
+  - 荔枝: litchi /ˈli:ˌtʃi:/
+  - 柚子: pomelo /ˈpɒmɪləʊ/
+  - 西柚: grapefruit /ˈɡreɪpfruːt/
+  - 甘蔗: sugar cane /ˈʃʊɡə keɪn/
+  - 柿子: persimmon /pəˈsɪmən/
+  - 石榴: pomegranate /ˈpɒmɪɡrænɪt/
+  - 榴莲: durian /ˈdʊəriən/
+  - 山楂: haw /hɔː/
+  - 李子: plum /plʌm/ √
+  - 桂圆: longan /ˈlɒŋɡən/
+  - 莲雾: wax-apple /wæks ˈæpl/
+  - 金桔: kumquat /ˈkʌmkwɒt/
+  - 桃子: peach /piːtʃ/ √
+  - 橄榄: olive /ˈɒlɪv/
+- 蔬菜: vegetables /ˈvedʒtəblz/
+  - 黄瓜, 青瓜: cucumber /ˈkjuːkʌmbə/
+  - 茄子: eggplant /ˈeɡplænt/
+  - 卷心菜: cabbage ˈkæbɪdʒ
+  - 紫甘蓝: purple cabbage /ˈpɜːpl ˈkæbɪdʒ/
+  - 生姜: ginger /ˈdʒɪndʒə/
+  - 大蒜: garlic /ˈɡɑːlɪk/
+  - 西兰花: broccoli /ˈbrɒkəli/
+  - 花菜: cauliflower /ˈkɒliflaʊə/
+  - 芹菜: celery /ˈseləri/
+  - 芦笋: asparagus /əˈspærəɡəs/
+  - 红薯: sweet potato /swiːt pəˈteɪtəʊ/
+  - 洋葱: onion /ˈʌnjən/
+  - 南瓜: pumpkin /ˈpʌmpkɪn/ √
+  - 蘑菇: mushroom /ˈmʌʃrʊm/
+  - 胡萝卜: carrot /ˈkærət/ √
+  - 生菜: lettuce /ˈletɪs/
+  - 菠菜: spinach /ˈspɪnɪtʃ/
+  - 空心菜: water spinach /ˈwɔːtə ˈspɪnɪtʃ/
+  - 青椒, 甜椒: sweet pepper /swiːt ˈpepə/ √, bell pepper /bel ˈpepə/
+  - 红辣椒: chili pepper /ˈtʃɪli ˈpepə/ √
+  - 葱: green onion /ɡriːn ˈʌnjən/
+- 饮料: drink /drɪŋk/
+  - 茶: tea /tiː/ √
+  - 咖啡: coffee /ˈkɔːfi/ √
+  - 奶: milk /mɪlk/ √
+  - 酸奶: yogurt /ˈjɒɡət/ √
+  - 果汁: juice /dʒuːs/ √
+  - 柠檬水: lemonade /ˌleməˈneɪd/
+  - 米酒: rice wine /raɪs waɪn/
+  - 黄酒: huangjiu（拼音）√
+  - 雪碧: sprite /spraɪt/
+  - 可口可乐: coke /kəʊk/
+  - 豆浆: soybean milk /sɒɪbiːn mɪlk/
+  - 气泡水: sparkling water /ˈspɑːklɪŋ ˈwɔːtə/ [B1]
+- 调味料: condiments /ˈkɒndɪmənts/
+  - 酱油: soy sauce /sɔɪ sɔːs/
+  - 番茄酱: ketchup /ˈketʃəp/
+  - 醋: vinegar /ˈvɪnɪɡə/ √
+  - 盐: salt /sɔːlt/ √  
+  - 糖: sugar /ˈʃʊɡə/ √
+#### 烹饪: cooking /ˈkʊkɪŋ/ [A2]
+- 煮: boil /bɔɪl/
+- 炒, 煎: fry /fraɪ/
+- 炸: deep-fry /diːp fraɪ/
+- 蒸: steam /stiːm/
+- 烧烤: grill /ɡrɪl/
+- 烘焙: bake /beɪk/
+- 烤: roast /rəʊst/
+- 削: peel /piːl/
+- 切: cut /kʌt/
+#### 旅行: travel /ˈtrævl/ [A1], the trip /ðə trɪp/ [A2]
+- 行李: baggage ˈbæɡɪdʒ（美）, luggage ˈlʌɡɪdʒ（英）
+#### 运动: sports /spɔːts/ [A1]
+- 篮球: basketball /ˈbɑːskɪtbɔːl/ √
+- 足球: football /ˈfʊtbɔːl/（英）√, soccer /ˈsɒkə/（美）√
+- 网球: tennis /ˈtenɪs/ √
+- 排球: volleyball /ˈvɒlibɔːl/
+- 棒球: baseball /ˈbeɪsbɔːl/
+- 橄榄球: football /ˈfʊtbɔːl/ √
+- 羽毛球: badminton /ˈbædmɪntən/
+- 高尔夫: golf /ɡɒlf/
+- 徒步: hike /haɪk/ √
+- 保龄球: bowling /ˈbəʊlɪŋ/ [ORT4]
+- 拳击: boxing /ˈbɒksɪŋ/
+- 体操: gymnastics /dʒɪmˈnæstɪks/
+- 健身: fitness /ˈfɪtnəs/
+- 乒乓球: table tennis /ˈteɪbl tenɪs/
+#### 运动装备: sports equipments /spɔːts ɪˈkwɪpmənts/
+- 头盔: helmet /ˈhelmɪt/ √
+- 球拍: racket /ˈrækɪt/
+- 垫子: mat /mæt/
+- 野餐垫: picnic rug /ˈpɪknɪk rʌɡ/
+- 口哨: whistle /ˈwɪsl/ √
+- 帐篷: tent /tent/ √
+- 蹦床: trampoline /ˌtræmpəˈliːn/ √
+- 篮球筐: basketball hoop /ˈbɑːskɪtbɔːl huːp/
+- 自行车: bike /baɪk/, bicycle /ˈbaɪsɪkl/ √
+- 雪橇: sleigh /sleɪ/
+- 平衡车: balance bike /ˈbæləns baɪk/ √
+- 跳绳: jump rope /dʒʌmp rəʊp/（美）√, skipping rope /skɪpɪŋ rəʊp/（英）
+- 钓鱼竿: fishing rod /ˈfɪʃɪŋ rɒd/
+- 平角游泳裤: swimming trunks /ˈswɪmɪŋ trʌŋks/
+- 三角游泳裤: swimming brief /ˈswɪmɪŋ briːf/
+- 游泳衣: swimming shirt /ˈswɪmɪŋ ʃɜːt/
+- 降落伞: parachute /ˈpærəʃuːt/
+- 拐杖: cane /keɪn/
+- 雨伞: umbrella /ʌmˈbrelə/
+- 救生衣: life vest /laɪf vest/
+- 游泳圈: swimming ring /ˈswɪmɪŋ rɪŋ/
+- 救生圈: life buoy /laɪf bɔɪ/
+- 球棒（棒球）: bat /bæt/
+#### 游戏: games /ɡeɪmz/ [A1]
+- 捉迷藏: hide and seek /haɪd ənd siːk/ √
+- 躲猫猫: peekaboo /ˈpiːkəbuː/ √
+#### 玩具: toys /tɔɪz/ [A2]
+- 粘土: clay /kleɪ/ √
+- 橡皮泥: play dough /pleɪ dəʊ/
+- 拼图: jigsaw /ˈdʒɪɡsɔː/
+- 木偶: puppet /ˈpʌpɪt/
+- 玩偶: doll /dɒl/ [A1]
+- 迷宫: puzzle /ˈpʌzl/ [A2]
+- 积木: bricks /brɪks/（乐高）[B2] √, building blocks /ˈbɪldɪŋ blɔks/
+- 风车: windmill /ˈwɪndmɪl/
+- 水枪: water gun /ˈwɔːtə ɡʌn/ √
+- 滑板车: scooter /ˈskuːtə/
+- 骰子: dice /daɪs/
+- 弹珠: marble /ˈmɑːbl/
+#### 乐器: musical instruments /ˈmjuːzɪkl ˈɪnstrʊmənts/
+- 吉他: guitar /ɡɪˈtɑː/
+- 钢琴: piano /piˈænəʊ/
+- 小提琴: violin /ˌvaɪəˈlɪn/
+- 鼓: drum /drʌm/
+- 小号: trumpet /ˈtrʌmpɪt/ √
+#### 社会: society /səˈsaɪəti/ [B1]
+- 法律: law /lɔː/
+- 规则: rule /ruːl/
+- 政府: government /ˈɡʌvənmənt/
+- 政党: party /ˈpɑːti/
+- 结婚: marriage /ˈmærɪdʒ/
+- 离婚: divorce /dɪˈvɔːs/
+- 公司: company /ˈkʌmpəni/
+- 航空公司: airline /ˈeəlaɪn/
+- 俱乐部: club /klʌb/
+#### 生活: life /laɪf/ [B1]
+- 娱乐: recreation /ˌriːkriˈeɪʃn/
+- 沟通: communication /kəˌmjuːnɪˈkeɪʃn/ [B1]
+- 爱好: hobby /ˈhɒbi/
+- 恶作剧: trick /trɪk/
+- 顶点: summit /ˈsʌmɪt/
+- 冒险: adventure /ədˈventʃə/
+- 技能: skill /skɪl/
+- 某种东西: whatsit /ˈwɒtsɪt/ [ORT5]
+- 假期: vacation /veɪˈkeɪʃn/（美）, holiday /ˈhɒlədeɪ/（英）√
+- 快递: express /ɪkˈspres/
+- 事情, 东西: thing /θɪŋ/
+- 小心: caution /ˈkɔːʃn/
+- 产品: product /ˈprɒdʌkt/
+- 奖品: prize /praɪz/
+- 包裹: package /ˈpækɪdʒ/
+- 注意: attention /əˈtenʃn/ [B1]
+- 问候: greeting /ˈɡriːtɪŋ/ [B1]
+#### 教育: education /ˌedʒuˈkeɪʃn/ [B1]
+- 考试: examination /ɪɡˌzæmɪˈneɪʃn/
+- 班级: class /klɑːs/ √
+- 课: lesson /ˈlesn/
+- 托班: daycare /ˈdeɪkeə/
+- 小班: preschool /ˈpriːskuːl/
+- 中班: prekindergarten /priː'kɪndəgɑ:tn/
+- 大班: kindergarten /ˈkɪndəɡɑːtn/
+- 一年级: first grade /fɜːst ɡreɪd/
+- 体育: pe /ˌpiː ˈiː/, physical education /ˈfɪzɪkl ˌedʒuˈkeɪʃn/
+- 艺术: art /ɑːt/
+#### 金融: finance /faɪˈnæns/ [B2]
+- 股市: stock /stɒk/
+- 保险: insurance /ɪnˈʃʊərəns/
+- 钱: money /ˈmʌni/ √
+- 小费: tip /tɪp/
+- 税: tax /tæks/
+#### 货币: currencies /ˈkʌrənsiz/ [B1]
+- 人民币: chinese yuan /ˌtʃaɪˈniːz juˈɑːn/, renminbi /ˈrenmɪnbi/
+- 港元: hong kong dollar /ˈhɔŋ ˈkɔŋ ˈdɒlə/
+- 美元: united states dollar /juˈnaɪtɪd steɪts ˈdɒlə/
+- 英镑: great britain pound /ˌɡreɪt ˈbrɪtn paʊnd/
+- 单位: units /ˈjuːnɪts/
+  - 镑: pound /paʊnd/ √
+  - 十分钱: dime /daɪm/
+  - 一分钱: penny /ˈpeni/
+#### 购物: shopping /ˈʃɒpɪŋ/ [A2] √
+- 卖: sale /seɪl/
+- 买: buy /baɪ/
+- 折扣: discount /ˈdɪskaʊnt/
+#### 聚会: the party /ðə ˈpɑːti/ [A1] √
+- 气球: balloon /bəˈluːn/ √
+- 礼物: present /ˈpreznt/ √
+- 蜡烛: candle /ˈkændl/ √
+- 火柴: match /mætʃ/
+- 旗: flag /flæɡ/
+- 干杯: cheers /tʃɪəz/
+- 篝火: campfire /ˈkæmpfaɪə/
+#### 演出: the performance /ðə pəˈfɔːməns/ [B1] √, the show /ðə ʃəʊ/ [A2] √
+- 座位: seat /siːt/ √
+- 戏剧, 话剧: drama /ˈdrɑːmə/ [B1]
+- 歌剧: opera /ˈɒprə/ [A2]
+- 演讲: speech /spiːtʃ/ [B2]
+- 舞台: stage /steɪdʒ/ √
+- 音乐会: concert /ˈkɒnsət/
+- 音乐: music /ˈmjuːzɪk/ √
+- 旋律、曲调: tune /tjuːn/
+- 节奏: rhythm /ˈrɪðəm/
+- 歌曲: song /sɒŋ/ √
+- 电影: movie /ˈmuːvi/（美）, film /fɪlm/（英）
+- 卡通: cartoon /kɑːˈtuːn/
+- 变: presto /ˈprestəʊ/ √
+- 马戏: circus /ˈsɜːkəs/
+- 戏法: juggling /ˈdʒʌɡlɪŋ/
+#### 典礼: ceremonies /ˈserəməniz/ [B1]
+- 婚礼: wedding /ˈwedɪŋ/
+- 葬礼: funeral /ˈfjuːnərəl/
+#### 故事: the story /ðə ˈstɔːri/ [A2]
+- 宝藏: treasure /ˈtreʒə/
+- 精灵: elf /elf/
+- 圣诞老人: father christmas /ˈfɑːðə ˈkrɪsməs/, santa claus /ˈsæntə klɔːz/
+- 美人鱼: mermaid /ˈmɜːmeɪd/
+- 独角兽: unicorn /ˈjuːnɪkɔːn/
+- 怪物: monster /ˈmɒnstə/
+- 神: god /ɡɒd/
+- 变形金刚: transformer /trænsˈfɔːmə/
+#### 武装部队: armed forces /ɑːmd ˈfɔːsɪz/
+- 海军: navy /ˈneɪvi/
+- 陆军: army /ˈɑːmi/
+- 空军: air force /ˈeə fɔːs/
+- 海军陆战队: marine corps /məˈriːn kɔː/
+#### 军事活动: military actions /ˈmɪlətri ˈækʃnz/
+- 站岗: stand guard /stænd ɡɑːd/
+#### 武器: weapons /ˈwepən/ [B2]
+- 弓: bow /bəʊ/
+- 箭: arrow /ˈærəʊ/
+- 盾: shield /ʃiːld/
+- 盔甲: armour /ˈɑːmə/
+- 剑: sword /sɔːd/
+- 枪: gun /ɡʌn/ √
+- 机枪: machine gun /məˈʃiːn ɡʌn/
+- 手枪: pistol /ˈpɪstl/
+- 狙击步枪: snipe rifle /snaɪp ˈraɪfl/
+- 自动步枪: automatic rifle /ˌɔːtəˈmætɪk ˈraɪfl/
+- 子弹: bullet /ˈbʊlɪt/
+- 坦克: tank /tæŋk/ √
+- 战斗机: fighter plane /ˈfaɪtə pleɪn/ √
+- 雷达: radar /ˈreɪdɑː/
+- 导弹: missile /ˈmɪsl/ √
+- 航空母舰: aircraft carrier /ˈeəkrɑːft kæriə/
+- 战列舰: battleship /ˈbætlʃɪp/
+- 炸弹: bomb /bɒm/ √
+- 轰炸机: bomber /ˈbɒmə/ √
+- 舰: ship /ʃɪp/ √
+- 潜水艇: submarine /ˌsʌbməˈriːn/ √
+#### 动词: verbs /vɜːbz/ [A2]
+- 迎接: greet /ɡriːt/ [B1]
+- 感谢: thank /θæŋk/ √
+- 织: knit /nɪt/ [B1]
+- 广播: broadcast /ˈbrɔːdkɑːst/ [B2]
+- 射击: shoot /ʃuːt/
+- 保护: protect /prəˈtekt/
+- 救援: rescue /ˈreskjuː/
+- 擦除: erase /ɪˈreɪz/
+- 检查: check /tʃek/
+- 巡逻: patrol /pəˈtrəʊl/
+- 吻: kiss /kɪs/ √
+- 追逐: chase /tʃeɪs/ √
+- 帮助: help /help/ √
+- 打架: fight /faɪt/ √
+- 偎依: snuggle /ˈsnʌɡl/ √
+- 洗: wash /wɒʃ/ √
+- 喝: drink /drɪŋk/ √
+- 吃: eat /iːt/ √
+- 攀登: climb /klaɪm/ √
+- 爬: crawl /krɔːl/ √
+- 骑: ride /raɪd/ √
+- 鞠躬: bow /baʊ/
+- 复制: copy /ˈkɒpi/
+- 粘贴: paste /peɪst/
+- 跳水, 潜水: dive /daɪv/
+- 跋涉: trek /trek/
+- 训练: train /treɪn/
+- 伤害: hurt /hɜːt/ √
+- 滑动: slide /slaɪd/
+- 钓鱼: fish /fɪʃ/
+- 划船: row /rəʊ/ √
+- 走: walk /wɔːk/ √
+- 慢跑: jog /dʒɒɡ/
+- 跑: run /rʌn/ √
+- 伸展: stretch /stretʃ/
+- 滚: roll /rəʊl/
+- 跳: jump /dʒʌmp/ √
+- 挥: wave /weɪv/ √
+- 跺脚: stamp /stæmp/ √
+- 弯曲: bend /bend/ √
+- 坐: sit /sɪt/ √
+- 说: talk /tɔːk/
+- 站: stand /stænd/ √
+- 听: listen /ˈlɪsn/
+- 跳舞: dance /dæns/ √
+- 拍: clap /klæp/ √
+- 旋转: spin /spɪn/ √
+- 轻拍: pat /pæt/
+- 滑雪: ski /skiː/
+- 看: see /siː/ √
+- 尝: taste /teɪst/
+- 听: hear /hɪə/ √
+- 闻: smell /smel/ √
+- 摸: touch /tʌtʃ/ √
+- 哭: cry /kraɪ/ √
+- 笑: laugh /lɑːf/ √, smile /smaɪl/ √
+- 玩: play /pleɪ/ √
+- 处理: handle /ˈhændl/
+- 穿、戴: wear /weə/ √
+- 写: write /raɪt/
+- 读: read /riːd/ √
+- 画: draw /drɔː/ √
+- 出生: born /bɔːn/
+- 死亡: death /deθ/
+- 睡: sleep /sliːp/ √
+- 打盹: nap /næp/
+- 梦: dream /driːm/ √
+- 刷: brush /brʌʃ/
+- 工作: work /wɜːk/
+- 跪: kneel /niːl/
+- 躺: lie /laɪ/
+- 蹲: squat /skwɒt/
+- 蹲伏: crouch /kraʊtʃ/
+- 敲: knock /nɒk/
+- 孵化: hatch /hætʃ/ √
+- 融化: melt /melt/
+- 猜: guess /ɡes/
+- 行进: march /mɑːtʃ/ √
+- 露营: camp /kæmp/ √
+- 挠痒: tickle /ˈtɪkl/ √
+- 撞: bump /bʌmp/ √
+- 挤: squeeze /skwiːz/
+- 狼吞虎咽: gobble /ˈɡɒbl/
+- 尖叫: squeal /skwiːl/
+#### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 抱歉的: sorry /ˈsɒri/ √
+- 怀孕的: pregnant /ˈpreɡnənt/ [B1]
+- 年轻的: young /jʌŋ/ [A1]
+- 紧急的: emergency /ɪˈmɜːdʒənsi/
+- 正确的: correct /kəˈrekt/
+- 聪明的: smart /smɑːt/
+- 贪婪的: greedy /ˈɡriːdi/
+- 拥挤的: crowded /ˈkraʊdɪd/
+- 毛茸茸的: furry /ˈfɜːri/
+- 有趣的: interesting /ˈɪntrəstɪŋ/
+- 搞笑的: funny /ˈfʌni/ √
+- 美丽的: beautiful /ˈbjuːtɪfl/
+- 热的: hot /hɒt/ √
+- 冷的: cold /kəʊld/ √
+- 长的: long /lɒŋ/
+- 短的: short /ʃɔːt/
+- 大的: large /lɑːdʒ, big /bɪɡ/ √
+- 小的: little /ˈlɪtl/ √, small /smɔːl/ √
+- 少的: little /ˈlɪtl/
+- 更少的: less /les/
+- 最少的: least /liːst/
+- 老的, 旧的: old /əʊld/ [A1]
+- 新的: new /njuː/ [A1]
+- 便宜的: cheap /tʃiːp/
+- 昂贵的: expensive /ɪkˈspensɪv/
+- 好的: good /ɡʊd/ √
+- 更好的: better /ˈbetə/
+- 最好的: best /best/
+- 坏的: bad /bæd/
+- 更坏的: worse /wɜːs/
+- 最坏的: worst /wɜːst/
+- 多的: much /mʌtʃ/
+- 更多的: more /mɔː/
+- 最多的: most /məʊst/
+- 野生的: wild /waɪld/
+- 愚蠢的: stupid /ˈstjuːpɪd/
+- 恶心的: silly /ˈsɪli/ √
+- 脏的: dirty /ˈdɜːti/
+- 好奇的: curious /ˈkjʊəriəs/
+- 极地的: polar /ˈpəʊlə/ √
+- 疲倦: worn /wɔːn/, tired /ˈtaɪəd/
+- 卡住的: stuck /stʌk/ √
+- 相同: same /seɪm/
+- 不同: different /ˈdɪfrənt/
+#### 副词: adverbs /ˈædvɜːbz/ [A2]
+- 是: yes /jes/ √
+- 不: no /nəʊ/ √
+- 进: in /ɪn/ √
+- 出: out /aʊt/ √
+- 一起: together /təˈɡeðə/
+#### 代词: pronouns /ˈprəʊnaʊnz/ [B1]
+- 我: I /aɪ/（主）[A1] √, me /miː/（宾）[A1] √
+- 你: you /juː/ √
+- 他: he /hiː/（主）, him /hɪm/（宾）
+- 她: she /ʃiː/, her /hə/（宾）
+- 它: it /ɪt/ √
+- 我们: we /wiː/（主）, us /əs/（宾）
+- 我们的: our /ˈaʊə/（形）, ours /ˈaʊəz/（名）
+- 他们: they /ðeɪ/（主）, them /ðəm/（宾）
+- 我的: my /maɪ/（形）, mine /maɪn/（名）√
+- 你的: your /jɔː/（形）, yours /jɔːz/（名）
+- 他们的: their /ðeə/（形）, theirs /ðeəz/（名）
+- 一些事物: something /ˈsʌmθɪŋ/
+- 任何事物: anything /ˈeniθɪŋ/
+- 一切事物: everything /ˈevriθɪŋ/
+- 什么都没有: nothing /ˈnʌθɪŋ/
+- 这个: this /ðɪs/ √
+- 那个: that /ðæt/ √
+- 什么: what /wɒt/ √
+- 什么时候: when /wen/ √
+- 谁: who /huː/ √
+- 谁的: whose /huːz/
+- 哪个: which /wɪtʃ/ √
+- 无论什么: whatever /wɒtˈevə/
+- 无论哪个: whichever /wɪtʃˈevə/
+- 无论谁: whoever /huːˈevə/
+#### 感叹词: exclamations /ˌekskləˈmeɪʃnz/
+- 你好: hello /həˈləʊ/ [A1] √
+- 嗨: hi /haɪ/ [A1] √, hey /heɪ/ [A2] √
+- 再见: bye /baɪ/ [A1] √
+- 好极了: hooray /huˈreɪ/ √
+- 好: OK /əʊˈkeɪ/ [A1] √
