@@ -1070,7 +1070,7 @@
 - 父亲: father /ˈfɑːðə/ [A1]
 - 爸爸: dad /dæd/ [A1] √
 - 母亲: mother /ˈmʌðə/ [A1]
-- 妈妈: mom /mɑːm/（美）, mum /mʌm/（英）
+- 妈妈: mom /mɑːm/（美）[A1], mum /mʌm/（英）[A1]
 - 舅舅: uncle /ˈʌŋkl/
 - 舅妈: aunt /ɑːnt/
 - 父母: parent /ˈpeərənt/
@@ -1087,14 +1087,12 @@
 - 孙子, 外孙: grandson /ˈɡrænsʌn/
 - 孙女, 外孙女: granddaughter /ˈɡrændɔːtə/
 - 双胞胎: twins /twɪnz/
-- 家庭: family /ˈfæməli/
 - 朋友: friend /frend/
 - 笔友: pen pal /pen pæl/
 - 队员: crew member /kruː ˈmembə/
 - 同学: classmate /ˈklɑːsmeɪt/
 - 同事: colleague /ˈkɒliːɡ/
 - 邻居: neighbor /ˈneɪbə/
-- 住户: household /ˈhaʊshəʊld/ [B2]
 - 室友: roommate /ˈruːmmeɪt/ [B2]
 #### 健康: health /helθ/ [A2]
 - 维生素: vitamin /ˈvɪtəmɪn/
@@ -1583,25 +1581,26 @@
 - 小号: trumpet /ˈtrʌmpɪt/ √
 #### 社会: society /səˈsaɪəti/ [B1]
 - 法律: law /lɔː/
-- 规则: rule /ruːl/
 - 政府: government /ˈɡʌvənmənt/
 - 政党: party /ˈpɑːti/
+- 峰会: summit /ˈsʌmɪt/ [C2]
+- 俱乐部: club /klʌb/ [A2]
+- 公司: companies /ˈkʌmpəniz/
+  - 航空公司: airline /ˈeəlaɪn/
+  - 快递: express /ɪkˈspres/
+#### 生活: life /laɪf/ [B1]
+- 家庭: family /ˈfæməli/ [A1]
 - 结婚: marriage /ˈmærɪdʒ/
 - 离婚: divorce /dɪˈvɔːs/
-- 公司: company /ˈkʌmpəni/
-- 航空公司: airline /ˈeəlaɪn/
-- 俱乐部: club /klʌb/
-#### 生活: life /laɪf/ [B1]
+- 住户: household /ˈhaʊshəʊld/ [B2]
 - 娱乐: recreation /ˌriːkriˈeɪʃn/
 - 沟通: communication /kəˌmjuːnɪˈkeɪʃn/ [B1]
 - 爱好: hobby /ˈhɒbi/
 - 恶作剧: trick /trɪk/
-- 顶点: summit /ˈsʌmɪt/
 - 冒险: adventure /ədˈventʃə/
 - 技能: skill /skɪl/
 - 某种东西: whatsit /ˈwɒtsɪt/ [ORT5]
 - 假期: vacation /veɪˈkeɪʃn/（美）, holiday /ˈhɒlədeɪ/（英）√
-- 快递: express /ɪkˈspres/
 - 事情, 东西: thing /θɪŋ/
 - 小心: caution /ˈkɔːʃn/
 - 产品: product /ˈprɒdʌkt/
@@ -1609,6 +1608,7 @@
 - 包裹: package /ˈpækɪdʒ/
 - 注意: attention /əˈtenʃn/ [B1]
 - 问候: greeting /ˈɡriːtɪŋ/ [B1]
+- 规则: rule /ruːl/
 #### 教育: education /ˌedʒuˈkeɪʃn/ [B1]
 - 考试: examination /ɪɡˌzæmɪˈneɪʃn/
 - 班级: class /klɑːs/ √
