@@ -1027,38 +1027,39 @@
 - 屠夫: butcher /ˈbʊtʃə/ [B1]
 - 管家: housekeeper /ˈhaʊskiːpə/
 - 乘务员: attendant /əˈtendənt/
-- 烘焙师: baker /ˈbeɪkə/ √
-- 渔夫: fisherman /ˈfɪʃəmən/, fisherwoman /ˈfɪʃəwʊmən/
-- 保安: guard /ɡɑːd/
+- 烘焙师: baker /ˈbeɪkə/ [B1] √
+- 渔夫: fisherman /ˈfɪʃəmən/ [B2], fisherwoman /ˈfɪʃəwʊmən/
+- 保安: guard /ɡɑːd/ [B1]
 - 环卫工: sanitation worker /ˌsænɪˈteɪʃn ˈwɜːkə/
-- 保洁工: cleaner /ˈkliːnə/ √
+- 保洁工: cleaner /ˈkliːnə/ [A2] √
 - 魔术师: conjurer /ˈkʌndʒərə/
-- 潜水员: diver /ˈdaɪvə/
-- 建筑师: architect /ˈɑːkɪtekt/
-- 会计: accountant /əˈkaʊntənt/
-- 摄影师: photographer /fəˈtɒɡrəfə/
+- 潜水员: diver /ˈdaɪvə/ [B1]
+- 建筑师: architect /ˈɑːkɪtekt/ [B1]
+- 会计师: accountant /əˈkaʊntənt/ [B1]
+- 摄影师: photographer /fəˈtɒɡrəfə/ [A2]
 - 金融家: financier /faɪˈnænsiə/
-- 法官: judge /dʒʌdʒ/
-- 司机: driver /ˈdraɪvə/ √
+- 法官: judge /dʒʌdʒ/ [B2]
+- 司机: driver /ˈdraɪvə/ [A1] √
 - 收银员: cashier /kæˈʃɪə/
-- 工程师: engineer /ˌendʒɪˈnɪə/
-- 记者: reporter /rɪˈpɔːtə/
-- 秘书: secretary /ˈsekrətri/
+- 工程师: engineer /ˌendʒɪˈnɪə/ [A2]
+- 记者: reporter /rɪˈpɔːtə/ [B1]
+- 秘书: secretary /ˈsekrətri/ [A2]
 - 骑士: knight /naɪt/ √
-- 机械师: mechanic /məˈkænɪk/ √
+- 机械师: mechanic /məˈkænɪk/ [A2] √
 - 巫师: wizard /ˈwɪzəd/
-- 巫婆: witch /wɪtʃ/ √
-- 矿工: miner /ˈmaɪnə/
+- 巫婆: witch /wɪtʃ/ [C1] √
+- 矿工: miner /ˈmaɪnə/ [C1]
 #### 职位: positions /pəˈzɪʃnz/ [B2]
-- 校长, 总裁, 主席, 总统: president /ˈprezɪdənt/
-- 国王: king /kɪŋ/ √
-- 皇后: queen /kwiːn/ √
-- 公主: princess /ˌprɪnˈses/ √
-- 王子: prince /prɪns/ √
-- 校长: principal /ˈprɪnsəpl/
-- 领导: leader /ˈliːdə/
-- 经理: manager /ˈmænɪdʒə/
-- 队长: captain /ˈkæptɪn/ √
+- 总统, 主席: president /ˈprezɪdənt/ [B1]
+- 总裁: president /ˈprezɪdənt/
+- 校长: principal /ˈprɪnsəpl/ [B2]
+- 国王: king /kɪŋ/ [A2] √
+- 皇后: queen /kwiːn/ [A2] √
+- 公主: princess /ˌprɪnˈses/ [B1] √
+- 王子: prince /prɪns/ [B1] √
+- 领导: leader /ˈliːdə/ [B1]
+- 经理: manager /ˈmænɪdʒə/ [A2]
+- 队长: captain /ˈkæptɪn/ [B1] √
 #### 称谓: titles /ˈtaɪtlz/
 - 女士: Miss /mɪs/ [A1], madam /ˈmædəm/ [B1]
 - 夫人: Mrs /ˈmɪsɪz/ [A1], madam /ˈmædəm/ [B1]
