@@ -986,6 +986,10 @@
 - 游客: tourist /ˈtʊərɪst/ [A2]
 - 访客: visitor /ˈvɪzɪtə/ [A2]
 - 囚犯: prisoner /ˈprɪznə/ [B1]
+- 国王: king /kɪŋ/ [A2] √
+- 皇后: queen /kwiːn/ [A2] √
+- 公主: princess /ˌprɪnˈses/ [B1] √
+- 王子: prince /prɪns/ [B1] √
 #### 职业: jobs /dʒobs/ [A1]
 - 邮递员: postman /ˈpəʊstmən/ [B1]
 - 宇航员: astronaut /ˈæstrənɔːt/ √, spaceman /ˈspeɪsmæn/
@@ -1053,10 +1057,6 @@
 - 总统, 主席: president /ˈprezɪdənt/ [B1]
 - 总裁: president /ˈprezɪdənt/
 - 校长: principal /ˈprɪnsəpl/ [B2]
-- 国王: king /kɪŋ/ [A2] √
-- 皇后: queen /kwiːn/ [A2] √
-- 公主: princess /ˌprɪnˈses/ [B1] √
-- 王子: prince /prɪns/ [B1] √
 - 领导: leader /ˈliːdə/ [B1]
 - 经理: manager /ˈmænɪdʒə/ [A2]
 - 队长: captain /ˈkæptɪn/ [B1] √
@@ -1065,10 +1065,12 @@
 - 夫人: Mrs /ˈmɪsɪz/ [A1], madam /ˈmædəm/ [B1]
 - 先生: Mr /ˈmɪstə/ [A1], sir /sɜː/ [B1]
 #### 关系: relationships /rɪˈleɪʃnʃɪps/ [B1]
-- 丈夫: husband /ˈhʌzbənd/
-- 妻子: wife /waɪf/
-- 爸爸: father /ˈfɑːðə/, dad /dæd/ √
-- 妈妈: mother /ˈmʌðə/, mom /mɑːm/（美）, mum /mʌm/（英）
+- 丈夫: husband /ˈhʌzbənd/ [A1]
+- 妻子: wife /waɪf/ [A1]
+- 父亲: father /ˈfɑːðə/ [A1]
+- 爸爸: dad /dæd/ [A1] √
+- 母亲: mother /ˈmʌðə/ [A1]
+- 妈妈: mom /mɑːm/（美）, mum /mʌm/（英）
 - 舅舅: uncle /ˈʌŋkl/
 - 舅妈: aunt /ɑːnt/
 - 父母: parent /ˈpeərənt/
