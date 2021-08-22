@@ -1006,25 +1006,25 @@
 - 科学家: scientist /ˈsaɪəntɪst/ [B1]
 - 歌手: singer /ˈsɪŋə/ [A2] √
 - 理发师: barber /ˈbɑːbə/ [B1], hairdresser /ˈheədresə/ [B1]
-- 演员: actor /ˈæktə/ （男）, actress /ˈæktrəs/（女）
+- 演员: actor /ˈæktə/ （男）[A2], actress /ˈæktrəs/（女）
 - 喜剧演员: comedian /kəˈmiːdiən/ [B2]
 - 特技演员: stuntman /ˈstʌntmæn/
-- 作家: writer /ˈraɪtə/
-- 舞者: dancer /ˈdɑːnsə/ √
-- 律师: lawyer /ˈlɔɪə/
-- 厨师: chef /ʃef/ √
+- 作家: writer /ˈraɪtə/ [B1]
+- 舞者: dancer /ˈdɑːnsə/ [A2] √
+- 律师: lawyer /ˈlɔɪə/ [B1]
+- 厨师: chef /ʃef/ [A2] √
 - 图书管理员: librarian /laɪˈbreəriən/
 - 动物饲养员: zookeeper /ˈzuːkiːpə/ √
-- 作者: author /ˈɔːθə/
-- 画家: artist /ˈɑːtɪst/
-- 教练: coach /kəʊtʃ/ √
-- 音乐家: musician /mjuˈzɪʃn/
-- 运动员: athlete /ˈæθliːt/
+- 作者: author /ˈɔːθə/ [B1]
+- 画家: artist /ˈɑːtɪst/ [A2]
+- 教练: coach /kəʊtʃ/ [B1] √
+- 音乐家: musician /mjuˈzɪʃn/ [B1]
+- 运动员: athlete /ˈæθliːt/ [B1]
 - 探险家: explorer /ɪkˈsplɔːrə/
-- 园丁: gardener /ˈɡɑːdnə/ √
+- 园丁: gardener /ˈɡɑːdnə/ [B2] √
 - 裁缝: tailor /ˈteɪlə/
 - 木匠: carpenter /ˈkɑːpəntə/
-- 屠夫: butcher /ˈbʊtʃə/
+- 屠夫: butcher /ˈbʊtʃə/ [B1]
 - 管家: housekeeper /ˈhaʊskiːpə/
 - 乘务员: attendant /əˈtendənt/
 - 烘焙师: baker /ˈbeɪkə/ √
