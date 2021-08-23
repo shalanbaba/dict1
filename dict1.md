@@ -1616,9 +1616,9 @@
 - 托班: daycare /ˈdeɪkeə/
 - 小班: preschool /ˈpriːskuːl/
 - 中班: prekindergarten /priː'kɪndəgɑ:tn/
-- 大班: kindergarten /ˈkɪndəɡɑːtn/
+- 大班: kindergarten /ˈkɪndəɡɑːtn/ √
 - 一年级: first grade /fɜːst ɡreɪd/
-- 体育: pe /ˌpiː ˈiː/, physical education /ˈfɪzɪkl ˌedʒuˈkeɪʃn/
+- 体育: PE /ˌpiː ˈiː/ √, physical education /ˈfɪzɪkl ˌedʒuˈkeɪʃn/
 - 艺术: art /ɑːt/
 #### 金融: finance /faɪˈnæns/ [B2]
 - 股市: stock /stɒk/
