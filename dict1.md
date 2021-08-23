@@ -1160,11 +1160,11 @@
 - 手指甲: fingernail /ˈfɪŋɡəneɪl/
 - 脚趾甲: toenail /ˈtəʊneɪl/
 #### 五官感觉: five senses /ˈsensɪz/
-- 视觉: sight /saɪt/
+- 视觉: sight /saɪt/ [B1]
 - 听觉: hearing /hɪərɪŋ/
-- 触觉: touch /tʌtʃ/
-- 嗅觉: smell /smel/
-- 味觉: taste /teɪst/
+- 触觉: touch /tʌtʃ/ [B2]
+- 嗅觉: smell /smel/ [B2]
+- 味觉: taste /teɪst/ [B2]
 #### 情感: emotions /ɪˈməʊʃnz/ [B2]
 - 爱: love /lʌv/ √
 - 喜欢: like /laɪk/
@@ -1186,7 +1186,7 @@
 - 数字: numbers /ˈnʌmbəz/
   - 序数: ordinal numbers /ˈɔːdɪnl ˈnʌmbəz/
   - 基数: cardinal numbers /ˈkɑːdɪnl ˈnʌmbəz/
-    - 0: zero /ˈzɪərəʊ/ √
+    - 0: zero /ˈzɪərəʊ/ [A2] √
     - 1: one /wʌn/ √
     - 2: two /tuː/ √
     - 3: three /θriː/ √
