@@ -1095,22 +1095,22 @@
 - 邻居: neighbour（英）, neighbor（美）/ˈneɪbə/ [A2]
 - 室友: roommate /ˈruːmmeɪt/ [B2]
 #### 健康: health /helθ/ [A2]
-- 维生素: vitamin /ˈvɪtəmɪn/
-- 药丸: pill /pɪl/
-- 药: drug /drʌɡ/, medicine /ˈmedɪsn/
-- 疫苗: vaccine /vækˈsiːn/
-- 体温计: thermometer /θəˈmɒmɪtə/
-- 轮椅: wheelchair /ˈwiːltʃeə/
-- 口罩: mask /mɑːsk/ √
+- 维生素: vitamin /ˈvɪtəmɪn/ [B2]
+- 药丸: pill /pɪl/ [B1]
+- 药: drug /drʌɡ/ [B2], medicine /ˈmedɪsn/ [A2]
+- 疫苗: vaccine /vækˈsiːn/ [C2]
+- 体温计: thermometer /θəˈmɒmɪtə/ [B2]
+- 轮椅: wheelchair /ˈwiːltʃeə/ [B1]
+- 口罩: mask /mɑːsk/ [B2] √
 - 冰袋: ice pack /aɪs pæk/
-- 疼痛: ache /eɪk/
-- 咳嗽: cough /kɒf/
-- 打针: injection /ɪnˈdʒekʃn/
+- 疼痛: ache /eɪk/ [B1]
+- 咳嗽: cough /kɒf/ [B1]
+- 打针: injection /ɪnˈdʒekʃn/ [C2]
 - 过敏: allergy /ˈælədʒi/
 - 水疗: spa /spɑː/
 - 按摩: massage /ˈmæsɑːʒ/
-- 洗澡: bath /bɑːθ/
-- 淋浴: shower /ˈʃaʊə/
+- 洗澡: bath /bɑːθ/ [A1]
+- 淋浴: shower /ˈʃaʊə/ [A1]
 #### 身体: the body /ðə ˈbɒdi/ [A1]
 - 骨架: skeleton /ˈskelɪtn/
 - 头: head /hed/ √
@@ -1166,9 +1166,9 @@
 - 嗅觉: smell /smel/ [B2]
 - 味觉: taste /teɪst/ [B2]
 #### 情感: emotions /ɪˈməʊʃnz/ [B2]
-- 爱: love /lʌv/ √
-- 喜欢: like /laɪk/
-- 讨厌: hate /heɪt/
+- 爱: love /lʌv/ [A1] √
+- 喜欢: like /laɪk/ [A1]
+- 讨厌: hate /heɪt/ [A2]
 #### 感觉: feelings /ˈfiːlɪŋz/ [B1]
 - 无聊: bored /bɔːd/
 - 舒服: comfortable /ˈkʌmftəbl/
