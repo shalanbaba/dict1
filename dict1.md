@@ -990,6 +990,7 @@
 - 皇后: queen /kwiːn/ [A2] √
 - 公主: princess /ˌprɪnˈses/ [B1] √
 - 王子: prince /prɪns/ [B1] √
+- 船员, 机组: crew /kruː/ [B1]
 #### 职业: jobs /dʒobs/ [A1]
 - 邮递员: postman /ˈpəʊstmən/ [B1]
 - 宇航员: astronaut /ˈæstrənɔːt/ √, spaceman /ˈspeɪsmæn/
@@ -1071,28 +1072,27 @@
 - 爸爸: dad /dæd/ [A1] √
 - 母亲: mother /ˈmʌðə/ [A1]
 - 妈妈: mom /mɑːm/（美）[A1], mum /mʌm/（英）[A1]
-- 舅舅: uncle /ˈʌŋkl/
-- 舅妈: aunt /ɑːnt/
-- 父母: parent /ˈpeərənt/
-- 爷爷, 外公: grandpa /ˈɡrænpɑː/
-- 奶奶, 外婆: grandma /ˈɡrænmɑː/
-- 姐姐: sister /ˈsɪstə/ √
-- 兄弟: brother /ˈbrʌðə/ √
-- 堂、表兄弟姐妹: cousin /ˈkʌzn/
-- 兄弟姐妹: sibling /ˈsɪblɪŋ/
-- 外甥: nephew /ˈnefjuː/
-- 外甥女: niece /niːs/
-- 儿子: son /sʌn/
-- 女儿: daughter /ˈdɔːtə/
-- 孙子, 外孙: grandson /ˈɡrænsʌn/
-- 孙女, 外孙女: granddaughter /ˈɡrændɔːtə/
-- 双胞胎: twins /twɪnz/
-- 朋友: friend /frend/
-- 笔友: pen pal /pen pæl/
-- 队员: crew member /kruː ˈmembə/
-- 同学: classmate /ˈklɑːsmeɪt/
-- 同事: colleague /ˈkɒliːɡ/
-- 邻居: neighbor /ˈneɪbə/
+- 舅舅: uncle /ˈʌŋkl/ [A2]
+- 舅妈: aunt /ɑːnt/ [A2]
+- 父母: parent /ˈpeərənt/ [A1]
+- 爷爷, 外公: grandpa /ˈɡrænpɑː/ [A2]
+- 奶奶, 外婆: grandma /ˈɡrænmɑː/ [A2]
+- 姐姐: sister /ˈsɪstə/ [A1] √
+- 兄弟: brother /ˈbrʌðə/ [A1] √
+- 堂、表兄弟姐妹: cousin /ˈkʌzn/ [A2]
+- 兄弟姐妹: sibling /ˈsɪblɪŋ/ [C2]
+- 外甥: nephew /ˈnefjuː/ [B1]
+- 外甥女: niece /niːs/ [B1]
+- 儿子: son /sʌn/ [A1]
+- 女儿: daughter /ˈdɔːtə/ [A1]
+- 孙子, 外孙: grandson /ˈɡrænsʌn/ [A2]
+- 孙女, 外孙女: granddaughter /ˈɡrændɔːtə/ [A2]
+- 双胞胎: twins /twɪnz/ [B1]
+- 朋友: friend /frend/ [A1]
+- 笔友: pen pal /pen pæl/ [A2]
+- 同学: classmate /ˈklɑːsmeɪt/ [A2]
+- 同事: colleague /ˈkɒliːɡ/ [A2]
+- 邻居: neighbour（英）, neighbor（美）/ˈneɪbə/ [A2]
 - 室友: roommate /ˈruːmmeɪt/ [B2]
 #### 健康: health /helθ/ [A2]
 - 维生素: vitamin /ˈvɪtəmɪn/
