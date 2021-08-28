@@ -1433,9 +1433,9 @@
   - 糖果: candy /ˈkændi/ √
   - 棒棒糖: lollipop /ˈlɒlipɒp/ √
   - 棒冰: ice lolly /aɪs ˈlɒli/ √
-  - 冰激凌: ice cream /aɪs kriːm/ √
-  - 薯片: crisp /krɪsp/（英）, chip /tʃɪp/（美）
-  - 薯条: french fry /frentʃ fraɪ/（美）, chip /tʃɪp/（英）
+  - 冰激凌: ice cream /aɪs kriːm/ [A1] √
+  - 薯片: crisp /krɪsp/（英）[A2], potato chip /tʃɪp/（美）[A2]
+  - 薯条: french fry /frentʃ fraɪ/（美）, chip /tʃɪp/（英）[A1]
   - 坚果: nut /nʌt/
 - 水果: fruit /fruːt/
   - 菠萝: pineapple /ˈpaɪnæpl/ √
