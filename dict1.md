@@ -726,11 +726,11 @@
 - 支路: branch road /bræntʃ rəʊd/
 - 巷: lane /leɪn/
 - 弄: alley /ˈæli/
-- 大道: avenue /ˈævənjuː/ √
+- 大道: avenue /ˈævənjuː/ [C1] √
 - 环路: circle /ˈsɜːkl/
 - 支路: branch road /bræntʃ rəʊd/
-- 隧道: tunnel /ˈtʌnl/ √
-- 铁路: railway /ˈreɪlweɪ/
+- 隧道: tunnel /ˈtʌnl/ [B1] √
+- 铁路: railway /ˈreɪlweɪ/ [A2]
 - 轨道: track /træk/ [C1]
 #### 车辆: vehicles /ˈviːɪkəlz/ [B1]
 - 卡车: truck /trʌk/（美）√, lorry /ˈlɔːri/（英）√
