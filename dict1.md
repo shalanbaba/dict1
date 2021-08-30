@@ -1520,7 +1520,7 @@
 - 削: peel /piːl/
 - 切: cut /kʌt/
 #### 旅行: travel /ˈtrævl/ [A1], the trip /ðə trɪp/ [A2]
-- 行李: baggage ˈbæɡɪdʒ（美）, luggage ˈlʌɡɪdʒ（英）
+- 行李: baggage /ˈbæɡɪdʒ/（美）, luggage /ˈlʌɡɪdʒ/（英）
 #### 运动: sports /spɔːts/ [A1]
 - 篮球: basketball /ˈbɑːskɪtbɔːl/ √
 - 足球: football /ˈfʊtbɔːl/（英）√, soccer /ˈsɒkə/（美）√
