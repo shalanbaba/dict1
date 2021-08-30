@@ -1786,11 +1786,11 @@
 - 孵化: hatch /hætʃ/ √
 - 融化: melt /melt/
 - 猜: guess /ɡes/
-- 行进: march /mɑːtʃ/ √
-- 露营: camp /kæmp/ √
+- 行进: march /mɑːtʃ/ [C1] √
+- 露营: camp /kæmp/ [A2] √
 - 挠痒: tickle /ˈtɪkl/ √
-- 撞: bump /bʌmp/ √
-- 挤: squeeze /skwiːz/
+- 撞: bump /bʌmp/ [B2] √
+- 挤: squeeze /skwiːz/ [B2]
 - 狼吞虎咽: gobble /ˈɡɒbl/
 - 尖叫: squeal /skwiːl/
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
