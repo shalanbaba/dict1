@@ -1584,6 +1584,7 @@
 - 小号: trumpet /ˈtrʌmpɪt/ √
 #### 社会: society /səˈsaɪəti/ [B1]
 - 法律: law /lɔː/
+- 国籍: nationality /ˌnæʃəˈnæləti/ [A1]
 - 政府: government /ˈɡʌvənmənt/
 - 政党: party /ˈpɑːti/
 - 峰会: summit /ˈsʌmɪt/ [C2]
@@ -1596,7 +1597,6 @@
 - 结婚: marriage /ˈmærɪdʒ/
 - 离婚: divorce /dɪˈvɔːs/
 - 住户: household /ˈhaʊshəʊld/ [B2]
-- 国籍: nationality /ˌnæʃəˈnæləti/ [A1]
 - 娱乐: recreation /ˌriːkriˈeɪʃn/
 - 沟通: communication /kəˌmjuːnɪˈkeɪʃn/ [B1]
 - 爱好: hobby /ˈhɒbi/
