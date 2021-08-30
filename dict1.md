@@ -13,7 +13,7 @@
 - 护照: passport /ˈpɑːspɔːt/ [A2]
 - 签证: visa /ˈviːzə/ [B1]
 - 身份证: identity card /aɪˈdentəti kɑːd/ [B1], ID card /ˌaɪ ˈdiː kɑːd/ [A2]
-- 课本: textbook /ˈtekstbʊk/ [A2]
+- 课本: textbook /ˈtekstbʊk/ [A2] 
 - 字典: dictionary /ˈdɪkʃəneri/ [A1]
 - 照片: photo /ˈfəʊtəʊ/ [A1], photograph /ˈfəʊtəɡrɑːf/ [A2]
 - 图片: picture /ˈpɪktʃə/ [A1] √
@@ -65,6 +65,7 @@
 - 票, 罚单: ticket /ˈtɪkɪt/ [A1] √
 - 地址: address /əˈdres/ [A1]
 - 邮编: zip code /zɪp kəʊd/
+- 国籍: nationality /ˌnæʃəˈnæləti/ [A1]
  #### 人名: the name of a person /ðə neɪm ɒv ə ˈpɜːsn/
 - 名: first name /fɜːst neɪm/ [A2]
 - 中间名: middle name /ˈmɪdl neɪm/
@@ -1584,7 +1585,6 @@
 - 小号: trumpet /ˈtrʌmpɪt/ √
 #### 社会: society /səˈsaɪəti/ [B1]
 - 法律: law /lɔː/
-- 国籍: nationality /ˌnæʃəˈnæləti/ [A1]
 - 政府: government /ˈɡʌvənmənt/
 - 政党: party /ˈpɑːti/
 - 峰会: summit /ˈsʌmɪt/ [C2]
