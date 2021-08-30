@@ -476,6 +476,7 @@
 - 村舍: cottage /ˈkɒtɪdʒ/
 - 小屋: cabin /ˈkæbɪn/, hut /hʌt/
 - 牲口房: barn /bɑːn/
+- 果园: orchard /ˈɔːtʃəd/
 - 围栏, 篱笆: fence /fens/ √
 #### 建材: construction materials /kənˈstrʌkʃn məˈtɪərɪəlz/
 - 水泥: cement /sɪˈment/
