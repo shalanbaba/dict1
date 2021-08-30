@@ -1471,7 +1471,7 @@
 - 蔬菜: vegetables /ˈvedʒtəblz/
   - 黄瓜, 青瓜: cucumber /ˈkjuːkʌmbə/
   - 茄子: eggplant /ˈeɡplænt/
-  - 卷心菜: cabbage ˈkæbɪdʒ
+  - 卷心菜: cabbage /ˈkæbɪdʒ/
   - 紫甘蓝: purple cabbage /ˈpɜːpl ˈkæbɪdʒ/
   - 生姜: ginger /ˈdʒɪndʒə/
   - 大蒜: garlic /ˈɡɑːlɪk/
