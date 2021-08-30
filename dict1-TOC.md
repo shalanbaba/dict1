@@ -1,7 +1,6 @@
 #### 信息: information
 #### 人名: the name of a person
 #### 性别: genders, sexes
-#### 名族: nationalities
 #### 语言: languages
 #### 英语: English
 #### 符号: symbols

@@ -72,8 +72,6 @@
 #### 性别: genders /ˈdʒendəz/, sexes /ˈseksɪz/ [B2]
 - 男: male /meɪl/  [B2]
 - 女: female /ˈfiːmeɪl/ [B2] √
-#### 名族: nationalities /ˌnæʃəˈnælɪtiz/ [A1]
-- 汉族: Han /hæn/
 #### 语言: languages /ˈlæŋɡwɪdʒɪz/ [A1]
 - 中文: Chinese /ˌtʃaɪˈniːz/
 - 简体中文: Simplified Chinese /ˈsɪmplɪfaɪd ˌtʃaɪˈniːz/
@@ -163,6 +161,7 @@
   - 美国: United States /juˈnaɪtɪd steɪts/
   - 中国: China /ˈtʃaɪnə/
   - 日本: Japan /dʒəˈpæn/
+  - 英国: Britain /ˈbrɪtn/, United Kingdom /juːˈnaɪtɪd ˈkɪŋdəm/
   - 韩国: South Korea /kəˈriə/
   - 泰国: Thailand /ˈtaɪlænd/
   - 澳大利亚: Australia /ɒˈstreɪliə/ √
@@ -991,6 +990,9 @@
 - 公主: princess /ˌprɪnˈses/ [B1] √
 - 王子: prince /prɪns/ [B1] √
 - 船员, 机组: crew /kruː/ [B1]
+- 中国人: Chinese /ˌtʃaɪˈniːz/
+- 美国人: American /əˈmerɪkən/
+- 英国人: British /ˈbrɪtɪʃ/
 #### 职业: jobs /dʒobs/ [A1]
 - 邮递员: postman /ˈpəʊstmən/ [B1]
 - 宇航员: astronaut /ˈæstrənɔːt/ √, spaceman /ˈspeɪsmæn/
@@ -1593,6 +1595,7 @@
 - 结婚: marriage /ˈmærɪdʒ/
 - 离婚: divorce /dɪˈvɔːs/
 - 住户: household /ˈhaʊshəʊld/ [B2]
+- 国籍: nationality /ˌnæʃəˈnæləti/ [A1]
 - 娱乐: recreation /ˌriːkriˈeɪʃn/
 - 沟通: communication /kəˌmjuːnɪˈkeɪʃn/ [B1]
 - 爱好: hobby /ˈhɒbi/
