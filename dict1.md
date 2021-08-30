@@ -324,7 +324,7 @@
 - 花坛: flower bed /ˈflaʊə bed/ √
 - 花坛沿: flower bed edge /ˈflaʊə bed edʒ/
 - 消防栓: fire hydrant /ˈfaɪə ˈhaɪdrənt/ √
-- 工地: construction site /kənˈstrʌkʃn saɪt/
+- 工地: construction site /kənˈstrʌkʃn saɪt/ √
 - 运河: canal /kəˈnæl/ [ORT1+]
 - 船闸: lock /lɒk/ [ORT1+]
 - 坝: dam /dæm/
