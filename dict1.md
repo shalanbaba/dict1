@@ -158,10 +158,10 @@
   - 澳洲: Australia /ɒˈstreɪliə/
   - 南极洲: Antarctica /ænˈtɑːktɪkə/
 - 国家: countries /ˈkʌntriz/ [A1]
-  - 美国: United States /juˈnaɪtɪd steɪts/
   - 中国: China /ˈtʃaɪnə/
+  - 美国: United States /juˈnaɪtɪd steɪts/
+  - 英国: United Kingdom /juːˈnaɪtɪd ˈkɪŋdəm/, Britain /ˈbrɪtn/
   - 日本: Japan /dʒəˈpæn/
-  - 英国: Britain /ˈbrɪtn/, United Kingdom /juːˈnaɪtɪd ˈkɪŋdəm/
   - 韩国: South Korea /kəˈriə/
   - 泰国: Thailand /ˈtaɪlænd/
   - 澳大利亚: Australia /ɒˈstreɪliə/ √
@@ -1876,3 +1876,4 @@
 - 再见: bye /baɪ/ [A1] √
 - 好极了: hooray /huˈreɪ/ √
 - 好: OK /əʊˈkeɪ/ [A1] √
+- 变: presto /ˈprestəʊ/ √
