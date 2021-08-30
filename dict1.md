@@ -464,7 +464,7 @@
 - 花瓶: vase /veɪs/
 #### 游乐场: the playground /ðə ˈpleɪɡraʊnd/ [A2] √
 - 摩天轮: ferris wheel /ferɪs wiːl/
-- 旋转木马: merry-go-round /ˈmeri ɡəʊ raʊnd/
+- 旋转木马: carousel /ˌkærəˈsel/
 - 过山车: roller coaster /rəʊlə kəʊstə/
 - 跷跷板: seesaw /ˈsiː sɔː/ √
 - 滑梯: slide /slaɪd/ √
