@@ -468,7 +468,7 @@
 - 过山车: roller coaster /rəʊlə kəʊstə/
 - 跷跷板: seesaw /ˈsiː sɔː/ √
 - 滑梯: slide /slaɪd/ √
-- 秋千: swing /swɪŋ/ √
+- 秋千: swing /swɪŋ/ [B2] √
 #### 农场: the farm /ðə fɑːm/ [A1] √
 - 猪圈: pigpen /pɪɡpen/
 - 干草: hay /heɪ/
