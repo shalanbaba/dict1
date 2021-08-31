@@ -481,9 +481,9 @@
 - 围栏, 篱笆: fence /fens/ √
 #### 建材: construction materials /kənˈstrʌkʃn məˈtɪərɪəlz/
 - 水泥: cement /sɪˈment/
-- 混凝土: concrete /ˈkɒŋkriːt/ √
-- 沙: sand /sænd/ √
-- 砖: brick /brɪk/ √
+- 混凝土: concrete /ˈkɒŋkriːt/ [B2] √
+- 沙: sand /sænd/ [B1] √
+- 砖: brick /brɪk/ [B2] √
 - 木地板: wood floor /wʊd flɔː/
 - 瓷砖: ceramic tile /səˈræmɪk taɪl/, porcelain tile /ˈpɔːsəlɪn taɪl/
 - 钉子: nail /neɪl/ [B2]
@@ -596,7 +596,7 @@
 - 储物箱: storage box /ˈstɔːrɪdʒ bɒks/
 #### 宠物用品: pet supplies /pet səˈplaɪz/
 - 狗绳: dog leash /dɔːɡ liːʃ/
-- 笼子: cage /keɪdʒ/
+- 笼子: cage /keɪdʒ/ [B1]
 #### 垃圾分类: the garbage classification /ðə ˈɡɑːbɪdʒ ˌklæsɪfɪˈkeɪʃn/
 - 干垃圾: residual waste /rɪˈzɪdjuəl weɪst/
 - 湿垃圾: household food waste /ˈhaʊshəʊld fuːd weɪst/
@@ -1441,7 +1441,7 @@
   - 冰激凌: ice cream /aɪs kriːm/ [A1] √
   - 薯片: crisp /krɪsp/（英）[A2], potato chip /tʃɪp/（美）[A2]
   - 薯条: french fry /frentʃ fraɪ/（美）, chip /tʃɪp/（英）[A1]
-  - 坚果: nut /nʌt/
+  - 坚果: nut /nʌt/ [B2]
 - 水果: fruit /fruːt/
   - 菠萝: pineapple /ˈpaɪnæpl/ √
   - 苹果: apple /ˈæpl/ √
