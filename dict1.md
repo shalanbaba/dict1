@@ -486,7 +486,7 @@
 - 砖: brick /brɪk/ √
 - 木地板: wood floor /wʊd flɔː/
 - 瓷砖: ceramic tile /səˈræmɪk taɪl/, porcelain tile /ˈpɔːsəlɪn taɪl/
-- 钉子: nail /neɪl/
+- 钉子: nail /neɪl/ [B2]
 - 水管: water pipe /ˈwɔːtə paɪp/
 #### 灯: the light /ðə laɪt/ [A2]
 - 灯泡: bulb /bʌlb/ [B2]
@@ -657,8 +657,8 @@
 #### 零件: parts /pɑːts/ [B2]
 - 螺丝: screw /skruː/
 - 螺母: nut /nʌt/
-- 钩子: hook /hʊk/
-- 齿轮: gear /ɡɪə/
+- 钩子: hook /hʊk/ [B2]
+- 齿轮: gear /ɡɪə/ [B2]
 #### 工具: tools /tuːlz/ [B2]
 - 洒水壶: watering can /ˈwɔːtərɪŋ kæn/
 - 锄头: hoe /həʊ/
@@ -667,7 +667,7 @@
 - 铁锹: spade /speɪd/
 - 铁铲: shovel /ˈʃʌvl/ √
 - 螺丝刀: screwdriver /ˈskruːdraɪvə/
-- 锤子: hammer /ˈhæmə/ √
+- 锤子: hammer /ˈhæmə/ [B2] √
 - 杆子: pole /pəʊl/
 - 棍子: stick /stɪk/ √
 - 脚手架: scaffold /ˈskæfəʊld/
