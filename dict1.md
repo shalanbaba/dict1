@@ -54,15 +54,15 @@
 - 计划: plan /plæn/ [A2], program（美）, programme（英） /ˈprəʊɡræm/ [B2]
 - 源代码: source code /sɔːs kəʊd/
 - 菜单: menu /ˈmenjuː/ [A2]
-- 名字: name /neɪm/ [A1] √
 - 应用程序: app /æp/, application /ˌæplɪˈkeɪʃn/ [B2]
 - 数据: data /ˈdeɪtə/ [B2]
 - 网络: network /ˈnetwɜːk/ [B2]
 - 搜索引擎: search engine /sɜːtʃ ˈendʒɪn/
 - 秘密: secret /ˈsiːkrət/ [B1]
 - 记录: record /ˈrekɔːd/ [B2]
-- 区号: area code /ˈeəriə kəʊd/
 - 票, 罚单: ticket /ˈtɪkɪt/ [A1] √
+- 名字: name /neɪm/ [A1] √
+- 区号: area code /ˈeəriə kəʊd/
 - 地址: address /əˈdres/ [A1]
 - 邮编: zip code /zɪp kəʊd/
 - 国籍: nationality /ˌnæʃəˈnæləti/ [A1]
