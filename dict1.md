@@ -131,7 +131,7 @@
 - 瓦力: WALL·E /wɔːl iː/
 - 麦克唐纳: MacDonald /məkˈdɔnəld/
 #### 宇宙: the universe /ði ˈjuːnɪvɜːs/ [B1]
-- 行星: planet /ˈplænɪt/
+- 行星: planet /ˈplænɪt/ [B1]
 - 小行星: asteroid /ˈæstərɔɪd/
 - 流星: shooting star /ˈʃuːtɪŋ stɑː/, meteor /ˈmiːtiə/
 - 彗星: comet /ˈkɒmɪt/
@@ -189,87 +189,86 @@
   - 金字塔: pyramid /ˈpɪrəmɪd/
   - 自然保护区: natural reserve /ˈnætʃrəl rɪˈzɜːv/
 - 行政区（中）: administrative regions /ədˈmɪnɪstreɪtɪv ˈriːdʒənz/
-  - 省: province /ˈprɒvɪns/
+  - 省: province /ˈprɒvɪns/ [C2]
   - 直辖市: municipality /mjuːˌnɪsɪˈpæləti/
   - 自治区: autonomous region /ɔːˈtɒnəməs ˈriːdʒən/
   - 特别行政区: special administrative region /ˈspeʃl ədˈmɪnɪstreɪtɪv ˈriːdʒən/
-  - 市: city /ˈsɪti/ √
+  - 市: city /ˈsɪti/ [A1] √
   - 县: county /ˈkaʊnti/
-  - 镇: town /taʊn/ √
+  - 镇: town /taʊn/ [A1] √
   - 街道: subdistrict /ˈsʌbˌdɪstrɪkt/
   - 乡: township /ˈtaʊnʃɪp/
-  - 村: village /ˈvɪlɪdʒ/
+  - 村: village /ˈvɪlɪdʒ/ [A1]
 #### 自然: nature /ˈneɪtʃə/ √ [A2]
 - 海岸: seashore /ˈsiːʃɔː/
-- 沿海: coast /kəʊst/
-- 海滩: beach /biːtʃ/ √
-- 草地: lawn /lɔːn/
+- 沿海: coast /kəʊst/ [B1]
+- 海滩: beach /biːtʃ/ [A1] √
+- 草坪: lawn /lɔːn/ [C1]
 - 雪花: snowflake /ˈsnəʊfleɪk/
-- 海边: seaside /ˈsiːsaɪd/
-- 冰山: iceberg /ˈaɪsbɜːɡ/
-- 岛屿: island /ˈaɪlənd/ √
-- 瀑布: waterfall /ˈwɔːtəfɔːl/ √
-- 彩虹: rainbow /ˈreɪnbəʊ/ √
-- 森林: forest /ˈfɒrɪst/ √
-- 山洞: cave /keɪv/ √
-- 山丘: hill /hɪl/
-- 山谷: valley /ˈvæli/
-- 岛: island /ˈaɪlənd/ √
-- 山: mountain /ˈmaʊntən/ √
-- 河: river /ˈrɪvə/ √
-- 泥: mud /mʌd/ √
-- 土: soil /sɔɪl/ √
-- 火山: volcano /vɒlˈkeɪnəʊ/ √
-- 湖: lake /leɪk/ √
+- 海边: seaside /ˈsiːsaɪd/ [B1]
+- 冰山: iceberg /ˈaɪsbɜːɡ/ [C1]
+- 岛屿: island /ˈaɪlənd/ [A2] √
+- 瀑布: waterfall /ˈwɔːtəfɔːl/ [B1] √
+- 彩虹: rainbow /ˈreɪnbəʊ/ [B2] √
+- 森林: forest /ˈfɒrɪst/ [A2] √
+- 山洞: cave /keɪv/ [B1] √
+- 山丘: hill /hɪl/ [A2]
+- 山谷: valley /ˈvæli/ [B1]
+- 岛: island /ˈaɪlənd/ [A2] √
+- 山: mountain /ˈmaʊntən/ [A2] √
+- 河: river /ˈrɪvə/ [A1] √
+- 泥: mud /mʌd/ [B2] √
+- 土: soil /sɔɪl/ [B2] √
+- 火山: volcano /vɒlˈkeɪnəʊ/ [B2] √
+- 湖: lake /leɪk/ [A2] √
 - 大陆: mainland /ˈmeɪnlænd/
-- 大海: sea /siː/ √
+- 大海: sea /siː/ [A1] √
 - 潮水: tide /taɪd/ [B2]
 - 水坑: puddle /ˈpʌdl/ √
-- 池塘: pond /pɒnd/ √
-- 云: cloud /klaʊd/ √
-- 雾: fog /fɒɡ/
-- 风: wind /wɪnd/ √
-- 微风: breeze /briːz/
-- 雨: rain /reɪn/ √
+- 池塘: pond /pɒnd/ [B2] √
+- 云: cloud /klaʊd/ [A2] √
+- 雾: fog /fɒɡ/ [A2]
+- 风: wind /wɪnd/ [A1] √
+- 微风: breeze /briːz/ [B1]
+- 雨: rain /reɪn/ [A1] √
 - 小雨: light rain /laɪt reɪn/
 - 大雨: heavy rain /ˈhevi reɪn/
-- 闪电: lightning /ˈlaɪtnɪŋ/ √
-- 暴风雨: storm /stɔːm/ √
-- 雷: thunder /ˈθʌndə(r)/ √
-- 雪: snow /snəʊ/ √
-- 冰: ice /aɪs/ √
-- 泥: mud /mʌd/ √
-- 雾霾: smog /smɒɡ/
+- 闪电: lightning /ˈlaɪtnɪŋ/ [B1] √
+- 暴风雨: storm /stɔːm/ [A2] √
+- 雷: thunder /ˈθʌndə(r)/ [B1] √
+- 雪: snow /snəʊ/ [A1] √
+- 冰: ice /aɪs/ [A2] √
+- 雾霾: smog /smɒɡ/ [C1]
 - 沙尘暴: sandstorm /ˈsændstɔːm/
 - 雷阵雨: thundershower /ˈθʌndəˌʃaʊə/ 
-- 霜冻: frost /frɒst/
-- 声音: sound /saʊnd/
-- 气温: temperature /ˈtemprətʃə/
+- 霜冻: frost /frɒst/ [B2]
+- 声音: sound /saʊnd/ [A2]
+- 气温: temperature /ˈtemprətʃə/ [A2]
 - 湿度: humidity /hjuːˈmɪdəti/
-- 光: light /laɪt/
-- 电: electricity /ɪˌlekˈtrɪsəti/
-- 空气: air /eə/
+- 光: light /laɪt/ [B1]
+- 电: electricity /ɪˌlekˈtrɪsəti/ [A2]
+- 空气: air /eə/ [A2]
 - 引力: gravity /ˈɡrævəti/ √
 - 生态系统: ecosystem /ˈiːkəʊsɪstəm/
 - 磁力: magnetic force /mæɡˈnetɪk fɔːs/
 - 磁铁: magnet /ˈmæɡnət/
-- 岩石: rock /rɒk/
+- 岩石: rock /rɒk/ [B1]
 - 南极: south pole /saʊθ pəʊl/
 - 北极: north pole /nɔːθ pəʊl/
-- 液体: liquid /ˈlɪkwɪd/
+- 液体: liquid /ˈlɪkwɪd/ [B1]
 - 固体: solid /ˈsɒlɪd/
-- 气体: gas /ɡæs/
-- 烟: smoke /sməʊk/
-- 蒸汽: steam /stiːm/
-- 影子: shadow /ˈʃædəʊ/ √
+- 气体: gas /ɡæs/ [B2]
+- 烟: smoke /sməʊk/ [B1]
+- 蒸汽: steam /stiːm/ [B2]
+- 影子: shadow /ˈʃædəʊ/ [B1] √
 - 蜂巢: hive /haɪv/ √
-- 鸟巢: nest /nest/ √
+- 鸟巢: nest /nest/ [C2] √
 - 巢穴: den /den/
-- 蜘蛛网: spider web /ˈspaɪdə web/ √
-- 山峰: peak /piːk/
-- 沙漠: desert /ˈdezət/
+- 蜘蛛网: web /web/ [B1] √
+- 山峰: peak /piːk/ [B1]
+- 沙漠: desert /ˈdezət/ [A2]
 - 珊瑚礁: coral reef /ˈkɒrəl riːf/
-- 贝壳: shell /ʃel/ √
+- 贝壳: shell /ʃel/ [B2] √
 - 油田: oilfield /ˈɔɪlfiːld/
 #### 天气: the weather /ðə ˈweðə/ √ [A1]
 - 晴: sunny /ˈsʌni/ √
@@ -777,6 +776,7 @@
 #### 航天: aerospace /ˈeərəʊspeɪs/
 - 火箭: rocket /ˈrɒkɪt/ [B2] √
 - 航天飞机: space shuttle /speɪs ˈʃʌtl/
+- 人造卫星: satellite /ˈsætəlaɪt/ [B2]
 - 点火: ignition /ɪɡˈnɪʃn/
 - 起飞: lift off /ˈlɪft ɒf/
 - 发射: launch /lɔːntʃ/ [C1] √
