@@ -203,7 +203,6 @@
 - 海岸: seashore /ˈsiːʃɔː/
 - 沿海: coast /kəʊst/ [B1]
 - 海滩: beach /biːtʃ/ [A1] √
-- 草坪: lawn /lɔːn/ [C1]
 - 雪花: snowflake /ˈsnəʊfleɪk/
 - 海边: seaside /ˈsiːsaɪd/ [B1]
 - 冰山: iceberg /ˈaɪsbɜːɡ/ [C1]
@@ -322,6 +321,7 @@
 - 石头: stone /stəʊn/
 - 大理石: marble /ˈmɑːbl/
 #### 城市: the city /ðə ˈsɪti/ [A1] √
+- 草坪: lawn /lɔːn/ [C1]
 - 花坛: flower bed /ˈflaʊə bed/ √
 - 花坛沿: flower bed edge /ˈflaʊə bed edʒ/
 - 消防栓: fire hydrant /ˈfaɪə ˈhaɪdrənt/ √
