@@ -53,7 +53,7 @@
 - 邮件: mail /meɪl/ [A2]
 - 小票, 收据: receipt /rɪˈsiːt/ [A2]
 - 账单: bill /bɪl/ [A2]
-- 计划: plan /plæn/ [A2], program（美）, programme（英） /ˈprəʊɡræm/ [B2]
+- 计划: plan /plæn/ [A2], program（美）, programme（英）/ˈprəʊɡræm/ [B2]
 - 源代码: source code /sɔːs kəʊd/
 - 菜单: menu /ˈmenjuː/ [A2]
 - 应用程序: app /æp/, application /ˌæplɪˈkeɪʃn/ [B2]
@@ -305,7 +305,7 @@
 - 电: electricity /ɪˌlekˈtrɪsəti/ [A2]
   - 电池: battery /ˈbætəri/ [A2]
 #### 原材料: raw materials /rɔː məˈtɪərɪəlz/
-- 金属: metals /ˈmetlz/
+- 金属: metals /ˈmetlz/ [B1]
   - 铁: iron /ˈaɪən/
   - 钢: steel /stiːl/
   - 铜: copper /ˈkɒpə/
