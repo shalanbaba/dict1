@@ -203,8 +203,8 @@
 - 海岸: seashore /ˈsiːʃɔː/
 - 沿海: coast /kəʊst/ [B1]
 - 海滩: beach /biːtʃ/ [A1] √
-- 雪花: snowflake /ˈsnəʊfleɪk/
 - 海边: seaside /ˈsiːsaɪd/ [B1]
+- 雪花: snowflake /ˈsnəʊfleɪk/
 - 冰山: iceberg /ˈaɪsbɜːɡ/ [C1]
 - 岛屿: island /ˈaɪlənd/ [A2] √
 - 瀑布: waterfall /ˈwɔːtəfɔːl/ [B1] √
@@ -270,15 +270,15 @@
 - 贝壳: shell /ʃel/ [B2] √
 - 油田: oilfield /ˈɔɪlfiːld/
 #### 天气: the weather /ðə ˈweðə/ √ [A1]
-- 晴: sunny /ˈsʌni/ √
-- 雨: rainy /ˈreɪni/
-- 有风: windy /ˈwɪndi/
+- 晴: sunny /ˈsʌni/ [A2] √
+- 雨: rainy /ˈreɪni/ [B1]
+- 有风: windy /ˈwɪndi/ [A2]
 - 微风: breezy /ˈbriːzi/
+- 多云, 阴: cloudy /ˈklaʊdi/ [A2]
 - 局部多云: partly cloudy /ˈpɑːtli ˈklaʊdi/
 - 大部多云: mostly cloudy /ˈməʊstli ˈklaʊdi/
 - 雪: snowy /ˈsnəʊi/
-- 多云, 阴: cloudy /ˈklaʊdi/
-- 雾: foggy /ˈfɒɡi/
+- 雾: foggy /ˈfɒɡi/ [A2]
 - 雾霾: smoggy /ˈsmɒɡi/
 #### 自然灾害: natural disasters /ˈnætʃrəl dɪˈzɑːstəz/
 - 龙卷风: tornado /tɔːˈneɪdəʊ/ [B2]
@@ -296,14 +296,14 @@
 - 纯净水: purified water /ˈpjʊərɪfaɪd ˈwɔːtə/
 - 污水: waste water /weɪst ˈwɔːtə/
 #### 能源: energy /ˈenədʒi/ [B1]
-- 煤炭: coal /kəʊl/
+- 煤炭: coal /kəʊl/ [C1]
 - 木炭: charcoal /ˈtʃɑːkəʊl/
 - 石油: petroleum /pəˈtrəʊliəm/
 - 天然气: natural gas /ˈnætʃrəl ɡæs/
-- 汽油: gas /ɡæs/（美）, gasoline /ˌɡæsəˈliːn/（美）, petrol /ˈpetrəl/（英）
-- 柴油: diesel /ˈdiːzl/
-- 电: electricity /ɪˌlekˈtrɪsəti/
-  - 电池: battery /ˈbætəri/
+- 汽油: gas /ɡæs/（美）[A2], gasoline /ˌɡæsəˈliːn/（美）[B2], petrol /ˈpetrəl/（英）[A2]
+- 柴油: diesel /ˈdiːzl/ [C1]
+- 电: electricity /ɪˌlekˈtrɪsəti/ [A2]
+  - 电池: battery /ˈbætəri/ [A2]
 #### 原材料: raw materials /rɔː məˈtɪərɪəlz/
 - 金属: metals /ˈmetlz/
   - 铁: iron /ˈaɪən/
