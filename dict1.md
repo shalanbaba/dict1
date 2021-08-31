@@ -36,6 +36,7 @@
 - 书: book /bʊk/ [A1] √
 - 绘本: picture book /ˈpɪktʃə bʊk/ √
 - 漫画: comic /ˈkɒmɪk/ [A2]
+- 闪卡: flashcard /'flæʃˌkɑːd/
 - 日记: diary /ˈdaɪəri/ [A2]
 - 日志: journal /ˈdʒɜːnl/ [C2], log /lɔːɡ/
 - 网站: website /ˈwebsaɪt/ [A1]
@@ -1677,6 +1678,7 @@
 - 美人鱼: mermaid /ˈmɜːmeɪd/
 - 独角兽: unicorn /ˈjuːnɪkɔːn/
 - 怪物: monster /ˈmɒnstə/
+- 野兽: beast /biːst/
 - 神: god /ɡɒd/
 - 变形金刚: transformer /trænsˈfɔːmə/
 #### 武装部队: armed forces /ɑːmd ˈfɔːsɪz/
