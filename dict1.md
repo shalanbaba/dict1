@@ -245,7 +245,6 @@
 - 气温: temperature /ˈtemprətʃə/ [A2]
 - 湿度: humidity /hjuːˈmɪdəti/
 - 光: light /laɪt/ [B1]
-- 电: electricity /ɪˌlekˈtrɪsəti/ [A2]
 - 空气: air /eə/ [A2]
 - 引力: gravity /ˈɡrævəti/ √
 - 生态系统: ecosystem /ˈiːkəʊsɪstəm/
