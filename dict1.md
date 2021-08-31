@@ -1572,7 +1572,7 @@
 - 木偶: puppet /ˈpʌpɪt/
 - 玩偶: doll /dɒl/ [A1]
 - 迷宫: puzzle /ˈpʌzl/ [A2]
-- 积木: bricks /brɪks/（乐高）[B2] √, building blocks /ˈbɪldɪŋ blɔks/
+- 积木: building block /ˈbɪldɪŋ blɔk/
 - 风车: windmill /ˈwɪndmɪl/
 - 水枪: water gun /ˈwɔːtə ɡʌn/ √
 - 滑板车: scooter /ˈskuːtə/
