@@ -13,7 +13,8 @@
 - 护照: passport /ˈpɑːspɔːt/ [A2]
 - 签证: visa /ˈviːzə/ [B1]
 - 身份证: identity card /aɪˈdentəti kɑːd/ [B1], ID card /ˌaɪ ˈdiː kɑːd/ [A2]
-- 课本: textbook /ˈtekstbʊk/ [A2] 
+- 课本: textbook /ˈtekstbʊk/ [A2]
+- 练习册: workbook /ˈwɜːkbʊk/ [A2]
 - 字典: dictionary /ˈdɪkʃəneri/ [A1]
 - 照片: photo /ˈfəʊtəʊ/ [A1], photograph /ˈfəʊtəɡrɑːf/ [A2]
 - 图片: picture /ˈpɪktʃə/ [A1] √
