@@ -421,26 +421,25 @@
 - 电梯: elevator /ˈelɪveɪtə/（美）[A2] √, lift /lɪft/（英）[A2]
 - 扶梯: escalator /ˈeskəleɪtə/ [B2]
 #### 住宅: the house /ðə haʊs/ [A1]
-- 厕所: bathroom /ˈbɑːθruːm/
-- 餐厅: dining room /ˈdaɪnɪŋ ruːm/
-- 客厅: living room /ˈlɪvɪŋ ruːm/
-- 厨房: kitchen /ˈkɪtʃɪn/
-- 卧室: bedroom /ˈbedruːm/
-- 书房: study /ˈstʌdi/
+- 厕所: bathroom /ˈbɑːθruːm/ [A1]
+- 餐厅: dining room /ˈdaɪnɪŋ ruːm/ [A1]
+- 客厅: living room /ˈlɪvɪŋ ruːm/ [A1]
+- 厨房: kitchen /ˈkɪtʃɪn/ [A1]
+- 卧室: bedroom /ˈbedruːm/ [A1]
+- 书房: study /ˈstʌdi/ [B1]
 - 儿童房: childrenˈs room /ˈtʃɪldrənz ruːm/
-- 阳台: balcony /ˈbælkəni/
+- 阳台: balcony /ˈbælkəni/ [B1]
 - 储藏室: storeroom /ˈstɔːruːm/
 - 玄关: hallway /ˈhɔːlweɪ/
-- 地窖: cellar /ˈselə/
+- 地窖: cellar /ˈselə/ [B2]
 - 淋浴房: shower room /ˈʃaʊə ruːm/
-- 院子: yard /jɑːd/
-- 花园: garden /ˈɡɑːdn/
-- 后院: backyard /bækˈjɑːd/
-- 烟囱: chimney /ˈtʃɪmni/
-- 楼梯: stairs /steəz/
-- 壁炉: fireplace /ˈfaɪəpleɪs/
+- 院子: yard /jɑːd/ [A2]
+- 花园: garden /ˈɡɑːdn/ [A1]
+- 烟囱: chimney /ˈtʃɪmni/ [B2]
+- 楼梯: stairs /steəz/ [A2]
+- 壁炉: fireplace /ˈfaɪəpleɪs/ [C2]
 - 地板或屋顶上的门: trap door /træp dɔː/ [ORT5]
-- 窗: window /ˈwɪndəʊ/
+- 窗: window /ˈwɪndəʊ/ [A1]
 - 纱窗: window screen /ˈwɪndəʊ skriːn/
 - 纱门: screen door /skriːn dɔː/
 - 窗帘: curtain /ˈkɜːtn/
