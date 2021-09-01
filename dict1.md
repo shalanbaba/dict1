@@ -440,7 +440,7 @@
 - 壁炉: fireplace /ˈfaɪəpleɪs/ [C2]
 - 地板或屋顶上的门: trap door /træp dɔː/ [ORT5]
 - 窗: window /ˈwɪndəʊ/ [A1]
-- 纱窗: window screen /ˈwɪndəʊ skriːn/
+- 纱窗: screen window /skriːn ˈwɪndəʊ/
 - 纱门: screen door /skriːn dɔː/
 - 窗帘: curtain /ˈkɜːtn/
 - 墙纸: wallpaper /ˈwɔːlpeɪpə/
