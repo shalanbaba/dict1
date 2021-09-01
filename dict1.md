@@ -306,19 +306,19 @@
   - 电池: battery /ˈbætəri/ [A2]
 #### 原材料: raw materials /rɔː məˈtɪərɪəlz/
 - 金属: metals /ˈmetlz/ [B1]
-  - 铁: iron /ˈaɪən/
-  - 钢: steel /stiːl/
-  - 铜: copper /ˈkɒpə/
+  - 铁: iron /ˈaɪən/ [B1]
+  - 钢: steel /stiːl/ [B2]
+  - 铜: copper /ˈkɒpə/ [B2]
   - 不锈钢: stainless steel /ˈsteɪnləs stiːl/
-- 塑料: plastic /ˈplæstɪk/
-- 木: wood /wʊd/
-- 羊毛: wool /wʊl/
+- 塑料: plastic /ˈplæstɪk/ [A2]
+- 木: wood /wʊd/ [A2]
+- 羊毛: wool /wʊl/ [A2]
 - 羊绒: cashmere /ˈkæʃmɪə/
 - 瓷: porcelain /ˈpɔːsəlɪn/
 - 陶: pottery /ˈpɒtəri/
-- 棉: cotton /ˈkɒtn/
-- 玻璃: glass /ɡlɑːs/
-- 石头: stone /stəʊn/
+- 棉: cotton /ˈkɒtn/ [B1]
+- 玻璃: glass /ɡlɑːs/ [A1]
+- 石头: stone /stəʊn/ [B1]
 - 大理石: marble /ˈmɑːbl/
 #### 城市: the city /ðə ˈsɪti/ [A1] √
 - 草坪: lawn /lɔːn/ [C1]
@@ -331,69 +331,69 @@
 - 坝: dam /dæm/
 - 堰: weir /wɪə/ [ORT5]
 - 地铁站: metro station /ˈmetrəʊ ˈsteɪʃn/ √
-- 面包店: bakery /ˈbeɪkəri/ √
-- 咖啡馆: cafe /ˈkæfeɪ/ √
+- 面包店: bakery /ˈbeɪkəri/ [B2] √
+- 咖啡馆: cafe /ˈkæfeɪ/ [A1], coffee shop /ˈkɒfi ʃɒp/ [A1] √
 - 商场: shopping mall /ˈʃɒpɪŋ mɔːl/ √, mall /mɔːl/ √
-- 电影院: camera /ˈkæmrə/
-- 市场: market /ˈmɑːkɪt/ √, mart /mɑːt/
-- 超市: supermarket /ˈsuːpəmɑːkɪt/
-- 停车场: parking lot /ˈpɑːkɪŋ lɒt/ √
+- 电影院: camera /ˈkæmrə/ [A1]
+- 市场: market /ˈmɑːkɪt/ [A2] √, mart /mɑːt/
+- 超市: supermarket /ˈsuːpəmɑːkɪt/ [A1]
+- 停车场: parking lot /ˈpɑːkɪŋ lɒt/ [A2] √
 - 停车位: parking stall /ˈpɑːkɪŋ stɔːl/ √
-- 车库, 修车店: garage /ˈɡærɑːʒ/ √
-- 图书馆: library /ˈlaɪbrəri/ √
-- 博物院: museum /mjuˈziːəm/
-- 学校: school /skuːl/ √
-- 托儿所: nursery /ˈnɜːsəri/
+- 车库: garage /ˈɡærɑːʒ/ [A2] √
+- 修车店: garage /ˈɡærɑːʒ/ [B1] √
+- 图书馆: library /ˈlaɪbrəri/ [A2] √
+- 博物院: museum /mjuˈziːəm/ [A1]
+- 学校: school /skuːl/ [A1] √
+- 托儿所: nursery /ˈnɜːsəri/ [B2]
 - 幼儿园: kindergarten /ˈkɪndəɡɑːtn/ √
-- 小学: primary school /ˈpraɪməri skuːl/
+- 小学: primary school /ˈpraɪməri skuːl/ [B1]
 - 初中: junior high school /ˈdʒuːniə haɪ skuːl/
 - 高中: senior high school /ˈsiːniə haɪ skuːl/
-- 大学: university /ˌjuːnɪˈvɜːsəti/
-- 学院: college /ˈkɒlɪdʒ/
-- 教室: classroom /ˈklɑːsruːm/
+- 大学: university /ˌjuːnɪˈvɜːsəti/ [A1]
+- 学院: college /ˈkɒlɪdʒ/ [A2]
+- 教室: classroom /ˈklɑːsruːm/ [A1]
 - 公寓: apartment /əˈpɑːtmənt/ [A2]
 - 岗亭: sentry box /ˈsentri bɒks/
 - 便利店: convenience store /kənˈviːniəns stɔː/
-- 银行: bank /bæŋk/
-- 旅馆: hotel /həʊˈtel/ √
+- 银行: bank /bæŋk/ [A1]
+- 旅馆: hotel /həʊˈtel/ [A1] √
 - 汽车旅馆: motel /məʊˈtel/
-- 餐厅: restaurant /ˈrestrɒnt/ √
-- 广场: plaza /ˈplɑːzə/, square /skweə/
+- 餐厅: restaurant /ˈrestrɒnt/ [A1] √
+- 广场: plaza /ˈplɑːzə/, square /skweə/ [A2]
 - 办公楼: office building /ˈɒfɪs ˈbɪldɪŋ/
-- 电影院: cinema /ˈsɪnəmə/
+- 电影院: cinema /ˈsɪnəmə/ [A1]
 - 家庭旅馆: guesthouse /ˈɡesthaʊs/
-- 酒吧: bar /bɑː/
+- 酒吧: bar /bɑː/ [A1]
 - 宠物店: pet shop /pet ʃɒp/
-- 书店: bookstore /ˈbʊkˌstɔː/
-- 游泳池: swimming pool /ˈswɪmɪŋ puːl/
-- 体育场: stadium /ˈsteɪdiəm/
-- 健身房: gym /dʒɪm/
+- 书店: bookstore /ˈbʊkˌstɔː/ [A1]
+- 游泳池: swimming pool /ˈswɪmɪŋ puːl/ [A1]
+- 体育场: stadium /ˈsteɪdiəm/ [A2]
+- 健身房: gym /dʒɪm/ [B1]
 - 植物园: botanical garden /bəˌtænɪkl ˈɡɑːdn/
-- 港口: harbor /ˈhɑ:bə/
+- 港口: harbor /ˈhɑ:bə/ [B1]
 - 火车站: railway station /ˈreɪlweɪ ˈsteɪʃn/
-- 药店: pharmacy /ˈfɑːməsi/
-- 医院: hospital /ˈhɒspɪtl/ √
+- 药店: pharmacy /ˈfɑːməsi/ [B1]
+- 医院: hospital /ˈhɒspɪtl/ [A1] √
 - 牙医诊所: dental clinic /ˈdentl ˈklɪnɪk/ √
 - 网球场: tennis court /ˈtenɪs kɔːt/
 - 篮球场: basketball court /ˈbɑːskɪtbɔːl kɔːt/
-- 足球场: football court /ˈfʊtbɔːl kɔːt/
-- 操场: playground ˈpleɪɡraʊnd
-- 田径场: track-and-field ground /træk ənd fiːld ɡraʊnd/
+- 足球场: football field /ˈfʊtbɔːl fiːld/
+- 操场: playground /ˈpleɪɡraʊnd/ [A2]
 - 跑道: racetrack /ˈreɪstræk/
-- 库房: shed /ʃed/
+- 库房: shed /ʃed/ [B2]
 - 地下车库: underground garage /ˌʌndəˈɡraʊnd ˈɡærɑːʒ/
-- 城堡: castle /ˈkɑːsl/
-- 寺庙: temple /ˈtempl/
-- 宫殿: palace /ˈpæləs/
-- 公园: park /pɑːk/ √
-- 工厂: factory /ˈfæktri/
-- 商店: shop /ʃɒp/, store /stɔː/
+- 城堡: castle /ˈkɑːsl/ [A2]
+- 寺庙: temple /ˈtempl/ [B1]
+- 宫殿: palace /ˈpæləs/ [B1]
+- 公园: park /pɑːk/ [A1] √
+- 工厂: factory /ˈfæktri/ [A1]
+- 商店: shop /ʃɒp/ [A2], store /stɔː/ [B1]
 - 垃圾房: garbage room /ˈɡɑːbɪdʒ ruːm/
-- 垃圾场: dump /dʌmp/
+- 垃圾场: dump /dʌmp/ [C1]
 - 变电站: transformer substation /trænsˈfɔːmə ˈsʌbsteɪʃn/
 - 亭子: pavilion /pəˈvɪliən/
-- 加油站: gas station /ˈɡæs steɪʃn/
-- 厕所: toilet /ˈtɔɪlət/ √
+- 加油站: gas station /ˈɡæs steɪʃn/ [A2]
+- 厕所: toilet /ˈtɔɪlət/ [A1] √
 - 售票处: ticket office /ˈtɪkɪt ˈɒfɪs/
 - 检票口: ticket gate /ˈtɪkɪt ɡeɪt/
 - 站台: platform /ˈplætfɔːm/ [A2]
@@ -405,20 +405,19 @@
 - 理发店: barber shop /ˈbɑːbə ʃɒp/, hair salon /heə ˈsælɒn/
 - 肉铺: butcher shop /ˈbʊtʃə ʃɒp/
 - 水果店: fruit shop /fruːt ʃɒp/
-- 杂货店: grocery /ˈɡrəʊsəri/
+- 杂货店: grocery /ˈɡrəʊsəri/, grocery store /ˈɡrəʊsəri stɔː/ [A2]
 - 冰屋: igloo /ˈɪɡluː/
-- 剧场: theater /ˈθɪətə(r)/
-- 电影院: cinima /ˈsɪnəmə/
-- 教堂: church /tʃɜːtʃ/
+- 剧场: theater /ˈθɪətə(r)/ [A2]
+- 教堂: church /tʃɜːtʃ/ [A2]
 - 市政厅: town hall /ˌtaʊn ˈhɔːl/ 
 - 洗衣店: laundry /ˈlɔːndri/
 - 免税店: duty free store /ˌduːti ˈfriː stɔː/
-- 桥: bridge /brɪdʒ/ √
-- 塔: tower /ˈtaʊə/
+- 桥: bridge /brɪdʒ/ [A2] √
+- 塔: tower /ˈtaʊə/ [B1]
 - 溜冰场: ice rink /ˈaɪs rɪŋk/
-- 动物园: zoo /zuː/ √
+- 动物园: zoo /zuː/ [A1] √
 - 电线杆: wire pole /ˈwaɪə pəʊl/
-- 雕像: statue /ˈstætʃuː/
+- 雕像: statue /ˈstætʃuː/ [B1]
 - 电梯: elevator /ˈelɪveɪtə/（美）[A2] √, lift /lɪft/（英）[A2]
 - 扶梯: escalator /ˈeskəleɪtə/ [B2]
 #### 住宅: the house /ðə haʊs/ [A1]
