@@ -442,25 +442,26 @@
 - 窗: window /ˈwɪndəʊ/ [A1]
 - 纱窗: screen window /skriːn ˈwɪndəʊ/
 - 纱门: screen door /skriːn dɔː/
-- 窗帘: curtain /ˈkɜːtn/
+- 窗帘: curtain /ˈkɜːtn/ [A2]
 - 墙纸: wallpaper /ˈwɔːlpeɪpə/
 - 天窗: skylight /ˈskaɪlaɪt/
-- 水槽: sink /sɪŋk/
+- 水槽: sink /sɪŋk/ [A2]
 - 浴缸: tub /tʌb/
 - 栏杆: railing /ˈreɪlɪŋ/
 - 扶手: handrail /ˈhændreɪl/
-- 一楼: ground floor /ɡraʊnd flɔː/（英）, first floor /fɜːst flɔː/（美）
+- 一楼: ground floor /ɡraʊnd flɔː/（英）[B1], first floor /fɜːst flɔː/（美）[B1]
 - 地下一楼: basement level 1 /ˈbeɪsmənt ˈlevl wʌn/, basement first floor /ˈbeɪsmənt fɜːst flɔː/
 - 天台: rooftop /ˈruːftɒp/
-- 地下室: basement /ˈbeɪsmənt/
-- 大门: gate /ɡeɪt/
-- 大堂: lobby /ˈlɒbi/
-- 地面: floor /flɔː/
-- 屋顶: roof /ruːf/
-- 天花板: ceiling /ˈsiːlɪŋ/
-- 墙壁: wall /wɔːl/
-- 地毯: carpet /ˈkɑːpɪt/, rug /rʌɡ/
-- 花瓶: vase /veɪs/
+- 地下室: basement /ˈbeɪsmənt/ [B2]
+- 大门: gate /ɡeɪt/ [A2]
+- 大堂: lobby /ˈlɒbi/ [B2]
+- 地面: floor /flɔː/ [A1]
+- 屋顶: roof /ruːf/ [A2]
+- 天花板: ceiling /ˈsiːlɪŋ/ [A2]
+- 墙壁: wall /wɔːl/ [A1]
+- 地毯: carpet /ˈkɑːpɪt/ [A2], rug /rʌɡ/ [B1]
+- 花瓶: vase /veɪs/ [B1]
+- 镜子: mirror /ˈmɪrə/ [A2]
 #### 游乐场: the playground /ðə ˈpleɪɡraʊnd/ [A2] √
 - 摩天轮: ferris wheel /ferɪs wiːl/
 - 旋转木马: carousel /ˌkærəˈsel/
@@ -471,12 +472,12 @@
 #### 农场: the farm /ðə fɑːm/ [A1] √
 - 猪圈: pigpen /pɪɡpen/
 - 干草: hay /heɪ/
-- 马厩: stable /ˈsteɪbl/
-- 村舍: cottage /ˈkɒtɪdʒ/
-- 小屋: cabin /ˈkæbɪn/, hut /hʌt/
-- 牲口房: barn /bɑːn/
+- 马厩: stable /ˈsteɪbl/ [C2]
+- 村舍: cottage /ˈkɒtɪdʒ/ [B1]
+- 小屋: cabin /ˈkæbɪn/, hut /hʌt/ [B1]
+- 牲口房: barn /bɑːn/ [C2]
 - 果园: orchard /ˈɔːtʃəd/
-- 围栏, 篱笆: fence /fens/ √
+- 围栏, 篱笆: fence /fens/ [B2] √
 #### 建材: construction materials /kənˈstrʌkʃn məˈtɪərɪəlz/
 - 水泥: cement /sɪˈment/
 - 混凝土: concrete /ˈkɒŋkriːt/ [B2] √
@@ -488,37 +489,35 @@
 - 水管: water pipe /ˈwɔːtə paɪp/
 #### 灯: the light /ðə laɪt/ [A2]
 - 灯泡: bulb /bʌlb/ [B2]
-- 台灯: lamp /læmp/
+- 台灯: lamp /læmp/ [A2]
 - 路灯: street light /striːt laɪt/
-- 手电筒: flashlight /ˈflæʃlaɪt/（美）√, torch /tɔːtʃ/（英）√
+- 手电筒: flashlight /ˈflæʃlaɪt/（美）[B2] √, torch /tɔːtʃ/（英）[B2] √
 - 灯笼: lantern /ˈlæntən/ √
 #### 家具: furniture /ˈfɜːnɪtʃə/ [A2]
 - 高脚椅: highchair /ˌhaɪˈtʃeə/
-- 椅子: chair /tʃeə/ √
-- 桌子: desk /desk/ √
-- 橱柜: cupboard /ˈkʌbəd/ √
+- 椅子: chair /tʃeə/ [A1] √
+- 书桌: desk /desk/ [A1] √
+- 桌子: table /ˈteɪbl/ [A1] √
+- 橱柜: cupboard /ˈkʌbəd/ [A2] √
 - 床垫: mattress /ˈmætrəs/
 - 餐桌: dining table /ˈdaɪnɪŋ ˈteɪbl/
-- 桌子: table /ˈteɪbl/ √
-- 书架: bookshelf /ˈbʊkʃelf/ √
-- 书桌: desk /desk/
-- 凳子: stool /stuːl/
+- 书架: bookshelf /ˈbʊkʃelf/ [A2] √
+- 凳子: stool /stuːl/ [B2]
 - 鞋架: shoe rack /ʃuː ræk/
-- 柜子: cabinet /ˈkæbɪnət/
+- 柜子: cabinet /ˈkæbɪnət/ [A2]
 - 床头柜: bedside table /ˈbedsaɪd ˈteɪbl/
-- 沙发: sofa /ˈsəʊfə/
-- 床: bed /bed/ √
-- 架子: shelf /ʃelf/
-- 衣柜: wardrobe /ˈwɔːdrəʊb/ √
-- 梳妆台: dresser /ˈdresə/
-- 抽屉: drawer /drɔ:r/
-- 镜子: mirror /ˈmɪrə/
+- 沙发: sofa /ˈsəʊfə/ [A2]
+- 床: bed /bed/ [A1] √
+- 架子: shelf /ʃelf/ [A2]
+- 衣柜: wardrobe /ˈwɔːdrəʊb/ [B1] √
+- 梳妆台: dresser /ˈdresə/ [A2]
+- 抽屉: drawer /drɔ:r/ [A2]
 #### 床上用品: bedding /ˈbedɪŋ/
-- 床单: sheet /ʃiːt/
-- 枕头: pillow /ˈpɪləʊ/
+- 床单: sheet /ʃiːt/ [B1]
+- 枕头: pillow /ˈpɪləʊ/ [A2]
 - 被子: quilt /kwɪlt/
-- 毯子: blanket /blanket/
-- 靠垫: cushion /ˈkʊʃn/
+- 毯子: blanket /blanket/ [A2]
+- 靠垫: cushion /ˈkʊʃn/ [B1]
 #### 清洁用品: cleaning supplies /ˈkliːnɪŋ səˈplaɪz/
 - 扫帚: broom /bruːm/
 - 簸箕: dustpan /ˈdʌstpæn/
