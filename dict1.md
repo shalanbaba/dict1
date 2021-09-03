@@ -643,7 +643,7 @@
 - 开关: switch /swɪtʃ/ [B1]
 - 插座: socket /ˈsɒkɪt/
 - 插线板: power strip /ˈpaʊə strɪp/
-- 闸机: barrier /ˈbæriə/ [B2]
+- 闸机: barrier /ˈbæriə/ [B2], turnstile /ˈtɜːnstaɪl/
 #### 机器: machines /məˈʃiːnz/ [A2]
 - 挖掘机: digger /ˈdɪɡə/
 - 混凝土搅拌车: concrete mixer /ˈkɒŋkriːt ˈmɪksə/
@@ -661,34 +661,34 @@
 - 锄头: hoe /həʊ/
 - 软管: hose /həʊz/
 - 犁: plow /plaʊ/
-- 铁锹: spade /speɪd/
-- 铁铲: shovel /ˈʃʌvl/ √
+- 铁锹: spade /speɪd/ [C2]
+- 铁铲: shovel /ˈʃʌvl/ [C2] √
 - 螺丝刀: screwdriver /ˈskruːdraɪvə/
 - 锤子: hammer /ˈhæmə/ [B2] √
-- 杆子: pole /pəʊl/
-- 棍子: stick /stɪk/ √
+- 杆子: pole /pəʊl/ [C2]
+- 棍子: stick /stɪk/ [B1] √
 - 脚手架: scaffold /ˈskæfəʊld/
 - 灭火器: fire extinguisher /ˈfaɪə ɪkˈstɪŋɡwɪʃə/
 #### 文具: stationery /ˈsteɪʃəneri/
-- 信封: envelope /ˈenvələʊp/
-- 橡皮: eraser /ɪˈreɪzə/
+- 信封: envelope /ˈenvələʊp/ [A2]
+- 橡皮: eraser /ɪˈreɪzə/ [A1], rubber /ˈrʌbə/ [A2]
 - 算盘: abacus /ˈæbəkəs/
 - 剪刀: scissors /ˈsɪzəz/ [A2]
-- 墨水: ink /ɪŋk/
-- 纸: paper /ˈpeɪpə/
-- 颜料: paints /peɪnts/
-  - 水彩: watercolor /ˈwɔ:təkʌlə/
+- 墨水: ink /ɪŋk/ [B1]
+- 纸: paper /ˈpeɪpə/ [A1]
+- 颜料: paint /peɪnt/ [A1]
+- 水彩: watercolor /ˈwɔ:təkʌlə/
 - 蜡笔: crayon /ˈkreɪɒn/ √
 - 粉笔: chalk /tʃɔːk/
 - 彩色铅笔: colored pencil /ˈkʌləd ˈpensl/
 - 水彩笔: colored marker /ˈkʌləd ˈmɑːkə/
 - 圆珠笔: ballpoint pen /ˈbɔːlpɔɪnt pen/
-- 笔: pen /pen/
+- 笔: pen /pen/ [A1]
 - 钢笔: fountain pen /ˈfaʊntən pen/
 - 地球仪: globe /ɡləʊb/
 - 黑板: chalkboard /ˈtʃɔːkbɔːd/, blackboard /ˈblækbɔːd/
 - 白板: whiteboard /ˈwaɪtbɔːd/
-- 胶水: glue /ɡluː/ √
+- 胶水: glue /ɡluː/ [C2] √
 - 胶带: tape /teɪp/
 - 放大镜: magnifying glass /mægnɪfaɪɪŋ ɡlɑːs/
 #### 交通: transportation /ˌtrænspɔːˈteɪʃn/ [C1]
