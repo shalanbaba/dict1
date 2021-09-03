@@ -1091,7 +1091,6 @@
 - 孙女, 外孙女: granddaughter /ˈɡrændɔːtə/ [A2]
 - 双胞胎: twins /twɪnz/ [B1]
 - 朋友: friend /frend/ [A1]
-- 笔友: pen pal /pen pæl/ [A2]
 - 同学: classmate /ˈklɑːsmeɪt/ [A2]
 - 同事: colleague /ˈkɒliːɡ/ [A2]
 - 邻居: neighbour（英）, neighbor（美）/ˈneɪbə/ [A2]
