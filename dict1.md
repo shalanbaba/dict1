@@ -692,19 +692,18 @@
 - 胶带: tape /teɪp/
 - 放大镜: magnifying glass /mægnɪfaɪɪŋ ɡlɑːs/
 #### 交通: transportation /ˌtrænspɔːˈteɪʃn/ [C1]
-- 入口: entrance /ˈentrəns/ √
-- 出口: exit /ˈeksɪt/ √
-- 公园: park /pɑːk/ √
+- 入口: entrance /ˈentrəns/ [A2] √
+- 出口: exit /ˈeksɪt/ [A2] √
 - 码头: pier /pɪə/
-- 机场: airport /ˈeəpɔːt/ √
-- 公共交通: public transportation /ˈpʌblɪk ˌtrænspɔːˈteɪʃn/
+- 机场: airport /ˈeəpɔːt/ [A2] √
+- 公共交通: public transportation /ˈpʌblɪk ˌtrænspɔːˈteɪʃn/ [B1]
 - 轨道交通: metro /ˈmetrəʊ/
-- 距离: distance /ˈdɪstəns/
-- 公交车站: bus stop /bʌs stɒp/ √
-- 人行道: sidewalk /ˈsaɪdwɔːk/（美）, pavement /ˈpeɪvmənt/（英）
+- 距离: distance /ˈdɪstəns/ [B1]
+- 公交车站: bus stop /bʌs stɒp/ [A2] √
+- 人行道: sidewalk /ˈsaɪdwɔːk/（美）[B1], pavement /ˈpeɪvmənt/（英）[B1]
 - 路锥: traffic cone /ˈtræfɪk kəʊn/ √
 - 井盖: manhole cover /ˈmænhəʊl ˈkʌvə/
-- 交通信号灯: traffic light /ˈtræfɪk laɪt/
+- 交通信号灯: traffic light /ˈtræfɪk laɪt/ [A2]
 - 路障: roadblock /ˈrəʊdblɒk/
 - 护栏: guardrail /ˈɡɑːdreɪl/
 - 路桩: bollard /ˈbɒlɑːd/
@@ -715,14 +714,13 @@
 - 路口: intersection /ˌɪntəˈsekʃn/
 - 天桥: overpass /ˈəʊvəpɑːs/
 - 斑马线: zebra crossing /ˈzebrə ˈkrɒsɪŋ/
-- 公路: highway /ˈhaɪweɪ/
+- 公路: highway /ˈhaɪweɪ/ [A2]
 - 高速: expressway /ɪkˈspresweɪ/, freeway /ˈfriːweɪ/（美）
 - 高架: elevated road /ˈelɪveɪtɪd rəʊd/
 - 内环: inner ring /ˈɪnə rɪŋ/
 - 中环: middle ring /ˈmɪdl rɪŋ/
 - 外环: outer ring /ˈaʊtə rɪŋ/
-- 支路: branch road /bræntʃ rəʊd/
-- 巷: lane /leɪn/
+- 巷: lane /leɪn/ [B2]
 - 弄: alley /ˈæli/
 - 大道: avenue /ˈævənjuː/ [C1] √
 - 环路: circle /ˈsɜːkl/
