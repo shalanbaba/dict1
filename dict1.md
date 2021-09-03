@@ -585,7 +585,7 @@
 #### 容器 : containers /kənˈteɪnəz/ [B2]
 - 瓶: bottle /ˈbɒtl/ [A2]
 - 罐头: can /kæn/ [A2], tin /tɪn/ [B1]
-- 罐: jar /dʒɑː/
+- 罐: jar /dʒɑː/ [B1]
 - 保温杯: vacuum flask /ˈvækjuːm flɑːsk/
 - 篮子: basket /ˈbɑːskɪt/ [B1]
 - 桶: bucket /ˈbʌkɪt/ [B1]
@@ -605,12 +605,12 @@
 - 天线: antenna /ænˈtenə/
 #### 电器和电子产品: appliances and electronics /əˈplaɪənsɪz ənd ɪˌlekˈtrɒnɪks/
 - 净水器: water purifier /ˈwɔːtə ˈpjʊərɪfaɪə/
-- 秤: scale /skeɪl/
-- 钟: clock /klɒk/
-- 表: watch /wɒtʃ/
-- 遥控器: remote control /rɪˈməʊt kənˈtrəʊl/
+- 秤: scale /skeɪl/ [B2]
+- 钟: clock /klɒk/ [A1]
+- 表: watch /wɒtʃ/ [A1]
+- 遥控器: remote control /rɪˈməʊt kənˈtrəʊl/ [B1]
 - 摄像机: camcorder /ˈkæmkɔːdə/
-- 电视机: television /ˈtelɪvɪʒn/ √
+- 电视机: television /ˈtelɪvɪʒn/ [A1] √
 - 冰箱: fridge /frɪdʒ/, refrigerator /rɪˈfrɪdʒəreɪtə/
 - 烤箱: oven /ˈʌvn/
 - 微波炉: microwave /ˈmaɪkrəweɪv/
