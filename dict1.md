@@ -524,45 +524,45 @@
 - 海绵: sponge /spʌndʒ/
 - 垃圾桶: waste bin /weɪst bɪn/
 - 拖把: mop /mɒp/
-- 刷子: brush /brʌʃ/
+- 刷子: brush /brʌʃ/ [A2]
 - 晾衣架: drying rack /ˈdraɪɪŋ ræk/
 - 衣架: coat hanger /kəʊt hanger/
 - 夹子: peg /peɡ/
 - 洗衣液: laundry detergent /ˈlɔːndri dɪˈtɜːdʒənt/
 - 洗衣粉: washing powder /ˈwɒʃɪŋ ˈpaʊdə/
-- 肥皂: soap /səʊp/
+- 肥皂: soap /səʊp/ [A2]
 #### 个人护理用品: personal care products /ˈpɜːsənl keə ˈprɒdʌkts/
-- 梳子: comb /kəʊm/
+- 梳子: comb /kəʊm/ [A2]
 - 指甲钳: nail clipper /neɪl ˈklɪpə/
 - 牙线: flosser /fˈlɒsər/
-- 牙刷: toothbrush /ˈtuːθbrʌʃ/
-- 牙膏: toothpaste /ˈtuːθpeɪst/
-- 毛巾: towel /ˈtaʊəl/
+- 牙刷: toothbrush /ˈtuːθbrʌʃ/ [A2]
+- 牙膏: toothpaste /ˈtuːθpeɪst/ [B1]
+- 毛巾: towel /ˈtaʊəl/ [A2]
 - 浴巾: bath towel /bɑːθ ˈtaʊəl/
 - 脸盆: washbasin /ˈwɒʃbeɪsn/
 - 牙签: toothpick /ˈtuːθpɪk/
 - 洗手液: hand sanitizer /hænd ˈsænɪtaɪzə/, liquid hand soap /ˈlɪkwɪd hænd səʊp/
-- 洗发水: shampoo /ʃæmˈpuː/
+- 洗发水: shampoo /ʃæmˈpuː/ [A2]
 - 护发素: hair conditioner /heə kənˈdɪʃənə/
 - 沐浴露: body wash /ˈbɒdi wɒʃ/
 - 身体乳: body lotion /ˈbɒdi ˈləʊʃn/
 - 漱口水: mouthwash /ˈmaʊθwɒʃ/
 - 护手霜: hand lotion /hænd ˈləʊʃn/
-- 纸巾: tissue /ˈtɪʃuː/
-- 餐巾: napkin /ˈnæpkɪn/
+- 纸巾: tissue /ˈtɪʃuː/ [B1]
+- 餐巾: napkin /ˈnæpkɪn/ [B2]
 - 尿布: diaper /ˈdaɪpə/ √
 - 防晒霜: sunscreen /ˈsʌnskriːn/
-- 扇子: fan /fæn/
+- 扇子: fan /fæn/ [B1]
 #### 化妆品: cosmetics /kɒzˈmetɪks/
 - 口红: lipstick /ˈlɪpstɪk/
 #### 厨具: cooking utensils /ˈkʊkɪŋ juːˈtenslz/
 - 火锅: hotpot /ˈhɒtpɒt/ √
-- 锅: pot /pɒt/（深）
-- 锅盖: lid /lɪd/
+- 锅: pot /pɒt/ [B1]
+- 锅盖: lid /lɪd/ [B2]
 - 炒锅: wok /wɒk/
-- 煎锅: frying pan /ˈfraɪɪŋ pæn/
+- 煎锅: frying pan /ˈfraɪɪŋ pæn/ [B1]
 - 烤盘: oven dish /ˈʌvn dɪʃ/
-- 水壶: kettle /ˈketl/
+- 水壶: kettle /ˈketl/ [B1]
 - 燃气灶: gas stove /ɡæs stəʊv/
 - 搅拌机: blender /ˈblendə/
 - 砧板: cutting board /ˈkʌtɪŋ bɔːd/
@@ -570,26 +570,26 @@
 - 水果刀: fruit knife /fruːt naɪf/
 - 削皮刀: peeler /ˈpiːlə/
 #### 餐具: tableware /ˈteɪblweə/
-- 碟: dish /dɪʃ/
-- 盘: plate /pleɪt/
-- 碗: bowl /bəʊl/
-- 勺: spoon /spuːn/（浅）√, scoop /skuːp/（深）
-- 刀: knife /naɪf/
-- 叉: fork /fɔːk/ √
+- 碟: dish /dɪʃ/ [A2]
+- 盘: plate /pleɪt/ [A1]
+- 碗: bowl /bəʊl/ [A2]
+- 勺: spoon /spuːn/（浅）[A2] √, scoop /skuːp/（深）
+- 刀: knife /naɪf/ [A1]
+- 叉: fork /fɔːk/ [A2] √
 - 筷子: chopsticks /ˈtʃɒpstɪks/ √
-- 杯: cup /kʌp/
-- 马克杯: mug /mʌɡ/
+- 杯: cup /kʌp/ [A1]
+- 马克杯: mug /mʌɡ/ [A2]
 - 茶壶: teapot /ˈtiːpɒt/
-- 玻璃杯: glass /ɡlɑːs/
+- 玻璃杯: glass /ɡlɑːs/ [A1]
 - 高脚杯: goblet /ˈɡɒblət/
 #### 容器 : containers /kənˈteɪnəz/ [B2]
-- 瓶: bottle /ˈbɒtl/
-- 罐头: can /kæn,/ tin /tɪn/
+- 瓶: bottle /ˈbɒtl/ [A2]
+- 罐头: can /kæn/ [A2], tin /tɪn/ [B1]
 - 罐: jar /dʒɑː/
 - 保温杯: vacuum flask /ˈvækjuːm flɑːsk/
-- 篮子: basket /ˈbɑːskɪt/
-- 桶: bucket /ˈbʌkɪt/
-- 盒子: box /bɒks/
+- 篮子: basket /ˈbɑːskɪt/ [B1]
+- 桶: bucket /ˈbʌkɪt/ [B1]
+- 盒子: box /bɒks/ [A1]
 - 储物箱: storage box /ˈstɔːrɪdʒ bɒks/
 #### 宠物用品: pet supplies /pet səˈplaɪz/
 - 狗绳: dog leash /dɔːɡ liːʃ/
