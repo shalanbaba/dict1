@@ -611,39 +611,39 @@
 - 遥控器: remote control /rɪˈməʊt kənˈtrəʊl/ [B1]
 - 摄像机: camcorder /ˈkæmkɔːdə/
 - 电视机: television /ˈtelɪvɪʒn/ [A1] √
-- 冰箱: fridge /frɪdʒ/, refrigerator /rɪˈfrɪdʒəreɪtə/
-- 烤箱: oven /ˈʌvn/
+- 冰箱: fridge /frɪdʒ/ [A2], refrigerator /rɪˈfrɪdʒəreɪtə/ [A1]
+- 烤箱: oven /ˈʌvn/ [B1]
 - 微波炉: microwave /ˈmaɪkrəweɪv/
-- 洗碗机: dishwasher /ˈdɪʃwɔːʃə/
+- 洗碗机: dishwasher /ˈdɪʃwɔːʃə/ [B1]
 - 烘干机: dryer /ˈdraɪə/
-- 电吹风: hair dryer /heə ˈdraɪə/
+- 电吹风: hair dryer /heə ˈdraɪə/ [B1]
 - 电饭煲: rice cooker /raɪs ˈkʊkə/
 - 电水壶: electric kettle /ɪˈlektrɪk ˈketl/
-- 电风扇: fan /fæn/ √
-- 显示器: monitor /ˈmɒnɪtə/
+- 电风扇: fan /fæn/ [B1] √
+- 显示器: monitor /ˈmɒnɪtə/ [B2]
 - 消毒柜: sterilizer /ˈsterəlaɪzə/
 - 油烟机: range hood /reɪndʒ hʊd/
 - 燃气灶: gas stove /ɡæs stəʊv/
-- 电脑: computer /kəmˈpjuːtə/
-- 手机: cell phones /sel fəʊn/
+- 电脑: computer /kəmˈpjuːtə/ [A1]
+- 手机: cell phone /sel fəʊn/ [A1]
 - 平板电脑: pad /pæd/
-- 笔记本电脑: laptop /ˈlæptɒp/
-- 台式机: desktop /ˈdesktɒp/
-- 扬声器: speaker /ˈspiːkə/
-- 计算器: calculator /ˈkælkjuleɪtə/
-- 键盘: keyboard /ˈkiːbɔːd/
-- 鼠标: mouse /maʊs/
+- 笔记本电脑: laptop /ˈlæptɒp/ [A2]
+- 台式机: desktop /ˈdesktɒp/ [B2]
+- 扬声器: speaker /ˈspiːkə/ [A2]
+- 计算器: calculator /ˈkælkjuleɪtə/ [B1]
+- 键盘: keyboard /ˈkiːbɔːd/ [A2]
+- 鼠标: mouse /maʊs/ [A2]
 - 电蚊拍: mosquito swatter /məˈskiːtəʊ ˈswɒtə/
-- 话筒: microphone /ˈmaɪkrəfəʊn/
+- 话筒: microphone /ˈmaɪkrəfəʊn/ [B2]
 - 变压器: transformer /trænsˈfɔːmə/
 - 充电器: charger /ˈtʃɑːdʒə/
 - 移动电源: power bank /ˈpaʊə bæŋk/
 - 门禁卡: access card /ˈækses kɑːd/
 - 读卡器: card reader /kɑːd ˈriːdə/
-- 开关: switch /swɪtʃ/
+- 开关: switch /swɪtʃ/ [B1]
 - 插座: socket /ˈsɒkɪt/
 - 插线板: power strip /ˈpaʊə strɪp/
-- 闸机: barrier /ˈbæriə/
+- 闸机: barrier /ˈbæriə/ [B2]
 #### 机器: machines /məˈʃiːnz/ [A2]
 - 挖掘机: digger /ˈdɪɡə/
 - 混凝土搅拌车: concrete mixer /ˈkɒŋkriːt ˈmɪksə/
