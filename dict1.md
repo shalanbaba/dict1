@@ -740,6 +740,7 @@
 - 班车: shuttle bus /ˈʃʌtl bʌs/ √
 - 电动自行车: electric bicycle /ɪˈlektrɪk ˈbaɪsɪkl/ √
 - 双层巴士: double-decker bus /ˈdʌbl ˈdekə bʌs/ √
+- 长途汽车: coach /kəʊtʃ/ [A2]（美）
 #### 火车: trains /treɪnz/ [A1] √
 - 蒸汽火车: steam train /stiːm treɪn/, puffer billy /ˈpʌfə ˈbɪli/
 - 磁悬浮列车: maglev train /ˈmæɡlev treɪn/
@@ -759,13 +760,15 @@
 - 救生船: lifeboat /ˈlaɪfbəʊt/
 - 渡轮: ferry /ˈferi/ [B1]
 #### 汽车零部件: car parts /kɑː pɑːts/
-- 发动机, 引擎: engine /ˈendʒɪn/ √
-- 轮胎: tyre /ˈtaɪə/（英）, tire /ˈtaɪə/（美）
+- 发动机, 引擎: engine /ˈendʒɪn/ [A2] √
+- 轮胎: tyre /ˈtaɪə/（英）[A2], tire /ˈtaɪə/（美）[A2]
 - 雨刮器: wiper /ˈwaɪpə/ √
-- 轮子: wheel /wiːl/ √
-- 喇叭: horn /hɔːn/ √
+- 轮子: wheel /wiːl/ [A2] √
+- 喇叭: horn /hɔːn/ [B2] √
+- 后备箱: boot /buːt/（英） [B1], trunk /trʌŋk/（美）[B1]
 #### 火车零部件: train parts /treɪn pɑːts/
-- 火车车厢: coach /kəʊtʃ/
+- 火车头: locomotive /ˌləʊkəˈməʊtɪv/
+- 火车车厢: coach /kəʊtʃ/（英）[A2], car /kɑː/（美)[C1]
 #### 飞机零部件: airplane parts /ˈerpleɪn pɑːts/
 - 驾驶舱: cockpit /ˈkɒkpɪt/
 #### 航天: aerospace /ˈeərəʊspeɪs/
@@ -777,54 +780,53 @@
 - 发射: launch /lɔːntʃ/ [C1] √
 - 发射台: launch pad /ˈlɔːntʃ pæd/ √
 #### 服装: clothes /kləʊðz/ [A1]
-- 内衣: underwear /ˈʌndəweə/
-- 体恤衫: t-shirt /ˈtiː ʃɜːt/
-- 袜子: socks /sɒks/
-- 连裤袜: tights /taɪts/
-- 内裤: underpants /ˈʌndəpænts/（美）, pants /pænts/（英）
-- 牛仔裤: jeans /dʒiːnz/
-- 毛衣: sweater /ˈswetə/
-- 套头毛衣: sweater /ˈswetə/（美）, jumper /ˈdʒʌmpə/（英）
-- 短裤: shorts /ʃɔːts/
-- 裙子: skirt /skɜːt/
-- 帽子: hat /hæt/, cap /kæp/
-- 围巾: scarf /skɑːf/ √
-- 手套: gloves /ɡlʌvz/, mittens /ˈmɪtnz/ √
-- 靴子: boots /buːts/ √
-- 连衣裙: dress /dres/
-- 夹克衫: jacket /ˈdʒækɪt/
+- 内衣: underwear /ˈʌndəweə/ [B1]
+- 体恤衫: t-shirt /ˈtiː ʃɜːt/ [A1]
+- 袜子: socks /sɒks/ [A2]
+- 连裤袜: tights /taɪts/ [A2]
+- 内裤: underpants /ˈʌndəpænts/（美）[B1], pants /pænts/（英）[B1]
+- 牛仔裤: jeans /dʒiːnz/ [A1]
+- 套头毛衣: sweater /ˈswetə/（美）[A2], jumper /ˈdʒʌmpə/（英）[A2]
+- 短裤: shorts /ʃɔːts/ [A2]
+- 裙子: skirt /skɜːt/ [A1]
+- 帽子: hat /hæt/ [A1], cap /kæp/ [A2]
+- 围巾: scarf /skɑːf/ [A2] √
+- 手套: gloves /ɡlʌvz/ [A2], mittens /ˈmɪtnz/ √
+- 靴子: boots /buːts/ [A2] √
+- 连衣裙: dress /dres/ [A1]
+- 夹克衫: jacket /ˈdʒækɪt/ [A1]
 - 睡衣: pajama /pəˈdʒɑːmə/
-- 腰带: belt /belt/
-- 领带: tie /taɪ/
-- 演出服: costume /ˈkɒstjuːm/
-- 制服: uniform /ˈjuːnɪfɔːm/
+- 腰带: belt /belt/ [A2]
+- 领带: tie /taɪ/ [A2]
+- 演出服: costume /ˈkɒstjuːm/ [B2]
+- 制服: uniform /ˈjuːnɪfɔːm/ [A2]
 - 倒挂衣: bib /bɪb/
 - 假发: wig /wɪɡ/
-- 外套: coat /kəʊt/
-- 羽绒服: down jacket /daʊn ˈdʒækɪt/
+- 外套: coat /kəʊt/ [A1]
+- 羽绒服: down coat /daʊn kəʊt/
 - 围裙: apron /ˈeɪprən/
-- 袖子: sleeve /sliːv/
-- 长裤: trousers /ˈtraʊzəz/, pants /pænts/（美）
-- 雨衣: raincoat /ˈreɪnkəʊt/
+- 袖子: sleeve /sliːv/ [B1]
+- 长裤: trousers /ˈtraʊzəz/ [A1], pants /pænts/（美）[A1]
+- 雨衣: raincoat /ˈreɪnkəʊt/ [A2]
 #### 鞋子: shoes /ʃuːz/ [A1]
 - 拖鞋: slippers /ˈslɪpəz/
 - 雨靴: rain boots /reɪn buːts/
 #### 包: bags /bæɡz/ [A1]
-- 背包: backpack /ˈbækpæk/
+- 背包: backpack /ˈbækpæk/ [A2]
 #### 眼镜: glasses /ˈɡlɑːsɪz/ [A1]
 - 墨镜: shades /ʃeɪdz/
-- 太阳眼镜: sunglasses /ˈsʌnɡlɑːsɪz/
+- 太阳眼镜: sunglasses /ˈsʌnɡlɑːsɪz/ [A2]
 - 游泳眼镜: goggles /ˈɡɑːɡlz/
 #### 首饰: jewellery（英）, jewelry（美）/ˈdʒuːəlri/ [A2]
 - 戒指: ring /rɪŋ/ [A2]
 - 项链: necklace /ˈnekləs/ [A2]
 - 耳环: earrings /iəriŋz/ [A2]
 #### 缝纫: sewing /ˈsəʊɪŋ/ [C1]
-- 针: needle /ˈniːdl/
-- 线: thread /θred/
-- 拉链: zip /zɪp/, zipper /ˈzɪpə/
+- 针: needle /ˈniːdl/ [B2]
+- 线: thread /θred/ [C2]
+- 拉链: zip /zɪp/ [B2], zipper /ˈzɪpə/ [B2]
 - 带扣: buckle /ˈbʌkl/
-- 纽扣: button /ˈbʌtn/
+- 纽扣: button /ˈbʌtn/ [B1]
 #### 动物: the animal /ði ˈænɪml/ [A1] √
 - 爬行动物: reptiles /ˈreptaɪlz/ [C1]
   - 蛇: snake /sneɪk/ [A2] √
