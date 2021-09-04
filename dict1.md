@@ -729,13 +729,13 @@
 - 铁路: railway /ˈreɪlweɪ/ [A2]
 - 轨道: track /træk/ [C1]
 #### 车辆: vehicles /ˈviːɪkəlz/ [B1]
-- 卡车: truck /trʌk/（美）√, lorry /ˈlɔːri/（英）√
+- 卡车: truck /trʌk/（美）[B1] √, lorry /ˈlɔːri/（英）[B1] √
 - 挂车: trailer /ˈtreɪlə/
 - 拖车: tow truck /təʊ trʌk/ √
 - 洒水车: sprinkler /ˈsprɪŋklə/
 - 扫地车: sweeper /ˈswiːpə/
-- 公交车: bus /bʌs/ √
-- 摩托车: motorbike /ˈməʊtəbaɪk/ √, motorcycle /ˈməʊtəsaɪkl/ √
+- 公交车: bus /bʌs/ [A1] √
+- 摩托车: motorbike /ˈməʊtəbaɪk/ [A2] √, motorcycle /ˈməʊtəsaɪkl/ [A2] √
 - 房车: camper van /ˈkæmpə væn/ √
 - 班车: shuttle bus /ˈʃʌtl bʌs/ √
 - 电动自行车: electric bicycle /ɪˈlektrɪk ˈbaɪsɪkl/ √
@@ -744,11 +744,11 @@
 - 蒸汽火车: steam train /stiːm treɪn/, puffer billy /ˈpʌfə ˈbɪli/
 - 磁悬浮列车: maglev train /ˈmæɡlev treɪn/
 - 高铁: high-speed train /haɪ spiːd treɪn/ √
-- 地铁: metro /ˈmetrəʊ/ √, subway /ˈsʌbweɪ/（美）, underground /ˌʌndəˈɡraʊnd/（英）
+- 地铁: metro /ˈmetrəʊ/ √, subway /ˈsʌbweɪ/（美）[A1], underground /ˌʌndəˈɡraʊnd/（英）[A2]
 - 轻轨: light rail /laɪt reɪl/, overground /ˈəuvəɡraund/（英）
 #### 航空器: aircrafts /ˈeəkrɑːfts/ [B2] √
-- 飞机: airplane /ˈeəpleɪn/（美）√, aeroplane /ˈeərəpleɪn/（英）√
-- 直升机: helicopter /ˈhelɪkɒptə/ √
+- 飞机: airplane /ˈeəpleɪn/（美）[A2] √, aeroplane /ˈeərəpleɪn/（英）[A2] √
+- 直升机: helicopter /ˈhelɪkɒptə/ [A2] √
 - 热气球: hot air balloon /hɒt eə bəˈluːn/ √
 #### 船: boats /bəʊts/ [A1] √
 - 皮划艇: kayak /ˈkaɪæk/
@@ -757,7 +757,7 @@
 - 帆船: sailboat /ˈseɪlbəʊt/ √
 - 渔船: fishing boat /ˈfɪʃɪŋ bəʊt/ √
 - 救生船: lifeboat /ˈlaɪfbəʊt/
-- 渡轮: ferry /ˈferi/
+- 渡轮: ferry /ˈferi/ [B1]
 #### 汽车零部件: car parts /kɑː pɑːts/
 - 发动机, 引擎: engine /ˈendʒɪn/ √
 - 轮胎: tyre /ˈtaɪə/（英）, tire /ˈtaɪə/（美）
