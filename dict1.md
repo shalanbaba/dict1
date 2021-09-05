@@ -1301,18 +1301,18 @@
 - 很多: many /ˈmeni/ [A1]
 - 很少: few /fjuː/ [B1]
 - 一些: some /səm/ [A1], any /ˈeni/ [A1]
-- 一打: dozen /ˈdʌzn/ [B1]
+- 一打: dozen /ˈdʌzn/（十二个）[B1]
 #### 方位: directions /dəˈrekʃnz/ [B1]
-- 东: east /iːst/
-- 西: west /west/
-- 北: north /nɔːθ/
-- 南: south /saʊθ/
-- 左: left /left/ √
-- 右: right /raɪt/ √
-- 上: up /ʌp/ √
-- 下: down /daʊn/ √
-- 前: before /bɪˈfɔː/
-- 后: after /ˈɑːftə/
+- 东: east /iːst/ [A2]
+- 西: west /west/ [A2]
+- 北: north /nɔːθ/ [A2]
+- 南: south /saʊθ/ [A2]
+- 左: left /left/ [A2] √
+- 右: right /raɪt/ [A2] √
+- 上: up /ʌp/ [A2] √
+- 下: down /daʊn/ [A2] √
+- 前: before /bɪˈfɔː/ [A2]
+- 后: after /ˈɑːftə/ [A2]
 #### 颜色: colors /ˈkʌləz/ [A1]
 - 红: red /red/ √
 - 橙: orange /ˈɒrɪndʒ/ √
