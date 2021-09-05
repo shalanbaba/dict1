@@ -1184,8 +1184,11 @@
 - 害怕的: afraid /əˈfreɪd/ [B1]
 - 惊讶的: surprised /səˈpraɪzd/ [A2]
 - 困的: sleepy /ˈsliːpi/ [B1]
-- 疲倦的: tired /ˈtaɪəd/ [A1]
+- 疲倦的: tired /ˈtaɪəd/ [A1], worn /wɔːn/
 - 生气的: angry /ˈæŋɡri/ [A2] √
+- 抱歉的: sorry /ˈsɒri/ [A1] √
+- 恶心的: silly /ˈsɪli/ [B1] √
+- 好奇的: curious /ˈkjʊəriəs/ [B1]
 #### 数学: math /mæθ/（美）[A2], maths /mæθs/（英）[A2], mathematics /ˌmæθəˈmætɪks/
 - 数字: numbers /ˈnʌmbəz/
   - 序数: ordinal numbers /ˈɔːdɪnl ˈnʌmbəz/
@@ -1795,7 +1798,6 @@
 - 狼吞虎咽: gobble /ˈɡɒbl/
 - 尖叫: squeal /skwiːl/
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
-- 抱歉的: sorry /ˈsɒri/ √
 - 怀孕的: pregnant /ˈpreɡnənt/ [B1]
 - 年轻的: young /jʌŋ/ [A1]
 - 紧急的: emergency /ɪˈmɜːdʒənsi/
@@ -1831,11 +1833,8 @@
 - 最多的: most /məʊst/
 - 野生的: wild /waɪld/
 - 愚蠢的: stupid /ˈstjuːpɪd/
-- 恶心的: silly /ˈsɪli/ √
 - 脏的: dirty /ˈdɜːti/
-- 好奇的: curious /ˈkjʊəriəs/
 - 极地的: polar /ˈpəʊlə/ √
-- 疲倦: worn /wɔːn/, tired /ˈtaɪəd/
 - 卡住的: stuck /stʌk/ √
 - 相同: same /seɪm/
 - 不同: different /ˈdɪfrənt/
