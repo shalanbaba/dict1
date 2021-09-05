@@ -1191,65 +1191,67 @@
 - 恶心的: silly /ˈsɪli/ [B1] √
 - 好奇的: curious /ˈkjʊəriəs/ [B1]
 #### 数学: math /mæθ/（美）[A2], maths /mæθs/（英）[A2], mathematics /ˌmæθəˈmætɪks/
-- 数字: numbers /ˈnʌmbəz/
+- 数字: numbers /ˈnʌmbəz/ [A1]
   - 序数: ordinal numbers /ˈɔːdɪnl ˈnʌmbəz/
   - 基数: cardinal numbers /ˈkɑːdɪnl ˈnʌmbəz/
     - 0: zero /ˈzɪərəʊ/ [A2] √
-    - 1: one /wʌn/ √
-    - 2: two /tuː/ √
-    - 3: three /θriː/ √
-    - 4: four /fɔː/ √
-    - 5: five /faɪv/ √
-    - 6: six /sɪks/ √
-    - 7: seven /ˈsevn/ √
-    - 8: eight /eɪt/ √
-    - 9: nine /naɪn/ √
-    - 10: ten /ten/ √
-    - 11: eleven /ɪˈlevn/
-    - 12: twelve /twelv/
-    - 13: thirteen /ˌθɜːˈtiːn/
-    - 14: fourteen /ˌfɔːˈtiːn/
-    - 15: fifteen /ˌfɪfˈtiːn/
-    - 16: sixteen /ˌsɪksˈtiːn/
-    - 17: seventeen /ˌsevnˈtiːn/
-    - 18: eighteen /ˌeɪˈtiːn/
-    - 19: nineteen /ˌnaɪnˈtiːn/
-    - 20: twenty /ˈtwenti/
+    - 1: one /wʌn/ [A1] √
+    - 2: two /tuː/ [A1] √
+    - 3: three /θriː/ [A1] √
+    - 4: four /fɔː/ [A1] √
+    - 5: five /faɪv/ [A1] √
+    - 6: six /sɪks/ [A1] √
+    - 7: seven /ˈsevn/ [A1] √
+    - 8: eight /eɪt/ [A1] √
+    - 9: nine /naɪn/ [A1] √
+    - 10: ten /ten/ [A1] √
+    - 11: eleven /ɪˈlevn/ [A1]
+    - 12: twelve /twelv/ [A1]
+    - 13: thirteen /ˌθɜːˈtiːn/ [A1]
+    - 14: fourteen /ˌfɔːˈtiːn/ [A1]
+    - 15: fifteen /ˌfɪfˈtiːn/ [A1]
+    - 16: sixteen /ˌsɪksˈtiːn/ [A1]
+    - 17: seventeen /ˌsevnˈtiːn/ [A1]
+    - 18: eighteen /ˌeɪˈtiːn/ [A1]
+    - 19: nineteen /ˌnaɪnˈtiːn/ [A1]
+    - 20: twenty /ˈtwenti/ [A1]
     - 21: twenty-one /ˈtwenti wʌn/
-    - 30: thirty /ˈθɜːti/
-    - 40: forty /ˈfɔːti/
-    - 50: fifty /ˈfɪfti/
-    - 60: sixty /ˈsɪksti/
-    - 70: seventy /ˈsevnti/
-    - 80: eighty /ˈeɪti/
-    - 90: ninety /ˈnaɪnti/
+    - 30: thirty /ˈθɜːti/ [A2]
+    - 40: forty /ˈfɔːti/ [A2]
+    - 50: fifty /ˈfɪfti/ [A2]
+    - 60: sixty /ˈsɪksti/ [A2]
+    - 70: seventy /ˈsevnti/ [A2]
+    - 80: eighty /ˈeɪti/ [A2]
+    - 90: ninety /ˈnaɪnti/ [A2]
     - 100: one hundred /wʌn ˈhʌndrəd/
     - 101: one hundred and one /wʌn ˈhʌndrəd ənd wʌn/
     - 200: two hundred /tuː ˈhʌndrəd/
     - 1000: one thousand /wʌn ˈθaʊznd/, one kilo /wʌn ˈkiːləʊ/
     - 1101: one thousand one hundred and one /wʌn ˈθaʊznd wʌn ˈhʌndrəd ənd wʌn/
-    - 百万: million /ˈmɪljən/, mega /ˈmeɡə/
-    - 十亿: billion /ˈbɪljən/, giga /ˈɡɪɡə/
+    - 百: hundred /ˈhʌndrəd/ [A2]
+    - 千: thousand /ˈθaʊznd/ [A2], kilo /ˈkiːləʊ/ [A2]
+    - 百万: million /ˈmɪljən/ [A2], mega /ˈmeɡə/
+    - 十亿: billion /ˈbɪljən/ [B2], giga /ˈɡɪɡə/
     - 万亿: trillion /ˈtrɪljən/, tera /ˈterə/
 - 十进制: decimalism /ˈdesɪməlɪzəm/
 - 二进制: binary system /ˈbaɪnəri ˈsɪstəm/
 - 运算符: operators /ˈɒpəreɪtəs/
-  - 加: plus /plʌs/
+  - 加: plus /plʌs/ [A2]
   - 减: subtract /səbˈtrækt/
   - 乘: multiply /ˈmʌltɪplaɪ/
-  - 除: divide /dɪˈvaɪd/
-- 数数: count /kaʊnt/
-- 百分比: percentage /pəˈsentɪdʒ/
+  - 除: divide /dɪˈvaɪd/ [C1]
+- 数数: count /kaʊnt/ [B1]
+- 百分比: percentage /pəˈsentɪdʒ/ [B2]
 #### 时间: time /taɪm/ [A2]
-- 上午: morning /ˈmɔːnɪŋ/ √
-- 下午: afternoon /ˌɑːftəˈnuːn/
-- 晚上: evening /ˈiːvnɪŋ/
-- 日期: date /deɪt/
-- 日历: the calendar /ðə ˈkælɪndəz/
-  - 月份: months /mʌnθs/
+- 上午: morning /ˈmɔːnɪŋ/ [A1] √
+- 下午: afternoon /ˌɑːftəˈnuːn/ [A1]
+- 晚上: evening /ˈiːvnɪŋ/ [A1]
+- 日期: date /deɪt/ [A1]
+- 日历: the calendar /ðə ˈkælɪndəz/ [A2]
+  - 月份: months /mʌnθs/ [A1]
     - 一月: January /ˈdʒænjuəri/ [A1]
   - 季度: quarter /ˈkwɔːtə/
-  - 周末: weekend /ˌwiːkˈend/
+  - 周末: weekend /ˌwiːkˈend/ [A1]
   - 星期: days of a week /deɪz ɒv ə wiːk/
     - 星期一: Monday /ˈmʌndeɪ/ [A1]
 - 节日: festival days /ˈfestɪvl deɪz/
@@ -1272,21 +1274,21 @@
   - 圣诞节: Christmas /ˈkrɪsməs/ √
   - 平安夜: Christmas Eve /ˈkrɪsməs iːv/
 - 特别的日子: special days /ˈspeʃl deɪz/
-  - 生日: birthday /ˈbɜːθdeɪ/ √
-  - 周年纪念日: anniversary /ˌænɪˈvɜːsəri/
-- 时钟: the clock /ðə klɒk/ √
-- 季节: seasons /ˈsiːznz/
-  - 春: spring /sprɪŋ/ √
-  - 夏: summer /ˈsʌmə/ √
-  - 秋: autumn /ˈɔːtəm/ √, fall /fɔːl/ √
-  - 冬: winter /ˈwɪntə/ √
-- 年龄: age /eɪdʒ/
+  - 生日: birthday /ˈbɜːθdeɪ/ [A1] √
+  - 周年纪念日: anniversary /ˌænɪˈvɜːsəri/ [B1]
+- 时钟: the clock /ðə klɒk/ [A1] √
+- 季节: seasons /ˈsiːznz/ [B1]
+  - 春: spring /sprɪŋ/ [A2] √
+  - 夏: summer /ˈsʌmə/ [A1] √
+  - 秋: autumn /ˈɔːtəm/ [A2] √, fall /fɔːl/ [A2] √
+  - 冬: winter /ˈwɪntə/ [A1] √
+- 年龄: age /eɪdʒ/ [A1]
 #### 计量单位: units of measure /ˈjuːnɪts ɒv ˈmeʒə/
-- 长度: length /leŋkθ/
-- 容量: capacity /kəˈpæsəti/
-- 质量: quality /ˈkwɒləti/
-- 体积: volume /ˈvɒljuːm/
-- 速度: speed /spiːd/
+- 长度: length /leŋkθ/ [B1]
+- 容量: capacity /kəˈpæsəti/ [B2]
+- 质量: mass /mæs/
+- 体积: volume /ˈvɒljuːm/ [B2]
+- 速度: speed /spiːd/ [B1]
 #### 量词: quantifiers /ˈkwɒntɪfaɪəz/
 - 片: slice /slaɪs/
 - 张: piece /piːs/
