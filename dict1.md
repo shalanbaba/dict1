@@ -1330,25 +1330,25 @@
 - 浅色: light color /laɪt ˈkʌlə/
 - 深色: dark color /dɑːk ˈkʌlə/
 #### 形状: shapes /ʃeɪps/ [B1]
-- 圆: circle /ˈsɜːkl/ √
+- 圆: circle /ˈsɜːkl/ [A2] √
 - 多边形: polygon /ˈpɒlɪɡən/
-- 正方形: square /skweə/ √
-- 矩形: rectangle /ˈrektæŋɡl/ √
+- 正方形: square /skweə/ [A2] √
+- 矩形: rectangle /ˈrektæŋɡl/ [C1] √
 - 椭圆: ellipse /ɪˈlɪps/, oval /ˈəʊvl/ √
 - 半圆: semicircle /ˈsemisɜːkl/, half circle /hɑːf ˈsɜːkl/
-- 菱形: diamond /ˈdaɪəmənd/
+- 菱形: diamond /ˈdaɪəmənd/ [B2]
 - 梯形: trapezoid /ˈtræpəzɔɪd/
-- 线: line /laɪn/ √
-- 曲线: curve /kɜːv/
-- 直线: straight line /streɪt laɪn/
-- 星型: star /stɑː/ √
-- 心型: heart /hɑːt/ √
-- 直角: right angle /raɪt ˈæŋɡl/
-- 锐角: acute angle /əˈkjuːt ˈæŋɡl/
-- 钝角: obtuse angle /əbˈtjuːs ˈæŋɡl/
-- 圆角: rounded corner /ˈraʊndɪd ˈkɔːnə/, circular corner /ˈsɜːkjələ ˈkɔːnə/
-- 角: angle /ˈæŋɡl/
-- 边: side /saɪd/
+- 线: lines /laɪnz/ [A2] √
+  - 曲线: curve /kɜːv/ [B2]
+  - 直线: straight line /streɪt laɪn/
+- 星型: star /stɑː/ [A2] √
+- 心型: heart /hɑːt/ [B2] √
+- 角: angles /ˈæŋɡlz/
+  - 直角: right angle /raɪt ˈæŋɡl/
+  - 锐角: acute angle /əˈkjuːt ˈæŋɡl/
+  - 钝角: obtuse angle /əbˈtjuːs ˈæŋɡl/
+  - 圆角: rounded corner /ˈraʊndɪd ˈkɔːnə/, circular corner /ˈsɜːkjələ ˈkɔːnə/
+- 边: side /saɪd/ [A2]
 - 正方体: cube /kjuːb/ √
 - 圆锥体: cone /kəʊn/
 - 球体: sphere /sfɪə/
