@@ -1311,22 +1311,22 @@
 - 右: right /raɪt/ [A2] √
 - 上: up /ʌp/ [A2] √
 - 下: down /daʊn/ [A2] √
-- 前: before /bɪˈfɔː/ [A2]
-- 后: after /ˈɑːftə/ [A2]
+- 前: before /bɪˈfɔː/ [B1]
+- 后: after /ˈɑːftə/ [B1]
 #### 颜色: colors /ˈkʌləz/ [A1]
-- 红: red /red/ √
-- 橙: orange /ˈɒrɪndʒ/ √
-- 粉: pink /pɪŋk/ √
-- 绿: green /ɡriːn/ √
-- 灰: gray（美）, grey（英）/ɡreɪ/ [A1]
-- 黄: yellow /ˈjeləʊ/ √
-- 蓝: blue /bluː/ √
-- 白: white /waɪt/ √
-- 棕: brown /braʊn/ √
+- 红: red /red/ [A2] √
+- 橙: orange /ˈɒrɪndʒ/ [A2] √
+- 粉: pink /pɪŋk/ [A2] √
+- 绿: green /ɡriːn/ [A2] √
+- 灰: gray（美）, grey（英）/ɡreɪ/ [A2]
+- 黄: yellow /ˈjeləʊ/ [A2] √
+- 蓝: blue /bluː/ [A2] √
+- 白: white /waɪt/ [A2] √
+- 棕: brown /braʊn/ [A2] √
+- 黑: black /blæk/ [A2] √
+- 紫: purple /ˈpɜːpl/ [A2] √
 - 银: silver /ˈsɪlvə/
 - 金: gold /ɡəʊld/ √
-- 黑: black /blæk/ √
-- 紫: purple /ˈpɜːpl/ √
 - 浅色: light color /laɪt ˈkʌlə/
 - 深色: dark color /dɑːk ˈkʌlə/
 #### 形状: shapes /ʃeɪps/ [B1]
