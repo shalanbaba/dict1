@@ -1174,18 +1174,18 @@
 - 喜欢: like /laɪk/ [A1]
 - 讨厌: hate /heɪt/ [A2]
 #### 感觉: feelings /ˈfiːlɪŋz/ [B1]
-- 无聊: bored /bɔːd/
-- 舒服: comfortable /ˈkʌmftəbl/
-- 开心: happy /ˈhæpi/, glad /ɡlæd/
-- 伤心: sad /sæd/
-- 饱: full /fʊl/
-- 饿: hungry /ˈhʌŋɡri/
-- 口渴: thirsty /ˈθɜːsti/
-- 害怕: afraid /əˈfreɪd/
-- 惊讶: surprise /səˈpraɪz/
-- 困: sleepy /ˈsliːpi/
-- 疲倦: tired /ˈtaɪəd/
-- 生气: angry /ˈæŋɡri/ √
+- 无聊的: bored /bɔːd/ [A1]
+- 舒服的: comfortable /ˈkʌmftəbl/ [B1]
+- 开心的: happy /ˈhæpi/ [A1], glad /ɡlæd/ [A2]
+- 伤心的: sad /sæd/ [A1]
+- 饱的: full /fʊl/ [B2]
+- 饿的: hungry /ˈhʌŋɡri/ [A1]
+- 口渴的: thirsty /ˈθɜːsti/ [A2]
+- 害怕的: afraid /əˈfreɪd/ [B1]
+- 惊讶的: surprised /səˈpraɪzd/ [A2]
+- 困的: sleepy /ˈsliːpi/ [B1]
+- 疲倦的: tired /ˈtaɪəd/ [A1]
+- 生气的: angry /ˈæŋɡri/ [A2] √
 #### 数学: math /mæθ/（美）[A2], maths /mæθs/（英）[A2], mathematics /ˌmæθəˈmætɪks/
 - 数字: numbers /ˈnʌmbəz/
   - 序数: ordinal numbers /ˈɔːdɪnl ˈnʌmbəz/
