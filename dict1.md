@@ -1290,18 +1290,18 @@
 - 体积: volume /ˈvɒljuːm/ [B2]
 - 速度: speed /spiːd/ [B1]
 #### 量词: quantifiers /ˈkwɒntɪfaɪəz/
-- 片: slice /slaɪs/
-- 张: piece /piːs/
-- 块: block /blɒk/
-- 组, 群: group /ɡruːp/
+- 片: slice /slaɪs/ [A2]
+- 张: piece /piːs/ [A2]
+- 块: block /blɒk/ [B2]
+- 组, 群: group /ɡruːp/ [A1]
 - 推: stack /stæk/
-- 束: bunch /bʌntʃ/
-- 堆: heap /hiːp/
-- 滴: drop /drɒp/
-- 很多: many /ˈmeni/
-- 很少: few /fjuː/
-- 一些: some /səm/, any /ˈeni/
-- 一打: dozen /ˈdʌzn/
+- 束: bunch /bʌntʃ/ [B1]
+- 堆: heap /hiːp/ [C2]
+- 滴: drop /drɒp/ [B1]
+- 很多: many /ˈmeni/ [A1]
+- 很少: few /fjuː/ [B1]
+- 一些: some /səm/ [A1], any /ˈeni/ [A1]
+- 一打: dozen /ˈdʌzn/ [B1]
 #### 方位: directions /dəˈrekʃnz/ [B1]
 - 东: east /iːst/
 - 西: west /west/
