@@ -1021,7 +1021,7 @@
 - 律师: lawyer /ˈlɔɪə/ [B1]
 - 厨师: chef /ʃef/ [A2] √
 - 图书管理员: librarian /laɪˈbreəriən/
-- 园林管理员: ranger /ˈreɪndʒə/
+- 园林管理员: ranger /ˈreɪndʒə/ [ORT5]
 - 动物饲养员: zookeeper /ˈzuːkiːpə/ √
 - 作者: author /ˈɔːθə/ [B1]
 - 画家: artist /ˈɑːtɪst/ [A2]
