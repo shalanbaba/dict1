@@ -1113,53 +1113,56 @@
 - 洗澡: bath /bɑːθ/ [A1]
 - 淋浴: shower /ˈʃaʊə/ [A1]
 #### 身体: the body /ðə ˈbɒdi/ [A1]
-- 骨架: skeleton /ˈskelɪtn/
-- 头: head /hed/ √
-- 拇指: thumb /θʌm/
-- 食指: pointer finger /ˈpɔɪntə ˈfɪŋɡə/
-- 中指: middle finger /ˈmɪdl ˈfɪŋɡə/
-- 无名指: ring finger /rɪŋ ˈfɪŋɡə/
-- 小手指: little finger /ˈlɪtl ˈfɪŋɡə/
-- 大脚趾: big toe /bɪɡ təʊ/
-- 第二脚趾: second toe /ˈsekənd təʊ/
-- 第三脚趾: third toe /θɜːd təʊ/
-- 第四脚趾: fourth toe /fɔːθ təʊ/
-- 小脚趾: little toe /ˈlɪtl təʊ/
+- 骨架: skeleton /ˈskelɪtn/ [B2]
+- 头: head /hed/ [A1] √
+- 手指: fingers /ˈfɪŋɡəz/ [A2]
+  - 拇指: thumb /θʌm/ [B1]
+  - 食指: pointer finger /ˈpɔɪntə ˈfɪŋɡə/
+  - 中指: middle finger /ˈmɪdl ˈfɪŋɡə/
+  - 无名指: ring finger /rɪŋ ˈfɪŋɡə/
+  - 小手指: little finger /ˈlɪtl ˈfɪŋɡə/
+- 脚趾: toes /təʊz/ [A2]
+  - 大脚趾: big toe /bɪɡ təʊ/
+  - 第二脚趾: second toe /ˈsekənd təʊ/
+  - 第三脚趾: third toe /θɜːd təʊ/
+  - 第四脚趾: fourth toe /fɔːθ təʊ/
+  - 小脚趾: little toe /ˈlɪtl təʊ/
 - 脚尖: tiptoe /ˈtɪptəʊ/
 - 肚子: tummy /ˈtʌmi/（儿语）√
 - 腹部: belly /ˈbeli/
 - 肚脐: belly button /ˈbeli ˈbʌtn/
-- 胃: stomach /ˈstʌmək/
-- 脸颊: cheek /tʃiːk/
-- 脸: face /feɪs/
+- 胃: stomach /ˈstʌmək/ [A2]
+- 脸颊: cheek /tʃiːk/ [B1]
+- 脸: face /feɪs/ [A1]
 - 耳垂: earlobe /ˈɪələʊb/
-- 眉毛: eyebrow /ˈaɪbraʊ/
-- 眼皮: eyelid /ˈaɪlɪd/
-- 睫毛: eyelash /ˈaɪlæʃ/
-- 额头: forehead /ˈfɔːhed/
-- 下巴: chin /tʃɪn/
-- 胡子（下巴）: beard /bɪəd/
-- 臀: bottom /ˈbɒtəm/
-- 髋部: hip /hɪp/
-- 背: back /bæk/
-- 胸: chest /tʃest/
-- 颈: neck /nek/
-- 血: blood /blʌd/
-- 骨: bone /bəʊn/
-- 皮肤: skin /skɪn/
-- 手肘: elbow /ˈelbəʊ/ √
-- 脚踝: ankle /ˈæŋkl/
-- 脚后跟: heel /hiːl/
+- 眉毛: eyebrow /ˈaɪbraʊ/ [B2]
+- 眼皮: eyelid /ˈaɪlɪd/ [B2]
+- 睫毛: eyelash /ˈaɪlæʃ/ [B2]
+- 额头: forehead /ˈfɔːhed/ [B1]
+- 下巴: chin /tʃɪn/ [B1]
+- 胡子（下巴）: beard /bɪəd/ [A1]
+- 臀: bottom /ˈbɒtəm/ [B1]
+- 腰: waist /weɪst/ [B2]
+- 髋部: hip /hɪp/ [B2]
+- 背: back /bæk/ [A2]
+- 胸: chest /tʃest/ [B2]
+- 颈: neck /nek/ [A2]
+- 血: blood /blʌd/ [A2]
+- 骨: bone /bəʊn/ [B1]
+- 皮肤: skin /skɪn/ [B1]
+- 手肘: elbow /ˈelbəʊ/ [B1] √
+- 脚踝: ankle /ˈæŋkl/ [B1]
+- 脚后跟: heel /hiːl/ [B2]
 - 脚底板: sole /səʊl/
-- 腿: leg /leɡ/
-- 手臂: arm /ɑːm/
-- 大腿: thigh /θaɪ/
+- 腿: leg /leɡ/ [A1]
+- 手臂: arm /ɑːm/ [A1]
+- 大腿: thigh /θaɪ/ [B2]
 - 小腿: calf /kɑːf/ [C2]
-- 手掌: palm /pɑːm/
-- 手腕: wrist /rɪst/
-- 嘴唇: lip /lɪp/
-- 手指甲: fingernail /ˈfɪŋɡəneɪl/
-- 脚趾甲: toenail /ˈtəʊneɪl/
+- 手掌: palm /pɑːm/ [C2]
+- 手腕: wrist /rɪst/ [B2]
+- 嘴唇: lip /lɪp/ [B1]
+- 手指甲: fingernail /ˈfɪŋɡəneɪl/ [B2]
+- 脚趾甲: toenail /ˈtəʊneɪl/ [B2]
 #### 五官感觉: five senses /ˈsensɪz/
 - 视觉: sight /saɪt/ [B1]
 - 听觉: hearing /hɪərɪŋ/
