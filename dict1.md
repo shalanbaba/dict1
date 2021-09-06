@@ -200,7 +200,7 @@
   - 街道: subdistrict /ˈsʌbˌdɪstrɪkt/
   - 乡: township /ˈtaʊnʃɪp/
   - 村: village /ˈvɪlɪdʒ/ [A1]
-#### 自然: nature /ˈneɪtʃə/ √ [A2]
+#### 自然: nature /ˈneɪtʃə/ [A2] √
 - 海岸: seashore /ˈsiːʃɔː/
 - 沿海: coast /kəʊst/ [B1]
 - 海滩: beach /biːtʃ/ [A1] √
@@ -269,7 +269,7 @@
 - 珊瑚礁: coral reef /ˈkɒrəl riːf/
 - 贝壳: shell /ʃel/ [B2] √
 - 油田: oilfield /ˈɔɪlfiːld/
-#### 天气: the weather /ðə ˈweðə/ √ [A1]
+#### 天气: the weather /ðə ˈweðə/ [A1] √
 - 晴: sunny /ˈsʌni/ [A2] √
 - 雨: rainy /ˈreɪni/ [B1]
 - 有风: windy /ˈwɪndi/ [A2]
@@ -1415,6 +1415,7 @@
 - 肉包子: steamed meat bun /stiːmd miːt bʌn/
 - 面包: bread /bred/ [A1] √
 - 蛋糕: cake /keɪk/ [A1] √
+- 煎饼: pancake /ˈpænkeɪk/ [B2]
 - 纸杯蛋糕: cupcake /ˈkʌpkeɪk/
 - 蛋挞: egg tart /eɡ tɑːt/
 - 松饼: muffin /ˈmʌfɪn/ √
@@ -1514,7 +1515,7 @@
   - 酱油: soy sauce /sɔɪ sɔːs/
   - 番茄酱: ketchup /ˈketʃəp/
   - 醋: vinegar /ˈvɪnɪɡə/ [B2] √
-  - 盐: salt /sɔːlt/ [A1] √  
+  - 盐: salt /sɔːlt/ [A1] √
   - 糖: sugar /ˈʃʊɡə/ [A1] √
 #### 烹饪: cooking /ˈkʊkɪŋ/ [A2]
 - 煮: boil /bɔɪl/ [B1]
