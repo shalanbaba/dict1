@@ -1355,28 +1355,29 @@
 - 圆柱体: cylinder /ˈsɪlɪndə/
 - 扇形: sector /ˈsektə/
 #### 味道: tastes /teɪsts/ [B1]
-- 酸: sour /ˈsaʊə/
-- 甜: sweet /swiːt/ √
-- 苦: bitter /ˈbɪtə/
-- 辣: spicy /ˈspaɪsi/ √
-- 咸: salty /ˈsɔːlti/
-- 浓: strong flavor /strɒŋ ˈfleɪvə/
-- 淡: weak flavor /wiːk ˈfleɪvə/
-- 腻: greasy /ˈɡriːsi/
-- 麻: numbing /ˈnʌmɪŋ/
-- 爽口: refreshing /rɪˈfreʃɪŋ/
-- 生: undercooked /ˌʌndəˈkʊkt/
-- 老: tough /tʌf/
-- 嫩: tender /ˈtendə/
+- 酸的: sour /ˈsaʊə/ [B1]
+- 甜的: sweet /swiːt/ [A1] √
+- 苦的: bitter /ˈbɪtə/ [B1]
+- 辣的: spicy /ˈspaɪsi/ [B1] √
+- 咸的: salty /ˈsɔːlti/ [B2]
+- 腻的: greasy /ˈɡriːsi/
+- 麻的: numbing /ˈnʌmɪŋ/
+- 浓的: strong /strɒŋ/
+- 淡的: weak /wiːk/ [B2]
+- 清淡的: light /laɪt/
+- 爽口的: refreshing /rɪˈfreʃɪŋ/
+- 欠熟的: undercooked /ˌʌndəˈkʊkt/
+- 老的: tough /tʌf/ [B2]
+- 嫩的: tender /ˈtendə/ [C2]
 #### 气味: smells /smelz/ [B1]
-- 臭: stink /ˈstɪŋk/
+- 臭的: stinky /ˈstɪŋki/
 #### 声音: sounds /saʊndz/ [A2]
 - 咕噜声（猪）: grunt /ɡrʌnt/
 - 汪（狗）: woof /wʊf/ √
 - 嘶（蛇）: hiss /hɪs/ √
 - 喵（猫）: meow /miˈaʊ/ √
 - 吱吱（兔子, 老鼠）: squeak /skwiːk/ √
-- 嗡嗡（蜜蜂）: buzz /bʌz/ √
+- 嗡嗡（蜜蜂）: buzz /bʌz/ [C2] √
 - 鸟叫声: tweet /twiːt/
 - 羊叫声: baa /bɑː/
 - 吭哧（火车）: choochoo /ˈtʃu: tʃu:/ √
