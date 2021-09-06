@@ -73,7 +73,7 @@
 #### 情感: emotions
 #### 感觉: feelings
 
-#### 数学: math（美）, maths（英）, mathematics
+#### 数学: maths（英）, math（美）, mathematics
 #### 时间: time
 #### 计量单位: units of measure
 #### 量词: quantifiers

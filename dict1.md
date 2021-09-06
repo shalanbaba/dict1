@@ -53,7 +53,7 @@
 - 邮件: mail /meɪl/ [A2]
 - 小票, 收据: receipt /rɪˈsiːt/ [A2]
 - 账单: bill /bɪl/ [A2]
-- 计划: plan /plæn/ [A2], program（美）, programme（英）/ˈprəʊɡræm/ [B2]
+- 计划: plan /plæn/ [A2], programme（英）, program（美）/ˈprəʊɡræm/ [B2]
 - 源代码: source code /sɔːs kəʊd/
 - 菜单: menu /ˈmenjuː/ [A2]
 - 应用程序: app /æp/, application /ˌæplɪˈkeɪʃn/ [B2]
@@ -300,7 +300,7 @@
 - 木炭: charcoal /ˈtʃɑːkəʊl/
 - 石油: petroleum /pəˈtrəʊliəm/
 - 天然气: natural gas /ˈnætʃrəl ɡæs/
-- 汽油: gas /ɡæs/（美）[A2], gasoline /ˌɡæsəˈliːn/（美）[B2], petrol /ˈpetrəl/（英）[A2]
+- 汽油: petrol /ˈpetrəl/（英）[A2], gas /ɡæs/（美）[A2], gasoline /ˌɡæsəˈliːn/（美）[B2]
 - 柴油: diesel /ˈdiːzl/ [C1]
 - 电: electricity /ɪˌlekˈtrɪsəti/ [A2]
   - 电池: battery /ˈbætəri/ [A2]
@@ -418,7 +418,7 @@
 - 动物园: zoo /zuː/ [A1] √
 - 电线杆: wire pole /ˈwaɪə pəʊl/
 - 雕像: statue /ˈstætʃuː/ [B1]
-- 电梯: elevator /ˈelɪveɪtə/（美）[A2] √, lift /lɪft/（英）[A2]
+- 电梯: lift /lɪft/（英）[A2], elevator /ˈelɪveɪtə/（美）[A2] √
 - 扶梯: escalator /ˈeskəleɪtə/ [B2]
 #### 住宅: the house /ðə haʊs/ [A1]
 - 厕所: bathroom /ˈbɑːθruːm/ [A1]
@@ -491,7 +491,7 @@
 - 灯泡: bulb /bʌlb/ [B2]
 - 台灯: lamp /læmp/ [A2]
 - 路灯: street light /striːt laɪt/
-- 手电筒: flashlight /ˈflæʃlaɪt/（美）[B2] √, torch /tɔːtʃ/（英）[B2] √
+- 手电筒: torch /tɔːtʃ/（英）[B2] √, flashlight /ˈflæʃlaɪt/（美）[B2] √
 - 灯笼: lantern /ˈlæntən/ √
 #### 家具: furniture /ˈfɜːnɪtʃə/ [A2]
 - 高脚椅: highchair /ˌhaɪˈtʃeə/
@@ -700,7 +700,7 @@
 - 轨道交通: metro /ˈmetrəʊ/
 - 距离: distance /ˈdɪstəns/ [B1]
 - 公交车站: bus stop /bʌs stɒp/ [A2] √
-- 人行道: sidewalk /ˈsaɪdwɔːk/（美）[B1], pavement /ˈpeɪvmənt/（英）[B1]
+- 人行道: pavement /ˈpeɪvmənt/（英）[B1], sidewalk /ˈsaɪdwɔːk/（美）[B1]
 - 路锥: traffic cone /ˈtræfɪk kəʊn/ √
 - 井盖: manhole cover /ˈmænhəʊl ˈkʌvə/
 - 交通信号灯: traffic light /ˈtræfɪk laɪt/ [A2]
@@ -729,7 +729,7 @@
 - 铁路: railway /ˈreɪlweɪ/ [A2]
 - 轨道: track /træk/ [C1]
 #### 车辆: vehicles /ˈviːɪkəlz/ [B1]
-- 卡车: truck /trʌk/（美）[B1] √, lorry /ˈlɔːri/（英）[B1] √
+- 卡车: lorry /ˈlɔːri/（英）[B1] √, truck /trʌk/（美）[B1] √
 - 挂车: trailer /ˈtreɪlə/
 - 拖车: tow truck /təʊ trʌk/ √
 - 洒水车: sprinkler /ˈsprɪŋklə/
@@ -745,10 +745,10 @@
 - 蒸汽火车: steam train /stiːm treɪn/, puffer billy /ˈpʌfə ˈbɪli/
 - 磁悬浮列车: maglev train /ˈmæɡlev treɪn/
 - 高铁: high-speed train /haɪ spiːd treɪn/ √
-- 地铁: metro /ˈmetrəʊ/ √, subway /ˈsʌbweɪ/（美）[A1], underground /ˌʌndəˈɡraʊnd/（英）[A2]
+- 地铁: metro /ˈmetrəʊ/ √, underground /ˌʌndəˈɡraʊnd/（英）[A2], subway /ˈsʌbweɪ/（美）[A1]
 - 轻轨: light rail /laɪt reɪl/, overground /ˈəuvəɡraund/（英）
 #### 航空器: aircrafts /ˈeəkrɑːfts/ [B2] √
-- 飞机: airplane /ˈeəpleɪn/（美）[A2] √, aeroplane /ˈeərəpleɪn/（英）[A2] √
+- 飞机: aeroplane /ˈeərəpleɪn/（英）[A2] √, airplane /ˈeəpleɪn/（美）[A2] √
 - 直升机: helicopter /ˈhelɪkɒptə/ [A2] √
 - 热气球: hot air balloon /hɒt eə bəˈluːn/ √
 #### 船: boats /bəʊts/ [A1] √
@@ -784,9 +784,9 @@
 - 体恤衫: t-shirt /ˈtiː ʃɜːt/ [A1]
 - 袜子: socks /sɒks/ [A2]
 - 连裤袜: tights /taɪts/ [A2]
-- 内裤: underpants /ˈʌndəpænts/（美）[B1], pants /pænts/（英）[B1]
+- 内裤: pants /pænts/（英）[B1], underpants /ˈʌndəpænts/（美）[B1]
 - 牛仔裤: jeans /dʒiːnz/ [A1]
-- 套头毛衣: sweater /ˈswetə/（美）[A2], jumper /ˈdʒʌmpə/（英）[A2]
+- 套头毛衣: jumper /ˈdʒʌmpə/（英）[A2], sweater /ˈswetə/（美）[A2]
 - 短裤: shorts /ʃɔːts/ [A2]
 - 裙子: skirt /skɜːt/ [A1]
 - 帽子: hat /hæt/ [A1], cap /kæp/ [A2]
@@ -961,6 +961,7 @@
 - 灌木: bush /bʊʃ/ [B2]
 - 种子: seeds /siːdz/ [B2]
   - 橡果: acorn /ˈeɪkɔːn/
+- 小麦: wheat /wiːt/ [B2]
 #### 微生物: the microorganism /ðə ˌmaɪkrəʊˈɔːɡənɪzəm/
 - 真菌: fungus /ˈfʌŋɡəs/
 - 细菌: bacteria /bækˈtɪəriə/ [C1]
@@ -1074,7 +1075,7 @@
 - 父亲: father /ˈfɑːðə/ [A1]
 - 爸爸: dad /dæd/ [A1] √
 - 母亲: mother /ˈmʌðə/ [A1]
-- 妈妈: mom /mɑːm/（美）[A1], mum /mʌm/（英）[A1]
+- 妈妈: mum /mʌm/（英）[A1], mom /mɑːm/（美）[A1]
 - 舅舅: uncle /ˈʌŋkl/ [A2]
 - 舅妈: aunt /ɑːnt/ [A2]
 - 父母: parent /ˈpeərənt/ [A1]
@@ -1190,7 +1191,7 @@
 - 抱歉的: sorry /ˈsɒri/ [A1] √
 - 恶心的: silly /ˈsɪli/ [B1] √
 - 好奇的: curious /ˈkjʊəriəs/ [B1]
-#### 数学: math /mæθ/（美）[A2], maths /mæθs/（英）[A2], mathematics /ˌmæθəˈmætɪks/
+#### maths /mæθs/（英）[A2], 数学: math /mæθ/（美）[A2], mathematics /ˌmæθəˈmætɪks/
 - 数字: numbers /ˈnʌmbəz/ [A1]
   - 序数: ordinal numbers /ˈɔːdɪnl ˈnʌmbəz/
   - 基数: cardinal numbers /ˈkɑːdɪnl ˈnʌmbəz/
@@ -1318,7 +1319,7 @@
 - 橙: orange /ˈɒrɪndʒ/ [A2] √
 - 粉: pink /pɪŋk/ [A2] √
 - 绿: green /ɡriːn/ [A2] √
-- 灰: gray（美）, grey（英）/ɡreɪ/ [A2]
+- 灰: grey（英）, gray（美）/ɡreɪ/ [A2]
 - 黄: yellow /ˈjeləʊ/ [A2] √
 - 蓝: blue /bluː/ [A2] √
 - 白: white /waɪt/ [A2] √
@@ -1386,78 +1387,76 @@
 - 嘎嘎（鸭子）: quack /kwæk/
 - 喔喔（公鸡）: cock-a-doodle-doo /ˌkɒk ə ˌduːdl ˈduː/
 #### 食物: food /fuːd/ [A1] √
-- 早饭: breakfast /ˈbrekfəst/
-- 中饭: lunch /lʌntʃ/ √
-- 晚饭: dinner /ˈdɪnə/ √, supper /ˈsʌpə/
+- 早饭: breakfast /ˈbrekfəst/ [A1]
+- 中饭: lunch /lʌntʃ/ [A1] √
+- 晚饭: dinner /ˈdɪnə/ [A1] √, supper /ˈsʌpə/ [A2]
 - 套餐: combo meal /ˈkɒmbəʊ miːl/
 - 自助餐: buffet /bəˈfeɪ/
-- 野餐: picnic /ˈpɪknɪk/ √
-- 快餐: fast food /ˌfɑːst ˈfuːd/
-- 谷物: grain /ɡreɪn/
+- 野餐: picnic /ˈpɪknɪk/ [A1] √
+- 快餐: fast food /ˌfɑːst ˈfuːd/ [A2]
+- 谷物: grain /ɡreɪn/ [C2]
 - 海鲜: seafood /ˈsiːfuːd/
-- 米饭: rice /raɪs/ √
-- 汤: soup /suːp/
+- 米饭: rice /raɪs/ [A1] √
+- 汤: soup /suːp/ [A1]
 - 墨西哥卷饼: taco /ˈtækəʊ/
-- 面粉: flour /ˈflaʊə/
-- 蜂蜜: honey /ˈhʌni/ √
-- 黄油: butter /ˈbʌtə/
-- 甜品: dessert /dɪˈzɜːt/
-  - 布丁: pudding /ˈpʊdɪŋ/
-- 奶酪, 芝士: cheese /tʃiːz/ √
-- 意大利面: pasta /ˈpɑːstə/
+- 面粉: flour /ˈflaʊə/ [B1]
+- 蜂蜜: honey /ˈhʌni/ [A2] √
+- 黄油: butter /ˈbʌtə/ [A1]
+- 甜品: dessert /dɪˈzɜːt/ [A2]
+- 布丁: pudding /ˈpʊdɪŋ/ [B2]
+- 奶酪, 芝士: cheese /tʃiːz/ [A1] √
+- 意大利面: pasta /ˈpɑːstə/ [A2]
 - 面条: noodle /ˈnuːdl/ √
 - 汉堡: hamburger /ˈhæmbɜːɡə/ √
-- 小麦: wheat /wiːt/
 - 水饺: boiled dumpling /bɔɪld ˈdʌmplɪŋ/
 - 蒸饺: steamed dumpling /stiːmd ˈdʌmplɪŋ/
 - 煎饺: fried dumpling /fraɪd ˈdʌmplɪŋ/
 - 馒头: steamed bun /stiːmd bʌn/
 - 肉包子: steamed meat bun /stiːmd miːt bʌn/
-- 面条: noodle /ˈnuːdl/ √
-- 面包: bread /bred/ √
-- 蛋糕: cake /keɪk/ √
+- 面包: bread /bred/ [A1] √
+- 蛋糕: cake /keɪk/ [A1] √
 - 纸杯蛋糕: cupcake /ˈkʌpkeɪk/
 - 蛋挞: egg tart /eɡ tɑːt/
 - 松饼: muffin /ˈmʌfɪn/ √
-- 饼干: biscuit /ˈbɪskɪt/ √、cookie /ˈkʊki/ √、cracker /ˈkrækə/
+- 饼干: biscuit /ˈbɪskɪt/ [A1] √, cookie /ˈkʊki/ [A2] √, cracker /ˈkrækə/ [A1]
 - 甜甜圈: doughnut /ˈdəʊnʌt/ √
-- 馅饼: pie /paɪ/
-- 吐司（面包）: toast /təʊst/
-- 披萨: pizza /ˈpiːtsə/ √
+- 馅饼: pie /paɪ/ [B1]
+- 吐司（面包）: toast /təʊst/ [A2]
+- 披萨: pizza /ˈpiːtsə/ [A1] √
 - 肉圆: meatball /ˈmiːtbɔːl/
 - 泡菜: pickle /ˈpɪkl/
 - 酸黄瓜: pickle /ˈpɪkl/
 - 芝麻: sesame /ˈsesəmi/
-- 豌豆: pea /piː/
+- 豌豆: pea /piː/ [B1]
 - 绿豆: mung bean /mʌŋ biːn/
 - 黄豆: soybean /sɒɪbiːn/
 - 红豆: red bean /red biːn/
-- 玉米: corn /kɔːn/ √
-- 肉: meat /miːt/
-  - 鱼肉: fish /fɪʃ/ √
-  - 猪肉: pork /pɔːk/
-  - 牛肉: beef /biːf/ √
-  - 鸡肉: chicken /ˈtʃɪkɪn/
-  - 羊肉: lamb /læm/, mutton /ˈmʌtn/
-- 零食: snacks /snæk/
+- 玉米: corn /kɔːn/ [B1] √
+- 肉: meat /miːt/ [A1]
+  - 鱼肉: fish /fɪʃ/ [A1] √
+  - 猪肉: pork /pɔːk/ [B1]
+  - 牛肉: beef /biːf/ [B1] √
+  - 鸡肉: chicken /ˈtʃɪkɪn/ [A2]
+  - 羊肉: lamb /læm/ [B1], mutton /ˈmʌtn/
+- 零食: snacks /snæk/ [A2]
   - 棉花糖: cotton candy /ˈkɒtn ˈkændi/（丝）, marshmallow /ˌmɑːʃˈmæləʊ/（粒）
-  - 糖果: candy /ˈkændi/ √
+  - 糖果: candy /ˈkændi/ [A2] √
   - 棒棒糖: lollipop /ˈlɒlipɒp/ √
   - 棒冰: ice lolly /aɪs ˈlɒli/ √
   - 冰激凌: ice cream /aɪs kriːm/ [A1] √
   - 薯片: crisp /krɪsp/（英）[A2], potato chip /tʃɪp/（美）[A2]
-  - 薯条: french fry /frentʃ fraɪ/（美）, chip /tʃɪp/（英）[A1]
+  - 薯条: chip /tʃɪp/（英）[A1], french fry /frentʃ fraɪ/（美）
   - 坚果: nut /nʌt/ [B2]
-- 水果: fruit /fruːt/
-  - 菠萝: pineapple /ˈpaɪnæpl/ √
-  - 苹果: apple /ˈæpl/ √
-  - 桔子: orange /ˈɒrɪndʒ/ √
-  - 梨: pear /peə/ √
+- 水果: fruit /fruːt/ [A1]
+  - 菠萝: pineapple /ˈpaɪnæpl/ [B1] √
+  - 苹果: apple /ˈæpl/ [A1] √
+  - 桔子: orange /ˈɒrɪndʒ/ [A1] √
+  - 梨: pear /peə/ [A2] √
   - 西瓜: watermelon /ˈwɔːtəmelən/ √
-  - 草莓: strawberry /ˈstrɔːbəri/ √
+  - 草莓: strawberry /ˈstrɔːbəri/ [B1] √
   - 蓝莓: blueberry /ˈbluːbəri/ √
   - 猕猴桃: wiki /ˈwɪki/ √
-  - 香蕉: banana /bəˈnɑːnə/ √
+  - 香蕉: banana /bəˈnɑːnə/ [A1] √
   - 牛油果: avocado /ˌævəˈkɑːdəʊ/
   - 火龙果: pitaya /pɪˈtaɪə/
   - 红枣: red date /red deɪt/, jujube /ˈdʒu:dʒu:b/
@@ -1472,39 +1471,39 @@
   - 山楂: haw /hɔː/
   - 李子: plum /plʌm/ √
   - 桂圆: longan /ˈlɒŋɡən/
-  - 莲雾: wax-apple /wæks ˈæpl/
+  - 莲雾: wax apple /wæks ˈæpl/
   - 金桔: kumquat /ˈkʌmkwɒt/
-  - 桃子: peach /piːtʃ/ √
-  - 橄榄: olive /ˈɒlɪv/
-- 蔬菜: vegetables /ˈvedʒtəblz/
-  - 黄瓜, 青瓜: cucumber /ˈkjuːkʌmbə/
-  - 茄子: eggplant /ˈeɡplænt/
-  - 卷心菜: cabbage /ˈkæbɪdʒ/
+  - 桃子: peach /piːtʃ/ [B1] √
+  - 橄榄: olive /ˈɒlɪv/ [B1]
+- 蔬菜: vegetables /ˈvedʒtəblz/ [A1]
+  - 黄瓜, 青瓜: cucumber /ˈkjuːkʌmbə/ [B1]
+  - 茄子: eggplant /ˈeɡplænt/ [B2]
+  - 卷心菜: cabbage /ˈkæbɪdʒ/ [B1]
   - 紫甘蓝: purple cabbage /ˈpɜːpl ˈkæbɪdʒ/
   - 生姜: ginger /ˈdʒɪndʒə/
-  - 大蒜: garlic /ˈɡɑːlɪk/
-  - 西兰花: broccoli /ˈbrɒkəli/
+  - 大蒜: garlic /ˈɡɑːlɪk/ [A2]
+  - 西兰花: broccoli /ˈbrɒkəli/ [B1]
   - 花菜: cauliflower /ˈkɒliflaʊə/
   - 芹菜: celery /ˈseləri/
   - 芦笋: asparagus /əˈspærəɡəs/
   - 红薯: sweet potato /swiːt pəˈteɪtəʊ/
-  - 洋葱: onion /ˈʌnjən/
+  - 洋葱: onion /ˈʌnjən/ [A2]
   - 南瓜: pumpkin /ˈpʌmpkɪn/ √
-  - 蘑菇: mushroom /ˈmʌʃrʊm/
-  - 胡萝卜: carrot /ˈkærət/ √
-  - 生菜: lettuce /ˈletɪs/
-  - 菠菜: spinach /ˈspɪnɪtʃ/
+  - 蘑菇: mushroom /ˈmʌʃrʊm/ [A2]
+  - 胡萝卜: carrot /ˈkærət/ [A2] √
+  - 生菜: lettuce /ˈletɪs/ [B1]
+  - 菠菜: spinach /ˈspɪnɪtʃ/ [B1]
   - 空心菜: water spinach /ˈwɔːtə ˈspɪnɪtʃ/
   - 青椒, 甜椒: sweet pepper /swiːt ˈpepə/ √, bell pepper /bel ˈpepə/
   - 红辣椒: chili pepper /ˈtʃɪli ˈpepə/ √
   - 葱: green onion /ɡriːn ˈʌnjən/
-- 饮料: drink /drɪŋk/
-  - 茶: tea /tiː/ √
-  - 咖啡: coffee /ˈkɔːfi/ √
-  - 奶: milk /mɪlk/ √
-  - 酸奶: yogurt /ˈjɒɡət/ √
-  - 果汁: juice /dʒuːs/ √
-  - 柠檬水: lemonade /ˌleməˈneɪd/
+- 饮料: drink /drɪŋk/ [A1]
+  - 茶: tea /tiː/ [A1] √
+  - 咖啡: coffee /ˈkɔːfi/ [A1] √
+  - 奶: milk /mɪlk/ [A1] √
+  - 酸奶: yogurt /ˈjɒɡət/ [A2] √
+  - 果汁: juice /dʒuːs/ [A1] √
+  - 柠檬水: lemonade /ˌleməˈneɪd/ [A2]
   - 米酒: rice wine /raɪs waɪn/
   - 黄酒: huangjiu（拼音）√
   - 雪碧: sprite /spraɪt/
@@ -1514,21 +1513,21 @@
 - 调味料: condiments /ˈkɒndɪmənts/
   - 酱油: soy sauce /sɔɪ sɔːs/
   - 番茄酱: ketchup /ˈketʃəp/
-  - 醋: vinegar /ˈvɪnɪɡə/ √
-  - 盐: salt /sɔːlt/ √  
-  - 糖: sugar /ˈʃʊɡə/ √
+  - 醋: vinegar /ˈvɪnɪɡə/ [B2] √
+  - 盐: salt /sɔːlt/ [A1] √  
+  - 糖: sugar /ˈʃʊɡə/ [A1] √
 #### 烹饪: cooking /ˈkʊkɪŋ/ [A2]
-- 煮: boil /bɔɪl/
-- 炒, 煎: fry /fraɪ/
+- 煮: boil /bɔɪl/ [B1]
+- 炒, 煎: fry /fraɪ/ [B1]
 - 炸: deep-fry /diːp fraɪ/
 - 蒸: steam /stiːm/
-- 烧烤: grill /ɡrɪl/
-- 烘焙: bake /beɪk/
-- 烤: roast /rəʊst/
-- 削: peel /piːl/
-- 切: cut /kʌt/
+- 烧烤: grill /ɡrɪl/ [B1]
+- 烘焙: bake /beɪk/ [A2]
+- 烤: roast /rəʊst/ [A2]
+- 削: peel /piːl/ [B2]
+- 切: cut /kʌt/ [A2]
 #### 旅行: travel /ˈtrævl/ [A1], the trip /ðə trɪp/ [A2]
-- 行李: baggage /ˈbæɡɪdʒ/（美）, luggage /ˈlʌɡɪdʒ/（英）
+- 行李: luggage /ˈlʌɡɪdʒ/（英）, baggage /ˈbæɡɪdʒ/（美）
 #### 运动: sports /spɔːts/ [A1]
 - 篮球: basketball /ˈbɑːskɪtbɔːl/ √
 - 足球: football /ˈfʊtbɔːl/（英）√, soccer /ˈsɒkə/（美）√
@@ -1556,7 +1555,7 @@
 - 自行车: bike /baɪk/, bicycle /ˈbaɪsɪkl/ √
 - 雪橇: sleigh /sleɪ/
 - 平衡车: balance bike /ˈbæləns baɪk/ √
-- 跳绳: jump rope /dʒʌmp rəʊp/（美）√, skipping rope /skɪpɪŋ rəʊp/（英）
+- 跳绳: skipping rope /skɪpɪŋ rəʊp/（英）, jump rope /dʒʌmp rəʊp/（美）√
 - 钓鱼竿: fishing rod /ˈfɪʃɪŋ rɒd/
 - 平角游泳裤: swimming trunks /ˈswɪmɪŋ trʌŋks/
 - 三角游泳裤: swimming brief /ˈswɪmɪŋ briːf/
@@ -1611,7 +1610,7 @@
 - 冒险: adventure /ədˈventʃə/
 - 技能: skill /skɪl/
 - 某种东西: whatsit /ˈwɒtsɪt/ [ORT5]
-- 假期: vacation /veɪˈkeɪʃn/（美）, holiday /ˈhɒlədeɪ/（英）√
+- 假期: holiday /ˈhɒlədeɪ/（英）√, vacation /veɪˈkeɪʃn/（美）
 - 事情, 东西: thing /θɪŋ/
 - 小心: caution /ˈkɔːʃn/
 - 产品: product /ˈprɒdʌkt/
@@ -1669,7 +1668,7 @@
 - 旋律、曲调: tune /tjuːn/
 - 节奏: rhythm /ˈrɪðəm/
 - 歌曲: song /sɒŋ/ √
-- 电影: movie /ˈmuːvi/（美）, film /fɪlm/（英）
+- 电影: film /fɪlm/（英）, movie /ˈmuːvi/（美）
 - 卡通: cartoon /kɑːˈtuːn/
 - 变: presto /ˈprestəʊ/ √
 - 马戏: circus /ˈsɜːkəs/
