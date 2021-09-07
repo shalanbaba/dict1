@@ -1623,99 +1623,96 @@
 - 规则: rule /ruːl/ [B1]
 #### 教育: education /ˌedʒuˈkeɪʃn/ [B1]
 - 考试: examination /ɪɡˌzæmɪˈneɪʃn/ [A2]
-- 班级: class /klɑːs/ √
-- 课: lesson /ˈlesn/
-- 托班: daycare /ˈdeɪkeə/
+- 班级: class /klɑːs/ [A1] √
+- 课: lesson /ˈlesn/ [A1]
+- 托班: daycare /ˈdeɪkeə/ [C1]
 - 小班: preschool /ˈpriːskuːl/
 - 中班: prekindergarten /priː'kɪndəgɑ:tn/
 - 大班: kindergarten /ˈkɪndəɡɑːtn/ √
 - 一年级: first grade /fɜːst ɡreɪd/
 - 体育: PE /ˌpiː ˈiː/ √, physical education /ˈfɪzɪkl ˌedʒuˈkeɪʃn/
-- 艺术: art /ɑːt/
+- 艺术: art /ɑːt/ [A2]
 #### 金融: finance /faɪˈnæns/ [B2]
-- 股市: stock /stɒk/
-- 保险: insurance /ɪnˈʃʊərəns/
-- 钱: money /ˈmʌni/ √
-- 小费: tip /tɪp/
-- 税: tax /tæks/
+- 股市: stock market /stɒk ˈmɑːkɪt/ [C1]
+- 保险: insurance /ɪnˈʃʊərəns/ [B2]
+- 钱: money /ˈmʌni/ [A1] √
+- 小费: tip /tɪp/ [B1]
+- 税: tax /tæks/ [B1]
 #### 货币: currencies /ˈkʌrənsiz/ [B1]
 - 人民币: chinese yuan /ˌtʃaɪˈniːz juˈɑːn/, renminbi /ˈrenmɪnbi/
 - 港元: hong kong dollar /ˈhɔŋ ˈkɔŋ ˈdɒlə/
 - 美元: united states dollar /juˈnaɪtɪd steɪts ˈdɒlə/
 - 英镑: great britain pound /ˌɡreɪt ˈbrɪtn paʊnd/
 - 单位: units /ˈjuːnɪts/
-  - 镑: pound /paʊnd/ √
-  - 十分钱: dime /daɪm/
-  - 一分钱: penny /ˈpeni/
+  - 镑: pound /paʊnd/ [A2] √
+  - 十分钱: dime /daɪm/ [C1]
+  - 一分钱: penny /ˈpeni/ [B1]
 #### 购物: shopping /ˈʃɒpɪŋ/ [A2] √
-- 卖: sale /seɪl/
-- 买: buy /baɪ/
-- 折扣: discount /ˈdɪskaʊnt/
+- 卖: sale /seɪl/ [B2]
+- 买: purchase /baɪ/ [B2]
+- 折扣: discount /ˈdɪskaʊnt/ [A2]
 #### 聚会: the party /ðə ˈpɑːti/ [A1] √
-- 气球: balloon /bəˈluːn/ √
-- 礼物: present /ˈpreznt/ √
-- 蜡烛: candle /ˈkændl/ √
-- 火柴: match /mætʃ/
-- 旗: flag /flæɡ/
-- 干杯: cheers /tʃɪəz/
+- 气球: balloon /bəˈluːn/ [A2] √
+- 礼物: present /ˈpreznt/ [A2] √
+- 蜡烛: candle /ˈkændl/ [B1] √
+- 火柴: match /mætʃ/ [B2]
+- 旗: flag /flæɡ/ [B1]
 - 篝火: campfire /ˈkæmpfaɪə/
 #### 演出: the performance /ðə pəˈfɔːməns/ [B1] √, the show /ðə ʃəʊ/ [A2] √
-- 座位: seat /siːt/ √
+- 座位: seat /siːt/ [A2] √
 - 戏剧, 话剧: drama /ˈdrɑːmə/ [B1]
 - 歌剧: opera /ˈɒprə/ [A2]
 - 演讲: speech /spiːtʃ/ [B2]
-- 舞台: stage /steɪdʒ/ √
-- 音乐会: concert /ˈkɒnsət/
-- 音乐: music /ˈmjuːzɪk/ √
-- 旋律、曲调: tune /tjuːn/
-- 节奏: rhythm /ˈrɪðəm/
-- 歌曲: song /sɒŋ/ √
-- 电影: film /fɪlm/（英）, movie /ˈmuːvi/（美）
-- 卡通: cartoon /kɑːˈtuːn/
-- 变: presto /ˈprestəʊ/ √
-- 马戏: circus /ˈsɜːkəs/
-- 戏法: juggling /ˈdʒʌɡlɪŋ/
+- 舞台: stage /steɪdʒ/ [A2] √
+- 音乐会: concert /ˈkɒnsət/ [A2]
+- 音乐: music /ˈmjuːzɪk/ [A1] √
+- 旋律, 曲调: tune /tjuːn/ [C1]
+- 节奏: rhythm /ˈrɪðəm/ [B2]
+- 歌曲: song /sɒŋ/ [A2] √
+- 电影: film /fɪlm/（英）[A1], movie /ˈmuːvi/（美）[A1]
+- 卡通: cartoon /kɑːˈtuːn/ [A2]
+- 马戏: circus /ˈsɜːkəs/ [B1]
+- 抛接杂技: juggling /ˈdʒʌɡlɪŋ/
 #### 典礼: ceremonies /ˈserəməniz/ [B1]
-- 婚礼: wedding /ˈwedɪŋ/
-- 葬礼: funeral /ˈfjuːnərəl/
+- 婚礼: wedding /ˈwedɪŋ/ [B1]
+- 葬礼: funeral /ˈfjuːnərəl/ [B2]
 #### 故事: the story /ðə ˈstɔːri/ [A2]
-- 宝藏: treasure /ˈtreʒə/
+- 宝藏: treasure /ˈtreʒə/ [B2]
 - 精灵: elf /elf/
 - 圣诞老人: father christmas /ˈfɑːðə ˈkrɪsməs/, santa claus /ˈsæntə klɔːz/
 - 美人鱼: mermaid /ˈmɜːmeɪd/
 - 独角兽: unicorn /ˈjuːnɪkɔːn/
-- 怪物: monster /ˈmɒnstə/
+- 怪物: monster /ˈmɒnstə/ [B1]
 - 野兽: beast /biːst/
-- 神: god /ɡɒd/
+- 神: god /ɡɒd/ [A2]
 - 变形金刚: transformer /trænsˈfɔːmə/
 #### 武装部队: armed forces /ɑːmd ˈfɔːsɪz/
-- 海军: navy /ˈneɪvi/
-- 陆军: army /ˈɑːmi/
-- 空军: air force /ˈeə fɔːs/
+- 海军: navy /ˈneɪvi/ [B2]
+- 陆军: army /ˈɑːmi/ [B1]
+- 空军: air force /ˈeə fɔːs/ [B1]
 - 海军陆战队: marine corps /məˈriːn kɔː/
 #### 军事活动: military actions /ˈmɪlətri ˈækʃnz/
 - 站岗: stand guard /stænd ɡɑːd/
 #### 武器: weapons /ˈwepən/ [B2]
-- 弓: bow /bəʊ/
-- 箭: arrow /ˈærəʊ/
-- 盾: shield /ʃiːld/
-- 盔甲: armour /ˈɑːmə/
-- 剑: sword /sɔːd/
-- 枪: gun /ɡʌn/ √
+- 弓: bow /bəʊ/ [B2]
+- 箭: arrow /ˈærəʊ/ [B2]
+- 盾: shield /ʃiːld/ [C2]
+- 盔甲: armour（英）, armor（美）/ˈɑːmə/
+- 剑: sword /sɔːd/ [B2]
+- 枪: gun /ɡʌn/ [B1] √
 - 机枪: machine gun /məˈʃiːn ɡʌn/
 - 手枪: pistol /ˈpɪstl/
 - 狙击步枪: snipe rifle /snaɪp ˈraɪfl/
 - 自动步枪: automatic rifle /ˌɔːtəˈmætɪk ˈraɪfl/
-- 子弹: bullet /ˈbʊlɪt/
-- 坦克: tank /tæŋk/ √
+- 子弹: bullet /ˈbʊlɪt/ [B2]
+- 坦克: tank /tæŋk/ [C1] √
 - 战斗机: fighter plane /ˈfaɪtə pleɪn/ √
 - 雷达: radar /ˈreɪdɑː/
-- 导弹: missile /ˈmɪsl/ √
+- 导弹: missile /ˈmɪsl/ [C2] √
 - 航空母舰: aircraft carrier /ˈeəkrɑːft kæriə/
 - 战列舰: battleship /ˈbætlʃɪp/
-- 炸弹: bomb /bɒm/ √
-- 轰炸机: bomber /ˈbɒmə/ √
-- 舰: ship /ʃɪp/ √
+- 炸弹: bomb /bɒm/ [B1] √
+- 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/ √
 #### 动词: verbs /vɜːbz/ [A2]
 - 迎接: greet /ɡriːt/ [B1]
@@ -1882,3 +1879,4 @@
 - 好极了: hooray /huˈreɪ/ √
 - 好: OK /əʊˈkeɪ/ [A1] √
 - 变: presto /ˈprestəʊ/ √
+- 干杯: cheers /tʃɪəz/ [C2]
