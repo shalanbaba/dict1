@@ -1530,20 +1530,20 @@
 #### 旅行: travel /ˈtrævl/ [A1], the trip /ðə trɪp/ [A2]
 - 行李: luggage /ˈlʌɡɪdʒ/（英）[A2], baggage /ˈbæɡɪdʒ/（美）[B1]
 #### 运动: sports /spɔːts/ [A1]
-- 篮球: basketball /ˈbɑːskɪtbɔːl/ √
-- 足球: football /ˈfʊtbɔːl/（英）√, soccer /ˈsɒkə/（美）√
-- 网球: tennis /ˈtenɪs/ √
-- 排球: volleyball /ˈvɒlibɔːl/
-- 棒球: baseball /ˈbeɪsbɔːl/
-- 橄榄球: football /ˈfʊtbɔːl/ √
-- 羽毛球: badminton /ˈbædmɪntən/
-- 高尔夫: golf /ɡɒlf/
-- 徒步: hike /haɪk/ √
+- 篮球: basketball /ˈbɑːskɪtbɔːl/ [A1] √
+- 足球: football /ˈfʊtbɔːl/（英）[A1] √, soccer /ˈsɒkə/（美）[A2] √
+- 网球: tennis /ˈtenɪs/ [A1] √
+- 排球: volleyball /ˈvɒlibɔːl/ [A2]
+- 棒球: baseball /ˈbeɪsbɔːl/ [A2]
+- 橄榄球: football /ˈfʊtbɔːl/ [A2] √
+- 羽毛球: badminton /ˈbædmɪntən/ [A2]
+- 高尔夫: golf /ɡɒlf/ [A2]
+- 徒步: hiking /ˈhaɪkɪŋ/ [A2] √
 - 保龄球: bowling /ˈbəʊlɪŋ/ [ORT4]
-- 拳击: boxing /ˈbɒksɪŋ/
-- 体操: gymnastics /dʒɪmˈnæstɪks/
-- 健身: fitness /ˈfɪtnəs/
-- 乒乓球: table tennis /ˈteɪbl tenɪs/
+- 拳击: boxing /ˈbɒksɪŋ/ [B1]
+- 体操: gymnastics /dʒɪmˈnæstɪks/ [B1]
+- 乒乓球: table tennis /ˈteɪbl tenɪs/ [A2]
+- 游泳: swimming /ˈswɪmɪŋ/ [A2]
 #### 运动装备: sports equipments /spɔːts ɪˈkwɪpmənts/
 - 头盔: helmet /ˈhelmɪt/ √
 - 球拍: racket /ˈrækɪt/
