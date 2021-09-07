@@ -1602,25 +1602,25 @@
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
 - 家庭: family /ˈfæməli/ [A1]
-- 结婚: marriage /ˈmærɪdʒ/
-- 离婚: divorce /dɪˈvɔːs/
+- 结婚: marriage /ˈmærɪdʒ/ [B1]
+- 离婚: divorce /dɪˈvɔːs/ [B1]
 - 住户: household /ˈhaʊshəʊld/ [B2]
-- 娱乐: recreation /ˌriːkriˈeɪʃn/
+- 娱乐: recreation /ˌriːkriˈeɪʃn/ [B2]
 - 沟通: communication /kəˌmjuːnɪˈkeɪʃn/ [B1]
-- 爱好: hobby /ˈhɒbi/
-- 恶作剧: trick /trɪk/
-- 冒险: adventure /ədˈventʃə/
-- 技能: skill /skɪl/
+- 爱好: hobby /ˈhɒbi/ [A2]
+- 恶作剧: trick /trɪk/ [B1]
+- 冒险: adventure /ədˈventʃə/ [A2]
+- 技能: skill /skɪl/ [B1]
 - 某种东西: whatsit /ˈwɒtsɪt/ [ORT5]
-- 假期: holiday /ˈhɒlədeɪ/（英）√, vacation /veɪˈkeɪʃn/（美）
-- 事情, 东西: thing /θɪŋ/
-- 小心: caution /ˈkɔːʃn/
-- 产品: product /ˈprɒdʌkt/
-- 奖品: prize /praɪz/
-- 包裹: package /ˈpækɪdʒ/
+- 假期: holiday /ˈhɒlədeɪ/（英）[A1] √, vacation /veɪˈkeɪʃn/（美）[A1]
+- 事情, 东西: thing /θɪŋ/ [A1]
+- 小心: caution /ˈkɔːʃn/ [C1]
+- 产品: product /ˈprɒdʌkt/ [B1]
+- 奖品: prize /praɪz/ [A2]
+- 包裹: package /ˈpækɪdʒ/ [B2]
 - 注意: attention /əˈtenʃn/ [B1]
 - 问候: greeting /ˈɡriːtɪŋ/ [B1]
-- 规则: rule /ruːl/
+- 规则: rule /ruːl/ [B1]
 #### 教育: education /ˌedʒuˈkeɪʃn/ [B1]
 - 考试: examination /ɪɡˌzæmɪˈneɪʃn/
 - 班级: class /klɑːs/ √
