@@ -736,6 +736,7 @@
 - 扫地车: sweeper /ˈswiːpə/
 - 公交车: bus /bʌs/ [A1] √
 - 摩托车: motorbike /ˈməʊtəbaɪk/ [A2] √, motorcycle /ˈməʊtəsaɪkl/ [A2] √
+- 平板摩托车: scooter /ˈskuːtə/ [A2]
 - 房车: camper van /ˈkæmpə væn/ √
 - 班车: shuttle bus /ˈʃʌtl bʌs/ √
 - 电动自行车: electric bicycle /ɪˈlektrɪk ˈbaɪsɪkl/ √
@@ -1545,29 +1546,29 @@
 - 乒乓球: table tennis /ˈteɪbl tenɪs/ [A2]
 - 游泳: swimming /ˈswɪmɪŋ/ [A2]
 #### 运动装备: sports equipments /spɔːts ɪˈkwɪpmənts/
-- 头盔: helmet /ˈhelmɪt/ √
-- 球拍: racket /ˈrækɪt/
-- 垫子: mat /mæt/
+- 头盔: helmet /ˈhelmɪt/ [B2] √
+- 球拍: racket /ˈrækɪt/ [A2]
+- 球棒（棒球）: bat /bæt/ [A1]
+- 垫子: mat /mæt/ [C1]
 - 野餐垫: picnic rug /ˈpɪknɪk rʌɡ/
-- 口哨: whistle /ˈwɪsl/ √
-- 帐篷: tent /tent/ √
+- 口哨: whistle /ˈwɪsl/ [B2] √
+- 帐篷: tent /tent/ [B1] √
 - 蹦床: trampoline /ˌtræmpəˈliːn/ √
 - 篮球筐: basketball hoop /ˈbɑːskɪtbɔːl huːp/
-- 自行车: bike /baɪk/, bicycle /ˈbaɪsɪkl/ √
+- 自行车: bike /baɪk/ [A2], bicycle /ˈbaɪsɪkl/ [A2] √
 - 雪橇: sleigh /sleɪ/
 - 平衡车: balance bike /ˈbæləns baɪk/ √
 - 跳绳: skipping rope /skɪpɪŋ rəʊp/（英）, jump rope /dʒʌmp rəʊp/（美）√
 - 钓鱼竿: fishing rod /ˈfɪʃɪŋ rɒd/
 - 平角游泳裤: swimming trunks /ˈswɪmɪŋ trʌŋks/
 - 三角游泳裤: swimming brief /ˈswɪmɪŋ briːf/
-- 游泳衣: swimming shirt /ˈswɪmɪŋ ʃɜːt/
-- 降落伞: parachute /ˈpærəʃuːt/
+- 游泳衣: swimming costume /ˈswɪmɪŋ ˈkɒstjuːm/ [A2]
+- 降落伞: parachute /ˈpærəʃuːt/ [B2]
 - 拐杖: cane /keɪn/
-- 雨伞: umbrella /ʌmˈbrelə/
+- 雨伞: umbrella /ʌmˈbrelə/ [A2]
 - 救生衣: life vest /laɪf vest/
 - 游泳圈: swimming ring /ˈswɪmɪŋ rɪŋ/
 - 救生圈: life buoy /laɪf bɔɪ/
-- 球棒（棒球）: bat /bæt/
 #### 游戏: games /ɡeɪmz/ [A1]
 - 捉迷藏: hide and seek /haɪd ənd siːk/ √
 - 躲猫猫: peekaboo /ˈpiːkəbuː/ √
