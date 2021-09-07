@@ -1622,7 +1622,7 @@
 - 问候: greeting /ˈɡriːtɪŋ/ [B1]
 - 规则: rule /ruːl/ [B1]
 #### 教育: education /ˌedʒuˈkeɪʃn/ [B1]
-- 考试: examination /ɪɡˌzæmɪˈneɪʃn/
+- 考试: examination /ɪɡˌzæmɪˈneɪʃn/ [A2]
 - 班级: class /klɑːs/ √
 - 课: lesson /ˈlesn/
 - 托班: daycare /ˈdeɪkeə/
