@@ -1586,19 +1586,19 @@
 - 骰子: dice /daɪs/
 - 弹珠: marble /ˈmɑːbl/
 #### 乐器: musical instruments /ˈmjuːzɪkl ˈɪnstrʊmənts/
-- 吉他: guitar /ɡɪˈtɑː/
-- 钢琴: piano /piˈænəʊ/
-- 小提琴: violin /ˌvaɪəˈlɪn/
-- 鼓: drum /drʌm/
-- 小号: trumpet /ˈtrʌmpɪt/ √
+- 吉他: guitar /ɡɪˈtɑː/ [A1]
+- 钢琴: piano /piˈænəʊ/ [A2]
+- 小提琴: violin /ˌvaɪəˈlɪn/ [A2]
+- 鼓: drum /drʌm/ [A2]
+- 小号: trumpet /ˈtrʌmpɪt/ [B1] √
 #### 社会: society /səˈsaɪəti/ [B1]
-- 法律: law /lɔː/
-- 政府: government /ˈɡʌvənmənt/
-- 政党: party /ˈpɑːti/
+- 法律: law /lɔː/ [B2]
+- 政府: government /ˈɡʌvənmənt/ [B1]
+- 政党: party /ˈpɑːti/ [B1]
 - 峰会: summit /ˈsʌmɪt/ [C2]
 - 俱乐部: club /klʌb/ [A2]
-- 公司: companies /ˈkʌmpəniz/
-  - 航空公司: airline /ˈeəlaɪn/
+- 公司: companies /ˈkʌmpəniz/ [A2]
+  - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
 - 家庭: family /ˈfæməli/ [A1]
