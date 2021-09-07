@@ -1719,57 +1719,57 @@
 - 感谢: thank /θæŋk/ √
 - 织: knit /nɪt/ [B1]
 - 广播: broadcast /ˈbrɔːdkɑːst/ [B2]
-- 射击: shoot /ʃuːt/
-- 保护: protect /prəˈtekt/
-- 救援: rescue /ˈreskjuː/
-- 擦除: erase /ɪˈreɪz/
-- 检查: check /tʃek/
+- 射击: shoot /ʃuːt/ [B1]
+- 保护: protect /prəˈtekt/ [B1]
+- 救援: rescue /ˈreskjuː/ [B1]
+- 擦除: erase /ɪˈreɪz/ [B2]
+- 检查: check /tʃek/ [A2]
 - 巡逻: patrol /pəˈtrəʊl/
-- 吻: kiss /kɪs/ √
-- 追逐: chase /tʃeɪs/ √
-- 帮助: help /help/ √
-- 打架: fight /faɪt/ √
+- 吻: kiss /kɪs/ [A2] √
+- 追逐: chase /tʃeɪs/ [B2] √
+- 帮助: help /help/ [A1] √
+- 打架: fight /faɪt/ [B1] √
 - 偎依: snuggle /ˈsnʌɡl/ √
-- 洗: wash /wɒʃ/ √
-- 喝: drink /drɪŋk/ √
-- 吃: eat /iːt/ √
-- 攀登: climb /klaɪm/ √
-- 爬: crawl /krɔːl/ √
-- 骑: ride /raɪd/ √
+- 洗: wash /wɒʃ/ [A1] √
+- 喝: drink /drɪŋk/ [A1] √
+- 吃: eat /iːt/ [A1] √
+- 攀登: climb /klaɪm/ [A2] √
+- 爬: crawl /krɔːl/ [B2] √
+- 骑: ride /raɪd/ [A1] √
 - 鞠躬: bow /baʊ/
-- 复制: copy /ˈkɒpi/
+- 复制: copy /ˈkɒpi/ [A2]
 - 粘贴: paste /peɪst/
-- 跳水, 潜水: dive /daɪv/
+- 跳水, 潜水: dive /daɪv/ [B1]
 - 跋涉: trek /trek/
-- 训练: train /treɪn/
-- 伤害: hurt /hɜːt/ √
+- 训练: train /treɪn/ [B1]
+- 伤害: hurt /hɜːt/ [A2] √
 - 滑动: slide /slaɪd/
-- 钓鱼: fish /fɪʃ/
-- 划船: row /rəʊ/ √
-- 走: walk /wɔːk/ √
-- 慢跑: jog /dʒɒɡ/
-- 跑: run /rʌn/ √
-- 伸展: stretch /stretʃ/
+- 钓鱼: fish /fɪʃ/ [B1]
+- 划船: row /rəʊ/ [B2] √
+- 走: walk /wɔːk/ [A1] √
+- 慢跑: jog /dʒɒɡ/ [B1]
+- 跑: run /rʌn/ [A1] √
+- 伸展: stretch /stretʃ/ [B2]
 - 滚: roll /rəʊl/
-- 跳: jump /dʒʌmp/ √
-- 挥: wave /weɪv/ √
-- 跺脚: stamp /stæmp/ √
-- 弯曲: bend /bend/ √
-- 坐: sit /sɪt/ √
-- 说: talk /tɔːk/
-- 站: stand /stænd/ √
-- 听: listen /ˈlɪsn/
-- 跳舞: dance /dæns/ √
-- 拍: clap /klæp/ √
-- 旋转: spin /spɪn/ √
-- 轻拍: pat /pæt/
-- 滑雪: ski /skiː/
-- 看: see /siː/ √
-- 尝: taste /teɪst/
-- 听: hear /hɪə/ √
-- 闻: smell /smel/ √
-- 摸: touch /tʌtʃ/ √
-- 哭: cry /kraɪ/ √
+- 跳: jump /dʒʌmp/ [A2] √
+- 挥: wave /weɪv/ [B1] √
+- 跺脚: stamp /stæmp/ [C2] √
+- 弯曲: bend /bend/ [B2] √
+- 坐: sit /sɪt/ [A1] √
+- 说: talk /tɔːk/ [A1]
+- 站: stand /stænd/ [A2] √
+- 听: listen /ˈlɪsn/ [A1]
+- 跳舞: dance /dæns/ [A1] √
+- 拍: clap /klæp/ [B1] √
+- 旋转: spin /spɪn/ [C1] √
+- 轻拍: pat /pæt/ [C2]
+- 滑雪: ski /skiː/ [B1]
+- 看: see /siː/ [A1] √
+- 尝: taste /teɪst/ [B1]
+- 听: hear /hɪə/ [A1] √
+- 闻: smell /smel/ [B1] √
+- 摸: touch /tʌtʃ/ [B1] √
+- 哭: cry /kraɪ/ [A2] √
 - 笑: laugh /lɑːf/ √, smile /smaɪl/ √
 - 玩: play /pleɪ/ √
 - 处理: handle /ˈhændl/
