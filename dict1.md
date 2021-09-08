@@ -1803,34 +1803,33 @@
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
 - 怀孕的: pregnant /ˈpreɡnənt/ [B1]
 - 年轻的: young /jʌŋ/ [A1]
-- 紧急的: emergency /ɪˈmɜːdʒənsi/
-- 正确的: correct /kəˈrekt/
-- 聪明的: smart /smɑːt/
-- 贪婪的: greedy /ˈɡriːdi/
-- 拥挤的: crowded /ˈkraʊdɪd/
+- 紧急的: urgent /ˈɜːdʒənt/ [B1]
+- 正确的: correct /kəˈrekt/ [B1]
+- 聪明的: smart /smɑːt/ [B1]
+- 贪婪的: greedy /ˈɡriːdi/ [B2]
+- 拥挤的: crowded /ˈkraʊdɪd/ [A2]
 - 毛茸茸的: furry /ˈfɜːri/
-- 有趣的: interesting /ˈɪntrəstɪŋ/
-- 搞笑的: funny /ˈfʌni/ √
-- 美丽的: beautiful /ˈbjuːtɪfl/
-- 热的: hot /hɒt/ √
-- 冷的: cold /kəʊld/ √
-- 长的: long /lɒŋ/
-- 短的: short /ʃɔːt/
-- 大的: large /lɑːdʒ, big /bɪɡ/ √
-- 小的: little /ˈlɪtl/ √, small /smɔːl/ √
-- 少的: little /ˈlɪtl/
+- 有趣的: interesting /ˈɪntrəstɪŋ/ [A1]
+- 搞笑的: funny /ˈfʌni/ [A1] √
+- 美丽的: beautiful /ˈbjuːtɪfl/ [A1]
+- 热的: hot /hɒt/ [A1] √
+- 冷的: cold /kəʊld/ [A1] √
+- 长的（时间, 距离）: long /lɒŋ/ [A1]
+- 短的（时间, 距离）: short /ʃɔːt/ [A1]
+- 大的（大小, 数量）: large /lɑːdʒ/ [A2], big /bɪɡ/ √
+- 小的（大小, 数量）: little /ˈlɪtl/ [A1] √, small /smɔːl/ [A1] √
 - 更少的: less /les/
 - 最少的: least /liːst/
 - 老的, 旧的: old /əʊld/ [A1]
 - 新的: new /njuː/ [A1]
-- 便宜的: cheap /tʃiːp/
-- 昂贵的: expensive /ɪkˈspensɪv/
-- 好的: good /ɡʊd/ √
-- 更好的: better /ˈbetə/
-- 最好的: best /best/
-- 坏的: bad /bæd/
-- 更坏的: worse /wɜːs/
-- 最坏的: worst /wɜːst/
+- 便宜的: cheap /tʃiːp/ [A1]
+- 昂贵的: expensive /ɪkˈspensɪv/ [A1]
+- 好的: good /ɡʊd/ [A1] √
+- 更好的: better /ˈbetə/ [A1]
+- 最好的: best /best/ [A1]
+- 坏的: bad /bæd/ [A1]
+- 更坏的: worse /wɜːs/ [A2]
+- 最坏的: worst /wɜːst/ [A2]
 - 多的: much /mʌtʃ/
 - 更多的: more /mɔː/
 - 最多的: most /məʊst/
