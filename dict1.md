@@ -1770,28 +1770,29 @@
 - 闻: smell /smel/ [B1] √
 - 摸: touch /tʌtʃ/ [B1] √
 - 哭: cry /kraɪ/ [A2] √
-- 笑: laugh /lɑːf/ √, smile /smaɪl/ √
-- 玩: play /pleɪ/ √
-- 处理: handle /ˈhændl/
-- 穿、戴: wear /weə/ √
-- 写: write /raɪt/
-- 读: read /riːd/ √
-- 画: draw /drɔː/ √
-- 出生: born /bɔːn/
-- 死亡: death /deθ/
-- 睡: sleep /sliːp/ √
-- 打盹: nap /næp/
-- 梦: dream /driːm/ √
-- 刷: brush /brʌʃ/
-- 工作: work /wɜːk/
-- 跪: kneel /niːl/
-- 躺: lie /laɪ/
+- 笑: laugh /lɑːf/ [A2] √
+- 微笑: smile /smaɪl/ [B1] √
+- 玩: play /pleɪ/ [A1] √
+- 处理: handle /ˈhændl/ [B1]
+- 穿, 戴: wear /weə/ [A1] √
+- 写: write /raɪt/ [A1]
+- 读: read /riːd/ [A1] √
+- 画: draw [A1] /drɔː/ √
+- 出生: born /bɔːn/ [A2]
+- 死亡: die /daɪ/ [A1]
+- 睡: sleep /sliːp/ [A1] √
+- 打盹: nap /næp/ [C1]
+- 做梦: dream /driːm/ [A2] √
+- 刷: brush /brʌʃ/ [A2]
+- 工作: work /wɜːk/ [A1]
+- 跪: kneel /niːl/ [B2]
+- 躺: lie /laɪ/ [A2]
 - 蹲: squat /skwɒt/
 - 蹲伏: crouch /kraʊtʃ/
-- 敲: knock /nɒk/
+- 敲: knock /nɒk/ [B1]
 - 孵化: hatch /hætʃ/ √
-- 融化: melt /melt/
-- 猜: guess /ɡes/
+- 融化: melt /melt/ [B2]
+- 猜: guess /ɡes/ [A2]
 - 行进: march /mɑːtʃ/ [C1] √
 - 露营: camp /kæmp/ [A2] √
 - 挠痒: tickle /ˈtɪkl/ √
