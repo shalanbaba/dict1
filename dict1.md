@@ -1852,6 +1852,8 @@
 - 为什么: why /waɪ/ [A1]
 - 怎么样: how /haʊ/ [A2] √
 - 然而: however /haʊˈevə/ [A2]
+#### 介词: preposition /ˌprepəˈzɪʃn/ [B1]
+- 来自: from /frɒm/ [A1]
 #### 连词: conjunction /kənˈdʒʌŋkʃn/ [B2]
 - 和: and /ænd/ [A1]
 - 或: or /ɔː/ [A1]

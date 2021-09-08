@@ -112,5 +112,7 @@
 #### 动词: verbs
 #### 形容词: adjectives
 #### 副词: adverbs
+#### 介词: preposition
+#### 连词: conjunction
 #### 代词: pronouns
 #### 感叹词: exclamations
