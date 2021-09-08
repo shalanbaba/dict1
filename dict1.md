@@ -1845,7 +1845,19 @@
 - 不: no /nəʊ/ [A1] √
 - 进: in /ɪn/ [A2] √
 - 出: out /aʊt/ [B1] √
+- 也: also /ˈɔːlsəʊ/ [A1]
 - 一起: together /təˈɡeðə/ [A1]
+- 什么时候: when /wen/ [A1] √
+- 什么地方: where /weə/ [A1] √
+- 为什么: why /waɪ/ [A1]
+- 怎么样: how /haʊ/ [A2] √
+- 然而: however /haʊˈevə/ [A2]
+#### 连词: conjunction /kənˈdʒʌŋkʃn/ [B2]
+- 和: and /ænd/ [A1]
+- 或: or /ɔː/ [A1]
+- 但是: but /bʌt/ [A1]
+- 无论哪里: wherever /weərˈevə/ [B1]
+- 当: while /waɪl/ [A2]
 #### 代词: pronouns /ˈprəʊnaʊnz/ [B1]
 - 我: I /aɪ/（主）[A1] √, me /miː/（宾）[A1] √
 - 你: you /juː/ [A1] √
@@ -1858,20 +1870,19 @@
 - 你的: your /jɔː/（形）[A1], yours /jɔːz/（名）[A2]
 - 我们的: our /ˈaʊə/（形）[A1], ours /ˈaʊəz/（名）[A2]
 - 他们的: their /ðeə/（形）[A1], theirs /ðeəz/（名）[A2]
-- 一些事物: something /ˈsʌmθɪŋ/ [A1] 
+- 一些事物: something /ˈsʌmθɪŋ/ [A1]
 - 任何事物: anything /ˈeniθɪŋ/ [A1]
 - 所有事物: everything /ˈevriθɪŋ/ [A2]
 - 没有什么: nothing /ˈnʌθɪŋ/ [A2]
 - 这: this /ðɪs/ [A2] √
 - 那: that /ðæt/ [A1] √
 - 什么事物: what /wɒt/ [A1] √
-- 什么时候: when /wen/ √
 - 谁: who /huː/ [A1] √
-- 谁的: whose /huːz/
-- 哪个: which /wɪtʃ/ √
-- 无论什么: whatever /wɒtˈevə/
-- 无论哪个: whichever /wɪtʃˈevə/
-- 无论谁: whoever /huːˈevə/
+- 谁的: whose /huːz/ [B1]
+- 哪个: which /wɪtʃ/ [A2] √
+- 无论什么: whatever /wɒtˈevə/ [B1]
+- 无论哪个: whichever /wɪtʃˈevə/ [B2]
+- 无论谁: whoever /huːˈevə/  [B2]
 #### 感叹词: exclamations /ˌekskləˈmeɪʃnz/
 - 你好: hello /həˈləʊ/ [A1] √
 - 嗨: hi /haɪ/ [A1] √, hey /heɪ/ [A2] √
