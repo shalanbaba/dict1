@@ -1300,9 +1300,6 @@
 - 束: bunch /bʌntʃ/ [B1]
 - 堆: heap /hiːp/ [C2]
 - 滴: drop /drɒp/ [B1]
-- 很多: many /ˈmeni/ [A1]
-- 很少: few /fjuː/ [B1]
-- 一些: some /səm/ [A1], any /ˈeni/ [A1]
 - 一打: dozen /ˈdʌzn/（十二个）[B1]
 #### 方位: directions /dəˈrekʃnz/ [B1]
 - 东: east /iːst/ [A2]
@@ -1816,10 +1813,8 @@
 - 冷的: cold /kəʊld/ [A1] √
 - 长的（时间, 距离）: long /lɒŋ/ [A1]
 - 短的（时间, 距离）: short /ʃɔːt/ [A1]
-- 大的（大小, 数量）: large /lɑːdʒ/ [A2], big /bɪɡ/ √
-- 小的（大小, 数量）: little /ˈlɪtl/ [A1] √, small /smɔːl/ [A1] √
-- 更少的: less /les/
-- 最少的: least /liːst/
+- 大的（大小, 数量）: large /lɑːdʒ/ [A2], big /bɪɡ/ [A1] √
+- 小的（大小, 数量）: small /smɔːl/ [A1], little /ˈlɪtl/ [A1] √
 - 老的, 旧的: old /əʊld/ [A1]
 - 新的: new /njuː/ [A1]
 - 便宜的: cheap /tʃiːp/ [A1]
@@ -1830,43 +1825,48 @@
 - 坏的: bad /bæd/ [A1]
 - 更坏的: worse /wɜːs/ [A2]
 - 最坏的: worst /wɜːst/ [A2]
-- 多的: much /mʌtʃ/
-- 更多的: more /mɔː/
-- 最多的: most /məʊst/
-- 野生的: wild /waɪld/
-- 愚蠢的: stupid /ˈstjuːpɪd/
-- 脏的: dirty /ˈdɜːti/
+- 野生的: wild /waɪld/ [A2]
+- 愚蠢的: stupid /ˈstjuːpɪd/ [B1]
+- 脏的: dirty /ˈdɜːti/ [A2]
 - 极地的: polar /ˈpəʊlə/ √
-- 卡住的: stuck /stʌk/ √
-- 相同的: same /seɪm/
-- 不同的: different /ˈdɪfrənt/
+- 卡住的: stuck /stʌk/ [B2] √
+- 相同的: same /seɪm/ [A1]
+- 不同的: different /ˈdɪfrənt/ [A1]
+#### 限定词: determiner /dɪˈtɜːmɪnə/ [B2]
+- 一些: some /səm/ [A1], any /ˈeni/ [A1]
+- 很多: many /ˈmeni/ [A1], much /mʌtʃ/ [A2]
+- 更多: more /mɔː/ [A1]
+- 最多: most /məʊst/ [B1]
+- 很少: few /fjuː/ [B1], little /ˈlɪtl/ [B1]
+- 更少: less /les/ [A2]
+- 最少: least /liːst/ [B2]
 #### 副词: adverbs /ˈædvɜːbz/ [A2]
-- 是: yes /jes/ √
-- 不: no /nəʊ/ √
-- 进: in /ɪn/ √
-- 出: out /aʊt/ √
-- 一起: together /təˈɡeðə/
+- 是: yes /jes/ [A1] √
+- 不: no /nəʊ/ [A1] √
+- 进: in /ɪn/ [A2] √
+- 出: out /aʊt/ [B1] √
+- 一起: together /təˈɡeðə/ [A1]
 #### 代词: pronouns /ˈprəʊnaʊnz/ [B1]
 - 我: I /aɪ/（主）[A1] √, me /miː/（宾）[A1] √
-- 你: you /juː/ √
-- 他: he /hiː/（主）, him /hɪm/（宾）
-- 她: she /ʃiː/, her /hə/（宾）
-- 它: it /ɪt/ √
-- 我们: we /wiː/（主）, us /əs/（宾）
-- 我们的: our /ˈaʊə/（形）, ours /ˈaʊəz/（名）
-- 他们: they /ðeɪ/（主）, them /ðəm/（宾）
-- 我的: my /maɪ/（形）, mine /maɪn/（名）√
-- 你的: your /jɔː/（形）, yours /jɔːz/（名）
-- 他们的: their /ðeə/（形）, theirs /ðeəz/（名）
-- 一些事物: something /ˈsʌmθɪŋ/
-- 任何事物: anything /ˈeniθɪŋ/
-- 一切事物: everything /ˈevriθɪŋ/
-- 什么都没有: nothing /ˈnʌθɪŋ/
-- 这个: this /ðɪs/ √
-- 那个: that /ðæt/ √
-- 什么: what /wɒt/ √
+- 你: you /juː/ [A1] √
+- 他: he /hiː/（主）[A1], him /hɪm/（宾）[A1]
+- 她: she /ʃiː/ [A1], her /hə/（宾）[A1]
+- 它: it /ɪt/ [A1] √
+- 我们: we /wiː/（主）[A1], us /əs/（宾）[A1]
+- 他们: they /ðeɪ/（主）[A1], them /ðəm/（宾）[A1]
+- 我的: my /maɪ/（形）[A1], mine /maɪn/（名）[A2] √
+- 你的: your /jɔː/（形）[A1], yours /jɔːz/（名）[A2]
+- 我们的: our /ˈaʊə/（形）[A1], ours /ˈaʊəz/（名）[A2]
+- 他们的: their /ðeə/（形）[A1], theirs /ðeəz/（名）[A2]
+- 一些事物: something /ˈsʌmθɪŋ/ [A1] 
+- 任何事物: anything /ˈeniθɪŋ/ [A1]
+- 所有事物: everything /ˈevriθɪŋ/ [A2]
+- 没有什么: nothing /ˈnʌθɪŋ/ [A2]
+- 这: this /ðɪs/ [A2] √
+- 那: that /ðæt/ [A1] √
+- 什么事物: what /wɒt/ [A1] √
 - 什么时候: when /wen/ √
-- 谁: who /huː/ √
+- 谁: who /huː/ [A1] √
 - 谁的: whose /huːz/
 - 哪个: which /wɪtʃ/ √
 - 无论什么: whatever /wɒtˈevə/
