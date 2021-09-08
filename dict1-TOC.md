@@ -111,6 +111,7 @@
 
 #### 动词: verbs
 #### 形容词: adjectives
+#### 限定词: determiner
 #### 副词: adverbs
 #### 介词: preposition
 #### 连词: conjunction
