@@ -1832,7 +1832,7 @@
 - 卡住的: stuck /stʌk/ [B2] √
 - 相同的: same /seɪm/ [A1]
 - 不同的: different /ˈdɪfrənt/ [A1]
-#### 限定词: determiner /dɪˈtɜːmɪnə/ [B2]
+#### 限定词: determiners /dɪˈtɜːmɪnəz/ [B2]
 - 一些: some /səm/ [A1], any /ˈeni/ [A1]
 - 很多: many /ˈmeni/ [A1], much /mʌtʃ/ [A2]
 - 更多: more /mɔː/ [A1]
@@ -1852,9 +1852,9 @@
 - 为什么: why /waɪ/ [A1]
 - 怎么样: how /haʊ/ [A2] √
 - 然而: however /haʊˈevə/ [A2]
-#### 介词: preposition /ˌprepəˈzɪʃn/ [B1]
+#### 介词: prepositions /ˌprepəˈzɪʃnz/ [B1]
 - 来自: from /frɒm/ [A1]
-#### 连词: conjunction /kənˈdʒʌŋkʃn/ [B2]
+#### 连词: conjunctions /kənˈdʒʌŋkʃnz/ [B2]
 - 和: and /ænd/ [A1]
 - 或: or /ɔː/ [A1]
 - 但是: but /bʌt/ [A1]
