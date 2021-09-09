@@ -91,6 +91,7 @@
 - 拼写: spell /spel/ [A2]
 - 句子: sentence /ˈsentəns/ [A1]
 - 名词: noun /naʊn/ [A2]
+- 短语: phrase /freɪz/
 - 拼读: phonics /ˈfɒnɪks/
 - 语法: grammar /ˈɡræmə/ [A2]
 #### 符号: symbols /ˈsɪmblz/ [B2]
