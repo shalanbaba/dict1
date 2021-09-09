@@ -1887,7 +1887,7 @@
 - 无论什么: whatever /wɒtˈevə/ [B1]
 - 无论哪个: whichever /wɪtʃˈevə/ [B2]
 - 无论谁: whoever /huːˈevə/  [B2]
-#### 感叹词: exclamations /ˌekskləˈmeɪʃnz/
+#### 感叹词: exclamations /ˌekskləˈmeɪʃnz/, interjections /ˌɪntəˈdʒekʃnz/
 - 你好: hello /həˈləʊ/ [A1] √
 - 嗨: hi /haɪ/ [A1] √, hey /heɪ/ [A2] √
 - 再见: bye /baɪ/ [A1] √
