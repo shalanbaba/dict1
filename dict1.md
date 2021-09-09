@@ -92,6 +92,7 @@
 - 句子: sentence /ˈsentəns/ [A1]
 - 名词: noun /naʊn/ [A2]
 - 拼读: phonics /ˈfɒnɪks/
+- 语法: grammar /ˈɡræmə/ [A2]
 #### 符号: symbols /ˈsɪmblz/ [B2]
 - 标点符号: punctuation /ˌpʌŋktʃuˈeɪʃn/ [B1]
   - 破折号: dash /dæʃ/ [B2]
