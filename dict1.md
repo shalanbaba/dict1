@@ -1861,7 +1861,7 @@
 - 无论哪里: wherever /weərˈevə/ [B1]
 - 当: while /waɪl/ [A2]
 #### 代词: pronouns /ˈprəʊnaʊnz/ [B1]
-- 我: I /aɪ/（主）[A1][ORT1][SW] √, me /miː/（宾）[A1] √
+- 我: I /aɪ/（主）[A1][ORT1] √, me /miː/（宾）[A1] √
 - 你: you /juː/ [A1] √
 - 他: he /hiː/（主）[A1], him /hɪm/（宾）[A1]
 - 她: she /ʃiː/ [A1], her /hə/（宾）[A1]
