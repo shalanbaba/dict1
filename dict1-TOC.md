@@ -116,4 +116,4 @@
 #### 介词: prepositions
 #### 连词: conjunctions
 #### 代词: pronouns
-#### 感叹词: exclamations
+#### 感叹词: exclamations, interjections
