@@ -88,9 +88,9 @@
 - 字母表: alphabet /ˈælfəbet/ [B1]
 - 字母: letter /ˈletə/ [A2]
 - 单词: word /wɜːd/ [A1]
+- 名词: noun /naʊn/ [A2]
 - 拼写: spell /spel/ [A2]
 - 句子: sentence /ˈsentəns/ [A1]
-- 名词: noun /naʊn/ [A2]
 - 短语: phrase /freɪz/
 - 拼读: phonics /ˈfɒnɪks/
 - 语法: grammar /ˈɡræmə/ [A2]
@@ -648,10 +648,11 @@
 - 闸机: barrier /ˈbæriə/ [B2], turnstile /ˈtɜːnstaɪl/
 #### 机器: machines /məˈʃiːnz/ [A2]
 - 挖掘机: digger /ˈdɪɡə/
-- 混凝土搅拌车: concrete mixer /ˈkɒŋkriːt ˈmɪksə/
-- 塔吊: tower crane /ˈtaʊə kreɪn/
-- 吊车: mobile crane /ˈməʊbaɪl kreɪn/
+- 吊车: crane /kreɪn/
 - 绞车: winch /wɪntʃ/ √
+- 铲车: wheel loader /wiːl ˈləʊdə/
+- 叉车: fork lift /fɔːk lɪft/
+- 塔吊: tower crane /ˈtaʊə kreɪn/
 - 割草机: lawn mower /lɔːn ˈməʊə/
 #### 零件: parts /pɑːts/ [B2]
 - 螺丝: screw /skruː/
@@ -744,6 +745,8 @@
 - 电动自行车: electric bicycle /ɪˈlektrɪk ˈbaɪsɪkl/ √
 - 双层巴士: double-decker bus /ˈdʌbl ˈdekə bʌs/ √
 - 长途汽车: coach /kəʊtʃ/ [A2]（美）
+- 混凝土搅拌车: concrete mixer /ˈkɒŋkriːt ˈmɪksə/
+- 吊车: mobile crane /ˈməʊbaɪl kreɪn/
 #### 火车: trains /treɪnz/ [A1] √
 - 蒸汽火车: steam train /stiːm treɪn/, puffer billy /ˈpʌfə ˈbɪli/
 - 磁悬浮列车: maglev train /ˈmæɡlev treɪn/
@@ -1422,7 +1425,7 @@
 - 饼干: biscuit /ˈbɪskɪt/ [A1] √, cookie /ˈkʊki/ [A2] √, cracker /ˈkrækə/ [A1]
 - 甜甜圈: doughnut /ˈdəʊnʌt/ √
 - 馅饼: pie /paɪ/ [B1]
-- 吐司（面包）: toast /təʊst/ [A2]
+- 吐司: toast /təʊst/ [A2]
 - 披萨: pizza /ˈpiːtsə/ [A1] √
 - 肉圆: meatball /ˈmiːtbɔːl/
 - 泡菜: pickle /ˈpɪkl/
