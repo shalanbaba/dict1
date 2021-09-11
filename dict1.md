@@ -760,7 +760,7 @@
 #### 船: boats /bəʊts/ [A1] √
 - 皮划艇: kayak /ˈkaɪæk/
 - 独木舟: canoe /kəˈnuː/
-- 橡皮筏: dinghy /ˈdɪŋɡi/ √
+- 橡皮筏: dinghy /ˈdɪŋɡi/
 - 帆船: sailboat /ˈseɪlbəʊt/ √
 - 渔船: fishing boat /ˈfɪʃɪŋ bəʊt/ √
 - 救生船: lifeboat /ˈlaɪfbəʊt/
@@ -770,7 +770,7 @@
 - 轮胎: tyre /ˈtaɪə/（英）[A2], tire /ˈtaɪə/（美）[A2]
 - 雨刮器: wiper /ˈwaɪpə/ √
 - 轮子: wheel /wiːl/ [A2] √
-- 喇叭: horn /hɔːn/ [B2] √
+- 喇叭: horn /hɔːn/ [B2]
 - 后备箱: boot /buːt/（英） [B1], trunk /trʌŋk/（美）[B1]
 #### 火车零部件: train parts /treɪn pɑːts/
 - 火车头: locomotive /ˌləʊkəˈməʊtɪv/
@@ -782,7 +782,7 @@
 - 航天飞机: space shuttle /speɪs ˈʃʌtl/
 - 人造卫星: satellite /ˈsætəlaɪt/ [B2]
 - 点火: ignition /ɪɡˈnɪʃn/
-- 起飞: lift off /ˈlɪft ɒf/
+- 起飞: lift off /ˈlɪft ɒf/ √
 - 发射: launch /lɔːntʃ/ [C1] √
 - 发射台: launch pad /ˈlɔːntʃ pæd/ √
 #### 服装: clothes /kləʊðz/ [A1]
