@@ -23,7 +23,7 @@
 - 语音: voice /vɔɪs/ [B1]
 - 新闻: news /njuːz/ [A2]
 - 报纸: newspaper /njuːz ˈpeɪpə/ [A1]
-- 论文: paper /ˈpeɪpə/ [A1]
+- 论文: paper /ˈpeɪpə/ [C2]]
 - 杂志: magazine /ˌmæɡəˈziːn/ [A2]
 - 文章: article /ˈɑːtɪkl/ [B1]
 - 广告: advertisement /ˌædvəˈtaɪzmənt/ [A2]
@@ -73,7 +73,7 @@
 - 中间名: middle name /ˈmɪdl neɪm/
 - 姓: last name /ˈlɑːst neɪm/ [A2], family name /ˈfæməli neɪm/, surname /ˈsɜːneɪm/ [A2]
 #### 性别: genders /ˈdʒendəz/, sexes /ˈseksɪz/ [B2]
-- 男: male /meɪl/  [B2]
+- 男: male /meɪl/  [B2] √
 - 女: female /ˈfiːmeɪl/ [B2] √
 #### 语言: languages /ˈlæŋɡwɪdʒɪz/ [A1]
 - 中文: Chinese /ˌtʃaɪˈniːz/
@@ -110,7 +110,7 @@
   - 省略号: ellipsis /ɪˈlɪpsɪs/
 - 井号: pound /paʊnd/
 - 星号: asterisk /ˈæstərɪsk/
-- 叉: cross /krɒs/ [A1]
+- 叉: cross /krɒs/ [A1] √ 
 - 勾: tick /tɪk/ [B1]
 - 下划线: underline /ˌʌndəˈlaɪn/ [B1]
 #### 品牌: brands /brændz/ [B2]
@@ -132,7 +132,7 @@
 #### 名字: names /neɪmz/ [A1]
 - 奥尔夫: Olaf /ˈəʊlɑːf/
 - 瓦力: WALL·E /wɔːl iː/
-- 麦克唐纳: MacDonald /məkˈdɔnəld/
+- 麦克唐纳: MacDonald /məkˈdɔnəld/ √
 #### 宇宙: the universe /ði ˈjuːnɪvɜːs/ [B1]
 - 行星: planet /ˈplænɪt/ [B1]
 - 小行星: asteroid /ˈæstərɔɪd/
@@ -145,7 +145,7 @@
 - 太阳系: the Solar System /ðə səʊlə ˈsɪstəm/
   - 太阳: Sun /sʌn/ [A1] √
   - 月亮: Moon /muːn/ [A2] √
-  - 火星: Mars /mɑːz/ √
+  - 火星: Mars /mɑːz/
   - 地球: Earth /ɜːθ/ [B1] √
 - 银河系: Milky Way Galaxy /ˈmɪlki weɪ ˈɡæləksi/
 #### 世界: the world /ðə wɜːld/ [A1]
@@ -173,7 +173,7 @@
 - 州（美）: states /steɪts/ [B1]
   - 加利福尼亚: California /ˌkæləˈfɔːniə/
 - 城市: cities /ˈsɪtiz/ [A1] √
-  - 圣地亚哥: San Diego /sæn diˈeɪɡo/
+  - 圣地亚哥: San Diego /sæn diˈeɪɡo/ √
   - 巴黎: Paris /ˈpærɪs/
   - 纽约: New York /njuː jɔːk/
   - 东京: Tokyo /ˈtəʊkiəʊ/
@@ -212,7 +212,7 @@
 - 岛屿: island /ˈaɪlənd/ [A2] √
 - 瀑布: waterfall /ˈwɔːtəfɔːl/ [B1] √
 - 彩虹: rainbow /ˈreɪnbəʊ/ [B2] √
-- 森林: forest /ˈfɒrɪst/ [A2] √
+- 森林: forest /ˈfɒrɪst/ [A2]
 - 山洞: cave /keɪv/ [B1] √
 - 山丘: hill /hɪl/ [A2]
 - 山谷: valley /ˈvæli/ [B1]
@@ -220,7 +220,7 @@
 - 山: mountain /ˈmaʊntən/ [A2] √
 - 河: river /ˈrɪvə/ [A1] √
 - 泥: mud /mʌd/ [B2] √
-- 土: soil /sɔɪl/ [B2] √
+- 土: soil /sɔɪl/ [B2]
 - 火山: volcano /vɒlˈkeɪnəʊ/ [B2] √
 - 湖: lake /leɪk/ [A2] √
 - 大陆: mainland /ˈmeɪnlænd/
@@ -274,9 +274,9 @@
 #### 天气: the weather /ðə ˈweðə/ [A1] √
 - 晴: sunny /ˈsʌni/ [A2] √
 - 雨: rainy /ˈreɪni/ [B1]
-- 有风: windy /ˈwɪndi/ [A2]
+- 有风: windy /ˈwɪndi/ [A2] √
 - 微风: breezy /ˈbriːzi/
-- 多云, 阴: cloudy /ˈklaʊdi/ [A2]
+- 多云, 阴: cloudy /ˈklaʊdi/ [A2] √
 - 局部多云: partly cloudy /ˈpɑːtli ˈklaʊdi/
 - 大部多云: mostly cloudy /ˈməʊstli ˈklaʊdi/
 - 雪: snowy /ˈsnəʊi/
@@ -303,7 +303,7 @@
 - 石油: petroleum /pəˈtrəʊliəm/
 - 天然气: natural gas /ˈnætʃrəl ɡæs/
 - 汽油: petrol /ˈpetrəl/（英）[A2], gas /ɡæs/（美）[A2], gasoline /ˌɡæsəˈliːn/（美）[B2]
-- 柴油: diesel /ˈdiːzl/ [C1]
+- 柴油: diesel /ˈdiːzl/ [C1] √
 - 电: electricity /ɪˌlekˈtrɪsəti/ [A2]
   - 电池: battery /ˈbætəri/ [A2]
 #### 原材料: raw materials /rɔː məˈtɪərɪəlz/
@@ -319,7 +319,7 @@
 - 瓷: porcelain /ˈpɔːsəlɪn/
 - 陶: pottery /ˈpɒtəri/
 - 棉: cotton /ˈkɒtn/ [B1]
-- 玻璃: glass /ɡlɑːs/ [A1]
+- 玻璃: glass /ɡlɑːs/ [A1] √
 - 石头: stone /stəʊn/ [B1]
 - 大理石: marble /ˈmɑːbl/
 #### 城市: the city /ðə ˈsɪti/ [A1] √
@@ -384,12 +384,12 @@
 - 跑道: racetrack /ˈreɪstræk/
 - 库房: shed /ʃed/ [B2]
 - 地下车库: underground garage /ˌʌndəˈɡraʊnd ˈɡærɑːʒ/
-- 城堡: castle /ˈkɑːsl/ [A2]
+- 城堡: castle /ˈkɑːsl/ [A2] √
 - 寺庙: temple /ˈtempl/ [B1]
 - 宫殿: palace /ˈpæləs/ [B1]
 - 公园: park /pɑːk/ [A1] √
 - 工厂: factory /ˈfæktri/ [A1]
-- 商店: shop /ʃɒp/ [A2], store /stɔː/ [B1]
+- 商店: shop /ʃɒp/ [A2] √, store /stɔː/ [B1] √
 - 垃圾房: garbage room /ˈɡɑːbɪdʒ ruːm/
 - 垃圾场: dump /dʌmp/ [C1]
 - 变电站: transformer substation /trænsˈfɔːmə ˈsʌbsteɪʃn/
@@ -452,13 +452,13 @@
 - 栏杆: railing /ˈreɪlɪŋ/
 - 扶手: handrail /ˈhændreɪl/
 - 一楼: ground floor /ɡraʊnd flɔː/（英）[B1], first floor /fɜːst flɔː/（美）[B1]
-- 地下一楼: basement level 1 /ˈbeɪsmənt ˈlevl wʌn/, basement first floor /ˈbeɪsmənt fɜːst flɔː/
+- 地下一楼: basement level one /ˈbeɪsmənt ˈlevl wʌn/, basement first floor /ˈbeɪsmənt fɜːst flɔː/
 - 天台: rooftop /ˈruːftɒp/
 - 地下室: basement /ˈbeɪsmənt/ [B2]
 - 大门: gate /ɡeɪt/ [A2]
 - 大堂: lobby /ˈlɒbi/ [B2]
 - 地面: floor /flɔː/ [A1]
-- 屋顶: roof /ruːf/ [A2]
+- 屋顶: roof /ruːf/ [A2] √
 - 天花板: ceiling /ˈsiːlɪŋ/ [A2]
 - 墙壁: wall /wɔːl/ [A1]
 - 地毯: carpet /ˈkɑːpɪt/ [A2], rug /rʌɡ/ [B1]
@@ -473,7 +473,7 @@
 - 秋千: swing /swɪŋ/ [B2] √
 #### 农场: the farm /ðə fɑːm/ [A1] √
 - 猪圈: pigpen /pɪɡpen/
-- 干草: hay /heɪ/
+- 干草: hay /heɪ/ √
 - 马厩: stable /ˈsteɪbl/ [C2]
 - 村舍: cottage /ˈkɒtɪdʒ/ [B1]
 - 小屋: cabin /ˈkæbɪn/, hut /hʌt/ [B1]
@@ -678,7 +678,7 @@
 - 算盘: abacus /ˈæbəkəs/
 - 剪刀: scissors /ˈsɪzəz/ [A2]
 - 墨水: ink /ɪŋk/ [B1]
-- 纸: paper /ˈpeɪpə/ [A1]
+- 纸: paper /ˈpeɪpə/ [A1] √
 - 颜料: paint /peɪnt/ [A1]
 - 水彩: watercolor /ˈwɔ:təkʌlə/
 - 蜡笔: crayon /ˈkreɪɒn/ √
@@ -952,7 +952,7 @@
 #### 植物: the plant /ðə plænt/ [A1] √
 - 花: flowers /ˈflaʊəz/ [A1] √
   - 樱花: sakura /sakurə/
-- 花苞: bud /bʌd/
+- 花苞: bud /bʌd/ √
 - 花瓣: petal /ˈpetl/
 - 树: trees /triːz/ [A1] √
   - 橡树: oak tree /əʊk triː/
@@ -1811,7 +1811,7 @@
 - 贪婪的: greedy /ˈɡriːdi/ [B2]
 - 拥挤的: crowded /ˈkraʊdɪd/ [A2]
 - 毛茸茸的: furry /ˈfɜːri/
-- 有趣的: interesting /ˈɪntrəstɪŋ/ [A1]
+- 有趣的: interesting /ˈɪntrəstɪŋ/ [A1] √
 - 搞笑的: funny /ˈfʌni/ [A1] √
 - 美丽的: beautiful /ˈbjuːtɪfl/ [A1]
 - 热的: hot /hɒt/ [A1] √
