@@ -340,11 +340,11 @@
 - 市场: market /ˈmɑːkɪt/ [A2] √, mart /mɑːt/
 - 超市: supermarket /ˈsuːpəmɑːkɪt/ [A1]
 - 停车场: parking lot /ˈpɑːkɪŋ lɒt/ [A2] √
-- 停车位: parking stall /ˈpɑːkɪŋ stɔːl/ √
+- 停车位: parking stall /ˈpɑːkɪŋ stɔːl/
 - 车库: garage /ˈɡærɑːʒ/ [A2] √
 - 修车店: garage /ˈɡærɑːʒ/ [B1] √
 - 图书馆: library /ˈlaɪbrəri/ [A2] √
-- 博物院: museum /mjuˈziːəm/ [A1]
+- 博物院: museum /mjuˈziːəm/ [A1] √
 - 学校: school /skuːl/ [A1] √
 - 托儿所: nursery /ˈnɜːsəri/ [B2]
 - 幼儿园: kindergarten /ˈkɪndəɡɑːtn/ √
@@ -358,7 +358,7 @@
 - 岗亭: sentry box /ˈsentri bɒks/
 - 便利店: convenience store /kənˈviːniəns stɔː/
 - 银行: bank /bæŋk/ [A1]
-- 旅馆: hotel /həʊˈtel/ [A1] √
+- 旅馆: hotel /həʊˈtel/ [A1]
 - 汽车旅馆: motel /məʊˈtel/
 - 餐厅: restaurant /ˈrestrɒnt/ [A1] √
 - 广场: plaza /ˈplɑːzə/, square /skweə/ [A2]
@@ -376,7 +376,7 @@
 - 火车站: railway station /ˈreɪlweɪ ˈsteɪʃn/
 - 药店: pharmacy /ˈfɑːməsi/ [B1]
 - 医院: hospital /ˈhɒspɪtl/ [A1] √
-- 牙医诊所: dental clinic /ˈdentl ˈklɪnɪk/ √
+- 牙医诊所: dental clinic /ˈdentl ˈklɪnɪk/
 - 网球场: tennis court /ˈtenɪs kɔːt/
 - 篮球场: basketball court /ˈbɑːskɪtbɔːl kɔːt/
 - 足球场: football field /ˈfʊtbɔːl fiːld/
@@ -418,7 +418,7 @@
 - 塔: tower /ˈtaʊə/ [B1]
 - 溜冰场: ice rink /ˈaɪs rɪŋk/
 - 动物园: zoo /zuː/ [A1] √
-- 电线杆: wire pole /ˈwaɪə pəʊl/
+- 电线杆: wire pole /ˈwaɪə pəʊl/ √
 - 雕像: statue /ˈstætʃuː/ [B1]
 - 电梯: lift /lɪft/（英）[A2], elevator /ˈelɪveɪtə/（美）[A2] √
 - 扶梯: escalator /ˈeskəleɪtə/ [B2]
@@ -493,17 +493,17 @@
 - 灯泡: bulb /bʌlb/ [B2]
 - 台灯: lamp /læmp/ [A2]
 - 路灯: street light /striːt laɪt/
-- 手电筒: torch /tɔːtʃ/（英）[B2] √, flashlight /ˈflæʃlaɪt/（美）[B2] √
+- 手电筒: torch /tɔːtʃ/（英）[B2] √, flashlight /ˈflæʃlaɪt/（美）[B2]
 - 灯笼: lantern /ˈlæntən/ √
 #### 家具: furniture /ˈfɜːnɪtʃə/ [A2]
 - 高脚椅: highchair /ˌhaɪˈtʃeə/
 - 椅子: chair /tʃeə/ [A1] √
 - 书桌: desk /desk/ [A1] √
 - 桌子: table /ˈteɪbl/ [A1] √
-- 橱柜: cupboard /ˈkʌbəd/ [A2] √
+- 橱柜: cupboard /ˈkʌbəd/ [A2]
 - 床垫: mattress /ˈmætrəs/
 - 餐桌: dining table /ˈdaɪnɪŋ ˈteɪbl/
-- 书架: bookshelf /ˈbʊkʃelf/ [A2] √
+- 书架: bookshelf /ˈbʊkʃelf/ [A2]
 - 凳子: stool /stuːl/ [B2]
 - 鞋架: shoe rack /ʃuː ræk/
 - 柜子: cabinet /ˈkæbɪnət/ [A2]
@@ -511,7 +511,7 @@
 - 沙发: sofa /ˈsəʊfə/ [A2]
 - 床: bed /bed/ [A1] √
 - 架子: shelf /ʃelf/ [A2]
-- 衣柜: wardrobe /ˈwɔːdrəʊb/ [B1] √
+- 衣柜: wardrobe /ˈwɔːdrəʊb/ [B1]
 - 梳妆台: dresser /ˈdresə/ [A2]
 - 抽屉: drawer /drɔ:r/ [A2]
 #### 床上用品: bedding /ˈbedɪŋ/
@@ -1551,7 +1551,7 @@
 - 头盔: helmet /ˈhelmɪt/ [B2] √
 - 球拍: racket /ˈrækɪt/ [A2]
 - 球棒（棒球）: bat /bæt/ [A1]
-- 垫子: mat /mæt/ [C1]
+- 垫子: mat /mæt/ [C1] √
 - 野餐垫: picnic rug /ˈpɪknɪk rʌɡ/
 - 口哨: whistle /ˈwɪsl/ [B2] √
 - 帐篷: tent /tent/ [B1] √
