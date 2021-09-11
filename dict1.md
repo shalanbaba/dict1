@@ -498,7 +498,7 @@
 #### 家具: furniture /ˈfɜːnɪtʃə/ [A2]
 - 高脚椅: highchair /ˌhaɪˈtʃeə/
 - 椅子: chair /tʃeə/ [A1] √
-- 书桌: desk /desk/ [A1] √
+- 书桌: desk /desk/ [A1]
 - 桌子: table /ˈteɪbl/ [A1] √
 - 橱柜: cupboard /ˈkʌbəd/ [A2]
 - 床垫: mattress /ˈmætrəs/
@@ -558,15 +558,14 @@
 #### 化妆品: cosmetics /kɒzˈmetɪks/
 - 口红: lipstick /ˈlɪpstɪk/
 #### 厨具: cooking utensils /ˈkʊkɪŋ juːˈtenslz/
+- 水壶: kettle /ˈketl/ [B1]
 - 火锅: hotpot /ˈhɒtpɒt/ √
 - 锅: pot /pɒt/ [B1]
 - 锅盖: lid /lɪd/ [B2]
 - 炒锅: wok /wɒk/
 - 煎锅: frying pan /ˈfraɪɪŋ pæn/ [B1]
 - 烤盘: oven dish /ˈʌvn dɪʃ/
-- 水壶: kettle /ˈketl/ [B1]
 - 燃气灶: gas stove /ɡæs stəʊv/
-- 搅拌机: blender /ˈblendə/
 - 砧板: cutting board /ˈkʌtɪŋ bɔːd/
 - 菜刀: kitchen knife /ˈkɪtʃɪn naɪf/
 - 水果刀: fruit knife /fruːt naɪf/
@@ -606,6 +605,7 @@
 - 弱信号: weak signal /wiːk ˈsɪɡnəl/
 - 天线: antenna /ænˈtenə/
 #### 电器和电子产品: appliances and electronics /əˈplaɪənsɪz ənd ɪˌlekˈtrɒnɪks/
+- 搅拌机: blender /ˈblendə/
 - 净水器: water purifier /ˈwɔːtə ˈpjʊərɪfaɪə/
 - 秤: scale /skeɪl/ [B2]
 - 钟: clock /klɒk/ [A1]
