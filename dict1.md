@@ -339,7 +339,7 @@
 - 电影院: camera /ˈkæmrə/ [A1]
 - 市场: market /ˈmɑːkɪt/ [A2] √, mart /mɑːt/
 - 超市: supermarket /ˈsuːpəmɑːkɪt/ [A1]
-- 停车场: parking lot /ˈpɑːkɪŋ lɒt/ [A2] √
+- 停车场: parking lot /ˈpɑːkɪŋ lɒt/ [A2] √ 
 - 停车位: parking stall /ˈpɑːkɪŋ stɔːl/
 - 车库: garage /ˈɡærɑːʒ/ [A2] √
 - 修车店: garage /ˈɡærɑːʒ/ [B1] √
