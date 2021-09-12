@@ -302,7 +302,7 @@
 - 木炭: charcoal /ˈtʃɑːkəʊl/
 - 石油: petroleum /pəˈtrəʊliəm/
 - 天然气: natural gas /ˈnætʃrəl ɡæs/
-- 汽油: petrol /ˈpetrəl/（英）[A2], gas /ɡæs/（美）[A2] √, gasoline /ˌɡæsəˈliːn/（美）[B2]
+- 汽油: petrol /ˈpetrəl/（英）[A2] √, gas /ɡæs/（美）[A2] √, gasoline /ˌɡæsəˈliːn/（美）[B2]
 - 柴油: diesel /ˈdiːzl/ [C1] √
 - 电: electricity /ɪˌlekˈtrɪsəti/ [A2]
   - 电池: battery /ˈbætəri/ [A2]
@@ -1159,7 +1159,7 @@
 - 血: blood /blʌd/ [A2]
 - 骨: bone /bəʊn/ [B1]
 - 皮肤: skin /skɪn/ [B1]
-- 手肘: elbow /ˈelbəʊ/ [B1] √
+- 手肘: elbow /ˈelbəʊ/ [B1]
 - 脚踝: ankle /ˈæŋkl/ [B1]
 - 脚后跟: heel /hiːl/ [B2]
 - 脚底板: sole /səʊl/
@@ -1519,7 +1519,7 @@
 - 调味料: condiments /ˈkɒndɪmənts/
   - 酱油: soy sauce /sɔɪ sɔːs/
   - 番茄酱: ketchup /ˈketʃəp/
-  - 醋: vinegar /ˈvɪnɪɡə/ [B2] √
+  - 醋: vinegar /ˈvɪnɪɡə/ [B2]
   - 盐: salt /sɔːlt/ [A1] √
   - 糖: sugar /ˈʃʊɡə/ [A1] √
 #### 烹饪: cooking /ˈkʊkɪŋ/ [A2]
@@ -1535,12 +1535,12 @@
 #### 旅行: travel /ˈtrævl/ [A1], the trip /ðə trɪp/ [A2]
 - 行李: luggage /ˈlʌɡɪdʒ/（英）[A2], baggage /ˈbæɡɪdʒ/（美）[B1]
 #### 运动: sports /spɔːts/ [A1]
-- 篮球: basketball /ˈbɑːskɪtbɔːl/ [A1] √
-- 足球: football /ˈfʊtbɔːl/（英）[A1] √, soccer /ˈsɒkə/（美）[A2] √
+- 篮球: basketball /ˈbɑːskɪtbɔːl/ [A1]
+- 足球: football /ˈfʊtbɔːl/（英）[A1] √, soccer /ˈsɒkə/（美）[A2]
 - 网球: tennis /ˈtenɪs/ [A1] √
 - 排球: volleyball /ˈvɒlibɔːl/ [A2]
 - 棒球: baseball /ˈbeɪsbɔːl/ [A2]
-- 橄榄球: football /ˈfʊtbɔːl/ [A2] √
+- 橄榄球: football /ˈfʊtbɔːl/ [A2]
 - 羽毛球: badminton /ˈbædmɪntən/ [A2]
 - 高尔夫: golf /ɡɒlf/ [A2]
 - 徒步: hiking /ˈhaɪkɪŋ/ [A2] √
@@ -1548,7 +1548,7 @@
 - 拳击: boxing /ˈbɒksɪŋ/ [B1]
 - 体操: gymnastics /dʒɪmˈnæstɪks/ [B1]
 - 乒乓球: table tennis /ˈteɪbl tenɪs/ [A2]
-- 游泳: swimming /ˈswɪmɪŋ/ [A2]
+- 游泳: swimming /ˈswɪmɪŋ/ [A2] √
 #### 运动装备: sports equipments /spɔːts ɪˈkwɪpmənts/
 - 头盔: helmet /ˈhelmɪt/ [B2] √
 - 球拍: racket /ˈrækɪt/ [A2]
@@ -1856,13 +1856,13 @@
 - 一起: together /təˈɡeðə/ [A1]
 - 什么时候: when /wen/ [A1] √
 - 什么地方: where /weə/ [A1] √
-- 为什么: why /waɪ/ [A1]
+- 为什么: why /waɪ/ [A1] √
 - 怎么样: how /haʊ/ [A2] √
 - 然而: however /haʊˈevə/ [A2]
 #### 介词: prepositions /ˌprepəˈzɪʃnz/ [B1]
 - 来自: from /frɒm/ [A1]
 #### 连词: conjunctions /kənˈdʒʌŋkʃnz/ [B2]
-- 和: and /ænd/ [A1]
+- 和: and /ænd/ [A1] √
 - 或: or /ɔː/ [A1]
 - 但是: but /bʌt/ [A1]
 - 无论哪里: wherever /weərˈevə/ [B1]
@@ -1875,8 +1875,8 @@
 - 它: it /ɪt/ [A1] √
 - 我们: we /wiː/（主）[A1], us /əs/（宾）[A1]
 - 他们: they /ðeɪ/（主）[A1], them /ðəm/（宾）[A1]
-- 我的: my /maɪ/（形）[A1], mine /maɪn/（名）[A2] √
-- 你的: your /jɔː/（形）[A1], yours /jɔːz/（名）[A2]
+- 我的: my /maɪ/（形）[A1] √, mine /maɪn/（名）[A2] √
+- 你的: your /jɔː/（形）[A1] √, yours /jɔːz/（名）[A2]
 - 我们的: our /ˈaʊə/（形）[A1], ours /ˈaʊəz/（名）[A2]
 - 他们的: their /ðeə/（形）[A1], theirs /ðeəz/（名）[A2]
 - 一些事物: something /ˈsʌmθɪŋ/ [A1]
