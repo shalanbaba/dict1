@@ -399,7 +399,7 @@
 - 售票处: ticket office /ˈtɪkɪt ˈɒfɪs/
 - 检票口: ticket gate /ˈtɪkɪt ɡeɪt/
 - 站台: platform /ˈplætfɔːm/ [A2]
-- 公 交车站: bus station /bʌs ˈsteiʃn/ [A2] √, bus stop /bʌs stɒp/ [A2] √
+- 公交车站: bus station /bʌs ˈsteiʃn/ [A2] √, bus stop /bʌs stɒp/ [A2] √
 - 候车室: waiting room /ˈweɪtɪŋ ruːm/
 - 旅馆: inn /ɪn/
 - 喷泉: fountain /ˈfaʊntən/ [B1] √
