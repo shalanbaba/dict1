@@ -17,7 +17,7 @@
 - 练习册: workbook /ˈwɜːkbʊk/ [A2]
 - 字典: dictionary /ˈdɪkʃəneri/ [A1]
 - 照片: photo /ˈfəʊtəʊ/ [A1], photograph /ˈfəʊtəɡrɑːf/ [A2]
-- 图片: picture /ˈpɪktʃə/ [A1] √
+- 图片: picture /ˈpɪktʃə/ [A1]
 - 视频: video /ˈvɪdiəʊ/ [A2]
 - 相册: album /ˈælbəm/ [A2]
 - 语音: voice /vɔɪs/ [B1]
@@ -31,11 +31,11 @@
 - 消息: messages /ˈmesɪdʒz/ [A1]
   - 文本消息: text message /tekst ˈmesɪdʒz/ [A2]
   - 语音消息: voice message /vɔɪs ˈmesɪdʒz/
-- 传说: tale /teɪl/ [B2] √
+- 传说: tale /teɪl/ [B2]
 - 诗: poem /ˈpəʊɪm/ [B1]
 - 歌词: lyrics /ˈlɪrɪks/ [B2]
 - 书: book /bʊk/ [A1] √
-- 绘本: picture book /ˈpɪktʃə bʊk/ √
+- 绘本: picture book /ˈpɪktʃə bʊk/
 - 漫画: comic /ˈkɒmɪk/ [A2]
 - 闪卡: flashcard /'flæʃˌkɑːd/
 - 日记: diary /ˈdaɪəri/ [A2]
@@ -43,12 +43,12 @@
 - 网站: website /ˈwebsaɪt/ [A1]
 - 网址: uniform resource locator /ˈjuːnɪfɔːm rɪˈsɔːs ləʊˈkeɪtə/, URL /ˌjuː ɑː ˈel/
 - 二维码: quick response code /kwɪk rɪˈspɒns kəʊd/, QR code /kjuː ɑː kəʊd/
-- 条形码: bar code /bɑː kəʊd/ √
+- 条形码: bar code /bɑː kəʊd/
 - 指纹: fingerprint /ˈfɪŋɡəprɪnt/
 - 传单: leaflet /ˈliːflət/ [B2]
 - 通知: notification /ˌnəʊtɪfɪˈkeɪʃn/
 - 声明: announcement /əˈnaʊnsmənt/ [B1]
-- 海报: poster /ˈpəʊstə/ [A2] √
+- 海报: poster /ˈpəʊstə/ [A2]
 - 明信片: postcard /ˈpəʊstkɑːd/ [A2]
 - 邮件: mail /meɪl/ [A2]
 - 小票, 收据: receipt /rɪˈsiːt/ [A2]
@@ -86,7 +86,7 @@
 - 法语: French /frentʃ/
 #### 英语: English /ˈɪŋɡlɪʃ/ √
 - 字母表: alphabet /ˈælfəbet/ [B1]
-- 字母: letter /ˈletə/ [A2]
+- 字母: letter /ˈletə/ [A2] √
 - 单词: word /wɜːd/ [A1]
 - 名词: noun /naʊn/ [A2]
 - 拼写: spell /spel/ [A2]
@@ -172,7 +172,7 @@
   - 澳大利亚: Australia /ɒˈstreɪliə/ √
 - 州（美）: states /steɪts/ [B1]
   - 加利福尼亚: California /ˌkæləˈfɔːniə/
-- 城市: cities /ˈsɪtiz/ [A1] √
+- 城市: cities /ˈsɪtiz/ [A1]
   - 圣地亚哥: San Diego /sæn diˈeɪɡo/ √
   - 巴黎: Paris /ˈpærɪs/
   - 纽约: New York /njuː jɔːk/
@@ -196,13 +196,13 @@
   - 直辖市: municipality /mjuːˌnɪsɪˈpæləti/
   - 自治区: autonomous region /ɔːˈtɒnəməs ˈriːdʒən/
   - 特别行政区: special administrative region /ˈspeʃl ədˈmɪnɪstreɪtɪv ˈriːdʒən/
-  - 市: city /ˈsɪti/ [A1] √
+  - 市: city /ˈsɪti/ [A1]
   - 县: county /ˈkaʊnti/
-  - 镇: town /taʊn/ [A1] √
+  - 镇: town /taʊn/ [A1]
   - 街道: subdistrict /ˈsʌbˌdɪstrɪkt/
   - 乡: township /ˈtaʊnʃɪp/
   - 村: village /ˈvɪlɪdʒ/ [A1]
-#### 自然: nature /ˈneɪtʃə/ [A2] √
+#### 自然: nature /ˈneɪtʃə/ [A2]
 - 海岸: seashore /ˈsiːʃɔː/
 - 沿海: coast /kəʊst/ [B1]
 - 海滩: beach /biːtʃ/ [A1] √
@@ -216,7 +216,6 @@
 - 山洞: cave /keɪv/ [B1] √
 - 山丘: hill /hɪl/ [A2]
 - 山谷: valley /ˈvæli/ [B1]
-- 岛: island /ˈaɪlənd/ [A2] √
 - 山: mountain /ˈmaʊntən/ [A2] √
 - 河: river /ˈrɪvə/ [A1] √
 - 泥: mud /mʌd/ [B2] √
@@ -249,7 +248,7 @@
 - 湿度: humidity /hjuːˈmɪdəti/
 - 光: light /laɪt/ [B1]
 - 空气: air /eə/ [A2]
-- 引力: gravity /ˈɡrævəti/ √
+- 引力: gravity /ˈɡrævəti/
 - 生态系统: ecosystem /ˈiːkəʊsɪstəm/
 - 磁力: magnetic force /mæɡˈnetɪk fɔːs/
 - 磁铁: magnet /ˈmæɡnət/
@@ -271,9 +270,10 @@
 - 珊瑚礁: coral reef /ˈkɒrəl riːf/
 - 贝壳: shell /ʃel/ [B2] √
 - 油田: oilfield /ˈɔɪlfiːld/
+- 草地: meadow /ˈmedəʊ/
 #### 天气: the weather /ðə ˈweðə/ [A1] √
 - 晴: sunny /ˈsʌni/ [A2] √
-- 雨: rainy /ˈreɪni/ [B1]
+- 雨: rainy /ˈreɪni/ [B1] √
 - 有风: windy /ˈwɪndi/ [A2] √
 - 微风: breezy /ˈbriːzi/
 - 多云, 阴: cloudy /ˈklaʊdi/ [A2] √
@@ -302,7 +302,7 @@
 - 木炭: charcoal /ˈtʃɑːkəʊl/
 - 石油: petroleum /pəˈtrəʊliəm/
 - 天然气: natural gas /ˈnætʃrəl ɡæs/
-- 汽油: petrol /ˈpetrəl/（英）[A2], gas /ɡæs/（美）[A2], gasoline /ˌɡæsəˈliːn/（美）[B2]
+- 汽油: petrol /ˈpetrəl/（英）[A2], gas /ɡæs/（美）[A2] √, gasoline /ˌɡæsəˈliːn/（美）[B2]
 - 柴油: diesel /ˈdiːzl/ [C1] √
 - 电: electricity /ɪˌlekˈtrɪsəti/ [A2]
   - 电池: battery /ˈbætəri/ [A2]
@@ -322,11 +322,11 @@
 - 玻璃: glass /ɡlɑːs/ [A1] √
 - 石头: stone /stəʊn/ [B1]
 - 大理石: marble /ˈmɑːbl/
-#### 城市: the city /ðə ˈsɪti/ [A1] √
+#### 城市: the city /ðə ˈsɪti/ [A1]
 - 草坪: lawn /lɔːn/ [C1]
-- 花坛: flower bed /ˈflaʊə bed/ √
+- 花坛: flower bed /ˈflaʊə bed/
 - 花坛沿: flower bed edge /ˈflaʊə bed edʒ/
-- 消防栓: fire hydrant /ˈfaɪə ˈhaɪdrənt/ √
+- 消防栓: fire hydrant /ˈfaɪə ˈhaɪdrənt/
 - 工地: construction site /kənˈstrʌkʃn saɪt/ √
 - 运河: canal /kəˈnæl/ [ORT1+]
 - 船闸: lock /lɒk/ [ORT1+]
@@ -334,8 +334,8 @@
 - 堰: weir /wɪə/ [ORT5]
 - 地铁站: metro station /ˈmetrəʊ ˈsteɪʃn/ √
 - 面包店: bakery /ˈbeɪkəri/ [B2] √
-- 咖啡馆: cafe /ˈkæfeɪ/ [A1], coffee shop /ˈkɒfi ʃɒp/ [A1] √
-- 商场: shopping mall /ˈʃɒpɪŋ mɔːl/ √, mall /mɔːl/ √
+- 咖啡馆: cafe /ˈkæfeɪ/ [A1], coffee shop /ˈkɒfi ʃɒp/ [A1]
+- 商场: shopping mall /ˈʃɒpɪŋ mɔːl/ √, mall /mɔːl/
 - 电影院: camera /ˈkæmrə/ [A1]
 - 市场: market /ˈmɑːkɪt/ [A2] √, mart /mɑːt/
 - 超市: supermarket /ˈsuːpəmɑːkɪt/ [A1]
@@ -368,7 +368,7 @@
 - 酒吧: bar /bɑː/ [A1]
 - 宠物店: pet shop /pet ʃɒp/
 - 书店: bookstore /ˈbʊkˌstɔː/ [A1]
-- 游泳池: swimming pool /ˈswɪmɪŋ puːl/ [A1]
+- 游泳池: swimming pool /ˈswɪmɪŋ puːl/ [A1] √
 - 体育场: stadium /ˈsteɪdiəm/ [A2]
 - 健身房: gym /dʒɪm/ [B1]
 - 植物园: botanical garden /bəˌtænɪkl ˈɡɑːdn/
@@ -380,10 +380,10 @@
 - 网球场: tennis court /ˈtenɪs kɔːt/
 - 篮球场: basketball court /ˈbɑːskɪtbɔːl kɔːt/
 - 足球场: football field /ˈfʊtbɔːl fiːld/
-- 操场: playground /ˈpleɪɡraʊnd/ [A2]
+- 操场: playground /ˈpleɪɡraʊnd/ [A2] √
 - 跑道: racetrack /ˈreɪstræk/
 - 库房: shed /ʃed/ [B2]
-- 地下车库: underground garage /ˌʌndəˈɡraʊnd ˈɡærɑːʒ/
+- 地下车库: underground garage /ˌʌndəˈɡraʊnd ˈɡærɑːʒ/ √
 - 城堡: castle /ˈkɑːsl/ [A2] √
 - 寺庙: temple /ˈtempl/ [B1]
 - 宫殿: palace /ˈpæləs/ [B1]
@@ -399,7 +399,7 @@
 - 售票处: ticket office /ˈtɪkɪt ˈɒfɪs/
 - 检票口: ticket gate /ˈtɪkɪt ɡeɪt/
 - 站台: platform /ˈplætfɔːm/ [A2]
-- 公交站: bus station /bʌs ˈsteiʃn/ [A2] √
+- 公 交车站: bus station /bʌs ˈsteiʃn/ [A2] √, bus stop /bʌs stɒp/ [A2] √
 - 候车室: waiting room /ˈweɪtɪŋ ruːm/
 - 旅馆: inn /ɪn/
 - 喷泉: fountain /ˈfaʊntən/ [B1] √
@@ -452,9 +452,9 @@
 - 栏杆: railing /ˈreɪlɪŋ/
 - 扶手: handrail /ˈhændreɪl/
 - 一楼: ground floor /ɡraʊnd flɔː/（英）[B1], first floor /fɜːst flɔː/（美）[B1]
+- 地下室: basement /ˈbeɪsmənt/ [B2]
 - 地下一楼: basement level one /ˈbeɪsmənt ˈlevl wʌn/, basement first floor /ˈbeɪsmənt fɜːst flɔː/
 - 天台: rooftop /ˈruːftɒp/
-- 地下室: basement /ˈbeɪsmənt/ [B2]
 - 大门: gate /ɡeɪt/ [A2]
 - 大堂: lobby /ˈlɒbi/ [B2]
 - 地面: floor /flɔː/ [A1]
@@ -702,7 +702,6 @@
 - 公共交通: public transportation /ˈpʌblɪk ˌtrænspɔːˈteɪʃn/ [B1]
 - 轨道交通: metro /ˈmetrəʊ/
 - 距离: distance /ˈdɪstəns/ [B1]
-- 公交车站: bus stop /bʌs stɒp/ [A2] √
 - 人行道: pavement /ˈpeɪvmənt/（英）[B1], sidewalk /ˈsaɪdwɔːk/（美）[B1]
 - 路锥: traffic cone /ˈtræfɪk kəʊn/ √
 - 井盖: manhole cover /ˈmænhəʊl ˈkʌvə/
@@ -732,6 +731,7 @@
 - 铁路: railway /ˈreɪlweɪ/ [A2]
 - 轨道: track /træk/ [C1]
 #### 车辆: vehicles /ˈviːɪkəlz/ [B1]
+- 出租车: taxi /ˈtæksi/ [A1] √
 - 卡车: lorry /ˈlɔːri/（英）[B1] √, truck /trʌk/（美）[B1] √
 - 挂车: trailer /ˈtreɪlə/
 - 拖车: tow truck /təʊ trʌk/ √
@@ -773,6 +773,7 @@
 - 喇叭: horn /hɔːn/ [B2]
 - 后备箱: boot /buːt/（英） [B1], trunk /trʌŋk/（美）[B1]
 #### 火车零部件: train parts /treɪn pɑːts/
+- 驾驶室: cab /kæb/
 - 火车头: locomotive /ˌləʊkəˈməʊtɪv/
 - 火车车厢: coach /kəʊtʃ/（英）[A2], car /kɑː/（美)[C1]
 #### 飞机零部件: airplane parts /ˈerpleɪn pɑːts/
@@ -1419,6 +1420,7 @@
 - 面包: bread /bred/ [A1] √
 - 蛋糕: cake /keɪk/ [A1] √
 - 煎饼: pancake /ˈpænkeɪk/ [B2]
+- 蛋饼: omelette（英）, omelet（美）/ˈɒmlət/ [A2]
 - 纸杯蛋糕: cupcake /ˈkʌpkeɪk/
 - 蛋挞: egg tart /eɡ tɑːt/
 - 松饼: muffin /ˈmʌfɪn/ √
