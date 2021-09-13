@@ -661,7 +661,7 @@
 #### 工具: tools /tuːlz/ [B2]
 - 洒水壶: watering can /ˈwɔːtərɪŋ kæn/
 - 锄头: hoe /həʊ/
-- 软管: hose /həʊz/
+- 软管: hose /həʊz/ √
 - 犁: plow /plaʊ/
 - 铁锹: spade /speɪd/ [C2]
 - 铁铲: shovel /ˈʃʌvl/ [C2] √
@@ -680,7 +680,7 @@
 - 纸: paper /ˈpeɪpə/ [A1] √
 - 颜料: paint /peɪnt/ [A1]
 - 水彩: watercolor /ˈwɔ:təkʌlə/
-- 蜡笔: crayon /ˈkreɪɒn/ √
+- 蜡笔: crayon /ˈkreɪɒn/
 - 粉笔: chalk /tʃɔːk/
 - 彩色铅笔: colored pencil /ˈkʌləd ˈpensl/
 - 水彩笔: colored marker /ˈkʌləd ˈmɑːkə/
@@ -1594,6 +1594,7 @@
 - 小提琴: violin /ˌvaɪəˈlɪn/ [A2]
 - 鼓: drum /drʌm/ [A2]
 - 小号: trumpet /ˈtrʌmpɪt/ [B1] √
+- 电子琴: keyboard [A2]
 #### 社会: society /səˈsaɪəti/ [B1]
 - 法律: law /lɔː/ [B2]
 - 政府: government /ˈɡʌvənmənt/ [B1]
