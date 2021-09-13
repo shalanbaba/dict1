@@ -1560,6 +1560,7 @@
 - 篮球筐: basketball hoop /ˈbɑːskɪtbɔːl huːp/
 - 自行车: bike /baɪk/ [A2], bicycle /ˈbaɪsɪkl/ [A2] √
 - 雪橇: sleigh /sleɪ/
+- 滑板车: scooter /ˈskuːtə/ √
 - 平衡车: balance bike /ˈbæləns baɪk/ √
 - 跳绳: skipping rope /skɪpɪŋ rəʊp/（英）, jump rope /dʒʌmp rəʊp/（美）√
 - 钓鱼竿: fishing rod /ˈfɪʃɪŋ rɒd/
@@ -1585,7 +1586,6 @@
 - 积木: building block /ˈbɪldɪŋ blɔk/
 - 风车: windmill /ˈwɪndmɪl/
 - 水枪: water gun /ˈwɔːtə ɡʌn/ √
-- 滑板车: scooter /ˈskuːtə/
 - 骰子: dice /daɪs/
 - 弹珠: marble /ˈmɑːbl/
 #### 乐器: musical instruments /ˈmjuːzɪkl ˈɪnstrʊmənts/
