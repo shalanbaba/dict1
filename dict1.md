@@ -612,7 +612,7 @@
 - 表: watch /wɒtʃ/ [A1]
 - 遥控器: remote control /rɪˈməʊt kənˈtrəʊl/ [B1]
 - 摄像机: camcorder /ˈkæmkɔːdə/
-- 电视机: television /ˈtelɪvɪʒn/ [A1] √
+- 电视机: television /ˈtelɪvɪʒn/ [A1]
 - 冰箱: fridge /frɪdʒ/ [A2], refrigerator /rɪˈfrɪdʒəreɪtə/ [A1]
 - 烤箱: oven /ˈʌvn/ [B1]
 - 微波炉: microwave /ˈmaɪkrəweɪv/
@@ -625,7 +625,6 @@
 - 显示器: monitor /ˈmɒnɪtə/ [B2]
 - 消毒柜: sterilizer /ˈsterəlaɪzə/
 - 油烟机: range hood /reɪndʒ hʊd/
-- 燃气灶: gas stove /ɡæs stəʊv/
 - 电脑: computer /kəmˈpjuːtə/ [A1]
 - 手机: cell phone /sel fəʊn/ [A1]
 - 平板电脑: pad /pæd/
@@ -647,12 +646,12 @@
 - 插线板: power strip /ˈpaʊə strɪp/
 - 闸机: barrier /ˈbæriə/ [B2], turnstile /ˈtɜːnstaɪl/
 #### 机器: machines /məˈʃiːnz/ [A2]
-- 挖掘机: digger /ˈdɪɡə/
-- 吊车: crane /kreɪn/
+- 挖掘机: digger /ˈdɪɡə/ √
+- 吊车: crane /kreɪn/ √
 - 绞车: winch /wɪntʃ/ √
-- 铲车: wheel loader /wiːl ˈləʊdə/
-- 叉车: fork lift /fɔːk lɪft/
-- 塔吊: tower crane /ˈtaʊə kreɪn/
+- 铲车: wheel loader /wiːl ˈləʊdə/ √
+- 叉车: fork lift /fɔːk lɪft/ √
+- 塔吊: tower crane /ˈtaʊə kreɪn/ √
 - 割草机: lawn mower /lɔːn ˈməʊə/
 #### 零件: parts /pɑːts/ [B2]
 - 螺丝: screw /skruː/
