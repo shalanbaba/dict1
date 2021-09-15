@@ -1065,6 +1065,7 @@
 - 巫师: wizard /ˈwɪzəd/
 - 巫婆: witch /wɪtʃ/ [C1] √
 - 矿工: miner /ˈmaɪnə/ [C1]
+- 导游: guide /ɡaɪd/ [A2]
 #### 职位: positions /pəˈzɪʃnz/ [B2]
 - 总统, 主席: president /ˈprezɪdənt/ [B1]
 - 总裁: president /ˈprezɪdənt/
