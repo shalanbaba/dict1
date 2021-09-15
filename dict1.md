@@ -221,7 +221,7 @@
 - 泥: mud /mʌd/ [B2] √
 - 土: soil /sɔɪl/ [B2]
 - 火山: volcano /vɒlˈkeɪnəʊ/ [B2] √
-- 湖: lake /leɪk/ [A2] √
+- 湖: lake /leɪk/ [A2]
 - 大陆: mainland /ˈmeɪnlænd/
 - 大海: sea /siː/ [A1] √
 - 潮水: tide /taɪd/ [B2]
@@ -323,6 +323,7 @@
 - 石头: stone /stəʊn/ [B1]
 - 大理石: marble /ˈmɑːbl/
 #### 城市: the city /ðə ˈsɪti/ [A1]
+- 井盖: manhole cover /ˈmænhəʊl ˈkʌvə/
 - 草坪: lawn /lɔːn/ [C1]
 - 花坛: flower bed /ˈflaʊə bed/
 - 花坛沿: flower bed edge /ˈflaʊə bed edʒ/
@@ -332,20 +333,20 @@
 - 船闸: lock /lɒk/ [ORT1+]
 - 坝: dam /dæm/
 - 堰: weir /wɪə/ [ORT5]
-- 地铁站: metro station /ˈmetrəʊ ˈsteɪʃn/ √
-- 面包店: bakery /ˈbeɪkəri/ [B2] √
+- 地铁站: metro station /ˈmetrəʊ ˈsteɪʃn/
+- 面包店: bakery /ˈbeɪkəri/ [B2]
 - 咖啡馆: cafe /ˈkæfeɪ/ [A1], coffee shop /ˈkɒfi ʃɒp/ [A1]
 - 商场: shopping mall /ˈʃɒpɪŋ mɔːl/ √, mall /mɔːl/
 - 电影院: camera /ˈkæmrə/ [A1]
-- 市场: market /ˈmɑːkɪt/ [A2] √, mart /mɑːt/
+- 市场: market /ˈmɑːkɪt/ [A2], mart /mɑːt/
 - 超市: supermarket /ˈsuːpəmɑːkɪt/ [A1]
 - 停车场: parking lot /ˈpɑːkɪŋ lɒt/ [A2] √
 - 停车位: parking space /ˈpɑːkɪŋ speɪs/, parking stall /ˈpɑːkɪŋ stɔːl/
 - 车库: garage /ˈɡærɑːʒ/ [A2] √
 - 修车店: garage /ˈɡærɑːʒ/ [B1] √
-- 图书馆: library /ˈlaɪbrəri/ [A2] √
-- 博物院: museum /mjuˈziːəm/ [A1] √
-- 学校: school /skuːl/ [A1] √
+- 图书馆: library /ˈlaɪbrəri/ [A2]
+- 博物院: museum /mjuˈziːəm/ [A1]
+- 学校: school /skuːl/ [A1]
 - 托儿所: nursery /ˈnɜːsəri/ [B2]
 - 幼儿园: kindergarten /ˈkɪndəɡɑːtn/ √
 - 小学: primary school /ˈpraɪməri skuːl/ [B1]
@@ -368,7 +369,7 @@
 - 酒吧: bar /bɑː/ [A1]
 - 宠物店: pet shop /pet ʃɒp/
 - 书店: bookstore /ˈbʊkˌstɔː/ [A1]
-- 游泳池: swimming pool /ˈswɪmɪŋ puːl/ [A1] √
+- 游泳池: swimming pool /ˈswɪmɪŋ puːl/ [A1]
 - 体育场: stadium /ˈsteɪdiəm/ [A2]
 - 健身房: gym /dʒɪm/ [B1]
 - 植物园: botanical garden /bəˌtænɪkl ˈɡɑːdn/
@@ -389,20 +390,20 @@
 - 宫殿: palace /ˈpæləs/ [B1]
 - 公园: park /pɑːk/ [A1] √
 - 工厂: factory /ˈfæktri/ [A1]
-- 商店: shop /ʃɒp/ [A2] √, store /stɔː/ [B1] √
+- 商店: shop /ʃɒp/ [A2], store /stɔː/ [B1]
 - 垃圾房: garbage room /ˈɡɑːbɪdʒ ruːm/
 - 垃圾场: dump /dʌmp/ [C1]
 - 变电站: transformer substation /trænsˈfɔːmə ˈsʌbsteɪʃn/
 - 亭子: pavilion /pəˈvɪliən/
 - 加油站: gas station /ˈɡæs steɪʃn/ [A2]
-- 厕所: toilet /ˈtɔɪlət/ [A1] √
+- 厕所: toilet /ˈtɔɪlət/ [A1]
 - 售票处: ticket office /ˈtɪkɪt ˈɒfɪs/
 - 检票口: ticket gate /ˈtɪkɪt ɡeɪt/
 - 站台: platform /ˈplætfɔːm/ [A2]
-- 公交车站: bus station /bʌs ˈsteiʃn/ [A2] √, bus stop /bʌs stɒp/ [A2] √
+- 公交车站: bus station /bʌs ˈsteiʃn/ [A2], bus stop /bʌs stɒp/ [A2] √
 - 候车室: waiting room /ˈweɪtɪŋ ruːm/
 - 旅馆: inn /ɪn/
-- 喷泉: fountain /ˈfaʊntən/ [B1] √
+- 喷泉: fountain /ˈfaʊntən/ [B1]
 - 度假村: resort /rɪˈzɔːt/ [B1]
 - 理发店: barber shop /ˈbɑːbə ʃɒp/, hair salon /heə ˈsælɒn/
 - 肉铺: butcher shop /ˈbʊtʃə ʃɒp/
@@ -574,9 +575,9 @@
 - 碟: dish /dɪʃ/ [A2]
 - 盘: plate /pleɪt/ [A1]
 - 碗: bowl /bəʊl/ [A2]
-- 勺: spoon /spuːn/（浅）[A2] √, scoop /skuːp/（深）
+- 勺: spoon /spuːn/（浅）[A2], scoop /skuːp/（深）
 - 刀: knife /naɪf/ [A1]
-- 叉: fork /fɔːk/ [A2] √
+- 叉: fork /fɔːk/ [A2]
 - 筷子: chopsticks /ˈtʃɒpstɪks/ √
 - 杯: cup /kʌp/ [A1]
 - 马克杯: mug /mʌɡ/ [A2]
@@ -609,7 +610,7 @@
 - 净水器: water purifier /ˈwɔːtə ˈpjʊərɪfaɪə/
 - 秤: scale /skeɪl/ [B2]
 - 钟: clock /klɒk/ [A1]
-- 表: watch /wɒtʃ/ [A1]
+- 表: watch /wɒtʃ/ [A1] √
 - 遥控器: remote control /rɪˈməʊt kənˈtrəʊl/ [B1]
 - 摄像机: camcorder /ˈkæmkɔːdə/
 - 电视机: television /ˈtelɪvɪʒn/ [A1]
@@ -621,7 +622,7 @@
 - 电吹风: hair dryer /heə ˈdraɪə/ [B1]
 - 电饭煲: rice cooker /raɪs ˈkʊkə/
 - 电水壶: electric kettle /ɪˈlektrɪk ˈketl/
-- 电风扇: fan /fæn/ [B1] √
+- 电风扇: fan /fæn/ [B1]
 - 显示器: monitor /ˈmɒnɪtə/ [B2]
 - 消毒柜: sterilizer /ˈsterəlaɪzə/
 - 油烟机: range hood /reɪndʒ hʊd/
@@ -648,10 +649,10 @@
 #### 机器: machines /məˈʃiːnz/ [A2]
 - 挖掘机: digger /ˈdɪɡə/ √
 - 吊车: crane /kreɪn/ √
-- 绞车: winch /wɪntʃ/ √
-- 铲车: wheel loader /wiːl ˈləʊdə/ √
+- 绞车: winch /wɪntʃ/
+- 铲车: wheel loader /wiːl ˈləʊdə/
 - 叉车: fork lift /fɔːk lɪft/ √
-- 塔吊: tower crane /ˈtaʊə kreɪn/ √
+- 塔吊: tower crane /ˈtaʊə kreɪn/
 - 割草机: lawn mower /lɔːn ˈməʊə/
 #### 零件: parts /pɑːts/ [B2]
 - 螺丝: screw /skruː/
@@ -703,7 +704,6 @@
 - 距离: distance /ˈdɪstəns/ [B1]
 - 人行道: pavement /ˈpeɪvmənt/（英）[B1], sidewalk /ˈsaɪdwɔːk/（美）[B1]
 - 路锥: traffic cone /ˈtræfɪk kəʊn/ √
-- 井盖: manhole cover /ˈmænhəʊl ˈkʌvə/
 - 交通信号灯: traffic light /ˈtræfɪk laɪt/ [A2]
 - 路障: roadblock /ˈrəʊdblɒk/
 - 护栏: guardrail /ˈɡɑːdreɪl/
@@ -990,6 +990,7 @@
 - 观众: audience /ˈɔːdiəns/ [B1] √
 - 学生: student /ˈstjuːdnt/ [A1]
 - 游客: tourist /ˈtʊərɪst/ [A2]
+- 叙述者（旁白）: narrator /nəˈreɪtə/ [C2]
 - 访客: visitor /ˈvɪzɪtə/ [A2]
 - 囚犯: prisoner /ˈprɪznə/ [B1]
 - 国王: king /kɪŋ/ [A2] √
