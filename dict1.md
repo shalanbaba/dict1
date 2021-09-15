@@ -704,7 +704,7 @@
 - 距离: distance /ˈdɪstəns/ [B1]
 - 人行道: pavement /ˈpeɪvmənt/（英）[B1], sidewalk /ˈsaɪdwɔːk/（美）[B1]
 - 路锥: traffic cone /ˈtræfɪk kəʊn/ √
-- 交通信号灯: traffic light /ˈtræfɪk laɪt/ [A2]
+- 交通信号灯: traffic light /ˈtræfɪk laɪt/ [A2] √
 - 路障: roadblock /ˈrəʊdblɒk/
 - 护栏: guardrail /ˈɡɑːdreɪl/
 - 路桩: bollard /ˈbɒlɑːd/
@@ -723,12 +723,12 @@
 - 外环: outer ring /ˈaʊtə rɪŋ/
 - 巷: lane /leɪn/ [B2]
 - 弄: alley /ˈæli/
-- 大道: avenue /ˈævənjuː/ [C1] √
+- 大道: avenue /ˈævənjuː/ [C1]
 - 环路: circle /ˈsɜːkl/
 - 支路: branch road /bræntʃ rəʊd/
 - 隧道: tunnel /ˈtʌnl/ [B1] √
 - 铁路: railway /ˈreɪlweɪ/ [A2]
-- 轨道: track /træk/ [C1]
+- 轨道: track /træk/ [C1] √
 #### 车辆: vehicles /ˈviːɪkəlz/ [B1]
 - 出租车: taxi /ˈtæksi/ [A1] √
 - 卡车: lorry /ˈlɔːri/（英）[B1] √, truck /trʌk/（美）[B1] √
@@ -739,20 +739,20 @@
 - 公交车: bus /bʌs/ [A1] √
 - 摩托车: motorbike /ˈməʊtəbaɪk/ [A2] √, motorcycle /ˈməʊtəsaɪkl/ [A2] √
 - 平板摩托车: scooter /ˈskuːtə/ [A2]
-- 房车: camper van /ˈkæmpə væn/ √
+- 房车: camper van /ˈkæmpə væn/
 - 班车: shuttle bus /ˈʃʌtl bʌs/ √
-- 电动自行车: electric bicycle /ɪˈlektrɪk ˈbaɪsɪkl/ √
+- 电动自行车: electric bicycle /ɪˈlektrɪk ˈbaɪsɪkl/
 - 双层巴士: double-decker bus /ˈdʌbl ˈdekə bʌs/ √
 - 长途汽车: coach /kəʊtʃ/ [A2]（美）
-- 混凝土搅拌车: concrete mixer /ˈkɒŋkriːt ˈmɪksə/
-- 吊车: mobile crane /ˈməʊbaɪl kreɪn/
+- 混凝土搅拌车: concrete mixer /ˈkɒŋkriːt ˈmɪksə/ √
+- 吊车: mobile crane /ˈməʊbaɪl kreɪn/ √
 #### 火车: trains /treɪnz/ [A1] √
 - 蒸汽火车: steam train /stiːm treɪn/, puffer billy /ˈpʌfə ˈbɪli/
 - 磁悬浮列车: maglev train /ˈmæɡlev treɪn/
 - 高铁: high-speed train /haɪ spiːd treɪn/ √
-- 地铁: metro /ˈmetrəʊ/ √, underground /ˌʌndəˈɡraʊnd/（英）[A2], subway /ˈsʌbweɪ/（美）[A1]
+- 地铁: metro /ˈmetrəʊ/, underground /ˌʌndəˈɡraʊnd/（英）[A2], subway /ˈsʌbweɪ/（美）[A1]
 - 轻轨: light rail /laɪt reɪl/, overground /ˈəuvəɡraund/（英）
-#### 航空器: aircrafts /ˈeəkrɑːfts/ [B2] √
+#### 航空器: aircrafts /ˈeəkrɑːfts/ [B2]
 - 飞机: aeroplane /ˈeərəpleɪn/（英）[A2] √, airplane /ˈeəpleɪn/（美）[A2] √
 - 直升机: helicopter /ˈhelɪkɒptə/ [A2] √
 - 热气球: hot air balloon /hɒt eə bəˈluːn/ √
@@ -770,11 +770,11 @@
 - 雨刮器: wiper /ˈwaɪpə/ √
 - 轮子: wheel /wiːl/ [A2] √
 - 喇叭: horn /hɔːn/ [B2]
-- 后备箱: boot /buːt/（英） [B1], trunk /trʌŋk/（美）[B1]
+- 后备箱: boot /buːt/（英）[B1], trunk /trʌŋk/（美）[B1]
 #### 火车零部件: train parts /treɪn pɑːts/
-- 驾驶室: cab /kæb/
+- 驾驶室: cab /kæb/ √
 - 火车头: locomotive /ˌləʊkəˈməʊtɪv/
-- 火车车厢: coach /kəʊtʃ/（英）[A2], car /kɑː/（美)[C1]
+- 火车车厢: coach /kəʊtʃ/（英）[A2], car /kɑː/（美）[C1]
 #### 飞机零部件: airplane parts /ˈerpleɪn pɑːts/
 - 驾驶舱: cockpit /ˈkɒkpɪt/
 #### 航天: aerospace /ˈeərəʊspeɪs/
@@ -784,7 +784,7 @@
 - 点火: ignition /ɪɡˈnɪʃn/
 - 起飞: lift off /ˈlɪft ɒf/ √
 - 发射: launch /lɔːntʃ/ [C1] √
-- 发射台: launch pad /ˈlɔːntʃ pæd/ √
+- 发射台: launch pad /ˈlɔːntʃ pæd/
 #### 服装: clothes /kləʊðz/ [A1]
 - 内衣: underwear /ˈʌndəweə/ [B1]
 - 体恤衫: t-shirt /ˈtiː ʃɜːt/ [A1]
@@ -805,7 +805,7 @@
 - 腰带: belt /belt/ [A2]
 - 领带: tie /taɪ/ [A2]
 - 演出服: costume /ˈkɒstjuːm/ [B2]
-- 制服: uniform /ˈjuːnɪfɔːm/ [A2]
+- 制服: uniform /ˈjuːnɪfɔːm/ [A2] √
 - 倒挂衣: bib /bɪb/
 - 假发: wig /wɪɡ/
 - 外套: coat /kəʊt/ [A1]
@@ -816,12 +816,12 @@
 - 雨衣: raincoat /ˈreɪnkəʊt/ [A2]
 #### 鞋子: shoes /ʃuːz/ [A1]
 - 拖鞋: slippers /ˈslɪpəz/
-- 雨靴: rain boots /reɪn buːts/
+- 雨靴: rain boots /reɪn buːts/ √
 #### 包: bags /bæɡz/ [A1]
 - 背包: backpack /ˈbækpæk/ [A2]
 #### 眼镜: glasses /ˈɡlɑːsɪz/ [A1]
-- 墨镜: shades /ʃeɪdz/
-- 太阳眼镜: sunglasses /ˈsʌnɡlɑːsɪz/ [A2]
+- 墨镜: shades /ʃeɪdz/ √
+- 太阳眼镜: sunglasses /ˈsʌnɡlɑːsɪz/ [A2] √
 - 游泳眼镜: goggles /ˈɡɑːɡlz/
 #### 首饰: jewellery（英）, jewelry（美）/ˈdʒuːəlri/ [A2]
 - 戒指: ring /rɪŋ/ [A2]
@@ -833,23 +833,23 @@
 - 拉链: zip /zɪp/ [B2], zipper /ˈzɪpə/ [B2]
 - 带扣: buckle /ˈbʌkl/
 - 纽扣: button /ˈbʌtn/ [B1]
-#### 动物: the animal /ði ˈænɪml/ [A1] √
+#### 动物: the animal /ði ˈænɪml/ [A1]
 - 爬行动物: reptiles /ˈreptaɪlz/ [C1]
   - 蛇: snake /sneɪk/ [A2] √
-  - 乌龟: turtle /ˈtɜːtl/（水陆）, tortoise /ˈtɔːtəs/（陆） √
+  - 乌龟: turtle /ˈtɜːtl/（水陆）, tortoise /ˈtɔːtəs/（陆）
   - 海龟: sea turtle /siː ˈtɜːtl/
   - 变色龙: chameleon /kəˈmiːliən/
-  - 火蜥蜴: salamander /ˈsæləmændə/ [ORT2] √
-  - 鳄鱼:  [B2] /ˈkrɒkədaɪl/ [B2]
+  - 火蜥蜴: salamander /ˈsæləmændə/ [ORT2]
+  - 鳄鱼: crocodile /ˈkrɒkədaɪl/ [B2] √
 - 鸟: birds /bɜːdz/ [A1] √
   - 小鸟: birdie /ˈbɜːdi/ √
   - 鸵鸟: ostrich /ˈɒstrɪtʃ/
   - 小鸭: duckling /ˈdʌklɪŋ/
   - 鸽子: pigeon /ˈpɪdʒɪn/ √
   - 鹅: goose /ɡuːs/
-  - 小鹅: gosling /ˈɡɒzlɪŋ/ √
+  - 小鹅: gosling /ˈɡɒzlɪŋ/
   - 小蝌蚪: tadpole /ˈtædpəʊl/ √
-  - 猫头鹰: owl /aʊl/ [B2]
+  - 猫头鹰: owl /aʊl/ [B2] √
   - 小猫头鹰: owlet /ˈaʊlət/
   - 乌鸦: crow /krəʊ/
   - 燕子: swallow /ˈswɒləʊ/
@@ -857,14 +857,14 @@
   - 母鸡: hen /hen/ √
   - 公鸡: rooster /ˈruːstə/ √
   - 孔雀: peacock /ˈpiːkɒk/ √
-  - 海鸥: seagull /siːɡʌl/
+  - 海鸥: seagull /siːɡʌl/ √
   - 巨嘴鸟: toucan /ˈtuːkæn/
   - 猎鹰: falcon /ˈfælkən/ √
 - 蛤蜊: clam /klæm/
-- 昆虫: insects /ˈɪnsekts/ [A2] √
+- 昆虫: insects /ˈɪnsekts/ [A2]
   - 虫子: bug /bʌɡ/ [B1] √
   - 苍蝇: fly /flaɪ/ [B1] √
-  - 萤火虫: firefly /ˈfaɪəflaɪ/ √
+  - 萤火虫: firefly /ˈfaɪəflaɪ/
   - 蚊子: mosquito /məˈskiːtəʊ/ [B1] √
   - 蚂蚁: ant /ænt/ [B1] √
   - 蜻蜓: dragonfly /ˈdræɡənflaɪ/ √
@@ -874,26 +874,26 @@
   - 大黄蜂: bumblebee /ˈbʌmblbiː/
   - 飞蛾: moth /mɒθ/ √
   - 蝴蝶: butterfly /ˈbʌtəflaɪ/ [B1] √
-  - 茧: cocoon /kəˈkuːn/ √
+  - 茧: cocoon /kəˈkuːn/
   - 碟蛹: chrysalis /ˈkrɪsəlɪs/
   - 蟋蟀: cricket /ˈkrɪkɪt/ [C2]
   - 甲壳虫: beetle /ˈbiːtl/
 - 蜘蛛: spider /ˈspaɪdə/ [B1] √
 - 蜈蚣: centipede /ˈsentɪpiːd/
-- 哺乳动物: mammals /ˈmæmlz/ [C1] √
+- 哺乳动物: mammals /ˈmæmlz/ [C1]
   - 瞪羚: gazelle /ɡəˈzel/
   - 斑马: zebra /ˈzebrə/ [B2] √
   - 长颈鹿: giraffe /dʒəˈrɑːf/ [B1] √
   - 大熊猫: panda /ˈpændə/ √
   - 考拉: koala /kəʊˈɑːlə/
   - 松鼠: squirrel /ˈskwɪrəl/ √
-  - 树懒: sloth /sləʊθ/ √
+  - 树懒: sloth /sləʊθ/
   - 老虎: tiger /ˈtaɪɡə/ [B1] √
   - 海狮: sea lion /siː ˈlaɪən/
   - 海豹: seal /siːl/ [B2] √
   - 海象: walrus /ˈwɔːlrəs/
   - 鲸鱼: whale /weɪl/ [B1] √
-  - 臭鼬: skunk /skʌŋk/ √
+  - 臭鼬: skunk /skʌŋk/
   - 大象: elephant /ˈelɪfənt/ [A2] √
   - 骆驼: camel /ˈkæml/ [B1] √
   - 狐狸: fox /fɒks/ [B2] √
@@ -910,9 +910,9 @@
   - 小羊: lamb /læm/ [B1] √
   - 小马: foal /fəʊl/, pony /ˈpəʊni/ [C1] √
   - 小牛: calf /kɑːf/ [B1]
-  - 幼崽: cub /kʌb/（凶猛）, calf /kɑːf/（温顺）
+  - 幼崽: cub /kʌb/（凶猛） √, calf /kɑːf/（温顺）
   - 小鹿: fawn /fɔːn/
-  - 袋鼠: kangaroo /ˌkæŋɡəˈruː/ [B1]
+  - 袋鼠: kangaroo /ˌkæŋɡəˈruː/ [B1] √
   - 小袋鼠: joey /ˈdʒəʊi/
   - 驴: donkey /ˈdɒŋki/ [B1]
   - 牧羊犬: sheepdog /ˈʃi:pdɒg/
@@ -944,12 +944,11 @@
 - 蜗牛: snail /sneɪl/ √
 - 宠物: pet /pet/ [A1] √
 - 珊瑚: coral /ˈkɒrəl/ [C2]
-- 怪兽: monster /ˈmɒnstə/ [B1] √
 - 毛皮: fur /fɜː/ [B1]
 - 掌: paw /pɔː/ [B2]
 - 大象鼻子: trunk /trʌŋk/ √
 - 爪子: claw /klɔː/
-#### 植物: the plant /ðə plænt/ [A1] √
+#### 植物: the plant /ðə plænt/ [A1]
 - 花: flowers /ˈflaʊəz/ [A1] √
   - 樱花: sakura /sakurə/
 - 花苞: bud /bʌd/ √
@@ -987,7 +986,7 @@
 - 绅士: gentleman /ˈdʒentlmən/ [B2]
 - 女士: lady /ˈleɪdi/ [B1]
 - 行人: pedestrian /pəˈdestriən/ [B1]
-- 观众: audience /ˈɔːdiəns/ [B1] √
+- 观众: audience /ˈɔːdiəns/ [B1]
 - 学生: student /ˈstjuːdnt/ [A1]
 - 游客: tourist /ˈtʊərɪst/ [A2]
 - 叙述者（旁白）: narrator /nəˈreɪtə/ [C2]
@@ -1012,24 +1011,24 @@
 - 水手: sailor /ˈseɪlə/ [B1]
 - 海军陆战队员: marine /məˈriːn/
 - 狙击手: sniper /ˈsnaɪpə/
-- 警察: policeman /pəˈliːsmən/ [A2] √, policewoman /pəˈliːswʊmən/ [A2], police officer /pəˈliːs ˈɒfɪsə/ [A2] √
+- 警察: policeman /pəˈliːsmən/ [A2] √, policewoman /pəˈliːswʊmən/ [A2], police officer /pəˈliːs ˈɒfɪsə/ [A2]
 - 飞行员: pilot /ˈpaɪlət/ [A2] √
 - 老师: teacher /ˈtiːtʃə/ [A1] √
 - 护士: nurse /nɜːs/ [A2] √
 - 服务员: waiter /ˈweɪtə/（男）[A1], waitress /ˈweɪtrəs/（女）[A1]
 - 牙医: dentist /ˈdentɪst/ [A2] √
 - 科学家: scientist /ˈsaɪəntɪst/ [B1]
-- 歌手: singer /ˈsɪŋə/ [A2] √
+- 歌手: singer /ˈsɪŋə/ [A2]
 - 理发师: barber /ˈbɑːbə/ [B1], hairdresser /ˈheədresə/ [B1]
 - 演员: actor /ˈæktə/ （男）[A2], actress /ˈæktrəs/（女）
 - 喜剧演员: comedian /kəˈmiːdiən/ [B2]
 - 特技演员: stuntman /ˈstʌntmæn/
 - 作家: writer /ˈraɪtə/ [B1]
-- 舞者: dancer /ˈdɑːnsə/ [A2] √
+- 舞者: dancer /ˈdɑːnsə/ [A2]
 - 律师: lawyer /ˈlɔɪə/ [B1]
 - 厨师: chef /ʃef/ [A2] √
 - 图书管理员: librarian /laɪˈbreəriən/
-- 园林管理员: ranger /ˈreɪndʒə/ [ORT5]
+- 园林管理员: ranger /ˈreɪndʒə/ [ORT5] √
 - 动物饲养员: zookeeper /ˈzuːkiːpə/ √
 - 作者: author /ˈɔːθə/ [B1]
 - 画家: artist /ˈɑːtɪst/ [A2]
@@ -1043,9 +1042,9 @@
 - 屠夫: butcher /ˈbʊtʃə/ [B1]
 - 管家: housekeeper /ˈhaʊskiːpə/
 - 乘务员: attendant /əˈtendənt/
-- 烘焙师: baker /ˈbeɪkə/ [B1] √
+- 烘焙师: baker /ˈbeɪkə/ [B1]
 - 渔夫: fisherman /ˈfɪʃəmən/ [B2], fisherwoman /ˈfɪʃəwʊmən/
-- 保安: guard /ɡɑːd/ [B1]
+- 保安: guard /ɡɑːd/ [B1] √
 - 环卫工: sanitation worker /ˌsænɪˈteɪʃn ˈwɜːkə/
 - 保洁工: cleaner /ˈkliːnə/ [A2] √
 - 魔术师: conjurer /ˈkʌndʒərə/
@@ -1060,30 +1059,31 @@
 - 工程师: engineer /ˌendʒɪˈnɪə/ [A2]
 - 记者: reporter /rɪˈpɔːtə/ [B1]
 - 秘书: secretary /ˈsekrətri/ [A2]
-- 骑士: knight /naɪt/ √
+- 骑士: knight /naɪt/
 - 机械师: mechanic /məˈkænɪk/ [A2] √
 - 巫师: wizard /ˈwɪzəd/
 - 巫婆: witch /wɪtʃ/ [C1] √
 - 矿工: miner /ˈmaɪnə/ [C1]
 - 导游: guide /ɡaɪd/ [A2]
+- 售票员（公交）: conductor /kənˈdʌktə/
 #### 职位: positions /pəˈzɪʃnz/ [B2]
 - 总统, 主席: president /ˈprezɪdənt/ [B1]
 - 总裁: president /ˈprezɪdənt/
 - 校长: principal /ˈprɪnsəpl/ [B2]
 - 领导: leader /ˈliːdə/ [B1]
 - 经理: manager /ˈmænɪdʒə/ [A2]
-- 队长: captain /ˈkæptɪn/ [B1] √
+- 队长: captain /ˈkæptɪn/ [B1]
 #### 称谓: titles /ˈtaɪtlz/
 - 女士: Miss /mɪs/ [A1], madam /ˈmædəm/ [B1]
 - 夫人: Mrs /ˈmɪsɪz/ [A1], madam /ˈmædəm/ [B1]
-- 先生: Mr /ˈmɪstə/ [A1], sir /sɜː/ [B1]
+- 先生: Mr /ˈmɪstə/ [A1] √, sir /sɜː/ [B1]
 #### 关系: relationships /rɪˈleɪʃnʃɪps/ [B1]
 - 丈夫: husband /ˈhʌzbənd/ [A1]
 - 妻子: wife /waɪf/ [A1]
 - 父亲: father /ˈfɑːðə/ [A1]
 - 爸爸: dad /dæd/ [A1] √
 - 母亲: mother /ˈmʌðə/ [A1]
-- 妈妈: mum /mʌm/（英）[A1], mom /mɑːm/（美）[A1]
+- 妈妈: mum /mʌm/（英）[A1] √, mom /mɑːm/（美）[A1]
 - 舅舅: uncle /ˈʌŋkl/ [A2]
 - 舅妈: aunt /ɑːnt/ [A2]
 - 父母: parent /ˈpeərənt/ [A1]
@@ -1099,8 +1099,8 @@
 - 女儿: daughter /ˈdɔːtə/ [A1]
 - 孙子, 外孙: grandson /ˈɡrænsʌn/ [A2]
 - 孙女, 外孙女: granddaughter /ˈɡrændɔːtə/ [A2]
-- 双胞胎: twins /twɪnz/ [B1]
-- 朋友: friend /frend/ [A1]
+- 双胞胎: twins /twɪnz/ [B1] √
+- 朋友: friend /frend/ [A1] √
 - 同学: classmate /ˈklɑːsmeɪt/ [A2]
 - 同事: colleague /ˈkɒliːɡ/ [A2]
 - 邻居: neighbour（英）, neighbor（美）/ˈneɪbə/ [A2]
@@ -1125,7 +1125,7 @@
 #### 身体: the body /ðə ˈbɒdi/ [A1]
 - 骨架: skeleton /ˈskelɪtn/ [B2]
 - 头: head /hed/ [A1] √
-- 手指: fingers /ˈfɪŋɡəz/ [A2]
+- 手指: fingers /ˈfɪŋɡəz/ [A2] √
   - 拇指: thumb /θʌm/ [B1]
   - 食指: pointer finger /ˈpɔɪntə ˈfɪŋɡə/
   - 中指: middle finger /ˈmɪdl ˈfɪŋɡə/
@@ -1186,10 +1186,10 @@
 #### 感觉: feelings /ˈfiːlɪŋz/ [B1]
 - 无聊的: bored /bɔːd/ [A1]
 - 舒服的: comfortable /ˈkʌmftəbl/ [B1]
-- 开心的: happy /ˈhæpi/ [A1], glad /ɡlæd/ [A2]
+- 开心的: happy /ˈhæpi/ [A1] √, glad /ɡlæd/ [A2]
 - 伤心的: sad /sæd/ [A1]
 - 饱的: full /fʊl/ [B2]
-- 饿的: hungry /ˈhʌŋɡri/ [A1]
+- 饿的: hungry /ˈhʌŋɡri/ [A1] √
 - 口渴的: thirsty /ˈθɜːsti/ [A2]
 - 害怕的: afraid /əˈfreɪd/ [B1]
 - 惊讶的: surprised /səˈpraɪzd/ [A2]
@@ -1249,12 +1249,12 @@
   - 减: subtract /səbˈtrækt/
   - 乘: multiply /ˈmʌltɪplaɪ/
   - 除: divide /dɪˈvaɪd/ [C1]
-- 数数: count /kaʊnt/ [B1]
+- 数数: count /kaʊnt/ [B1] √
 - 百分比: percentage /pəˈsentɪdʒ/ [B2]
-#### 时间: time /taɪm/ [A2]
+#### 时间: time /taɪm/ [A2] √
 - 上午: morning /ˈmɔːnɪŋ/ [A1] √
-- 下午: afternoon /ˌɑːftəˈnuːn/ [A1]
-- 晚上: evening /ˈiːvnɪŋ/ [A1]
+- 下午: afternoon /ˌɑːftəˈnuːn/ [A1] √
+- 晚上: evening /ˈiːvnɪŋ/ [A1] √
 - 日期: date /deɪt/ [A1]
 - 日历: the calendar /ðə ˈkælɪndəz/ [A2]
   - 月份: months /mʌnθs/ [A1]
@@ -1266,31 +1266,31 @@
 - 节日: festival days /ˈfestɪvl deɪz/
   - 植树节: Arbor Day /ˈɑːbə deɪ/
   - 元旦: New Yearˈs Day /ˌnjuː jɪəz ˌdeɪ/
-  - 春节: Spring Festival /sprɪŋ ˈfestɪvl/ √
-  - 元宵节: Lantern Festival /ˈlæntən ˈfestɪvl/ √
+  - 春节: Spring Festival /sprɪŋ ˈfestɪvl/
+  - 元宵节: Lantern Festival /ˈlæntən ˈfestɪvl/
   - 清明节: Qingming Festival /ˈkɪŋˈmɪŋ ˈfestɪvl/
   - 情人节: Valentineˈs Day /ˈvæləntaɪnz deɪ/
   - 端午节: Dragon Boat Festival /ˈdræɡən bəʊt ˈfestɪvl/
   - 妇女节: Womenˈs Day /ˈwɪmɪnz deɪ/
   - 中秋节: Mid-Autumn Festival /mɪd ˈɔ:təm ˈfestɪvl/
   - 教师节: Teachersˈ Day /ˈtiːtʃəz deɪ/
-  - 儿童节: Childrenˈs Day /ˈtʃɪldrənz deɪ/ √
+  - 儿童节: Childrenˈs Day /ˈtʃɪldrənz deɪ/
   - 国庆节: National Day /ˈnæʃnəl deɪ/
   - 劳动节: Labor Day /ˈleɪbə deɪ/
   - 万圣节: All Saintsˈ Day /ˌɔːl ˈseɪnts deɪ/, All Hallowsˈ Day /ˌɔːl ˈhæləʊz deɪ/
-  - 万圣节前夜: Halloween /ˌhæləʊˈiːn/ √
+  - 万圣节前夜: Halloween /ˌhæləʊˈiːn/
   - 复活节: Easter /ˈiːstə/
-  - 圣诞节: Christmas /ˈkrɪsməs/ √
+  - 圣诞节: Christmas /ˈkrɪsməs/
   - 平安夜: Christmas Eve /ˈkrɪsməs iːv/
 - 特别的日子: special days /ˈspeʃl deɪz/
   - 生日: birthday /ˈbɜːθdeɪ/ [A1] √
   - 周年纪念日: anniversary /ˌænɪˈvɜːsəri/ [B1]
 - 时钟: the clock /ðə klɒk/ [A1] √
 - 季节: seasons /ˈsiːznz/ [B1]
-  - 春: spring /sprɪŋ/ [A2] √
-  - 夏: summer /ˈsʌmə/ [A1] √
-  - 秋: autumn /ˈɔːtəm/ [A2] √, fall /fɔːl/ [A2] √
-  - 冬: winter /ˈwɪntə/ [A1] √
+  - 春: spring /sprɪŋ/ [A2]
+  - 夏: summer /ˈsʌmə/ [A1]
+  - 秋: autumn /ˈɔːtəm/ [A2], fall /fɔːl/ [A2]
+  - 冬: winter /ˈwɪntə/ [A1]
 - 年龄: age /eɪdʒ/ [A1]
 #### 计量单位: units of measure /ˈjuːnɪts ɒv ˈmeʒə/
 - 长度: length /leŋkθ/ [B1]
@@ -1335,7 +1335,7 @@
 - 金: gold /ɡəʊld/ √
 - 浅色: light color /laɪt ˈkʌlə/
 - 深色: dark color /dɑːk ˈkʌlə/
-#### 形状: shapes /ʃeɪps/ [B1]
+#### 形状: shapes /ʃeɪps/ [B1] √
 - 圆: circle /ˈsɜːkl/ [A2] √
 - 多边形: polygon /ˈpɒlɪɡən/
 - 正方形: square /skweə/ [A2] √
@@ -1355,7 +1355,7 @@
   - 钝角: obtuse angle /əbˈtjuːs ˈæŋɡl/
   - 圆角: rounded corner /ˈraʊndɪd ˈkɔːnə/, circular corner /ˈsɜːkjələ ˈkɔːnə/
 - 边: side /saɪd/ [A2]
-- 正方体: cube /kjuːb/ √
+- 正方体: cube /kjuːb/
 - 圆锥体: cone /kəʊn/
 - 球体: sphere /sfɪə/
 - 圆柱体: cylinder /ˈsɪlɪndə/
@@ -1389,11 +1389,11 @@
 - 吭哧（火车）: choochoo /ˈtʃu: tʃu:/ √
 - 咀嚼声: crunch /krʌntʃ/
 - 呱呱（青蛙）: ribbit /ˈrɪbɪt/ √
-- 嘎嘎（鸭子）: quack /kwæk/
+- 嘎嘎（鸭子）: quack /kwæk/ √
 - 喔喔（公鸡）: cock-a-doodle-doo /ˌkɒk ə ˌduːdl ˈduː/
 #### 食物: food /fuːd/ [A1] √
 - 早饭: breakfast /ˈbrekfəst/ [A1]
-- 中饭: lunch /lʌntʃ/ [A1] √
+- 中饭: lunch /lʌntʃ/ [A1]
 - 晚饭: dinner /ˈdɪnə/ [A1] √, supper /ˈsʌpə/ [A2]
 - 套餐: combo meal /ˈkɒmbəʊ miːl/
 - 自助餐: buffet /bəˈfeɪ/
@@ -1420,13 +1420,14 @@
 - 肉包子: steamed meat bun /stiːmd miːt bʌn/
 - 面包: bread /bred/ [A1] √
 - 蛋糕: cake /keɪk/ [A1] √
-- 煎饼: pancake /ˈpænkeɪk/ [B2]
+- 煎饼: pancake /ˈpænkeɪk/ [B2] √
 - 蛋饼: omelette（英）, omelet（美）/ˈɒmlət/ [A2]
 - 纸杯蛋糕: cupcake /ˈkʌpkeɪk/
 - 蛋挞: egg tart /eɡ tɑːt/
-- 松饼: muffin /ˈmʌfɪn/ √
+- 松饼: muffin /ˈmʌfɪn/
 - 饼干: biscuit /ˈbɪskɪt/ [A1] √, cookie /ˈkʊki/ [A2] √, cracker /ˈkrækə/ [A1]
 - 甜甜圈: doughnut /ˈdəʊnʌt/ √
+- 羊角面包: croissant /ˈkwɑːsɒŋ/
 - 馅饼: pie /paɪ/ [B1]
 - 吐司: toast /təʊst/ [A2]
 - 披萨: pizza /ˈpiːtsə/ [A1] √
@@ -1532,7 +1533,7 @@
 - 烘焙: bake /beɪk/ [A2]
 - 烤: roast /rəʊst/ [A2]
 - 削: peel /piːl/ [B2]
-- 切: cut /kʌt/ [A2]
+- 切: cut /kʌt/ [A2] √
 #### 旅行: travel /ˈtrævl/ [A1], the trip /ðə trɪp/ [A2]
 - 行李: luggage /ˈlʌɡɪdʒ/（英）[A2], baggage /ˈbæɡɪdʒ/（美）[B1]
 #### 运动: sports /spɔːts/ [A1]
@@ -1550,6 +1551,7 @@
 - 体操: gymnastics /dʒɪmˈnæstɪks/ [B1]
 - 乒乓球: table tennis /ˈteɪbl tenɪs/ [A2]
 - 游泳: swimming /ˈswɪmɪŋ/ [A2] √
+- 跳绳: skipping /skɪpɪŋ/ √
 #### 运动装备: sports equipments /spɔːts ɪˈkwɪpmənts/
 - 头盔: helmet /ˈhelmɪt/ [B2] √
 - 球拍: racket /ˈrækɪt/ [A2]
@@ -1560,7 +1562,7 @@
 - 帐篷: tent /tent/ [B1] √
 - 蹦床: trampoline /ˌtræmpəˈliːn/ √
 - 篮球筐: basketball hoop /ˈbɑːskɪtbɔːl huːp/
-- 自行车: bike /baɪk/ [A2], bicycle /ˈbaɪsɪkl/ [A2] √
+- 自行车: bike /baɪk/ [A2] √, bicycle /ˈbaɪsɪkl/ [A2]
 - 雪橇: sleigh /sleɪ/
 - 滑板车: scooter /ˈskuːtə/ √
 - 平衡车: balance bike /ˈbæləns baɪk/ √
@@ -1595,7 +1597,7 @@
 - 钢琴: piano /piˈænəʊ/ [A2]
 - 小提琴: violin /ˌvaɪəˈlɪn/ [A2]
 - 鼓: drum /drʌm/ [A2]
-- 小号: trumpet /ˈtrʌmpɪt/ [B1] √
+- 小号: trumpet /ˈtrʌmpɪt/ [B1]
 - 电子琴: keyboard [A2]
 #### 社会: society /səˈsaɪəti/ [B1]
 - 法律: law /lɔː/ [B2]
@@ -1664,12 +1666,12 @@
 - 火柴: match /mætʃ/ [B2]
 - 旗: flag /flæɡ/ [B1]
 - 篝火: campfire /ˈkæmpfaɪə/
-#### 演出: the performance /ðə pəˈfɔːməns/ [B1] √, the show /ðə ʃəʊ/ [A2] √
-- 座位: seat /siːt/ [A2] √
+#### 演出: the performance /ðə pəˈfɔːməns/ [B1], the show /ðə ʃəʊ/ [A2]
+- 座位: seat /siːt/ [A2]
 - 戏剧, 话剧: drama /ˈdrɑːmə/ [B1]
 - 歌剧: opera /ˈɒprə/ [A2]
 - 演讲: speech /spiːtʃ/ [B2]
-- 舞台: stage /steɪdʒ/ [A2] √
+- 舞台: stage /steɪdʒ/ [A2]
 - 音乐会: concert /ˈkɒnsət/ [A2]
 - 音乐: music /ˈmjuːzɪk/ [A1] √
 - 旋律, 曲调: tune /tjuːn/ [C1]
@@ -1688,7 +1690,7 @@
 - 圣诞老人: father christmas /ˈfɑːðə ˈkrɪsməs/, santa claus /ˈsæntə klɔːz/
 - 美人鱼: mermaid /ˈmɜːmeɪd/
 - 独角兽: unicorn /ˈjuːnɪkɔːn/
-- 怪物: monster /ˈmɒnstə/ [B1]
+- 怪物: monster /ˈmɒnstə/ [B1] √
 - 野兽: beast /biːst/
 - 神: god /ɡɒd/ [A2]
 - 变形金刚: transformer /trænsˈfɔːmə/
@@ -1719,7 +1721,7 @@
 - 战列舰: battleship /ˈbætlʃɪp/
 - 炸弹: bomb /bɒm/ [B1] √
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
-- 潜水艇: submarine /ˌsʌbməˈriːn/ √
+- 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
 - 迎接: greet /ɡriːt/ [B1]
 - 感谢: thank /θæŋk/ √
@@ -1727,7 +1729,7 @@
 - 广播: broadcast /ˈbrɔːdkɑːst/ [B2]
 - 射击: shoot /ʃuːt/ [B1]
 - 保护: protect /prəˈtekt/ [B1]
-- 救援: rescue /ˈreskjuː/ [B1]
+- 救援: rescue /ˈreskjuː/ [B1] √
 - 擦除: erase /ɪˈreɪz/ [B2]
 - 检查: check /tʃek/ [A2]
 - 巡逻: patrol /pəˈtrəʊl/
@@ -1748,7 +1750,7 @@
 - 跳水, 潜水: dive /daɪv/ [B1]
 - 跋涉: trek /trek/
 - 训练: train /treɪn/ [B1]
-- 伤害: hurt /hɜːt/ [A2] √
+- 伤害: hurt /hɜːt/ [A2]
 - 滑动: slide /slaɪd/
 - 钓鱼: fish /fɪʃ/ [B1]
 - 划船: row /rəʊ/ [B2] √
@@ -1783,12 +1785,12 @@
 - 穿, 戴: wear /weə/ [A1] √
 - 写: write /raɪt/ [A1]
 - 读: read /riːd/ [A1] √
-- 画: draw [A1] /drɔː/ √
+- 画: draw /drɔː/ [A1] √
 - 出生: born /bɔːn/ [A2]
 - 死亡: die /daɪ/ [A1]
 - 睡: sleep /sliːp/ [A1] √
 - 打盹: nap /næp/ [C1]
-- 做梦: dream /driːm/ [A2] √
+- 做梦: dream /driːm/ [A2]
 - 刷: brush /brʌʃ/ [A2]
 - 工作: work /wɜːk/ [A1]
 - 跪: kneel /niːl/ [B2]
@@ -1799,8 +1801,8 @@
 - 孵化: hatch /hætʃ/ √
 - 融化: melt /melt/ [B2]
 - 猜: guess /ɡes/ [A2]
-- 行进: march /mɑːtʃ/ [C1] √
-- 露营: camp /kæmp/ [A2] √
+- 行进: march /mɑːtʃ/ [C1]
+- 露营: camp /kæmp/ [A2]
 - 挠痒: tickle /ˈtɪkl/ √
 - 撞: bump /bʌmp/ [B2] √
 - 挤: squeeze /skwiːz/ [B2]
@@ -1841,6 +1843,7 @@
 - 卡住的: stuck /stʌk/ [B2] √
 - 相同的: same /seɪm/ [A1]
 - 不同的: different /ˈdɪfrənt/ [A1]
+- 微型的: miniature /ˈmɪnətʃə/ [C2]
 #### 限定词: determiners /dɪˈtɜːmɪnəz/ [B2]
 - 一些: some /səm/ [A1], any /ˈeni/ [A1]
 - 很多: many /ˈmeni/ [A1], much /mʌtʃ/ [A2]
