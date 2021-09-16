@@ -110,7 +110,7 @@
   - 省略号: ellipsis /ɪˈlɪpsɪs/
 - 井号: pound /paʊnd/
 - 星号: asterisk /ˈæstərɪsk/
-- 叉: cross /krɒs/ [A1] √ 
+- 叉: cross /krɒs/ [A1] √
 - 勾: tick /tɪk/ [B1]
 - 下划线: underline /ˌʌndəˈlaɪn/ [B1]
 #### 品牌: brands /brændz/ [B2]
@@ -910,7 +910,7 @@
   - 小羊: lamb /læm/ [B1] √
   - 小马: foal /fəʊl/, pony /ˈpəʊni/ [C1] √
   - 小牛: calf /kɑːf/ [B1]
-  - 幼崽: cub /kʌb/（凶猛） √, calf /kɑːf/（温顺）
+  - 幼崽: cub /kʌb/（凶猛）√, calf /kɑːf/（温顺）
   - 小鹿: fawn /fɔːn/
   - 袋鼠: kangaroo /ˌkæŋɡəˈruː/ [B1] √
   - 小袋鼠: joey /ˈdʒəʊi/
@@ -1020,7 +1020,7 @@
 - 科学家: scientist /ˈsaɪəntɪst/ [B1]
 - 歌手: singer /ˈsɪŋə/ [A2]
 - 理发师: barber /ˈbɑːbə/ [B1], hairdresser /ˈheədresə/ [B1]
-- 演员: actor /ˈæktə/ （男）[A2], actress /ˈæktrəs/（女）
+- 演员: actor /ˈæktə/（男）[A2], actress /ˈæktrəs/（女）
 - 喜剧演员: comedian /kəˈmiːdiən/ [B2]
 - 特技演员: stuntman /ˈstʌntmæn/
 - 作家: writer /ˈraɪtə/ [B1]
