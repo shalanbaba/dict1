@@ -1081,9 +1081,9 @@
 - 丈夫: husband /ˈhʌzbənd/ [A1]
 - 妻子: wife /waɪf/ [A1]
 - 父亲: father /ˈfɑːðə/ [A1]
-- 爸爸: dad /dæd/ [A1] √
+- 爸爸: dad /dæd/ [A1] √, daddy /ˈdædi/（儿语）√
 - 母亲: mother /ˈmʌðə/ [A1]
-- 妈妈: mum /mʌm/（英）[A1] √, mom /mɑːm/（美）[A1]
+- 妈妈: mum /mʌm/（英）[A1] √, mummy /ˈmʌmi/（儿语）√, mom /mɑːm/（美）[A1]
 - 舅舅: uncle /ˈʌŋkl/ [A2]
 - 舅妈: aunt /ɑːnt/ [A2]
 - 父母: parent /ˈpeərənt/ [A1]
@@ -1810,6 +1810,9 @@
 - 挤: squeeze /skwiːz/ [B2]
 - 狼吞虎咽: gobble /ˈɡɒbl/
 - 尖叫: squeal /skwiːl/
+- 是: be /biː/ [A1]
+- 能: can /kæn/ [A1]
+- 不能: cannot /ˈkænɒt/ [A1], can't /kɑːnt/
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
 - 怀孕的: pregnant /ˈpreɡnənt/ [B1]
 - 年轻的: young /jʌŋ/ [A1]
@@ -1846,6 +1849,7 @@
 - 相同的: same /seɪm/ [A1]
 - 不同的: different /ˈdɪfrənt/ [A1]
 - 微型的: miniature /ˈmɪnətʃə/ [C2]
+- 泥的: muddy /ˈmʌdi/ [B2]
 #### 限定词: determiners /dɪˈtɜːmɪnəz/ [B2]
 - 一些: some /səm/ [A1], any /ˈeni/ [A1]
 - 很多: many /ˈmeni/ [A1], much /mʌtʃ/ [A2]
@@ -1861,6 +1865,7 @@
 - 出: out /aʊt/ [B1] √
 - 也: also /ˈɔːlsəʊ/ [A1]
 - 一起: together /təˈɡeðə/ [A1]
+- 外面: outside /ˌaʊtˈsaɪd/ [A1]
 - 什么时候: when /wen/ [A1] √
 - 什么地方: where /weə/ [A1] √
 - 为什么: why /waɪ/ [A1] √
