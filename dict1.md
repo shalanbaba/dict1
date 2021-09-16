@@ -73,7 +73,7 @@
 - 中间名: middle name /ˈmɪdl neɪm/
 - 姓: last name /ˈlɑːst neɪm/ [A2], family name /ˈfæməli neɪm/, surname /ˈsɜːneɪm/ [A2]
 #### 性别: genders /ˈdʒendəz/, sexes /ˈseksɪz/ [B2]
-- 男: male /meɪl/  [B2] √
+- 男: male /meɪl/ [B2] √
 - 女: female /ˈfiːmeɪl/ [B2] √
 #### 语言: languages /ˈlæŋɡwɪdʒɪz/ [A1]
 - 中文: Chinese /ˌtʃaɪˈniːz/
@@ -1896,7 +1896,7 @@
 - 哪个: which /wɪtʃ/ [A2] √
 - 无论什么: whatever /wɒtˈevə/ [B1]
 - 无论哪个: whichever /wɪtʃˈevə/ [B2]
-- 无论谁: whoever /huːˈevə/  [B2]
+- 无论谁: whoever /huːˈevə/ [B2]
 #### 感叹词: exclamations /ˌekskləˈmeɪʃnz/, interjections /ˌɪntəˈdʒekʃnz/
 - 你好: hello /həˈləʊ/ [A1] √
 - 嗨: hi /haɪ/ [A1] √, hey /heɪ/ [A2] √
