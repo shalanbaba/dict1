@@ -1495,6 +1495,8 @@
   - 芹菜: celery /ˈseləri/
   - 芦笋: asparagus /əˈspærəɡəs/
   - 红薯: sweet potato /swiːt pəˈteɪtəʊ/
+  - 芋头: taro /ˈtɑːrəʊ/
+  - 土豆: potato /pəˈteɪtəʊ/ [A1]
   - 洋葱: onion /ˈʌnjən/ [A2]
   - 南瓜: pumpkin /ˈpʌmpkɪn/ √
   - 蘑菇: mushroom /ˈmʌʃrʊm/ [A2]
