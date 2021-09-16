@@ -1242,7 +1242,7 @@
     - 百万: million /ˈmɪljən/ [A2], mega /ˈmeɡə/
     - 十亿: billion /ˈbɪljən/ [B2], giga /ˈɡɪɡə/
     - 万亿: trillion /ˈtrɪljən/, tera /ˈterə/
-- 十进制: decimalism /ˈdesɪməlɪzəm/
+- 十进制: decimal system /ˈdesɪml ˈsɪstəm/
 - 二进制: binary system /ˈbaɪnəri ˈsɪstəm/
 - 运算符: operators /ˈɒpəreɪtəs/
   - 加: plus /plʌs/ [A2]
@@ -1647,10 +1647,10 @@
 - 小费: tip /tɪp/ [B1]
 - 税: tax /tæks/ [B1]
 #### 货币: currencies /ˈkʌrənsiz/ [B1]
-- 人民币: chinese yuan /ˌtʃaɪˈniːz juˈɑːn/, renminbi /ˈrenmɪnbi/
-- 港元: hong kong dollar /ˈhɔŋ ˈkɔŋ ˈdɒlə/
-- 美元: united states dollar /juˈnaɪtɪd steɪts ˈdɒlə/
-- 英镑: great britain pound /ˌɡreɪt ˈbrɪtn paʊnd/
+- 人民币: Chinese yuan /ˌtʃaɪˈniːz juˈɑːn/, renminbi /ˈrenmɪnbi/
+- 港元: Hong Kong dollar /ˈhɔŋ ˈkɔŋ ˈdɒlə/
+- 美元: United States dollar /juˈnaɪtɪd steɪts ˈdɒlə/
+- 英镑: Great Britain pound /ˌɡreɪt ˈbrɪtn paʊnd/
 - 单位: units /ˈjuːnɪts/
   - 镑: pound /paʊnd/ [A2] √
   - 十分钱: dime /daɪm/ [C1]
