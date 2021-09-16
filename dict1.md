@@ -1810,7 +1810,7 @@
 - 挤: squeeze /skwiːz/ [B2]
 - 狼吞虎咽: gobble /ˈɡɒbl/
 - 尖叫: squeal /skwiːl/
-- 是: be /biː/ [A1]
+- 是: be /biː/ [A1] √
 - 能: can /kæn/ [A1]
 - 不能: cannot /ˈkænɒt/ [A1], can't /kɑːnt/
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
