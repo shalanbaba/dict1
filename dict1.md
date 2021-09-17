@@ -1813,6 +1813,8 @@
 - 是: be /biː/ [A1] √
 - 能: can /kæn/ [A1]
 - 不能: cannot /ˈkænɒt/ [A1], can't /kɑːnt/
+- 停: stop /stɒp/ [A1]
+- 去: go /ɡəʊ/ [A1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
 - 怀孕的: pregnant /ˈpreɡnənt/ [B1]
 - 年轻的: young /jʌŋ/ [A1]
@@ -1872,10 +1874,12 @@
 - 怎么样: how /haʊ/ [A2] √
 - 然而: however /haʊˈevə/ [A2]
 #### 介词: prepositions /ˌprepəˈzɪʃnz/ [B1]
-- 来自: from /frɒm/ [A1]
+- 从: from /frɒm/ [A1]
+- 到: to /tuː/ [A1]
 #### 连词: conjunctions /kənˈdʒʌŋkʃnz/ [B2]
 - 和: and /ænd/ [A1] √
 - 或: or /ɔː/ [A1]
+- 因此: so /səʊ/ [A2]
 - 但是: but /bʌt/ [A1]
 - 无论哪里: wherever /weərˈevə/ [B1]
 - 当: while /waɪl/ [A2]
