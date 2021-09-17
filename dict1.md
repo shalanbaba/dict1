@@ -1811,10 +1811,16 @@
 - 狼吞虎咽: gobble /ˈɡɒbl/
 - 尖叫: squeal /skwiːl/
 - 是: be /biː/ [A1] √
-- 能: can /kæn/ [A1]
-- 不能: cannot /ˈkænɒt/ [A1], can't /kɑːnt/
+- 需要: need /niːd/ [A1]
 - 停: stop /stɒp/ [A1]
 - 去: go /ɡəʊ/ [A1]
+- 情态动词: modal verbs /ˈməʊdl vɜːbz/ [B1]
+    - 必须: must /mʌst/ [B1]
+    - 能: can /kæn/ [A1], could /kʊd/ [A2]
+    - 不能: cannot /ˈkænɒt/ [A1], can't /kɑːnt/
+    - 可能: may /meɪ/ [A2], might /maɪt/ [A2]
+    - 愿意: will /wɪl/ [A1], would /wʊd/ [B1]
+    - 应该: shall /ʃæl/ [A2], should /ʃʊd/ [A2]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
 - 怀孕的: pregnant /ˈpreɡnənt/ [B1]
 - 年轻的: young /jʌŋ/ [A1]
@@ -1866,7 +1872,7 @@
 - 进: in /ɪn/ [A2] √
 - 出: out /aʊt/ [B1] √
 - 也: also /ˈɔːlsəʊ/ [A1]
-- 一起: together /təˈɡeðə/ [A1]
+- 一起: together /təˈɡeðə/ [A1], along /əˈlɒŋ/ [B1]
 - 外面: outside /ˌaʊtˈsaɪd/ [A1]
 - 什么时候: when /wen/ [A1] √
 - 什么地方: where /weə/ [A1] √
@@ -1876,10 +1882,12 @@
 #### 介词: prepositions /ˌprepəˈzɪʃnz/ [B1]
 - 从: from /frɒm/ [A1]
 - 到: to /tuː/ [A1]
+- 沿着: along /əˈlɒŋ/ [A2]
 #### 连词: conjunctions /kənˈdʒʌŋkʃnz/ [B2]
 - 和: and /ænd/ [A1] √
 - 或: or /ɔː/ [A1]
 - 因此: so /səʊ/ [A2]
+- 如果: if /ɪf/ [A2]
 - 但是: but /bʌt/ [A1]
 - 无论哪里: wherever /weərˈevə/ [B1]
 - 当: while /waɪl/ [A2]
@@ -1916,3 +1924,4 @@
 - 好: OK /əʊˈkeɪ/ [A1] √
 - 变: presto /ˈprestəʊ/ √
 - 干杯: cheers /tʃɪəz/ [C2]
+- 好吧: alright /ɔːlˈraɪt/ [A1]
