@@ -1820,6 +1820,7 @@
     - 不能: cannot /ˈkænɒt/ [A1], can't /kɑːnt/
     - 可能: may /meɪ/ [A2], might /maɪt/ [A2]
     - 愿意: will /wɪl/ [A1], would /wʊd/ [B1]
+    - 将会: will /wɪl/ [A2], would /wʊd/ [B1]
     - 应该: shall /ʃæl/ [A2], should /ʃʊd/ [A2]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
 - 怀孕的: pregnant /ˈpreɡnənt/ [B1]
