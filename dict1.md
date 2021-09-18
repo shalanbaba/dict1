@@ -1199,12 +1199,12 @@
 - 抱歉的: sorry /ˈsɒri/ [A1] √
 - 恶心的: silly /ˈsɪli/ [B1] √
 - 好奇的: curious /ˈkjʊəriəs/ [B1]
-#### maths /mæθs/（英）[A2], 数学: math /mæθ/（美）[A2], mathematics /ˌmæθəˈmætɪks/
+#### 数学: maths /mæθs/（英）[A2], math /mæθ/（美）[A2], mathematics /ˌmæθəˈmætɪks/
 - 数字: numbers /ˈnʌmbəz/ [A1]
   - 序数: ordinal numbers /ˈɔːdɪnl ˈnʌmbəz/
-    - 第一: first
-    - 第二: second
-    - 第三: third
+    - 第一: first /fɜːst/ [A1]
+    - 第二: second /ˈsekənd/ [A1]
+    - 第三: third /θɜːd/ [A2]
   - 基数: cardinal numbers /ˈkɑːdɪnl ˈnʌmbəz/
     - 0: zero /ˈzɪərəʊ/ [A2] √
     - 1: one /wʌn/ [A1] √
