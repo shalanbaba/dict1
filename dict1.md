@@ -437,6 +437,7 @@
 - 儿童房: childrenˈs room /ˈtʃɪldrənz ruːm/
 - 阳台: balcony /ˈbælkəni/ [B1]
 - 储藏室: storeroom /ˈstɔːruːm/
+- 阁楼: attic /ˈætɪk/ [B2]
 - 玄关: hallway /ˈhɔːlweɪ/
 - 地窖: cellar /ˈselə/ [B2]
 - 淋浴房: shower room /ˈʃaʊə ruːm/
@@ -750,6 +751,7 @@
 - 长途汽车: coach /kəʊtʃ/ [A2]（美）
 - 混凝土搅拌车: concrete mixer /ˈkɒŋkriːt ˈmɪksə/ √
 - 吊车: mobile crane /ˈməʊbaɪl kreɪn/ √
+- 救护车: ambulance /ˈæmbjələns/ [A2] √
 #### 火车: trains /treɪnz/ [A1] √
 - 蒸汽火车: steam train /stiːm treɪn/, puffer billy /ˈpʌfə ˈbɪli/
 - 磁悬浮列车: maglev train /ˈmæɡlev treɪn/
@@ -1601,6 +1603,7 @@
 - 水枪: water gun /ˈwɔːtə ɡʌn/ √
 - 骰子: dice /daɪs/
 - 弹珠: marble /ˈmɑːbl/
+- 球: ball /bɔːl/ [A1]
 #### 乐器: musical instruments /ˈmjuːzɪkl ˈɪnstrʊmənts/
 - 吉他: guitar /ɡɪˈtɑː/ [A1]
 - 钢琴: piano /piˈænəʊ/ [A2]
@@ -1822,6 +1825,7 @@
 - 停: stop /stɒp/ [A1]
 - 去: go /ɡəʊ/ [A1]
 - 吸气（惊讶）: gasp /ɡɑːsp/ [C2]
+- 狗叫: bark /bɑːk/ [B2]
 - 情态动词: modal verbs /ˈməʊdl vɜːbz/ [B1]
     - 必须: must /mʌst/ [B1]
     - 能: can /kæn/ [A1], could /kʊd/ [A2]
