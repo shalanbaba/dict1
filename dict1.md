@@ -1592,6 +1592,7 @@
 - 捉迷藏: hide and seek /haɪd ənd siːk/ √
 - 躲猫猫: peekaboo /ˈpiːkəbuː/ √
 #### 玩具: toys /tɔɪz/ [A2]
+- 球: ball /bɔːl/ [A1]
 - 粘土: clay /kleɪ/ √
 - 橡皮泥: play dough /pleɪ dəʊ/
 - 拼图: jigsaw /ˈdʒɪɡsɔː/
@@ -1603,7 +1604,6 @@
 - 水枪: water gun /ˈwɔːtə ɡʌn/ √
 - 骰子: dice /daɪs/
 - 弹珠: marble /ˈmɑːbl/
-- 球: ball /bɔːl/ [A1]
 #### 乐器: musical instruments /ˈmjuːzɪkl ˈɪnstrʊmənts/
 - 吉他: guitar /ɡɪˈtɑː/ [A1]
 - 钢琴: piano /piˈænəʊ/ [A2]
@@ -1932,10 +1932,15 @@
 - 她自己: herself /hɜːˈself/ [A2]
 - 它自己: itself /ɪtˈself/ [A2]
 - 他们自己: themselves /ðəmˈselvz/ [A2]
-- 一些事物: something /ˈsʌmθɪŋ/ [A1]
+- 某事物: something /ˈsʌmθɪŋ/ [A1]
+- 某人: someone /ˈsʌmwʌn/ [A2], somebody /ˈsʌmbədi/ [A2]
 - 任何事物: anything /ˈeniθɪŋ/ [A1]
+- 任何人: anyone /ˈeniwʌn/ [A2], anybody /ˈenibɒdi/ [A2]
 - 所有事物: everything /ˈevriθɪŋ/ [A2]
-- 没有什么: nothing /ˈnʌθɪŋ/ [A2]
+- 所有人: everyone /ˈevriwʌn/ [A2], everybody /ˈevribɒdi/ [A2]
+- 没有事物: nothing /ˈnʌθɪŋ/ [A2]
+- 没有人: nobody /ˈnəʊbədi/ [A2]
+- 没有任何人, 没有任何事物: none /nʌn/ [B1]
 - 什么事物: what /wɒt/ [A1] √
 - 谁: who /huː/ [A1] √
 - 谁的: whose /huːz/ [B1]
