@@ -1663,6 +1663,7 @@
 - 港元: Hong Kong dollar /ˈhɔŋ ˈkɔŋ ˈdɒlə/
 - 美元: United States dollar /juˈnaɪtɪd steɪts ˈdɒlə/
 - 英镑: Great Britain pound /ˌɡreɪt ˈbrɪtn paʊnd/
+- 欧元: euro /ˈjʊərəʊ/ [A2]
 - 单位: units /ˈjuːnɪts/
   - 镑: pound /paʊnd/ [A2] √
   - 十分钱: dime /daɪm/ [C1]
