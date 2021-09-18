@@ -133,6 +133,10 @@
 - 奥尔夫: Olaf /ˈəʊlɑːf/
 - 瓦力: WALL·E /wɔːl iː/
 - 麦克唐纳: MacDonald /məkˈdɔnəld/ √
+- 威尔夫: Wilf /wɪlf/
+- 威尔玛: Wilma /ˈwɪlmə/
+- 纳迪姆: Nadim /nəˈdɪm/
+- 安妮娜: Anneena /əˈniːnə/
 #### 宇宙: the universe /ði ˈjuːnɪvɜːs/ [B1]
 - 行星: planet /ˈplænɪt/ [B1]
 - 小行星: asteroid /ˈæstərɔɪd/
@@ -1817,7 +1821,7 @@
 - 需要: need /niːd/ [A1]
 - 停: stop /stɒp/ [A1]
 - 去: go /ɡəʊ/ [A1]
-- 吸气（惊讶）: gasp [C2]
+- 吸气（惊讶）: gasp /ɡɑːsp/ [C2]
 - 情态动词: modal verbs /ˈməʊdl vɜːbz/ [B1]
     - 必须: must /mʌst/ [B1]
     - 能: can /kæn/ [A1], could /kʊd/ [A2]
