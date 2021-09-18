@@ -1873,6 +1873,10 @@
 - 你的, 你们的: your /jɔː/（形）[A1] √
 - 我们的: our /ˈaʊə/（形）[A1]
 - 他们的: their /ðeə/（形）[A1]
+- 这: this /ðɪs/ [A1] √
+- 这些: these /ðiːz/ [A1]
+- 那: that /ðæt/ [A1] √
+- 那些: those /ðəʊz/ [A1]
 #### 副词: adverbs /ˈædvɜːbz/ [A2]
 - 是: yes /jes/ [A1] √
 - 不: no /nəʊ/ [A1] √
@@ -1899,6 +1903,7 @@
 - 无论哪里: wherever /weərˈevə/ [B1]
 - 当: while /waɪl/ [A2]
 #### 代词: pronouns /ˈprəʊnaʊnz/ [B1]
+- 一个: one /wʌn/ [A2]
 - 我: I /aɪ/（主）[A1][ORT1] √, me /miː/（宾）[A1] √
 - 我们: we /wiː/（主）[A1], us /əs/（宾）[A1]
 - 你, 你们: you /juː/ [A1] √
@@ -1922,8 +1927,6 @@
 - 任何事物: anything /ˈeniθɪŋ/ [A1]
 - 所有事物: everything /ˈevriθɪŋ/ [A2]
 - 没有什么: nothing /ˈnʌθɪŋ/ [A2]
-- 这: this /ðɪs/ [A2] √
-- 那: that /ðæt/ [A1] √
 - 什么事物: what /wɒt/ [A1] √
 - 谁: who /huː/ [A1] √
 - 谁的: whose /huːz/ [B1]
