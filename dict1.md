@@ -1869,6 +1869,10 @@
 - 很少: few /fjuː/ [B1], little /ˈlɪtl/ [B1]
 - 更少: less /les/ [A2]
 - 最少: least /liːst/ [B2]
+- 我的: my /maɪ/（形）[A1] √
+- 你的, 你们的: your /jɔː/（形）[A1] √
+- 我们的: our /ˈaʊə/（形）[A1]
+- 他们的: their /ðeə/（形）[A1]
 #### 副词: adverbs /ˈædvɜːbz/ [A2]
 - 是: yes /jes/ [A1] √
 - 不: no /nəʊ/ [A1] √
@@ -1896,16 +1900,24 @@
 - 当: while /waɪl/ [A2]
 #### 代词: pronouns /ˈprəʊnaʊnz/ [B1]
 - 我: I /aɪ/（主）[A1][ORT1] √, me /miː/（宾）[A1] √
-- 你: you /juː/ [A1] √
-- 他: he /hiː/（主）[A1], him /hɪm/（宾）[A1]
-- 她: she /ʃiː/ [A1], her /hə/（宾）[A1]
-- 它: it /ɪt/ [A1] √
 - 我们: we /wiː/（主）[A1], us /əs/（宾）[A1]
+- 你, 你们: you /juː/ [A1] √
+- 他: he /hiː/（主）[A1], him /hɪm/（宾）[A1]
+- 她: she /ʃiː/（主）[A1], her /hə/（宾）[A1]
 - 他们: they /ðeɪ/（主）[A1], them /ðəm/（宾）[A1]
-- 我的: my /maɪ/（形）[A1] √, mine /maɪn/（名）[A2] √
-- 你的: your /jɔː/（形）[A1] √, yours /jɔːz/（名）[A2]
-- 我们的: our /ˈaʊə/（形）[A1], ours /ˈaʊəz/（名）[A2]
-- 他们的: their /ðeə/（形）[A1], theirs /ðeəz/（名）[A2]
+- 它: it /ɪt/ [A1] √
+- 我的: mine /maɪn/ [A2] √
+- 你的, 你们的: yours /jɔːz/ [A2]
+- 我们的: ours /ˈaʊəz/ [A2]
+- 他们的: theirs /ðeəz/ [A2]
+- 我自己: myself /maɪˈself/ [A2]
+- 我们自己: ourselves /ˌaʊəˈselvz/ [A2]
+- 你自己: yourself /jɔːˈself/ [A2]
+- 你们自己: yourselves /jɔː'selvz/ [A2]
+- 他自己: himself /hɪmˈself/ [A2]
+- 她自己: herself /hɜːˈself/ [A2]
+- 它自己: itself /ɪtˈself/ [A2]
+- 他们自己: themselves /ðəmˈselvz/ [A2]
 - 一些事物: something /ˈsʌmθɪŋ/ [A1]
 - 任何事物: anything /ˈeniθɪŋ/ [A1]
 - 所有事物: everything /ˈevriθɪŋ/ [A2]
