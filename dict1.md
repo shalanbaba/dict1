@@ -1817,6 +1817,7 @@
 - 需要: need /niːd/ [A1]
 - 停: stop /stɒp/ [A1]
 - 去: go /ɡəʊ/ [A1]
+- 吸气（惊讶）: gasp [C2]
 - 情态动词: modal verbs /ˈməʊdl vɜːbz/ [B1]
     - 必须: must /mʌst/ [B1]
     - 能: can /kæn/ [A1], could /kʊd/ [A2]
