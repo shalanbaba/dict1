@@ -569,7 +569,7 @@
 - 锅: pot /pɒt/ [B1]
 - 锅盖: lid /lɪd/ [B2]
 - 炒锅: wok /wɒk/
-- 煎锅: frying pan /ˈfraɪɪŋ pæn/ [B1]
+- 煎锅: frying pan /ˈfraɪɪŋ pæn/ [B1][ORT1]
 - 烤盘: oven dish /ˈʌvn dɪʃ/
 - 燃气灶: gas stove /ɡæs stəʊv/
 - 砧板: cutting board /ˈkʌtɪŋ bɔːd/
