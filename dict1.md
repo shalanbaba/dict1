@@ -209,7 +209,7 @@
 #### 自然: nature /ˈneɪtʃə/ [A2]
 - 海岸: seashore /ˈsiːʃɔː/
 - 沿海: coast /kəʊst/ [B1]
-- 海滩: beach /biːtʃ/ [A1] √
+- 海滩: beach /biːtʃ/ [A1][ORT1] √
 - 海边: seaside /ˈsiːsaɪd/ [B1]
 - 雪花: snowflake /ˈsnəʊfleɪk/
 - 冰山: iceberg /ˈaɪsbɜːɡ/ [C1]
@@ -515,7 +515,7 @@
 - 柜子: cabinet /ˈkæbɪnət/ [A2]
 - 床头柜: bedside table /ˈbedsaɪd ˈteɪbl/
 - 沙发: sofa /ˈsəʊfə/ [A2]
-- 床: bed /bed/ [A1] √
+- 床: bed /bed/ [A1][ORT1] √
 - 架子: shelf /ʃelf/ [A2]
 - 衣柜: wardrobe /ˈwɔːdrəʊb/ [B1]
 - 梳妆台: dresser /ˈdresə/ [A2]
@@ -1087,9 +1087,9 @@
 - 丈夫: husband /ˈhʌzbənd/ [A1]
 - 妻子: wife /waɪf/ [A1]
 - 父亲: father /ˈfɑːðə/ [A1]
-- 爸爸: dad /dæd/ [A1] √, daddy /ˈdædi/（儿语）√
+- 爸爸: dad /dæd/ [A1][ORT1] √, daddy /ˈdædi/（儿语）√
 - 母亲: mother /ˈmʌðə/ [A1]
-- 妈妈: mum /mʌm/（英）[A1] √, mummy /ˈmʌmi/（儿语）√, mom /mɑːm/（美）[A1]
+- 妈妈: mum /mʌm/（英）[A1][ORT1] √, mummy /ˈmʌmi/（儿语）√, mom /mɑːm/（美）[A1]
 - 舅舅: uncle /ˈʌŋkl/ [A2]
 - 舅妈: aunt /ɑːnt/ [A2]
 - 父母: parent /ˈpeərənt/ [A1]
@@ -1218,7 +1218,7 @@
     - 3: three /θriː/ [A1] √
     - 4: four /fɔː/ [A1] √
     - 5: five /faɪv/ [A1] √
-    - 6: six /sɪks/ [A1] √
+    - 6: six /sɪks/ [A1][ORT1] √
     - 7: seven /ˈsevn/ [A1] √
     - 8: eight /eɪt/ [A1] √
     - 9: nine /naɪn/ [A1] √
@@ -1324,7 +1324,7 @@
 - 南: south /saʊθ/ [A2]
 - 左: left /left/ [A2] √
 - 右: right /raɪt/ [A2] √
-- 上: up /ʌp/ [A2] √
+- 上: up /ʌp/ [A2][ORT1] √
 - 下: down /daʊn/ [A2] √
 - 前: before /bɪˈfɔː/ [B1]
 - 后: after /ˈɑːftə/ [B1]
@@ -1637,6 +1637,7 @@
 - 假期: holiday /ˈhɒlədeɪ/（英）[A1] √, vacation /veɪˈkeɪʃn/（美）[A1]
 - 事情, 东西: thing /θɪŋ/ [A1]
 - 小心: caution /ˈkɔːʃn/ [C1]
+- 乐趣: fun /fʌn/ [A1][ORT1]
 - 产品: product /ˈprɒdʌkt/ [B1]
 - 奖品: prize /praɪz/ [A2]
 - 包裹: package /ˈpækɪdʒ/ [B2]
@@ -1738,6 +1739,8 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 有: have /hæv/ [A1][ORT1]
+- 获得: get /ɡet/ [A1][ORT1]
 - 迎接: greet /ɡriːt/ [B1]
 - 感谢: thank /θæŋk/ √
 - 织: knit /nɪt/ [B1]
@@ -1787,7 +1790,7 @@
 - 旋转: spin /spɪn/ [C1] √
 - 轻拍: pat /pæt/ [C2]
 - 滑雪: ski /skiː/ [B1]
-- 看: see /siː/ [A1] √
+- 看: see /siː/ [A1][ORT1] √
 - 尝: taste /teɪst/ [B1]
 - 听: hear /hɪə/ [A1] √
 - 闻: smell /smel/ [B1] √
@@ -1823,10 +1826,10 @@
 - 挤: squeeze /skwiːz/ [B2]
 - 狼吞虎咽: gobble /ˈɡɒbl/
 - 尖叫: squeal /skwiːl/
-- 是: be /biː/ [A1] √
+- 是: be /biː/ [A1][ORT1] √
 - 需要: need /niːd/ [A1]
 - 停: stop /stɒp/ [A1]
-- 去: go /ɡəʊ/ [A1]
+- 去: go /ɡəʊ/ [A1][ORT1]
 - 吸气（惊讶）: gasp /ɡɑːsp/ [C2]
 - 狗叫: bark /bɑːk/ [B2]
 - 制作: make /meɪk/ [A1][ORT1]
@@ -1838,6 +1841,7 @@
     - 将会: will /wɪl/ [A2], would /wʊd/ [B1]
     - 应该: shall /ʃæl/ [A2], should /ʃʊd/ [A2]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 湿的: wet /wet/ [A2][ORT1]
 - 怀孕的: pregnant /ˈpreɡnənt/ [B1]
 - 年轻的: young /jʌŋ/ [A1]
 - 紧急的: urgent /ˈɜːdʒənt/ [B1]
@@ -1892,9 +1896,9 @@
 - 那些: those /ðəʊz/ [A1]
 - 谁的: whose /huːz/ [B1]
 #### 副词: adverbs /ˈædvɜːbz/ [A2]
-- 是: yes /jes/ [A1] √
-- 不: no /nəʊ/ [A1] √
-- 进: in /ɪn/ [A2] √
+- 是: yes /jes/ [A1][ORT1] √
+- 不: no /nəʊ/ [A1][ORT1] √
+- 进: in /ɪn/ [A2][ORT1] √
 - 出: out /aʊt/ [B1] √
 - 也: also /ˈɔːlsəʊ/ [A1]
 - 一起: together /təˈɡeðə/ [A1], along /əˈlɒŋ/ [B1]
@@ -1907,9 +1911,10 @@
 #### 介词: prepositions /ˌprepəˈzɪʃnz/ [B1]
 - 从: from /frɒm/ [A1]
 - 到: to /tuː/ [A1]
+- 在: at /æt/ [A1][ORT1]
 - 沿着: along /əˈlɒŋ/ [A2]
 #### 连词: conjunctions /kənˈdʒʌŋkʃnz/ [B2]
-- 和: and /ænd/ [A1] √
+- 和: and /ænd/ [A1][ORT1] √
 - 或: or /ɔː/ [A1]
 - 因此: so /səʊ/ [A2]
 - 如果: if /ɪf/ [A2]
@@ -1920,11 +1925,11 @@
 - 一个: one /wʌn/ [A2]
 - 我: I /aɪ/（主）[A1] √, me /miː/（宾）[A1] √
 - 我们: we /wiː/（主）[A1], us /əs/（宾）[A1]
-- 你, 你们: you /juː/ [A1] √
+- 你, 你们: you /juː/ [A1][ORT1] √
 - 他: he /hiː/（主）[A1], him /hɪm/（宾）[A1]
 - 她: she /ʃiː/（主）[A1], her /hə/（宾）[A1]
 - 他们: they /ðeɪ/（主）[A1], them /ðəm/（宾）[A1]
-- 它: it /ɪt/ [A1] √
+- 它: it /ɪt/ [A1][ORT1] √
 - 我的: mine /maɪn/ [A2] √
 - 你的, 你们的: yours /jɔːz/ [A2]
 - 我们的: ours /ˈaʊəz/ [A2]
@@ -1942,12 +1947,12 @@
 - 任何事物: anything /ˈeniθɪŋ/ [A1]
 - 任何人: anyone /ˈeniwʌn/ [A2], anybody /ˈenibɒdi/ [A2]
 - 所有事物: everything /ˈevriθɪŋ/ [A2]
-- 所有人: everyone /ˈevriwʌn/ [A2], everybody /ˈevribɒdi/ [A2]
+- 所有人: everyone /ˈevriwʌn/ [A2][ORT1], everybody /ˈevribɒdi/ [A2]
 - 没有事物: nothing /ˈnʌθɪŋ/ [A2]
 - 没有人: nobody /ˈnəʊbədi/ [A2]
 - 没有任何人, 没有任何事物: none /nʌn/ [B1]
 - 什么事物: what /wɒt/ [A1] √
-- 谁: who /huː/ [A1] √
+- 谁: who /huː/ [A1][ORT1] √
 - 哪个: which /wɪtʃ/ [A2] √
 - 无论什么: whatever /wɒtˈevə/ [B1]
 - 无论哪个: whichever /wɪtʃˈevə/ [B2]
