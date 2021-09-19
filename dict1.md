@@ -1415,7 +1415,7 @@
 - 墨西哥卷饼: taco /ˈtækəʊ/
 - 面粉: flour /ˈflaʊə/ [B1][ORT1]
 - 蜂蜜: honey /ˈhʌni/ [A2] √
-- 黄油: butter /ˈbʌtə/ [A1]
+- 黄油: butter /ˈbʌtə/ [A1][ORT1]
 - 甜品: dessert /dɪˈzɜːt/ [A2]
 - 布丁: pudding /ˈpʊdɪŋ/ [B2]
 - 奶酪, 芝士: cheese /tʃiːz/ [A1] √
@@ -1429,7 +1429,7 @@
 - 肉包子: steamed meat bun /stiːmd miːt bʌn/
 - 面包: bread /bred/ [A1] √
 - 蛋糕: cake /keɪk/ [A1] √
-- 煎饼: pancake /ˈpænkeɪk/ [B2] √
+- 煎饼: pancake /ˈpænkeɪk/ [B2][ORT1] √
 - 蛋饼: omelette（英）, omelet（美）/ˈɒmlət/ [A2]
 - 纸杯蛋糕: cupcake /ˈkʌpkeɪk/
 - 蛋挞: egg tart /eɡ tɑːt/
@@ -1449,6 +1449,7 @@
 - 黄豆: soybean /sɒɪbiːn/
 - 红豆: red bean /red biːn/
 - 玉米: corn /kɔːn/ [B1] √
+- 蛋: egg /eɡ/ [A1][ORT1]
 - 肉: meat /miːt/ [A1]
   - 鱼肉: fish /fɪʃ/ [A1] √
   - 猪肉: pork /pɔːk/ [B1]
@@ -1519,7 +1520,7 @@
 - 饮料: drink /drɪŋk/ [A1]
   - 茶: tea /tiː/ [A1] √
   - 咖啡: coffee /ˈkɔːfi/ [A1] √
-  - 奶: milk /mɪlk/ [A1] √
+  - 奶: milk /mɪlk/ [A1][ORT1] √
   - 酸奶: yogurt /ˈjɒɡət/ [A2] √
   - 果汁: juice /dʒuːs/ [A1] √
   - 柠檬水: lemonade /ˌleməˈneɪd/ [A2]
@@ -1630,6 +1631,7 @@
 - 爱好: hobby /ˈhɒbi/ [A2]
 - 恶作剧: trick /trɪk/ [B1]
 - 冒险: adventure /ədˈventʃə/ [A2]
+- 比赛: race /reɪs/ [A2][ORT1]
 - 技能: skill /skɪl/ [B1]
 - 某种东西: whatsit /ˈwɒtsɪt/ [ORT5]
 - 假期: holiday /ˈhɒlədeɪ/（英）[A1] √, vacation /veɪˈkeɪʃn/（美）[A1]
@@ -1827,6 +1829,7 @@
 - 去: go /ɡəʊ/ [A1]
 - 吸气（惊讶）: gasp /ɡɑːsp/ [C2]
 - 狗叫: bark /bɑːk/ [B2]
+- 制作: make /meɪk/ [A1][ORT1]
 - 情态动词: modal verbs /ˈməʊdl vɜːbz/ [B1]
     - 必须: must /mʌst/ [B1]
     - 能: can /kæn/ [A1], could /kʊd/ [A2]
@@ -1915,7 +1918,7 @@
 - 当: while /waɪl/ [A2]
 #### 代词: pronouns /ˈprəʊnaʊnz/ [B1]
 - 一个: one /wʌn/ [A2]
-- 我: I /aɪ/（主）[A1][ORT1] √, me /miː/（宾）[A1] √
+- 我: I /aɪ/（主）[A1] √, me /miː/（宾）[A1] √
 - 我们: we /wiː/（主）[A1], us /əs/（宾）[A1]
 - 你, 你们: you /juː/ [A1] √
 - 他: he /hiː/（主）[A1], him /hɪm/（宾）[A1]
