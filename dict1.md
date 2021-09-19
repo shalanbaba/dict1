@@ -54,6 +54,7 @@
 - 小票, 收据: receipt /rɪˈsiːt/ [A2]
 - 账单: bill /bɪl/ [A2]
 - 计划: plan /plæn/ [A2], programme（英）, program（美）/ˈprəʊɡræm/ [B2]
+- 节目（电视, 广播）: programme（英）, program（美）/ˈprəʊɡræm/ [A2]
 - 源代码: source code /sɔːs kəʊd/
 - 菜单: menu /ˈmenjuː/ [A2]
 - 应用程序: app /æp/, application /ˌæplɪˈkeɪʃn/ [B2]
