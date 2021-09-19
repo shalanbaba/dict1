@@ -17,7 +17,7 @@
 - 练习册: workbook /ˈwɜːkbʊk/ [A2]
 - 字典: dictionary /ˈdɪkʃəneri/ [A1]
 - 照片: photo /ˈfəʊtəʊ/ [A1], photograph /ˈfəʊtəɡrɑːf/ [A2]
-- 图片: picture /ˈpɪktʃə/ [A1]
+- 图片: picture /ˈpɪktʃə/ [A1][ORT1]
 - 视频: video /ˈvɪdiəʊ/ [A2]
 - 相册: album /ˈælbəm/ [A2]
 - 语音: voice /vɔɪs/ [B1]
@@ -264,7 +264,7 @@
 - 气体: gas /ɡæs/ [B2]
 - 烟: smoke /sməʊk/ [B1]
 - 蒸汽: steam /stiːm/ [B2]
-- 影子: shadow /ˈʃædəʊ/ [B1] √
+- 影子: shadow /ˈʃædəʊ/ [B1][ORT1] √
 - 蜂巢: hive /haɪv/ √
 - 鸟巢: nest /nest/ [C2] √
 - 巢穴: den /den/
@@ -467,7 +467,7 @@
 - 屋顶: roof /ruːf/ [A2] √
 - 天花板: ceiling /ˈsiːlɪŋ/ [A2]
 - 墙壁: wall /wɔːl/ [A1]
-- 地毯: carpet /ˈkɑːpɪt/ [A2], rug /rʌɡ/ [B1]
+- 地毯: carpet /ˈkɑːpɪt/ [A2], rug /rʌɡ/ [B1][ORT1]
 - 花瓶: vase /veɪs/ [B1]
 - 镜子: mirror /ˈmɪrə/ [A2]
 #### 游乐场: the playground /ðə ˈpleɪɡraʊnd/ [A2] √
@@ -521,7 +521,7 @@
 - 梳妆台: dresser /ˈdresə/ [A2]
 - 抽屉: drawer /drɔ:r/ [A2]
 #### 床上用品: bedding /ˈbedɪŋ/
-- 床单: sheet /ʃiːt/ [B1]
+- 床单: sheet /ʃiːt/ [B1][ORT1]
 - 枕头: pillow /ˈpɪləʊ/ [A2]
 - 被子: quilt /kwɪlt/
 - 毯子: blanket /blanket/ [A2]
@@ -596,7 +596,7 @@
 - 保温杯: vacuum flask /ˈvækjuːm flɑːsk/
 - 篮子: basket /ˈbɑːskɪt/ [B1]
 - 桶: bucket /ˈbʌkɪt/ [B1]
-- 盒子: box /bɒks/ [A1]
+- 盒子: box /bɒks/ [A1][ORT1]
 - 储物箱: storage box /ˈstɔːrɪdʒ bɒks/
 #### 宠物用品: pet supplies /pet səˈplaɪz/
 - 狗绳: dog leash /dɔːɡ liːʃ/
@@ -1008,7 +1008,7 @@
 - 英国人: British /ˈbrɪtɪʃ/
 #### 职业: jobs /dʒobs/ [A1]
 - 邮递员: postman /ˈpəʊstmən/ [B1]
-- 宇航员: astronaut /ˈæstrənɔːt/ √, spaceman /ˈspeɪsmæn/
+- 宇航员: astronaut /ˈæstrənɔːt/ √, spaceman /ˈspeɪsmæn/ [ORT1]
 - 消防员: firefighter /ˈfaɪəfaɪtə/ [B1] √
 - 医生: doctor /ˈdɒktə/ [A1] √
 - 兽医: veterinarian /ˌvetərɪˈneəriən/, vet /vet/（缩）[B1] √
@@ -1629,7 +1629,7 @@
 - 娱乐: recreation /ˌriːkriˈeɪʃn/ [B2]
 - 沟通: communication /kəˌmjuːnɪˈkeɪʃn/ [B1]
 - 爱好: hobby /ˈhɒbi/ [A2]
-- 恶作剧: trick /trɪk/ [B1]
+- 恶作剧: trick /trɪk/ [B1][ORT1]
 - 冒险: adventure /ədˈventʃə/ [A2]
 - 比赛: race /reɪs/ [A2][ORT1]
 - 技能: skill /skɪl/ [B1]
@@ -1739,6 +1739,8 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 做: do /duː/ [A1][ORT1]
+- 想要: want /wɒnt/ [A1][ORT1]
 - 有: have /hæv/ [A1][ORT1]
 - 获得: get /ɡet/ [A1][ORT1]
 - 迎接: greet /ɡriːt/ [B1]
@@ -1803,7 +1805,7 @@
 - 穿, 戴: wear /weə/ [A1] √
 - 写: write /raɪt/ [A1]
 - 读: read /riːd/ [A1] √
-- 画: draw /drɔː/ [A1] √
+- 画: draw /drɔː/ [A1], paint /peɪnt/（颜料）[A1][ORT1] √
 - 出生: born /bɔːn/ [A2]
 - 死亡: die /daɪ/ [A1]
 - 睡: sleep /sliːp/ [A1] √
@@ -1835,7 +1837,7 @@
 - 制作: make /meɪk/ [A1][ORT1]
 - 情态动词: modal verbs /ˈməʊdl vɜːbz/ [B1]
     - 必须: must /mʌst/ [B1]
-    - 能: can /kæn/ [A1], could /kʊd/ [A2]
+    - 能: can /kæn/ [A1][ORT1], could /kʊd/ [A2]
     - 不能: cannot /ˈkænɒt/ [A1], can't /kɑːnt/
     - 可能: may /meɪ/ [A2], might /maɪt/ [A2]
     - 将会: will /wɪl/ [A2], would /wʊd/ [B1]
@@ -1857,13 +1859,13 @@
 - 冷的: cold /kəʊld/ [A1] √
 - 长的（时间, 距离）: long /lɒŋ/ [A1]
 - 短的（时间, 距离）: short /ʃɔːt/ [A1]
-- 大的（大小, 数量）: large /lɑːdʒ/ [A2], big /bɪɡ/ [A1] √
-- 小的（大小, 数量）: small /smɔːl/ [A1], little /ˈlɪtl/ [A1] √
+- 大的（大小, 数量）: large /lɑːdʒ/ [A2], big /bɪɡ/ [A1][ORT1] √
+- 小的（大小, 数量）: small /smɔːl/ [A1], little /ˈlɪtl/ [A1][ORT1] √
 - 老的, 旧的: old /əʊld/ [A1]
 - 新的: new /njuː/ [A1]
 - 便宜的: cheap /tʃiːp/ [A1]
 - 昂贵的: expensive /ɪkˈspensɪv/ [A1]
-- 好的: good /ɡʊd/ [A1] √
+- 好的: good /ɡʊd/ [A1][ORT1] √
 - 更好的: better /ˈbetə/ [A1]
 - 最好的: best /best/ [A1]
 - 坏的: bad /bæd/ [A1]
@@ -1878,6 +1880,7 @@
 - 不同的: different /ˈdɪfrənt/ [A1]
 - 微型的: miniature /ˈmɪnətʃə/ [C2]
 - 泥的: muddy /ˈmʌdi/ [B2]
+- 有魔力的: magic /ˈmædʒɪk/ [A2][ORT1]
 #### 限定词: determiners /dɪˈtɜːmɪnəz/ [B2]
 - 一些: some /səm/ [A1], any /ˈeni/ [A1]
 - 很多: many /ˈmeni/ [A1], much /mʌtʃ/ [A2]
@@ -1890,7 +1893,7 @@
 - 你的, 你们的: your /jɔː/（形）[A1] √
 - 我们的: our /ˈaʊə/（形）[A1]
 - 他们的: their /ðeə/（形）[A1]
-- 这: this /ðɪs/ [A1] √
+- 这: this /ðɪs/ [A1][ORT1] √
 - 这些: these /ðiːz/ [A1]
 - 那: that /ðæt/ [A1] √
 - 那些: those /ðəʊz/ [A1]
@@ -1923,8 +1926,8 @@
 - 当: while /waɪl/ [A2]
 #### 代词: pronouns /ˈprəʊnaʊnz/ [B1]
 - 一个: one /wʌn/ [A2]
-- 我: I /aɪ/（主）[A1] √, me /miː/（宾）[A1] √
-- 我们: we /wiː/（主）[A1], us /əs/（宾）[A1]
+- 我: I /aɪ/（主）[A1][ORT1] √, me /miː/（宾）[A1][ORT1] √
+- 我们: we /wiː/（主）[A1][ORT1], us /əs/（宾）[A1]
 - 你, 你们: you /juː/ [A1][ORT1] √
 - 他: he /hiː/（主）[A1], him /hɪm/（宾）[A1]
 - 她: she /ʃiː/（主）[A1], her /hə/（宾）[A1]
