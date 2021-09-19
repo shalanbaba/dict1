@@ -1274,6 +1274,12 @@
   - 周末: weekend /ˌwiːkˈend/ [A1]
   - 星期: days of a week /deɪz ɒv ə wiːk/
     - 星期一: Monday /ˈmʌndeɪ/ [A1]
+    - 星期二: Tuesday /ˈtjuːzdeɪ/ [A1]
+    - 星期三: Wednesday /ˈwenzdeɪ/ [A1]
+    - 星期四: Thursday /ˈθɜːzdeɪ/ [A1]
+    - 星期五: Friday /ˈfraɪdeɪ/ [A1]
+    - 星期六: Saturday /ˈsætədeɪ/ [A1]
+    - 星期天: Sunday /ˈsʌndeɪ/ [A1]
 - 节日: festival days /ˈfestɪvl deɪz/
   - 植树节: Arbor Day /ˈɑːbə deɪ/
   - 元旦: New Yearˈs Day /ˌnjuː jɪəz ˌdeɪ/
