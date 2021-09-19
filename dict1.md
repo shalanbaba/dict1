@@ -1032,7 +1032,7 @@
 - 作家: writer /ˈraɪtə/ [B1]
 - 舞者: dancer /ˈdɑːnsə/ [A2]
 - 律师: lawyer /ˈlɔɪə/ [B1]
-- 厨师: chef /ʃef/ [A2] √
+- 厨师: chef /ʃef/ [A2], cook /kʊk/ [A2] √
 - 图书管理员: librarian /laɪˈbreəriən/
 - 园林管理员: ranger /ˈreɪndʒə/ [ORT5] √
 - 动物饲养员: zookeeper /ˈzuːkiːpə/ √
@@ -1413,7 +1413,7 @@
 - 米饭: rice /raɪs/ [A1] √
 - 汤: soup /suːp/ [A1]
 - 墨西哥卷饼: taco /ˈtækəʊ/
-- 面粉: flour /ˈflaʊə/ [B1]
+- 面粉: flour /ˈflaʊə/ [B1][ORT1]
 - 蜂蜜: honey /ˈhʌni/ [A2] √
 - 黄油: butter /ˈbʌtə/ [A1]
 - 甜品: dessert /dɪˈzɜːt/ [A2]
