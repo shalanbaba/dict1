@@ -1887,6 +1887,7 @@
 - 这些: these /ðiːz/ [A1]
 - 那: that /ðæt/ [A1] √
 - 那些: those /ðəʊz/ [A1]
+- 谁的: whose /huːz/ [B1][3000]
 #### 副词: adverbs /ˈædvɜːbz/ [A2]
 - 是: yes /jes/ [A1] √
 - 不: no /nəʊ/ [A1] √
@@ -1944,7 +1945,6 @@
 - 没有任何人, 没有任何事物: none /nʌn/ [B1]
 - 什么事物: what /wɒt/ [A1][3000] √
 - 谁: who /huː/ [A1][3000] √
-- 谁的: whose /huːz/ [B1]
 - 哪个: which /wɪtʃ/ [A2] √
 - 无论什么: whatever /wɒtˈevə/ [B1]
 - 无论哪个: whichever /wɪtʃˈevə/ [B2]
