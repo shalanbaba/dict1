@@ -133,10 +133,10 @@
 - 奥尔夫: Olaf /ˈəʊlɑːf/
 - 瓦力: WALL·E /wɔːl iː/
 - 麦克唐纳: MacDonald /məkˈdɔnəld/ √
-- 威尔夫: Wilf /wɪlf/
-- 威尔玛: Wilma /ˈwɪlmə/
-- 纳迪姆: Nadim /nəˈdɪm/
-- 安妮娜: Anneena /əˈniːnə/
+- 威尔夫: Wilf /wɪlf/ [ORT1+] √
+- 威尔玛: Wilma /ˈwɪlmə/ [ORT1+] √
+- 纳迪姆: Nadim /nəˈdɪm/ [ORT3]
+- 安妮娜: Anneena /əˈniːnə/ [ORT4]
 #### 宇宙: the universe /ði ˈjuːnɪvɜːs/ [B1]
 - 行星: planet /ˈplænɪt/ [B1]
 - 小行星: asteroid /ˈæstərɔɪd/
