@@ -811,7 +811,7 @@
 - 腰带: belt /belt/ [A2]
 - 领带: tie /taɪ/ [A2]
 - 演出服: costume /ˈkɒstjuːm/ [B2]
-- 制服: uniform /ˈjuːnɪfɔːm/ [A2][3000] √
+- 制服: uniform /ˈjuːnɪfɔːm/ [A2] √
 - 倒挂衣: bib /bɪb/
 - 假发: wig /wɪɡ/
 - 外套: coat /kəʊt/ [A1]
@@ -1887,7 +1887,7 @@
 - 这些: these /ðiːz/ [A1]
 - 那: that /ðæt/ [A1] √
 - 那些: those /ðəʊz/ [A1]
-- 谁的: whose /huːz/ [B1][3000]
+- 谁的: whose /huːz/ [B1]
 #### 副词: adverbs /ˈædvɜːbz/ [A2]
 - 是: yes /jes/ [A1] √
 - 不: no /nəʊ/ [A1] √
@@ -1898,7 +1898,7 @@
 - 外面: outside /ˌaʊtˈsaɪd/ [A1]
 - 什么时候: when /wen/ [A1] √
 - 什么地方: where /weə/ [A1] √
-- 为什么: why /waɪ/ [A1][3000] √
+- 为什么: why /waɪ/ [A1] √
 - 怎么样: how /haʊ/ [A2] √
 - 然而: however /haʊˈevə/ [A2]
 #### 介词: prepositions /ˌprepəˈzɪʃnz/ [B1]
@@ -1943,8 +1943,8 @@
 - 没有事物: nothing /ˈnʌθɪŋ/ [A2]
 - 没有人: nobody /ˈnəʊbədi/ [A2]
 - 没有任何人, 没有任何事物: none /nʌn/ [B1]
-- 什么事物: what /wɒt/ [A1][3000] √
-- 谁: who /huː/ [A1][3000] √
+- 什么事物: what /wɒt/ [A1] √
+- 谁: who /huː/ [A1] √
 - 哪个: which /wɪtʃ/ [A2] √
 - 无论什么: whatever /wɒtˈevə/ [B1]
 - 无论哪个: whichever /wɪtʃˈevə/ [B2]
