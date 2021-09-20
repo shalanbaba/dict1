@@ -907,10 +907,10 @@
   - 狐狸: fox /fɒks/ [B2] √
   - 兔子: rabbit /ˈræbɪt/ [A2] √
   - 小兔子: bunny /ˈbʌni/ √
-  - 猫: cat /kæt/ [A1] √
+  - 猫: cat /kæt/ [A1][ORT1+] √
   - 小猫: kitten /ˈkɪtn/ [B1] √
   - 黑豹: panther /ˈpænθə/
-  - 狗: dog /dɒɡ/ [A1] √
+  - 狗: dog /dɒɡ/ [A1][ORT1+] √
   - 小狗: puppy /ˈpʌpi/ [B1] √
   - 猪: pig /pɪɡ/ [A1] √
   - 小猪: piggy /ˈpɪɡi/ √
@@ -1602,7 +1602,7 @@
 - 捉迷藏: hide and seek /haɪd ənd siːk/ √
 - 躲猫猫: peekaboo /ˈpiːkəbuː/ √
 #### 玩具: toys /tɔɪz/ [A2]
-- 球: ball /bɔːl/ [A1]
+- 球: ball /bɔːl/ [A1][ORT1+]
 - 粘土: clay /kleɪ/ √
 - 橡皮泥: play dough /pleɪ dəʊ/
 - 拼图: jigsaw /ˈdʒɪɡsɔː/
@@ -1752,6 +1752,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 停留: stay /steɪ/ [A1][ORT1+]
 - 做: do /duː/ [A1][ORT1]
 - 想要: want /wɒnt/ [A1][ORT1]
 - 有: have /hæv/ [A1][ORT1]
@@ -1796,7 +1797,7 @@
 - 挥: wave /weɪv/ [B1] √
 - 跺脚: stamp /stæmp/ [C2] √
 - 弯曲: bend /bend/ [B2] √
-- 坐: sit /sɪt/ [A1] √
+- 坐: sit /sɪt/ [A1][ORT1+] √
 - 说: talk /tɔːk/ [A1]
 - 站: stand /stænd/ [A2] √
 - 听: listen /ˈlɪsn/ [A1]
@@ -1805,7 +1806,8 @@
 - 旋转: spin /spɪn/ [C1] √
 - 轻拍: pat /pæt/ [C2]
 - 滑雪: ski /skiː/ [B1]
-- 看: see /siː/ [A1][ORT1] √
+- 看: look /lʊk/ [A1][ORT1+]
+- 看见: see /siː/ [A1][ORT1] √
 - 尝: taste /teɪst/ [B1]
 - 听: hear /hɪə/ [A1] √
 - 闻: smell /smel/ [B1] √
@@ -1908,17 +1910,12 @@
 - 你的, 你们的: your /jɔː/（形）[A1] √
 - 我们的: our /ˈaʊə/（形）[A1]
 - 他们的: their /ðeə/（形）[A1]
-- 这: this /ðɪs/ [A1][ORT1] √
-- 这些: these /ðiːz/ [A1]
-- 那: that /ðæt/ [A1] √
-- 那些: those /ðəʊz/ [A1]
 - 谁的: whose /huːz/ [B1]
 #### 副词: adverbs /ˈædvɜːbz/ [A2]
-- 是: yes /jes/ [A1][ORT1] √
-- 不: no /nəʊ/ [A1][ORT1] √
 - 进: in /ɪn/ [A2][ORT1] √
 - 出: out /aʊt/ [B1] √
 - 也: also /ˈɔːlsəʊ/ [A1]
+- 非常: very /ˈveri/ [A1][ORT1+]
 - 一起: together /təˈɡeðə/ [A1], along /əˈlɒŋ/ [B1]
 - 外面: outside /ˌaʊtˈsaɪd/ [A1]
 - 什么时候: when /wen/ [A1] √
@@ -1935,11 +1932,17 @@
 - 和: and /ænd/ [A1][ORT1] √
 - 或: or /ɔː/ [A1]
 - 因此: so /səʊ/ [A2]
-- 如果: if /ɪf/ [A2]
-- 但是: but /bʌt/ [A1]
+- 如果: if /ɪf/ [A2][ORT1+]
+- 但是: but /bʌt/ [A1][ORT1+]
+- 如同: as /æz/ [B1][ORT1+]
 - 无论哪里: wherever /weərˈevə/ [B1]
 - 当: while /waɪl/ [A2]
 #### 代词: pronouns /ˈprəʊnaʊnz/ [B1]
+- 不: not /nɒt/ [A1][ORT1+] √
+- 这: this /ðɪs/ [A2][ORT1] √
+- 这些: these /ðiːz/ [A2]
+- 那: that /ðæt/ [A1][ORT1+] √
+- 那些: those /ðəʊz/ [A1]
 - 一个: one /wʌn/ [A2]
 - 我: I /aɪ/（主）[A1][ORT1] √, me /miː/（宾）[A1][ORT1] √
 - 我们: we /wiː/（主）[A1][ORT1], us /əs/（宾）[A1]
@@ -1984,3 +1987,5 @@
 - 变: presto /ˈprestəʊ/ √
 - 干杯: cheers /tʃɪəz/ [C2]
 - 好吧: alright /ɔːlˈraɪt/ [A1]
+- 是: yes /jes/ [A1][ORT1] √
+- 不: no /nəʊ/ [A1][ORT1] √
