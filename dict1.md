@@ -1758,7 +1758,7 @@
 - 做: do /duː/ [A1][ORT1]
 - 想要: want /wɒnt/ [A1][ORT1]
 - 有: have /hæv/ [A1][ORT1]
-- 去取来: fetch /fetʃ/ [B1]
+- 去拿来: fetch /fetʃ/ [B1]
 - 获得: get /ɡet/ [A1][ORT1]
 - 迎接: greet /ɡriːt/ [B1]
 - 感谢: thank /θæŋk/ √
