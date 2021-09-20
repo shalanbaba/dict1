@@ -1309,6 +1309,7 @@
   - 秋: autumn /ˈɔːtəm/ [A2], fall /fɔːl/ [A2]
   - 冬: winter /ˈwɪntə/ [A1]
 - 年龄: age /eɪdʒ/ [A1]
+- 时区: time zone /taɪm zəʊn/
 #### 计量单位: units of measure /ˈjuːnɪts ɒv ˈmeʒə/
 - 长度: length /leŋkθ/ [B1]
 - 容量: capacity /kəˈpæsəti/ [B2]
@@ -1626,6 +1627,7 @@
 - 政党: party /ˈpɑːti/ [B1]
 - 峰会: summit /ˈsʌmɪt/ [C2]
 - 俱乐部: club /klʌb/ [A2]
+- 宗教: religion /rɪˈlɪdʒən/ [B1]
 - 公司: companies /ˈkʌmpəniz/ [A2]
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
@@ -1648,6 +1650,7 @@
 - 乐趣: fun /fʌn/ [A1][ORT1]
 - 产品: product /ˈprɒdʌkt/ [B1]
 - 奖品: prize /praɪz/ [A2]
+- 小费: tip /tɪp/ [B1]
 - 包裹: package /ˈpækɪdʒ/ [B2]
 - 注意: attention /əˈtenʃn/ [B1]
 - 问候: greeting /ˈɡriːtɪŋ/ [B1]
@@ -1666,8 +1669,6 @@
 #### 金融: finance /faɪˈnæns/ [B2]
 - 股市: stock market /stɒk ˈmɑːkɪt/ [C1]
 - 保险: insurance /ɪnˈʃʊərəns/ [B2]
-- 钱: money /ˈmʌni/ [A1] √
-- 小费: tip /tɪp/ [B1]
 - 税: tax /tæks/ [B1]
 #### 货币: currencies /ˈkʌrənsiz/ [B1]
 - 人民币: Chinese yuan /ˌtʃaɪˈniːz juˈɑːn/, renminbi /ˈrenmɪnbi/
@@ -1680,6 +1681,10 @@
   - 十分钱: dime /daɪm/ [C1]
   - 一分钱: penny /ˈpeni/ [B1]
 #### 购物: shopping /ˈʃɒpɪŋ/ [A2] √
+- 钱: money /ˈmʌni/ [A1] √
+- 信用卡: credit card /ˈkredɪt kɑːd/ [A1]
+- 价格: price /praɪs/ [A2]
+- 支付: payment /ˈpeɪmənt/ [B2]
 - 卖: sale /seɪl/ [B2]
 - 买: purchase /baɪ/ [B2]
 - 折扣: discount /ˈdɪskaʊnt/ [A2]
@@ -1851,17 +1856,20 @@
     - 将会: will /wɪl/ [A2], would /wʊd/ [B1]
     - 应该: shall /ʃæl/ [A2], should /ʃʊd/ [A2]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 贪婪的: greedy /ˈɡriːdi/ [B2]
+- 勇敢的: brave /breɪv/ [B1]
+- 自信的: confident /ˈkɒnfɪdənt/ [B1]
+- 愚蠢的: stupid /ˈstjuːpɪd/ [B1]
+- 搞笑的: funny /ˈfʌni/ [A1] √
+- 聪明的: smart /smɑːt/ [B1]
 - 湿的: wet /wet/ [A2][ORT1]
 - 怀孕的: pregnant /ˈpreɡnənt/ [B1]
 - 年轻的: young /jʌŋ/ [A1]
 - 紧急的: urgent /ˈɜːdʒənt/ [B1]
 - 正确的: correct /kəˈrekt/ [B1]
-- 聪明的: smart /smɑːt/ [B1]
-- 贪婪的: greedy /ˈɡriːdi/ [B2]
 - 拥挤的: crowded /ˈkraʊdɪd/ [A2]
 - 毛茸茸的: furry /ˈfɜːri/
 - 有趣的: interesting /ˈɪntrəstɪŋ/ [A1] √
-- 搞笑的: funny /ˈfʌni/ [A1] √
 - 美丽的: beautiful /ˈbjuːtɪfl/ [A1]
 - 热的: hot /hɒt/ [A1] √
 - 冷的: cold /kəʊld/ [A1] √
@@ -1880,7 +1888,6 @@
 - 更坏的: worse /wɜːs/ [A2]
 - 最坏的: worst /wɜːst/ [A2]
 - 野生的: wild /waɪld/ [A2]
-- 愚蠢的: stupid /ˈstjuːpɪd/ [B1]
 - 脏的: dirty /ˈdɜːti/ [A2]
 - 极地的: polar /ˈpəʊlə/ √
 - 卡住的: stuck /stʌk/ [B2] √
