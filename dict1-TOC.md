@@ -19,7 +19,7 @@
 
 #### 城市: the city
 #### 住宅: the house
-#### 游乐场: the playground
+#### 游乐场: the playground, the funfair
 #### 农场: the farm
 #### 建材: construction materials
 #### 灯: the light

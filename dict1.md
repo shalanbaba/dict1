@@ -345,6 +345,7 @@
 - 电影院: camera /ˈkæmrə/ [A1]
 - 市场: market /ˈmɑːkɪt/ [A2], mart /mɑːt/
 - 超市: supermarket /ˈsuːpəmɑːkɪt/ [A1]
+- 集市: fair /feə/
 - 停车场: parking lot /ˈpɑːkɪŋ lɒt/ [A2] √
 - 停车位: parking space /ˈpɑːkɪŋ speɪs/, parking stall /ˈpɑːkɪŋ stɔːl/
 - 车库: garage /ˈɡærɑːʒ/ [A2] √
@@ -471,7 +472,7 @@
 - 地毯: carpet /ˈkɑːpɪt/ [A2], rug /rʌɡ/ [B1][ORT1]
 - 花瓶: vase /veɪs/ [B1]
 - 镜子: mirror /ˈmɪrə/ [A2]
-#### 游乐场: the playground /ðə ˈpleɪɡraʊnd/ [A2] √
+#### 游乐场: the playground /ðə ˈpleɪɡraʊnd/ [A2] √, the funfair /ˈfʌnfeə/
 - 摩天轮: ferris wheel /ferɪs wiːl/
 - 旋转木马: carousel /ˌkærəˈsel/
 - 过山车: roller coaster /rəʊlə kəʊstə/
