@@ -1637,6 +1637,7 @@
 - 结婚: marriage /ˈmærɪdʒ/ [B1]
 - 离婚: divorce /dɪˈvɔːs/ [B1]
 - 住户: household /ˈhaʊshəʊld/ [B2]
+- 理发: haircut /ˈheəkʌt/ [B1]
 - 娱乐: recreation /ˌriːkriˈeɪʃn/ [B2]
 - 狂欢节, 嘉年华: carnival /ˈkɑːnɪvl/ [B2]
 - 沟通: communication /kəˌmjuːnɪˈkeɪʃn/ [B1]
