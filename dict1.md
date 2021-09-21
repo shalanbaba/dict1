@@ -880,9 +880,9 @@
   - 黄蜂: wasp /wɒsp/ [B2]
   - 大黄蜂: bumblebee /ˈbʌmblbiː/
   - 飞蛾: moth /mɒθ/ √
-  - 蝴蝶: butterfly /ˈbʌtəflaɪ/ [B1] √
+  - 蝴蝶: butterfly /ˈbʌtəflaɪ/ [B1][ORT1+] √
   - 茧: cocoon /kəˈkuːn/
-  - 碟蛹: chrysalis /ˈkrɪsəlɪs/
+  - 碟蛹: chrysalis /ˈkrɪsəlɪs/ [ORT1+]
   - 蟋蟀: cricket /ˈkrɪkɪt/ [C2]
   - 甲壳虫: beetle /ˈbiːtl/
 - 蜘蛛: spider /ˈspaɪdə/ [B1] √
@@ -948,7 +948,7 @@
 - 蠕虫: worms /wɜːmz/ [B2] √
   - 蚯蚓: earthworm /ˈɜːθwɜːm/
   - 鼻涕虫: slug /slʌɡ/
-- 毛毛虫: caterpillar /ˈkætəpɪlə/ √
+- 毛毛虫: caterpillar /ˈkætəpɪlə/ [ORT1+] √
 - 蜗牛: snail /sneɪl/ √
 - 宠物: pet /pet/ [A1] √
 - 珊瑚: coral /ˈkɒrəl/ [C2]
@@ -969,7 +969,7 @@
 - 茎: stem /stem/
 - 芽: sprout /spraʊt/
 - 根: root /ruːt/ [B2] √
-- 叶: leaf /liːf/ [B1] √
+- 叶: leaf /liːf/ [B1][ORT1+] √
 - 树枝: branch /bræntʃ/ [B1], twig /twɪɡ/（小）
 - 灌木: bush /bʊʃ/ [B2]
 - 种子: seeds /siːdz/ [B2]
@@ -1768,6 +1768,9 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 找到: find /faɪnd/ [A1]
+- 发现: find /faɪnd/ [A2][ORT1+], discover /dɪˈskʌvə/ [B1]
+- 放: put /pʊt/ [A1][ORT1+]
 - 停留: stay /steɪ/ [A1][ORT1+]
 - 做: do /duː/ [A1][ORT1]
 - 想要: want /wɒnt/ [A1][ORT1]
@@ -1930,6 +1933,7 @@
 - 他们的: their /ðeə/（形）[A1]
 - 谁的: whose /huːz/ [B1]
 #### 副词: adverbs /ˈædvɜːbz/ [A2]
+- 然后: then /ðen/ [A1][ORT1+]
 - 再次: again /əˈɡeɪn/ [A1][ORT1+]
 - 进: in /ɪn/ [A2][ORT1] √
 - 出: out /aʊt/ [B1] √
