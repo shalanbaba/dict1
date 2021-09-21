@@ -1626,7 +1626,7 @@
 - 政府: government /ˈɡʌvənmənt/ [B1]
 - 政党: party /ˈpɑːti/ [B1]
 - 峰会: summit /ˈsʌmɪt/ [C2]
-- 博览会: fair /feə/ [B1]
+- 博览会: fair /feə/ [B1], expo /ˈekspəʊ/
 - 俱乐部: club /klʌb/ [A2]
 - 宗教: religion /rɪˈlɪdʒən/ [B1]
 - 公司: companies /ˈkʌmpəniz/ [A2]
