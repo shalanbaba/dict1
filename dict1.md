@@ -1270,6 +1270,17 @@
 - 日历: the calendar /ðə ˈkælɪndəz/ [A2]
   - 月份: months /mʌnθs/ [A1]
     - 一月: January /ˈdʒænjuəri/ [A1]
+    - 二月: February /ˈfebruəri/ [A1]
+    - 三月: March /mɑːtʃ/ [A1]
+    - 四月: April /ˈeɪprəl/ [A1]
+    - 五月: May /meɪ/ [A1]
+    - 六月: June /dʒuːn/ [A1]
+    - 七月: July /dʒuˈlaɪ/ [A1]
+    - 八月: August /ˈɔːɡəst/ [A1]
+    - 九月: September /sepˈtembə/ [A1]
+    - 十月: October /ɒkˈtəʊbə/ [A1]
+    - 十一月: November /nəʊˈvembə/ [A1]
+    - 十二月: December /dɪˈsembə/ [A1]
   - 季度: quarter /ˈkwɔːtə/
   - 周末: weekend /ˌwiːkˈend/ [A1]
   - 星期: days of a week /deɪz ɒv ə wiːk/
