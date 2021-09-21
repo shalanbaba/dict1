@@ -345,7 +345,6 @@
 - 电影院: camera /ˈkæmrə/ [A1]
 - 市场: market /ˈmɑːkɪt/ [A2], mart /mɑːt/
 - 超市: supermarket /ˈsuːpəmɑːkɪt/ [A1]
-- 集市: fair /feə/
 - 停车场: parking lot /ˈpɑːkɪŋ lɒt/ [A2] √
 - 停车位: parking space /ˈpɑːkɪŋ speɪs/, parking stall /ˈpɑːkɪŋ stɔːl/
 - 车库: garage /ˈɡærɑːʒ/ [A2] √
@@ -1627,6 +1626,7 @@
 - 政府: government /ˈɡʌvənmənt/ [B1]
 - 政党: party /ˈpɑːti/ [B1]
 - 峰会: summit /ˈsʌmɪt/ [C2]
+- 博览会: fair /feə/ [B1]
 - 俱乐部: club /klʌb/ [A2]
 - 宗教: religion /rɪˈlɪdʒən/ [B1]
 - 公司: companies /ˈkʌmpəniz/ [A2]
@@ -1863,6 +1863,7 @@
     - 将会: will /wɪl/ [A2], would /wʊd/ [B1]
     - 应该: shall /ʃæl/ [A2], should /ʃʊd/ [A2]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 遗失的: lost /lɒst/ [B1]
 - 贪婪的: greedy /ˈɡriːdi/ [B2]
 - 勇敢的: brave /breɪv/ [B1]
 - 自信的: confident /ˈkɒnfɪdənt/ [B1]
