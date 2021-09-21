@@ -38,7 +38,7 @@
 - 绘本: picture book /ˈpɪktʃə bʊk/
 - 漫画: comic /ˈkɒmɪk/ [A2]
 - 闪卡: flashcard /'flæʃˌkɑːd/
-- 日记: diary /ˈdaɪəri/ [A2]
+- 日记: diary /ˈdaɪəri/ [A2][ORT1+]
 - 日志: journal /ˈdʒɜːnl/ [C2], log /lɔːɡ/
 - 网站: website /ˈwebsaɪt/ [A1]
 - 网址: uniform resource locator /ˈjuːnɪfɔːm rɪˈsɔːs ləʊˈkeɪtə/, URL /ˌjuː ɑː ˈel/
@@ -277,9 +277,9 @@
 - 油田: oilfield /ˈɔɪlfiːld/
 - 草地: meadow /ˈmedəʊ/
 #### 天气: the weather /ðə ˈweðə/ [A1] √
-- 晴: sunny /ˈsʌni/ [A2] √
+- 晴: sunny /ˈsʌni/ [A2][ORT1+] √
 - 雨: rainy /ˈreɪni/ [B1] √
-- 有风: windy /ˈwɪndi/ [A2] √
+- 有风: windy /ˈwɪndi/ [A2][ORT1+] √
 - 微风: breezy /ˈbriːzi/
 - 多云, 阴: cloudy /ˈklaʊdi/ [A2] √
 - 局部多云: partly cloudy /ˈpɑːtli ˈklaʊdi/
@@ -374,7 +374,7 @@
 - 酒吧: bar /bɑː/ [A1]
 - 宠物店: pet shop /pet ʃɒp/
 - 书店: bookstore /ˈbʊkˌstɔː/ [A1]
-- 游泳池: swimming pool /ˈswɪmɪŋ puːl/ [A1]
+- 游泳池: swimming pool /ˈswɪmɪŋ puːl/ [A1], pool /puːl/ [A2][ORT1+]
 - 体育场: stadium /ˈsteɪdiəm/ [A2]
 - 健身房: gym /dʒɪm/ [B1]
 - 植物园: botanical garden /bəˌtænɪkl ˈɡɑːdn/
@@ -393,9 +393,9 @@
 - 城堡: castle /ˈkɑːsl/ [A2] √
 - 寺庙: temple /ˈtempl/ [B1]
 - 宫殿: palace /ˈpæləs/ [B1]
-- 公园: park /pɑːk/ [A1] √
+- 公园: park /pɑːk/ [A1][ORT1+] √
 - 工厂: factory /ˈfæktri/ [A1]
-- 商店: shop /ʃɒp/ [A2], store /stɔː/ [B1]
+- 商店: shop /ʃɒp/ [A2][ORT1+], store /stɔː/ [B1]
 - 垃圾房: garbage room /ˈɡɑːbɪdʒ ruːm/
 - 垃圾场: dump /dʌmp/ [C1]
 - 变电站: transformer substation /trænsˈfɔːmə ˈsʌbsteɪʃn/
@@ -1263,6 +1263,7 @@
 - 数数: count /kaʊnt/ [B1] √
 - 百分比: percentage /pəˈsentɪdʒ/ [B2]
 #### 时间: time /taɪm/ [A2] √
+- 一天: day /deɪ/ [A1][ORT1+]
 - 上午: morning /ˈmɔːnɪŋ/ [A1] √
 - 下午: afternoon /ˌɑːftəˈnuːn/ [A1] √
 - 晚上: evening /ˈiːvnɪŋ/ [A1] √
@@ -1284,11 +1285,11 @@
   - 季度: quarter /ˈkwɔːtə/
   - 周末: weekend /ˌwiːkˈend/ [A1]
   - 星期: days of a week /deɪz ɒv ə wiːk/
-    - 星期一: Monday /ˈmʌndeɪ/ [A1]
-    - 星期二: Tuesday /ˈtjuːzdeɪ/ [A1]
-    - 星期三: Wednesday /ˈwenzdeɪ/ [A1]
-    - 星期四: Thursday /ˈθɜːzdeɪ/ [A1]
-    - 星期五: Friday /ˈfraɪdeɪ/ [A1]
+    - 星期一: Monday /ˈmʌndeɪ/ [A1][ORT1+]
+    - 星期二: Tuesday /ˈtjuːzdeɪ/ [A1][ORT1+]
+    - 星期三: Wednesday /ˈwenzdeɪ/ [A1][ORT1+]
+    - 星期四: Thursday /ˈθɜːzdeɪ/ [A1][ORT1+]
+    - 星期五: Friday /ˈfraɪdeɪ/ [A1][ORT1+]
     - 星期六: Saturday /ˈsætədeɪ/ [A1]
     - 星期天: Sunday /ˈsʌndeɪ/ [A1]
 - 节日: festival days /ˈfestɪvl deɪz/
@@ -1806,7 +1807,7 @@
 - 划船: row /rəʊ/ [B2] √
 - 走: walk /wɔːk/ [A1] √
 - 慢跑: jog /dʒɒɡ/ [B1]
-- 跑: run /rʌn/ [A1] √
+- 跑: run /rʌn/ [A1][ORT1+] √
 - 伸展: stretch /stretʃ/ [B2]
 - 滚: roll /rəʊl/
 - 跳: jump /dʒʌmp/ [A2] √
@@ -1834,7 +1835,7 @@
 - 玩: play /pleɪ/ [A1] √
 - 处理: handle /ˈhændl/ [B1]
 - 穿, 戴: wear /weə/ [A1] √
-- 写: write /raɪt/ [A1]
+- 写: write /raɪt/ [A1][ORT1+]
 - 读: read /riːd/ [A1] √
 - 画: draw /drɔː/ [A1], paint /peɪnt/（颜料）[A1][ORT1] √
 - 出生: born /bɔːn/ [A2]
@@ -1888,9 +1889,9 @@
 - 正确的: correct /kəˈrekt/ [B1]
 - 拥挤的: crowded /ˈkraʊdɪd/ [A2]
 - 毛茸茸的: furry /ˈfɜːri/
-- 有趣的: interesting /ˈɪntrəstɪŋ/ [A1] √
+- 有趣的: interesting /ˈɪntrəstɪŋ/ [A1], fun /fʌn/ [A2][ORT1+]
 - 美丽的: beautiful /ˈbjuːtɪfl/ [A1]
-- 热的: hot /hɒt/ [A1] √
+- 热的: hot /hɒt/ [A1][ORT1+] √
 - 冷的: cold /kəʊld/ [A1] √
 - 长的（时间, 距离）: long /lɒŋ/ [A1]
 - 短的（时间, 距离）: short /ʃɔːt/ [A1]
@@ -1929,8 +1930,10 @@
 - 他们的: their /ðeə/（形）[A1]
 - 谁的: whose /huːz/ [B1]
 #### 副词: adverbs /ˈædvɜːbz/ [A2]
+- 再次: again /əˈɡeɪn/ [A1][ORT1+]
 - 进: in /ɪn/ [A2][ORT1] √
 - 出: out /aʊt/ [B1] √
+- 继续: on /ɒn/ [ORT1+]
 - 也: also /ˈɔːlsəʊ/ [A1]
 - 非常: very /ˈveri/ [A1][ORT1+]
 - 一起: together /təˈɡeðə/ [A1], along /əˈlɒŋ/ [B1]
