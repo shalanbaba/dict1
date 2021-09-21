@@ -1,5 +1,5 @@
 #### 信息: information /ˌɪnfəˈmeɪʃn/ [A2]
-- 线索: clue /kluː/ [B2]
+- 线索: clue /kluː/ [B2][3000]
 - 预报: forecast /ˈfɔːkɑːst/ [B1]
 - 问题: question /ˈkwestʃən/ [A1]
 - 答案: answer /ˈɑːnsə/ [A1]
@@ -1320,7 +1320,7 @@
   - 夏: summer /ˈsʌmə/ [A1]
   - 秋: autumn /ˈɔːtəm/ [A2], fall /fɔːl/ [A2]
   - 冬: winter /ˈwɪntə/ [A1]
-- 年龄: age /eɪdʒ/ [A1]
+- 年龄: age /eɪdʒ/ [A1][3000]
 - 时区: time zone /taɪm zəʊn/
 #### 计量单位: units of measure /ˈjuːnɪts ɒv ˈmeʒə/
 - 长度: length /leŋkθ/ [B1]
@@ -1934,7 +1934,7 @@
 - 谁的: whose /huːz/ [B1]
 #### 副词: adverbs /ˈædvɜːbz/ [A2]
 - 然后: then /ðen/ [A1][ORT1+]
-- 再次: again /əˈɡeɪn/ [A1][ORT1+]
+- 再次: again /əˈɡeɪn/ [A1][ORT1+][3000]
 - 进: in /ɪn/ [A2][ORT1] √
 - 出: out /aʊt/ [B1] √
 - 继续: on /ɒn/ [ORT1+]
