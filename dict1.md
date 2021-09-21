@@ -843,7 +843,7 @@
 #### 动物: the animal /ði ˈænɪml/ [A1]
 - 爬行动物: reptiles /ˈreptaɪlz/ [C1]
   - 蛇: snake /sneɪk/ [A2] √
-  - 乌龟: turtle /ˈtɜːtl/（水陆）, tortoise /ˈtɔːtəs/（陆）
+  - 乌龟: turtle /ˈtɜːtl/（水, 陆）, tortoise /ˈtɔːtəs/（陆）
   - 海龟: sea turtle /siː ˈtɜːtl/
   - 变色龙: chameleon /kəˈmiːliən/
   - 火蜥蜴: salamander /ˈsæləmændə/ [ORT2]
