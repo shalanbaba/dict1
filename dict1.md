@@ -882,7 +882,7 @@
   - 飞蛾: moth /mɒθ/ √
   - 蝴蝶: butterfly /ˈbʌtəflaɪ/ [B1][ORT1+] √
   - 茧: cocoon /kəˈkuːn/
-  - 碟蛹: chrysalis /ˈkrɪsəlɪs/ [ORT1+]
+  - 蛹: chrysalis /ˈkrɪsəlɪs/ [ORT1+]
   - 蟋蟀: cricket /ˈkrɪkɪt/ [C2]
   - 甲壳虫: beetle /ˈbiːtl/
 - 蜘蛛: spider /ˈspaɪdə/ [B1] √
