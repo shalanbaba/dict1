@@ -17,7 +17,7 @@
 - 练习册: workbook /ˈwɜːkbʊk/ [A2]
 - 字典: dictionary /ˈdɪkʃəneri/ [A1]
 - 照片: photo /ˈfəʊtəʊ/ [A1], photograph /ˈfəʊtəɡrɑːf/ [A2]
-- 图片: picture /ˈpɪktʃə/ [A1][ORT1]
+- 图片: picture /ˈpɪktʃə/ [A1][3000][ORT1]
 - 视频: video /ˈvɪdiəʊ/ [A2]
 - 相册: album /ˈælbəm/ [A2]
 - 语音: voice /vɔɪs/ [B1]
@@ -38,7 +38,7 @@
 - 绘本: picture book /ˈpɪktʃə bʊk/
 - 漫画: comic /ˈkɒmɪk/ [A2]
 - 闪卡: flashcard /'flæʃˌkɑːd/
-- 日记: diary /ˈdaɪəri/ [A2][ORT1+]
+- 日记: diary /ˈdaɪəri/ [A2][3000][ORT1+]
 - 日志: journal /ˈdʒɜːnl/ [C2], log /lɔːɡ/
 - 网站: website /ˈwebsaɪt/ [A1]
 - 网址: uniform resource locator /ˈjuːnɪfɔːm rɪˈsɔːs ləʊˈkeɪtə/, URL /ˌjuː ɑː ˈel/
@@ -210,7 +210,7 @@
 #### 自然: nature /ˈneɪtʃə/ [A2]
 - 海岸: seashore /ˈsiːʃɔː/
 - 沿海: coast /kəʊst/ [B1]
-- 海滩: beach /biːtʃ/ [A1][ORT1] √
+- 海滩: beach /biːtʃ/ [A1][3000][ORT1] √
 - 海边: seaside /ˈsiːsaɪd/ [B1]
 - 雪花: snowflake /ˈsnəʊfleɪk/
 - 冰山: iceberg /ˈaɪsbɜːɡ/ [C1]
