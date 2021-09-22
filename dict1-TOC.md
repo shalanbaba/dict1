@@ -55,7 +55,7 @@
 #### 鞋子: shoes
 #### 包: bags
 #### 眼镜: glasses
-#### 首饰: jewellery（英）, jewelry（美）
+#### 首饰: jewellery (英), jewelry (美)
 #### 缝纫: sewing
 
 #### 动物: the animal
@@ -73,7 +73,7 @@
 #### 情感: emotions
 #### 感觉: feelings
 
-#### 数学: maths（英）, math（美）, mathematics
+#### 数学: maths (英), math (美), mathematics
 #### 时间: time
 #### 计量单位: units of measure
 #### 量词: quantifiers
