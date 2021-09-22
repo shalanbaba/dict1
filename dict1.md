@@ -187,15 +187,6 @@
   - 华盛顿: Washington /ˈwɒʃɪŋtən/
   - 洛杉矶: Los Angeles /lɔ:s ˈeɪndʒələz/
   - 旧金山: San Francisco /sæn frænˈsɪskəʊ/
-- 地点: places /ˈpleɪsɪz/ [A1]
-  - 五角大楼: Pentagon /ˈpentəɡən/
-  - 白宫: White House /waɪt haʊs/
-  - 故宫: Imperial Palace /ɪmˈpɪəriəl ˈpæləs/
-  - 故宫博物院: Palace Museum /ˈpæləs mjuˈziːəm/
-  - 紫禁城: Forbidden City /fəˈbɪdn ˈsɪti/
-  - 长城: Great Wall /ɡreɪt wɔːl/
-  - 金字塔: pyramid /ˈpɪrəmɪd/
-  - 自然保护区: natural reserve /ˈnætʃrəl rɪˈzɜːv/
 - 行政区 (中): administrative regions /ədˈmɪnɪstreɪtɪv ˈriːdʒənz/
   - 省: province /ˈprɒvɪns/ [C2]
   - 直辖市: municipality /mjuːˌnɪsɪˈpæləti/
@@ -207,6 +198,16 @@
   - 街道: subdistrict /ˈsʌbˌdɪstrɪkt/
   - 乡: township /ˈtaʊnʃɪp/
   - 村: village /ˈvɪlɪdʒ/ [A1]
+- 自然保护区: natural reserve /ˈnætʃrəl rɪˈzɜːv/
+- 金字塔: pyramid /ˈpɪrəmɪd/
+- 地点: places /ˈpleɪsɪz/ [A1]
+  - 五角大楼: Pentagon /ˈpentəɡən/
+  - 埃菲尔铁塔: Eiffel Tower /ˈaɪfəl ˈtaʊə/
+  - 白宫: White House /waɪt haʊs/
+  - 故宫: Imperial Palace /ɪmˈpɪəriəl ˈpæləs/
+  - 故宫博物院: Palace Museum /ˈpæləs mjuˈziːəm/
+  - 紫禁城: Forbidden City /fəˈbɪdn ˈsɪti/
+  - 长城: Great Wall /ɡreɪt wɔːl/
 #### 自然: nature /ˈneɪtʃə/ [A2]
 - 海岸: seashore /ˈsiːʃɔː/
 - 沿海: coast /kəʊst/ [B1]
