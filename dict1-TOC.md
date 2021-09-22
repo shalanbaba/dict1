@@ -111,6 +111,7 @@
 
 #### 动词: verbs
 #### 形容词: adjectives
+#### 冠词: articles
 #### 限定词: determiners
 #### 副词: adverbs
 #### 介词: prepositions
