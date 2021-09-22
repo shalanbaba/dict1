@@ -372,7 +372,7 @@
 - 电影院: cinema /ˈsɪnəmə/ [A1]
 - 家庭旅馆: guesthouse /ˈɡesthaʊs/
 - 酒吧: bar /bɑː/ [A1]
-- 宠物店: pet shop /pet ʃɒp/
+- 宠物店: pet shop /pet ʃɒp/ [ORT1+]
 - 书店: bookstore /ˈbʊkˌstɔː/ [A1]
 - 游泳池: swimming pool /ˈswɪmɪŋ puːl/ [A1], pool /puːl/ [A2][ORT1+]
 - 体育场: stadium /ˈsteɪdiəm/ [A2]
@@ -475,9 +475,9 @@
 - 摩天轮: ferris wheel /ferɪs wiːl/
 - 旋转木马: carousel /ˌkærəˈsel/
 - 过山车: roller coaster /rəʊlə kəʊstə/
-- 跷跷板: seesaw /ˈsiː sɔː/ √
-- 滑梯: slide /slaɪd/ √
-- 秋千: swing /swɪŋ/ [B2] √
+- 跷跷板: seesaw /ˈsiː sɔː/ [ORT1+] √
+- 滑梯: slide /slaɪd/ [3000][ORT1+] √
+- 秋千: swing /swɪŋ/ [B2][ORT1+] √
 #### 农场: the farm /ðə fɑːm/ [A1] √
 - 猪圈: pigpen /pɪɡpen/
 - 干草: hay /heɪ/ √
@@ -842,7 +842,7 @@
 - 纽扣: button /ˈbʌtn/ [B1]
 #### 动物: the animal /ði ˈænɪml/ [A1]
 - 爬行动物: reptiles /ˈreptaɪlz/ [C1]
-  - 蛇: snake /sneɪk/ [A2] √
+  - 蛇: snake /sneɪk/ [A2][ORT1+] √
   - 乌龟: turtle /ˈtɜːtl/ (水, 陆), tortoise /ˈtɔːtəs/ (陆)
   - 海龟: sea turtle /siː ˈtɜːtl/
   - 变色龙: chameleon /kəˈmiːliən/
@@ -885,10 +885,11 @@
   - 蛹: chrysalis /ˈkrɪsəlɪs/ [ORT1+]
   - 蟋蟀: cricket /ˈkrɪkɪt/ [C2]
   - 甲壳虫: beetle /ˈbiːtl/
-- 蜘蛛: spider /ˈspaɪdə/ [B1] √
+- 蜘蛛: spider /ˈspaɪdə/ [B1][ORT1+] √
 - 蜈蚣: centipede /ˈsentɪpiːd/
 - 哺乳动物: mammals /ˈmæmlz/ [C1]
-  - 人类: human /ˈhjuːmən/ [B1]
+  - 老鼠: rat /ræt/ [A2][ORT1+]
+  - 人: human /ˈhjuːmən/ [B1]
   - 瞪羚: gazelle /ɡəˈzel/
   - 斑马: zebra /ˈzebrə/ [B2] √
   - 长颈鹿: giraffe /dʒəˈrɑːf/ [B1] √
@@ -916,6 +917,7 @@
   - 小猪: piggy /ˈpɪɡi/ √
   - 小鸡: chick /tʃɪk/ √
   - 小羊: lamb /læm/ [B1] √
+  - 马: horse /hɔːs/ [A1][3000][ORT1+]
   - 小马: foal /fəʊl/, pony /ˈpəʊni/ [C1] √
   - 小牛: calf /kɑːf/ [B1]
   - 幼崽: cub /kʌb/ (凶猛) √, calf /kɑːf/ (温顺)
@@ -933,7 +935,7 @@
   - 熊: bear /beə/ [A2] √
 - 恐龙: dinosaur /ˈdaɪnəsɔː/ [A2] √
 - 鱼: fish /fɪʃ/ [A1] √
-  - 金鱼: goldfish /ˈɡəʊldfɪʃ/ √
+  - 金鱼: goldfish /ˈɡəʊldfɪʃ/ [ORT1+] √
   - 鲨鱼: shark /ʃɑːk/ [B1] √
   - 海豚: dolphin /ˈdɒlfɪn/ [B1] √
   - 三文鱼: salmon /ˈsæmən/ [B1]
@@ -950,7 +952,7 @@
   - 鼻涕虫: slug /slʌɡ/
 - 毛毛虫: caterpillar /ˈkætəpɪlə/ [ORT1+] √
 - 蜗牛: snail /sneɪl/ √
-- 宠物: pet /pet/ [A1] √
+- 宠物: pet /pet/ [A1][3000][ORT1+] √
 - 珊瑚: coral /ˈkɒrəl/ [C2]
 - 毛皮: fur /fɜː/ [B1]
 - 掌: paw /pɔː/ [B2]
@@ -983,7 +985,7 @@
 - 婴儿: baby /ˈbeɪbi/ [A1] √, infant /ˈɪnfənt/ [C2]
 - 幼童: toddler /ˈtɒdlə/ [C2]
 - 儿童: kid /kɪd/ [A2]
-- 孩子: child /tʃaɪld/ [A1]
+- 孩子: child /tʃaɪld/ [A1][ORT1+]
 - 男人: man /mæn/ [A1] √
 - 女人: woman /ˈwʊmən/ [A1]
 - 成年人: adult /ˈædʌlt/ [A1]
@@ -1123,6 +1125,7 @@
 - 口罩: mask /mɑːsk/ [B2] √
 - 冰袋: ice pack /aɪs pæk/
 - 疼痛: ache /eɪk/ [B1]
+- 头疼: headache /ˈhedeɪk/ [A2][3000][ORT1+]
 - 咳嗽: cough /kɒf/ [B1]
 - 打针: injection /ɪnˈdʒekʃn/ [C2]
 - 过敏: allergy /ˈælədʒi/
@@ -1627,11 +1630,12 @@
 - 骰子: dice /daɪs/
 - 弹珠: marble /ˈmɑːbl/
 #### 乐器: musical instruments /ˈmjuːzɪkl ˈɪnstrʊmənts/
-- 吉他: guitar /ɡɪˈtɑː/ [A1]
+- 吉他: guitar /ɡɪˈtɑː/ [A1][3000][ORT1+]
 - 钢琴: piano /piˈænəʊ/ [A2]
 - 小提琴: violin /ˌvaɪəˈlɪn/ [A2]
-- 鼓: drum /drʌm/ [A2]
-- 小号: trumpet /ˈtrʌmpɪt/ [B1]
+- 鼓: drum /drʌm/ [A2][ORT1+]
+- 竖笛: recorder /rɪˈkɔːdə/ [ORT1+]
+- 小号: trumpet /ˈtrʌmpɪt/ [B1][ORT1+]
 - 电子琴: keyboard [A2]
 #### 社会: society /səˈsaɪəti/ [B1]
 - 法律: law /lɔː/ [B2]
@@ -1768,6 +1772,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 说: say /seɪ/ [A1][ORT1+]
 - 找到: find /faɪnd/ [A1]
 - 发现: find /faɪnd/ [A2][ORT1+], discover /dɪˈskʌvə/ [B1]
 - 放: put /pʊt/ [A1][ORT1+]
@@ -1843,7 +1848,7 @@
 - 画: draw /drɔː/ [A1], paint /peɪnt/ (颜料) [A1][ORT1] √
 - 出生: born /bɔːn/ [A2]
 - 死亡: die /daɪ/ [A1]
-- 睡: sleep /sliːp/ [A1] √
+- 睡: sleep /sliːp/ [A1][ORT1+] √
 - 打盹: nap /næp/ [C1]
 - 做梦: dream /driːm/ [A2]
 - 刷: brush /brʌʃ/ [A2]
@@ -1919,6 +1924,9 @@
 - 微型的: miniature /ˈmɪnətʃə/ [C2]
 - 泥的: muddy /ˈmʌdi/ [B2]
 - 有魔力的: magic /ˈmædʒɪk/ [A2][ORT1]
+#### 冠词: articles /ˈɑːtɪklz/ [B1]
+- 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
+- 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 限定词: determiners /dɪˈtɜːmɪnəz/ [B2]
 - 一些: some /səm/ [A1], any /ˈeni/ [A1]
 - 很多: many /ˈmeni/ [A1], much /mʌtʃ/ [A2]
@@ -1935,7 +1943,7 @@
 #### 副词: adverbs /ˈædvɜːbz/ [A2]
 - 然后: then /ðen/ [A1][ORT1+]
 - 再次: again /əˈɡeɪn/ [A1][ORT1+][3000]
-- 进: in /ɪn/ [A2][ORT1] √
+- 进: in /ɪn/ [A2][3000][ORT1] √
 - 出: out /aʊt/ [B1] √
 - 继续: on /ɒn/ [ORT1+]
 - 也: also /ˈɔːlsəʊ/ [A1]
@@ -1951,6 +1959,7 @@
 - 从: from /frɒm/ [A1]
 - 到: to /tuː/ [A1]
 - 在: at /æt/ [A1][ORT1]
+- 在...里面: in /ɪn/ [A1][3000][ORT1+]
 - 沿着: along /əˈlɒŋ/ [A2]
 #### 连词: conjunctions /kənˈdʒʌŋkʃnz/ [B2]
 - 和: and /ænd/ [A1][ORT1] √
