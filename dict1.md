@@ -10,16 +10,16 @@
 - 报告: report /rɪˈpɔːt/ [B1][3000]
 - 信: letter /ˈletə/ [A1][3000]
 - 户口本: household register /ˈhaʊshəʊld ˈredʒɪstə/
-- 护照: passport /ˈpɑːspɔːt/ [A2]
+- 护照: passport /ˈpɑːspɔːt/ [A2][3000]
 - 签证: visa /ˈviːzə/ [B1]
 - 身份证: identity card /aɪˈdentəti kɑːd/ [B1], ID card /ˌaɪ ˈdiː kɑːd/ [A2]
 - 课本: textbook /ˈtekstbʊk/ [A2]
 - 练习册: workbook /ˈwɜːkbʊk/ [A2]
-- 字典: dictionary /ˈdɪkʃəneri/ [A1]
-- 照片: photo /ˈfəʊtəʊ/ [A1], photograph /ˈfəʊtəɡrɑːf/ [A2]
+- 字典: dictionary /ˈdɪkʃəneri/ [A1][3000]
+- 照片: photo /ˈfəʊtəʊ/ [A1][3000], photograph /ˈfəʊtəɡrɑːf/ [A2][3000]
 - 图片: picture /ˈpɪktʃə/ [A1][3000][ORT1]
-- 视频: video /ˈvɪdiəʊ/ [A2]
-- 相册: album /ˈælbəm/ [A2]
+- 视频: video /ˈvɪdiəʊ/ [A2][3000]
+- 相册: album /ˈælbəm/ [A2][3000]
 - 语音: voice /vɔɪs/ [B1]
 - 新闻: news /njuːz/ [A2]
 - 报纸: newspaper /njuːz ˈpeɪpə/ [A1]
@@ -2028,7 +2028,7 @@
 - 无论什么: whatever /wɒtˈevə/ [B1]
 - 无论哪个: whichever /wɪtʃˈevə/ [B2]
 - 无论谁: whoever /huːˈevə/ [B2]
-- 很多: lot /lɒt/ [A1][ORT1+]
+- 很多: lot /lɒt/ [A1][3000][ORT1+]
 #### 感叹词: exclamations /ˌekskləˈmeɪʃnz/, interjections /ˌɪntəˈdʒekʃnz/
 - 你好: hello /həˈləʊ/ [A1] √
 - 嗨: hi /haɪ/ [A1] √, hey /heɪ/ [A2] √
@@ -2038,5 +2038,5 @@
 - 变: presto /ˈprestəʊ/ √
 - 干杯: cheers /tʃɪəz/ [C2]
 - 好吧: alright /ɔːlˈraɪt/ [A1]
-- 是: yes /jes/ [A1][ORT1] √
-- 不: no /nəʊ/ [A1][ORT1] √
+- 是: yes /jes/ [A1][3000][ORT1] √
+- 不: no /nəʊ/ [A1][3000][ORT1] √
