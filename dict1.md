@@ -226,6 +226,7 @@
 - 河: river /ˈrɪvə/ [A1] √
 - 泥: mud /mʌd/ [B2] √
 - 土: soil /sɔɪl/ [B2]
+- 沙: sand /sænd/ [B1][ORT1+] √
 - 火山: volcano /vɒlˈkeɪnəʊ/ [B2] √
 - 湖: lake /leɪk/ [A2]
 - 大陆: mainland /ˈmeɪnlænd/
@@ -444,7 +445,7 @@
 - 地窖: cellar /ˈselə/ [B2]
 - 淋浴房: shower room /ˈʃaʊə ruːm/
 - 院子: yard /jɑːd/ [A2]
-- 花园: garden /ˈɡɑːdn/ [A1]
+- 花园: garden /ˈɡɑːdn/ [A1][ORT1+]
 - 烟囱: chimney /ˈtʃɪmni/ [B2]
 - 楼梯: stairs /steəz/ [A2]
 - 壁炉: fireplace /ˈfaɪəpleɪs/ [C2]
@@ -491,7 +492,6 @@
 #### 建材: construction materials /kənˈstrʌkʃn məˈtɪərɪəlz/
 - 水泥: cement /sɪˈment/
 - 混凝土: concrete /ˈkɒŋkriːt/ [B2] √
-- 沙: sand /sænd/ [B1] √
 - 砖: brick /brɪk/ [B2] √
 - 木地板: wood floor /wʊd flɔː/
 - 瓷砖: ceramic tile /səˈræmɪk taɪl/, porcelain tile /ˈpɔːsəlɪn taɪl/
@@ -597,7 +597,7 @@
 - 罐: jar /dʒɑː/ [B1]
 - 保温杯: vacuum flask /ˈvækjuːm flɑːsk/
 - 篮子: basket /ˈbɑːskɪt/ [B1]
-- 桶: bucket /ˈbʌkɪt/ [B1]
+- 桶: bucket /ˈbʌkɪt/ [B1][ORT1+]
 - 盒子: box /bɒks/ [A1][ORT1]
 - 储物箱: storage box /ˈstɔːrɪdʒ bɒks/
 #### 宠物用品: pet supplies /pet səˈplaɪz/
@@ -1633,6 +1633,7 @@
 - 水枪: water gun /ˈwɔːtə ɡʌn/ √
 - 骰子: dice /daɪs/
 - 弹珠: marble /ˈmɑːbl/
+- 沙堡: sandcastle /ˈsændkɑːsl/ [ORT1+]
 #### 乐器: musical instruments /ˈmjuːzɪkl ˈɪnstrʊmənts/
 - 吉他: guitar /ɡɪˈtɑː/ [A1][3000][ORT1+]
 - 钢琴: piano /piˈænəʊ/ [A2]
@@ -1671,6 +1672,7 @@
 - 某种东西: whatsit /ˈwɒtsɪt/ [ORT5]
 - 假期: holiday /ˈhɒlədeɪ/ (英) [A1] √, vacation /veɪˈkeɪʃn/ (美) [A1]
 - 事情, 东西: thing /θɪŋ/ [A1]
+- 顶部: top /tɒp/ [A2][ORT1+]
 - 小心: caution /ˈkɔːʃn/ [C1]
 - 乐趣: fun /fʌn/ [A1][ORT1]
 - 产品: product /ˈprɒdʌkt/ [B1]
@@ -1836,7 +1838,7 @@
 - 跳舞: dance /dæns/ [A1] √
 - 拍: clap /klæp/ [B1] √
 - 旋转: spin /spɪn/ [C1] √
-- 轻拍: pat /pæt/ [C2]
+- 轻拍: pat /pæt/ [C2][ORT1+]
 - 滑雪: ski /skiː/ [B1]
 - 看: look /lʊk/ [A1][ORT1+]
 - 看见: see /siː/ [A1][ORT1] √
@@ -1918,7 +1920,7 @@
 - 昂贵的: expensive /ɪkˈspensɪv/ [A1]
 - 好的: good /ɡʊd/ [A1][ORT1] √
 - 更好的: better /ˈbetə/ [A1]
-- 最好的: best /best/ [A1]
+- 最好的: best /best/ [A1][ORT1+]
 - 坏的: bad /bæd/ [A1]
 - 更坏的: worse /wɜːs/ [A2]
 - 最坏的: worst /wɜːst/ [A2]
@@ -1932,6 +1934,7 @@
 - 泥的: muddy /ˈmʌdi/ [B2]
 - 有魔力的: magic /ˈmædʒɪk/ [A2][ORT1]
 - 痛苦的: miserable /ˈmɪzrəbl/ [B1][ORT1+]
+- 平的: flat /flæt/ [B1][ORT1+]
 #### 冠词: articles /ˈɑːtɪklz/ [B1]
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
@@ -1963,6 +1966,7 @@
 - 为什么: why /waɪ/ [A1] √
 - 怎么样: how /haʊ/ [A2] √
 - 然而: however /haʊˈevə/ [A2]
+- 离开: away /əˈweɪ/ [A2][ORT1+]
 #### 介词: prepositions /ˌprepəˈzɪʃnz/ [B1]
 - 从: from /frɒm/ [A1]
 - 到: to /tuː/ [A1]
@@ -1988,8 +1992,8 @@
 - 我: I /aɪ/ (主) [A1][ORT1] √, me /miː/ (宾) [A1][ORT1] √
 - 我们: we /wiː/ (主) [A1][ORT1], us /əs/ (宾) [A1]
 - 你, 你们: you /juː/ [A1][ORT1] √
-- 他: he /hiː/ (主) [A1], him /hɪm/ (宾) [A1]
-- 她: she /ʃiː/ (主) [A1], her /hə/ (宾) [A1]
+- 他: he /hiː/ (主) [A1][ORT1+], him /hɪm/ (宾) [A1]
+- 她: she /ʃiː/ (主) [A1][ORT1+], her /hə/ (宾) [A1]
 - 他们: they /ðeɪ/ (主) [A1], them /ðəm/ (宾) [A1]
 - 它: it /ɪt/ [A1][ORT1] √
 - 我的: mine /maɪn/ [A2] √
