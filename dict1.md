@@ -6,9 +6,9 @@
 - 签名: signature /ˈsɪɡnətʃə/ [B1]
 - 分数: score /skɔː/ [B1][3000]
 - 评级: grade /ɡreɪd/ [B1][3000]
-- 标签: label /ˈleɪbl/ [B1]
-- 报告: report /rɪˈpɔːt/ [B1]
-- 信: letter /ˈletə/ [A1]
+- 标签: label /ˈleɪbl/ [B1][3000]
+- 报告: report /rɪˈpɔːt/ [B1][3000]
+- 信: letter /ˈletə/ [A1][3000]
 - 户口本: household register /ˈhaʊshəʊld ˈredʒɪstə/
 - 护照: passport /ˈpɑːspɔːt/ [A2]
 - 签证: visa /ˈviːzə/ [B1]
@@ -76,7 +76,7 @@
 #### 性别: genders /ˈdʒendəz/, sexes /ˈseksɪz/ [B2]
 - 男: male /meɪl/ [B2] √
 - 女: female /ˈfiːmeɪl/ [B2] √
-#### 语言: languages /ˈlæŋɡwɪdʒɪz/ [A1]
+#### 语言: languages /ˈlæŋɡwɪdʒɪz/ [A1][3000]
 - 中文: Chinese /ˌtʃaɪˈniːz/
 - 简体中文: Simplified Chinese /ˈsɪmplɪfaɪd ˌtʃaɪˈniːz/
 - 繁体中文: Traditional Chinese /trəˈdɪʃənl ˌtʃaɪˈniːz/
@@ -95,7 +95,7 @@
 - 短语: phrase /freɪz/
 - 拼读: phonics /ˈfɒnɪks/
 - 语法: grammar /ˈɡræmə/ [A2]
-#### 符号: symbols /ˈsɪmblz/ [B2]
+#### 符号: symbols /ˈsɪmblz/ [B2][3000]
 - 标点符号: punctuation /ˌpʌŋktʃuˈeɪʃn/ [B1]
   - 破折号: dash /dæʃ/ [B2]
   - 句号: full stop /fʊl stɒp/ (英) [B1], period /ˈpɪəriəd/ (美) [B1]
@@ -114,7 +114,7 @@
 - 叉: cross /krɒs/ [A1] √
 - 勾: tick /tɪk/ [B1]
 - 下划线: underline /ˌʌndəˈlaɪn/ [B1]
-#### 品牌: brands /brændz/ [B2]
+#### 品牌: brands /brændz/ [B2][3000]
 - 宜家: IKEA /ˌaɪˈkiə/
 - 乐高: LEGO /ˈleɡəu/ √
 - 皮克斯: Pixar /ˈpɪksar/
@@ -130,7 +130,7 @@
 - 优衣库: UNIQLO /ˈjuːnɪkləʊ/
 - 无印良品: MUJI /muːdʒiː/
 - 耐克: Nike /ˈnaɪki/
-#### 名字: names /neɪmz/ [A1]
+#### 名字: names /neɪmz/ [A1][3000]
 - 奥尔夫: Olaf /ˈəʊlɑːf/
 - 瓦力: WALL·E /wɔːl iː/
 - 麦克唐纳: MacDonald /məkˈdɔnəld/ √
@@ -138,7 +138,7 @@
 - 威尔玛: Wilma /ˈwɪlmə/ [ORT1+] √
 - 纳迪姆: Nadim /nəˈdɪm/ [ORT3]
 - 安妮娜: Anneena /əˈniːnə/ [ORT4]
-#### 宇宙: the universe /ði ˈjuːnɪvɜːs/ [B1]
+#### 宇宙: the universe /ði ˈjuːnɪvɜːs/ [B1][3000]
 - 行星: planet /ˈplænɪt/ [B1]
 - 小行星: asteroid /ˈæstərɔɪd/
 - 流星: shooting star /ˈʃuːtɪŋ stɑː/, meteor /ˈmiːtiə/
@@ -153,7 +153,7 @@
   - 火星: Mars /mɑːz/
   - 地球: Earth /ɜːθ/ [B1] √
 - 银河系: Milky Way Galaxy /ˈmɪlki weɪ ˈɡæləksi/
-#### 世界: the world /ðə wɜːld/ [A1]
+#### 世界: the world /ðə wɜːld/ [A1][3000]
 - 海洋: oceans /ˈəʊʃnz/ [B1]
   - 太平洋: Pacific Ocean /pəˈsɪfɪk ˈəʊʃn/
   - 大西洋: Atlantic Ocean /ətˈlæntɪk ˈəʊʃn/
@@ -208,7 +208,7 @@
   - 故宫博物院: Palace Museum /ˈpæləs mjuˈziːəm/
   - 紫禁城: Forbidden City /fəˈbɪdn ˈsɪti/
   - 长城: Great Wall /ɡreɪt wɔːl/
-#### 自然: nature /ˈneɪtʃə/ [A2]
+#### 自然: nature /ˈneɪtʃə/ [A2][3000]
 - 海岸: seashore /ˈsiːʃɔː/
 - 沿海: coast /kəʊst/ [B1]
 - 海滩: beach /biːtʃ/ [A1][3000][ORT1] √
@@ -277,7 +277,7 @@
 - 贝壳: shell /ʃel/ [B2] √
 - 油田: oilfield /ˈɔɪlfiːld/
 - 草地: meadow /ˈmedəʊ/
-#### 天气: the weather /ðə ˈweðə/ [A1] √
+#### 天气: the weather /ðə ˈweðə/ [A1][3000] √
 - 晴: sunny /ˈsʌni/ [A2][ORT1+] √
 - 雨: rainy /ˈreɪni/ [B1] √
 - 有风: windy /ˈwɪndi/ [A2][ORT1+] √
