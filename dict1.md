@@ -73,7 +73,7 @@
 - 名: first name /fɜːst neɪm/ [A2]
 - 中间名: middle name /ˈmɪdl neɪm/
 - 姓: last name /ˈlɑːst neɪm/ [A2], family name /ˈfæməli neɪm/, surname /ˈsɜːneɪm/ [A2]
-#### 性别: genders /ˈdʒendəz/, sexes /ˈseksɪz/ [B2]
+#### 性别: genders /ˈdʒendəz/ [B2], sexes /ˈseksɪz/ [B2][3000]
 - 男: male /meɪl/ [B2] √
 - 女: female /ˈfiːmeɪl/ [B2] √
 #### 语言: languages /ˈlæŋɡwɪdʒɪz/ [A1][3000]
@@ -472,7 +472,7 @@
 - 地毯: carpet /ˈkɑːpɪt/ [A2], rug /rʌɡ/ [B1][ORT1]
 - 花瓶: vase /veɪs/ [B1]
 - 镜子: mirror /ˈmɪrə/ [A2]
-#### 游乐场: the playground /ðə ˈpleɪɡraʊnd/ [A2] √, the funfair /ˈfʌnfeə/
+#### 游乐场: the playground /ðə ˈpleɪɡraʊnd/ [A2] √, the funfair /ðə ˈfʌnfeə/
 - 摩天轮: ferris wheel /ferɪs wiːl/
 - 旋转木马: carousel /ˌkærəˈsel/
 - 过山车: roller coaster /rəʊlə kəʊstə/
