@@ -1210,7 +1210,7 @@
 - 惊讶的: surprised /səˈpraɪzd/ [A2]
 - 困的: sleepy /ˈsliːpi/ [B1]
 - 疲倦的: tired /ˈtaɪəd/ [A1][ORT1+], worn /wɔːn/
-- 生气的: angry /ˈæŋɡri/ [A2] √, cross /krɒs/ (英) [ORT1+]
+- 生气的: angry /ˈæŋɡri/ [A2][3000] √, cross /krɒs/ (英) [ORT1+]
 - 抱歉的: sorry /ˈsɒri/ [A1] √
 - 恶心的: silly /ˈsɪli/ [B1] √
 - 好奇的: curious /ˈkjʊəriəs/ [B1]
