@@ -667,6 +667,8 @@
 - 钩子: hook /hʊk/ [B2]
 - 齿轮: gear /ɡɪə/ [B2]
 #### 工具: tools /tuːlz/ [B2]
+- 梯子: ladder /ˈlædə/ [B1][ORT1+]
+- 网: net /net/ [B1][ORT1+]
 - 洒水壶: watering can /ˈwɔːtərɪŋ kæn/
 - 锄头: hoe /həʊ/
 - 软管: hose /həʊz/ √
@@ -934,7 +936,7 @@
   - 河狸: beaver /ˈbiːvə/
   - 狮子: lion ˈlaɪən [A2] √
   - 熊: bear /beə/ [A2] √
-- 恐龙: dinosaur /ˈdaɪnəsɔː/ [A2] √
+- 恐龙: dinosaur /ˈdaɪnəsɔː/ [A2][ORT1+] √
 - 鱼: fish /fɪʃ/ [A1] √
   - 金鱼: goldfish /ˈɡəʊldfɪʃ/ [ORT1+] √
   - 鲨鱼: shark /ʃɑːk/ [B1] √
@@ -1149,6 +1151,7 @@
   - 第三脚趾: third toe /θɜːd təʊ/
   - 第四脚趾: fourth toe /fɔːθ təʊ/
   - 小脚趾: little toe /ˈlɪtl təʊ/
+- 脚: foot /fʊt/ [A1][ORT1+]
 - 脚尖: tiptoe /ˈtɪptəʊ/
 - 肚子: tummy /ˈtʌmi/ (儿语) √
 - 腹部: belly /ˈbeli/
@@ -1193,7 +1196,7 @@
 - 味觉: taste /teɪst/ [B2]
 #### 情感: emotions /ɪˈməʊʃnz/ [B2]
 - 爱: love /lʌv/ [A1] √
-- 喜欢: like /laɪk/ [A1]
+- 喜欢: like /laɪk/ [A1][ORT1+]
 - 讨厌: hate /heɪt/ [A2]
 #### 感觉: feelings /ˈfiːlɪŋz/ [B1]
 - 无聊的: bored /bɔːd/ [A1]
@@ -1352,7 +1355,7 @@
 - 上: up /ʌp/ [A2][ORT1] √
 - 下: down /daʊn/ [A2] √
 - 前: before /bɪˈfɔː/ [B1]
-- 后: after /ˈɑːftə/ [B1]
+- 后: after /ˈɑːftə/ [B1][ORT1+]
 #### 颜色: colors /ˈkʌləz/ [A1]
 - 红: red /red/ [A2] √
 - 橙: orange /ˈɒrɪndʒ/ [A2] √
@@ -1740,9 +1743,10 @@
 - 圣诞老人: father christmas /ˈfɑːðə ˈkrɪsməs/, santa claus /ˈsæntə klɔːz/
 - 美人鱼: mermaid /ˈmɜːmeɪd/
 - 独角兽: unicorn /ˈjuːnɪkɔːn/
-- 怪物: monster /ˈmɒnstə/ [B1] √
+- 怪物: monster /ˈmɒnstə/ [B1][ORT1+] √
 - 野兽: beast /biːst/
 - 神: god /ɡɒd/ [A2]
+- 巨人: giant /ˈdʒaɪənt/ [C1][ORT1+]
 - 变形金刚: transformer /trænsˈfɔːmə/
 #### 武装部队: armed forces /ɑːmd ˈfɔːsɪz/
 - 海军: navy /ˈneɪvi/ [B2]
@@ -1773,6 +1777,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 来: come /kʌm/ [A1][ORT1+]
 - 说: say /seɪ/ [A1][ORT1+]
 - 找到: find /faɪnd/ [A1]
 - 发现: find /faɪnd/ [A2][ORT1+], discover /dɪˈskʌvə/ [B1]
@@ -1841,7 +1846,7 @@
 - 哭: cry /kraɪ/ [A2] √
 - 笑: laugh /lɑːf/ [A2] √
 - 微笑: smile /smaɪl/ [B1] √
-- 玩: play /pleɪ/ [A1] √
+- 玩: play /pleɪ/ [A1][ORT1+] √
 - 处理: handle /ˈhændl/ [B1]
 - 穿, 戴: wear /weə/ [A1] √
 - 写: write /raɪt/ [A1][ORT1+]
