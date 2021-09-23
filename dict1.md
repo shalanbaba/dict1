@@ -1209,8 +1209,8 @@
 - 害怕的: afraid /əˈfreɪd/ [B1]
 - 惊讶的: surprised /səˈpraɪzd/ [A2]
 - 困的: sleepy /ˈsliːpi/ [B1]
-- 疲倦的: tired /ˈtaɪəd/ [A1], worn /wɔːn/
-- 生气的: angry /ˈæŋɡri/ [A2] √
+- 疲倦的: tired /ˈtaɪəd/ [A1][ORT1+], worn /wɔːn/
+- 生气的: angry /ˈæŋɡri/ [A2] √, cross /krɒs/ (英) [ORT1+]
 - 抱歉的: sorry /ˈsɒri/ [A1] √
 - 恶心的: silly /ˈsɪli/ [B1] √
 - 好奇的: curious /ˈkjʊəriəs/ [B1]
@@ -1578,7 +1578,7 @@
 - 行李: luggage /ˈlʌɡɪdʒ/ (英) [A2], baggage /ˈbæɡɪdʒ/ (美) [B1]
 #### 运动: sports /spɔːts/ [A1]
 - 篮球: basketball /ˈbɑːskɪtbɔːl/ [A1]
-- 足球: football /ˈfʊtbɔːl/ (英) [A1] √, soccer /ˈsɒkə/ (美) [A2]
+- 足球: football /ˈfʊtbɔːl/ (英) [A1][ORT1+] √, soccer /ˈsɒkə/ (美) [A2]
 - 网球: tennis /ˈtenɪs/ [A1] √
 - 排球: volleyball /ˈvɒlibɔːl/ [A2]
 - 棒球: baseball /ˈbeɪsbɔːl/ [A2]
@@ -1666,6 +1666,7 @@
 - 恶作剧: trick /trɪk/ [B1][ORT1]
 - 冒险: adventure /ədˈventʃə/ [A2]
 - 比赛: race /reɪs/ [A2][ORT1], match /mætʃ/ [A2]
+- 进球: goal /ɡəʊl/ [A2][ORT1+]
 - 技能: skill /skɪl/ [B1]
 - 某种东西: whatsit /ˈwɒtsɪt/ [ORT5]
 - 假期: holiday /ˈhɒlədeɪ/ (英) [A1] √, vacation /veɪˈkeɪʃn/ (美) [A1]
@@ -1906,7 +1907,7 @@
 - 有趣的: interesting /ˈɪntrəstɪŋ/ [A1], fun /fʌn/ [A2][ORT1+]
 - 美丽的: beautiful /ˈbjuːtɪfl/ [A1]
 - 热的: hot /hɒt/ [A1][ORT1+] √
-- 冷的: cold /kəʊld/ [A1] √
+- 冷的: cold /kəʊld/ [A1][ORT1+] √
 - 长的 (时间, 距离): long /lɒŋ/ [A1]
 - 短的 (时间, 距离): short /ʃɔːt/ [A1]
 - 大的 (大小, 数量): large /lɑːdʒ/ [A2], big /bɪɡ/ [A1][ORT1] √
@@ -1930,6 +1931,7 @@
 - 微型的: miniature /ˈmɪnətʃə/ [C2]
 - 泥的: muddy /ˈmʌdi/ [B2]
 - 有魔力的: magic /ˈmædʒɪk/ [A2][ORT1]
+- 痛苦的: miserable /ˈmɪzrəbl/ [B1][ORT1+]
 #### 冠词: articles /ˈɑːtɪklz/ [B1]
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
