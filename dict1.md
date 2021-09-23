@@ -944,7 +944,7 @@
   - 三文鱼: salmon /ˈsæmən/ [B1]
   - 银鳕鱼 (小鳞犬牙南极鱼): patagonian toothfish /pætəˈɡəunjən tuːθfɪʃ/
   - 热带鱼: tropical fish /ˈtrɒpɪkl fɪʃ/
-- 蟹: crab /kræb/ [B2] √
+- 蟹: crab /kræb/ [B2][ORT1+] √
 - 寄居蟹: hermit crab /ˈhɜːmɪt kræb/
 - 虾: shrimp /ʃrɪmp/ [B1] √
 - 龙虾: lobster /ˈlɒbstə/
@@ -1884,12 +1884,15 @@
 - 吸气 (惊讶): gasp /ɡɑːsp/ [C2]
 - 狗叫: bark /bɑːk/ [B2]
 - 制作: make /meɪk/ [A1][ORT1]
+- 咬: bite /baɪt/ [B1]
+- 夹: pinch /pɪntʃ/, nip /nɪp/ [ORT1+]
+- 拿着: hold /həʊld/ [A2][3000][ORT1+]
 - 情态动词: modal verbs /ˈməʊdl vɜːbz/ [B1]
     - 必须: must /mʌst/ [B1]
     - 能: can /kæn/ [A1][ORT1], could /kʊd/ [A2]
     - 不能: cannot /ˈkænɒt/ [A1], can't /kɑːnt/
     - 可能: may /meɪ/ [A2], might /maɪt/ [A2]
-    - 将会: will /wɪl/ [A2], would /wʊd/ [B1]
+    - 将会: will /wɪl/ [A2][ORT1+], would /wʊd/ [B1]
     - 应该: shall /ʃæl/ [A2], should /ʃʊd/ [A2]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
 - 遗失的: lost /lɒst/ [B1]
@@ -1935,6 +1938,7 @@
 - 有魔力的: magic /ˈmædʒɪk/ [A2][ORT1]
 - 痛苦的: miserable /ˈmɪzrəbl/ [B1][ORT1+]
 - 平的: flat /flæt/ [B1][ORT1+]
+- 巨大的: enormous /ɪˈnɔːməs/ [B1][3000][ORT1+]
 #### 冠词: articles /ˈɑːtɪklz/ [B1]
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
@@ -1955,7 +1959,7 @@
 - 然后: then /ðen/ [A1][ORT1+]
 - 再次: again /əˈɡeɪn/ [A1][ORT1+][3000]
 - 进: in /ɪn/ [A2][3000][ORT1] √
-- 出: out /aʊt/ [B1] √
+- 出: out /aʊt/ [B1][ORT1+] √
 - 继续: on /ɒn/ [ORT1+]
 - 也: also /ˈɔːlsəʊ/ [A1]
 - 非常: very /ˈveri/ [A1][ORT1+]
@@ -1980,6 +1984,7 @@
 - 如果: if /ɪf/ [A2][ORT1+]
 - 但是: but /bʌt/ [A1][ORT1+]
 - 如同: as /æz/ [B1][ORT1+]
+- 的: of /ɒv/ [A1][ORT1+]
 - 无论哪里: wherever /weərˈevə/ [B1]
 - 当: while /waɪl/ [A2]
 #### 代词: pronouns /ˈprəʊnaʊnz/ [B1]
@@ -1994,7 +1999,7 @@
 - 你, 你们: you /juː/ [A1][ORT1] √
 - 他: he /hiː/ (主) [A1][ORT1+], him /hɪm/ (宾) [A1]
 - 她: she /ʃiː/ (主) [A1][ORT1+], her /hə/ (宾) [A1]
-- 他们: they /ðeɪ/ (主) [A1], them /ðəm/ (宾) [A1]
+- 他们: they /ðeɪ/ (主) [A1][ORT1+], them /ðəm/ (宾) [A1]
 - 它: it /ɪt/ [A1][ORT1] √
 - 我的: mine /maɪn/ [A2] √
 - 你的, 你们的: yours /jɔːz/ [A2]
@@ -2023,6 +2028,7 @@
 - 无论什么: whatever /wɒtˈevə/ [B1]
 - 无论哪个: whichever /wɪtʃˈevə/ [B2]
 - 无论谁: whoever /huːˈevə/ [B2]
+- 很多: lot /lɒt/ [A1][ORT1+]
 #### 感叹词: exclamations /ˌekskləˈmeɪʃnz/, interjections /ˌɪntəˈdʒekʃnz/
 - 你好: hello /həˈləʊ/ [A1] √
 - 嗨: hi /haɪ/ [A1] √, hey /heɪ/ [A2] √
