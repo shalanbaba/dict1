@@ -906,7 +906,7 @@
   - 考拉: koala /kəʊˈɑːlə/
   - 松鼠: squirrel /ˈskwɪrəl/ √
   - 树懒: sloth /sləʊθ/
-  - 老虎: tiger /ˈtaɪɡə/ [B1] √
+  - 老虎: tiger /ˈtaɪɡə/ [B1][ORT1+] √
   - 海狮: sea lion /siː ˈlaɪən/
   - 海豹: seal /siːl/ [B2] √
   - 海象: walrus /ˈwɔːlrəs/
@@ -961,6 +961,8 @@
   - 鼻涕虫: slug /slʌɡ/
 - 毛毛虫: caterpillar /ˈkætəpɪlə/ [ORT1+] √
 - 蜗牛: snail /sneɪl/ √
+- 青蛙: frog /frɒɡ/ [B1][ORT1+]
+- 蛤蟆: toad /təʊd/
 - 宠物: pet /pet/ [A1][3000][ORT1+] √
 - 珊瑚: coral /ˈkɒrəl/ [C2]
 - 毛皮: fur /fɜː/ [B1]
@@ -1610,7 +1612,7 @@
 - 帐篷: tent /tent/ [B1][ORT1+] √
 - 蹦床: trampoline /ˌtræmpəˈliːn/ √
 - 篮球筐: basketball hoop /ˈbɑːskɪtbɔːl huːp/
-- 自行车: bike /baɪk/ [A2] √, bicycle /ˈbaɪsɪkl/ [A2]
+- 自行车: bike /baɪk/ [A2][ORT1+] √, bicycle /ˈbaɪsɪkl/ [A2]
 - 雪橇: sleigh /sleɪ/
 - 滑板车: scooter /ˈskuːtə/ √
 - 平衡车: balance bike /ˈbæləns baɪk/ √
@@ -1642,6 +1644,7 @@
 - 骰子: dice /daɪs/
 - 弹珠: marble /ˈmɑːbl/
 - 沙堡: sandcastle /ˈsændkɑːsl/ [ORT1+]
+- 泰迪熊: teddy bear /ˈtedi beə/ [ORT1+]
 #### 乐器: musical instruments /ˈmjuːzɪkl ˈɪnstrʊmənts/
 - 吉他: guitar /ɡɪˈtɑː/ [A1][3000][ORT1+]
 - 钢琴: piano /piˈænəʊ/ [A2]
@@ -1821,7 +1824,7 @@
 - 吃: eat /iːt/ [A1] √
 - 攀登: climb /klaɪm/ [A2] √
 - 爬: crawl /krɔːl/ [B2] √
-- 骑: ride /raɪd/ [A1] √
+- 骑: ride /raɪd/ [A1][ORT1+] √
 - 鞠躬: bow /baʊ/
 - 复制: copy /ˈkɒpi/ [A2]
 - 粘贴: paste /peɪst/
@@ -1962,10 +1965,12 @@
 - 很少: few /fjuː/ [B1], little /ˈlɪtl/ [B1]
 - 更少: less /les/ [A2]
 - 最少: least /liːst/ [B2]
-- 我的: my /maɪ/ (形) [A1] √
-- 你的, 你们的: your /jɔː/ (形) [A1] √
-- 我们的: our /ˈaʊə/ (形) [A1]
-- 他们的: their /ðeə/ (形) [A1]
+- 我的: my /maɪ/ [A1][ORT1+] √
+- 你的, 你们的: your /jɔː/ [A1] √
+- 他的: his /hɪz/ [A1]
+- 她的: her /hə/ [A1]
+- 我们的: our /ˈaʊə/ [A1][ORT1+]
+- 他们的: their /ðeə/ [A1]
 - 谁的: whose /huːz/ [B1]
 #### 副词: adverbs /ˈædvɜːbz/ [A2]
 - 然后: then /ðen/ [A1][ORT1+]
@@ -1983,13 +1988,14 @@
 - 怎么样: how /haʊ/ [A2] √
 - 然而: however /haʊˈevə/ [A2]
 - 离开: away /əˈweɪ/ [A2][ORT1+]
-- 这里: here /hɪə/ [A1][ORT1+]
-- 那里: there /ðeə/ [A1]
+- 这里: here /hɪə/ [A1][3000][ORT1+]
+- 那里: there /ðeə/ [A1][3000]
 #### 介词: prepositions /ˌprepəˈzɪʃnz/ [B1]
 - 从: from /frɒm/ [A1]
 - 到: to /tuː/ [A1]
 - 在: at /æt/ [A1][ORT1]
 - 在...里面: in /ɪn/ [A1][3000][ORT1+]
+- 在...上面: on /ɒn/ [A1][ORT1+]
 - 沿着: along /əˈlɒŋ/ [A2]
 #### 连词: conjunctions /kənˈdʒʌŋkʃnz/ [B2]
 - 和: and /ænd/ [A1][ORT1] √
