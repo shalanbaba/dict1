@@ -138,6 +138,10 @@
 - 威尔玛: Wilma /ˈwɪlmə/ [ORT1+] √
 - 纳迪姆: Nadim /nəˈdɪm/ [ORT3]
 - 安妮娜: Anneena /əˈniːnə/ [ORT4]
+- Floppy /ˈflɒpi/ [ORT1] √
+- Biff /bɪf/ [ORT1] √
+- Chip /tʃɪp/ [ORT1] √
+- Kipper /ˈkɪpə/ [ORT1] √
 #### 宇宙: the universe /ði ˈjuːnɪvɜːs/ [B1][3000]
 - 行星: planet /ˈplænɪt/ [B1]
 - 小行星: asteroid /ˈæstərɔɪd/
