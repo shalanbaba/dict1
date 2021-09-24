@@ -1,4 +1,6 @@
 #### 信息: information /ˌɪnfəˈmeɪʃn/ [A2][3000]
+- 奖: award /əˈwɔːd/ [B2][3000]
+- 地图: map /mæp/ [A2][ORT1+]
 - 线索: clue /kluː/ [B2][3000]
 - 预报: forecast /ˈfɔːkɑːst/ [B1]
 - 问题: question /ˈkwestʃən/ [A1][3000]
@@ -528,7 +530,7 @@
 - 抽屉: drawer /drɔ:r/ [A2]
 #### 床上用品: bedding /ˈbedɪŋ/
 - 床单: sheet /ʃiːt/ [B1][ORT1]
-- 枕头: pillow /ˈpɪləʊ/ [A2]
+- 枕头: pillow /ˈpɪləʊ/ [A2][ORT1+]
 - 被子: quilt /kwɪlt/
 - 毯子: blanket /blanket/ [A2]
 - 靠垫: cushion /ˈkʊʃn/ [B1]
@@ -812,7 +814,7 @@
 - 帽子: hat /hæt/ [A1], cap /kæp/ [A2]
 - 围巾: scarf /skɑːf/ [A2] √
 - 手套: gloves /ɡlʌvz/ [A2], mittens /ˈmɪtnz/ √
-- 靴子: boots /buːts/ [A2] √
+- 靴子: boots /buːts/ [A2][ORT1+] √
 - 连衣裙: dress /dres/ [A1]
 - 夹克衫: jacket /ˈdʒækɪt/ [A1]
 - 睡衣: pajama /pəˈdʒɑːmə/
@@ -1163,13 +1165,14 @@
 - 胃: stomach /ˈstʌmək/ [A2]
 - 脸颊: cheek /tʃiːk/ [B1]
 - 脸: face /feɪs/ [A1]
+- 鼻子: nose /nəʊz/ [A1][ORT1+]
 - 耳垂: earlobe /ˈɪələʊb/
-- 眉毛: eyebrow /ˈaɪbraʊ/ [B2]
+- 眉毛: eyebrow /ˈaɪbraʊ/ [B2][ORT1+]
 - 眼皮: eyelid /ˈaɪlɪd/ [B2]
 - 睫毛: eyelash /ˈaɪlæʃ/ [B2]
 - 额头: forehead /ˈfɔːhed/ [B1]
 - 下巴: chin /tʃɪn/ [B1]
-- 胡子 (下巴): beard /bɪəd/ [A1]
+- 胡子 (下巴): beard /bɪəd/ [A1][ORT1+]
 - 臀: bottom /ˈbɒtəm/ [B1]
 - 腰: waist /weɪst/ [B2]
 - 髋部: hip /hɪp/ [B2]
@@ -1361,7 +1364,7 @@
 - 前: before /bɪˈfɔː/ [B1]
 - 后: after /ˈɑːftə/ [B1][ORT1+]
 #### 颜色: colors /ˈkʌləz/ [A1]
-- 红: red /red/ [A2] √
+- 红: red /red/ [A2][ORT1+] √
 - 橙: orange /ˈɒrɪndʒ/ [A2] √
 - 粉: pink /pɪŋk/ [A2] √
 - 绿: green /ɡriːn/ [A2] √
@@ -1490,7 +1493,7 @@
   - 羊肉: lamb /læm/ [B1], mutton /ˈmʌtn/
 - 零食: snacks /snæk/ [A2]
   - 棉花糖: cotton candy /ˈkɒtn ˈkændi/ (丝), marshmallow /ˌmɑːʃˈmæləʊ/ (粒)
-  - 糖果: candy /ˈkændi/ [A2] √
+  - 糖果: candy /ˈkændi/ [A2] √, sweet /swiːt/ (英) [A2][ORT1+]
   - 棒棒糖: lollipop /ˈlɒlipɒp/ √
   - 棒冰: ice lolly /aɪs ˈlɒli/ √
   - 冰激凌: ice cream /aɪs kriːm/ [A1] √
@@ -1746,7 +1749,8 @@
 - 婚礼: wedding /ˈwedɪŋ/ [B1]
 - 葬礼: funeral /ˈfjuːnərəl/ [B2]
 #### 故事: the story /ðə ˈstɔːri/ [A2]
-- 宝藏: treasure /ˈtreʒə/ [B2]
+- 宝藏: treasure /ˈtreʒə/ [B2][ORT1+]
+- 藏宝图: treasure map /ˈtreʒə mæp/ [ORT1+]
 - 精灵: elf /elf/
 - 圣诞老人: father christmas /ˈfɑːðə ˈkrɪsməs/, santa claus /ˈsæntə klɔːz/
 - 美人鱼: mermaid /ˈmɜːmeɪd/
@@ -1785,6 +1789,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 挖: dig /dɪɡ/ [B1][ORT1+]
 - 来: come /kʌm/ [A1][ORT1+]
 - 说: say /seɪ/ [A1][ORT1+]
 - 找到: find /faɪnd/ [A1]
@@ -1857,6 +1862,7 @@
 - 玩: play /pleɪ/ [A1][ORT1+] √
 - 处理: handle /ˈhændl/ [B1]
 - 穿, 戴: wear /weə/ [A1] √
+- 穿衣服: dress /dres/ [A2][ORT1+]
 - 写: write /raɪt/ [A1][ORT1+]
 - 读: read /riːd/ [A1] √
 - 画: draw /drɔː/ [A1], paint /peɪnt/ (颜料) [A1][ORT1] √
@@ -1892,6 +1898,7 @@
 - 咬: bite /baɪt/ [B1]
 - 夹: pinch /pɪntʃ/, nip /nɪp/ [ORT1+]
 - 拿着: hold /həʊld/ [A2][3000][ORT1+]
+- 隐藏: hide /haɪd/ [B1][ORT1+]
 - 情态动词: modal verbs /ˈməʊdl vɜːbz/ [B1]
     - 必须: must /mʌst/ [B1]
     - 能: can /kæn/ [A1][ORT1], could /kʊd/ [A2]
@@ -1922,7 +1929,7 @@
 - 短的 (时间, 距离): short /ʃɔːt/ [A1]
 - 大的 (大小, 数量): large /lɑːdʒ/ [A2], big /bɪɡ/ [A1][ORT1] √
 - 小的 (大小, 数量): small /smɔːl/ [A1], little /ˈlɪtl/ [A1][ORT1] √
-- 老的, 旧的: old /əʊld/ [A1]
+- 老的, 旧的: old /əʊld/ [A1][ORT1+]
 - 新的: new /njuː/ [A1]
 - 便宜的: cheap /tʃiːp/ [A1]
 - 昂贵的: expensive /ɪkˈspensɪv/ [A1]
@@ -1976,6 +1983,8 @@
 - 怎么样: how /haʊ/ [A2] √
 - 然而: however /haʊˈevə/ [A2]
 - 离开: away /əˈweɪ/ [A2][ORT1+]
+- 这里: here /hɪə/ [A1][ORT1+]
+- 那里: there /ðeə/ [A1]
 #### 介词: prepositions /ˌprepəˈzɪʃnz/ [B1]
 - 从: from /frɒm/ [A1]
 - 到: to /tuː/ [A1]
