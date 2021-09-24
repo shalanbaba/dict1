@@ -1607,7 +1607,7 @@
 - 垫子: mat /mæt/ [C1] √
 - 野餐垫: picnic rug /ˈpɪknɪk rʌɡ/
 - 口哨: whistle /ˈwɪsl/ [B2] √
-- 帐篷: tent /tent/ [B1] √
+- 帐篷: tent /tent/ [B1][ORT1+] √
 - 蹦床: trampoline /ˌtræmpəˈliːn/ √
 - 篮球筐: basketball hoop /ˈbɑːskɪtbɔːl huːp/
 - 自行车: bike /baɪk/ [A2] √, bicycle /ˈbaɪsɪkl/ [A2]
