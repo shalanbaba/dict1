@@ -27,19 +27,19 @@
 - 杂志: magazine /ˌmæɡəˈziːn/ [A2]
 - 文章: article /ˈɑːtɪkl/ [B1]
 - 广告: advertisement /ˌædvəˈtaɪzmənt/ [A2]
-- 期刊: journal /ˈdʒɜːnl/ [C1]
-- 消息: messages /ˈmesɪdʒz/ [A1]
+- 期刊: journal /ˈdʒɜːnl/ [C1][3000]
+- 消息: messages /ˈmesɪdʒz/ [A1][3000]
   - 文本消息: text message /tekst ˈmesɪdʒz/ [A2]
   - 语音消息: voice message /vɔɪs ˈmesɪdʒz/
-- 传说: tale /teɪl/ [B2]
-- 诗: poem /ˈpəʊɪm/ [B1]
+- 传说: tale /teɪl/ [B2][3000]
+- 诗: poem /ˈpəʊɪm/ [B1][3000]
 - 歌词: lyrics /ˈlɪrɪks/ [B2]
-- 书: book /bʊk/ [A1] √
+- 书: book /bʊk/ [A1][3000] √
 - 绘本: picture book /ˈpɪktʃə bʊk/
 - 漫画: comic /ˈkɒmɪk/ [A2]
 - 闪卡: flashcard /'flæʃˌkɑːd/
 - 日记: diary /ˈdaɪəri/ [A2][3000][ORT1+]
-- 日志: journal /ˈdʒɜːnl/ [C2], log /lɔːɡ/
+- 日志: journal /ˈdʒɜːnl/ [C2][3000], log /lɔːɡ/
 - 网站: website /ˈwebsaɪt/ [A1]
 - 网址: uniform resource locator /ˈjuːnɪfɔːm rɪˈsɔːs ləʊˈkeɪtə/, URL /ˌjuː ɑː ˈel/
 - 二维码: quick response code /kwɪk rɪˈspɒns kəʊd/, QR code /kjuː ɑː kəʊd/
@@ -1580,6 +1580,7 @@
 - 切: cut /kʌt/ [A2] √
 #### 旅行: travel /ˈtrævl/ [A1], the trip /ðə trɪp/ [A2]
 - 行李: luggage /ˈlʌɡɪdʒ/ (英) [A2], baggage /ˈbæɡɪdʒ/ (美) [B1]
+- 旅途: journey /ˈdʒɜːni/ [A2][3000]
 #### 运动: sports /spɔːts/ [A1]
 - 篮球: basketball /ˈbɑːskɪtbɔːl/ [A1]
 - 足球: football /ˈfʊtbɔːl/ (英) [A1][ORT1+] √, soccer /ˈsɒkə/ (美) [A2]
