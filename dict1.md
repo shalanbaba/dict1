@@ -748,6 +748,8 @@
 - 铁路: railway /ˈreɪlweɪ/ [A2]
 - 轨道: track /træk/ [C1] √
 #### 车辆: vehicles /ˈviːɪkəlz/ [B1]
+- 拖拉机: tractor /ˈtræktə/ [C2][ORT1+]
+- 汽车: car /kɑː/ [A1][ORT1+]
 - 出租车: taxi /ˈtæksi/ [A1] √
 - 卡车: lorry /ˈlɔːri/ (英) [B1][ORT1+] √, truck /trʌk/ (美) [B1] √
 - 挂车: trailer /ˈtreɪlə/
@@ -1800,6 +1802,8 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 推: push /pʊʃ/ [A2][ORT1+]
+- 拉: pull /pʊl/ [A2][ORT1+]
 - 倾倒: tip /tɪp/ [C2][ORT1+]
 - 混合: mix /mɪks/ [A2][ORT1+]
 - 跳绳: skip /skɪp/ [ORT1+]
