@@ -71,6 +71,7 @@
 - 地址: address /əˈdres/ [A1]
 - 邮编: zip code /zɪp kəʊd/
 - 国籍: nationality /ˌnæʃəˈnæləti/ [A1]
+- 卡片: card /kɑːd/ [B1][ORT1+]
  #### 人名: the name of a person /ðə neɪm ɒv ə ˈpɜːsn/
 - 名: first name /fɜːst neɪm/ [A2]
 - 中间名: middle name /ˈmɪdl neɪm/
@@ -484,7 +485,7 @@
 - 摩天轮: ferris wheel /ferɪs wiːl/
 - 旋转木马: carousel /ˌkærəˈsel/
 - 过山车: roller coaster /rəʊlə kəʊstə/
-- 跷跷板: seesaw /ˈsiː sɔː/ [ORT1+] √
+- 跷跷板: seesaw /ˈsiːsɔː/ [ORT1+] √
 - 滑梯: slide /slaɪd/ [3000][ORT1+] √
 - 秋千: swing /swɪŋ/ [B2][ORT1+] √
 #### 农场: the farm /ðə fɑːm/ [A1] √
@@ -748,7 +749,7 @@
 - 轨道: track /træk/ [C1] √
 #### 车辆: vehicles /ˈviːɪkəlz/ [B1]
 - 出租车: taxi /ˈtæksi/ [A1] √
-- 卡车: lorry /ˈlɔːri/ (英) [B1] √, truck /trʌk/ (美) [B1] √
+- 卡车: lorry /ˈlɔːri/ (英) [B1][ORT1+] √, truck /trʌk/ (美) [B1] √
 - 挂车: trailer /ˈtreɪlə/
 - 拖车: tow truck /təʊ trʌk/ √
 - 洒水车: sprinkler /ˈsprɪŋklə/
@@ -760,7 +761,7 @@
 - 班车: shuttle bus /ˈʃʌtl bʌs/ √
 - 电动自行车: electric bicycle /ɪˈlektrɪk ˈbaɪsɪkl/
 - 双层巴士: double-decker bus /ˈdʌbl ˈdekə bʌs/ √
-- 长途汽车: coach /kəʊtʃ/ [A2] (美) 
+- 长途汽车: coach /kəʊtʃ/ [A2]
 - 混凝土搅拌车: concrete mixer /ˈkɒŋkriːt ˈmɪksə/ √
 - 吊车: mobile crane /ˈməʊbaɪl kreɪn/ √
 - 救护车: ambulance /ˈæmbjələns/ [A2] √
@@ -814,10 +815,10 @@
 - 短裤: shorts /ʃɔːts/ [A2]
 - 裙子: skirt /skɜːt/ [A1]
 - 帽子: hat /hæt/ [A1][ORT1+], cap /kæp/ [A2]
-- 围巾: scarf /skɑːf/ [A2] √
+- 围巾: scarf /skɑːf/ [A2][ORT1+] √
 - 手套: gloves /ɡlʌvz/ [A2], mittens /ˈmɪtnz/ √
 - 靴子: boots /buːts/ [A2][ORT1+] √
-- 连衣裙: dress /dres/ [A1]
+- 连衣裙: dress /dres/ [A1][ORT1+]
 - 夹克衫: jacket /ˈdʒækɪt/ [A1]
 - 睡衣: pajama /pəˈdʒɑːmə/
 - 腰带: belt /belt/ [A2]
@@ -1332,7 +1333,7 @@
   - 圣诞节: Christmas /ˈkrɪsməs/
   - 平安夜: Christmas Eve /ˈkrɪsməs iːv/
 - 特别的日子: special days /ˈspeʃl deɪz/
-  - 生日: birthday /ˈbɜːθdeɪ/ [A1] √
+  - 生日: birthday /ˈbɜːθdeɪ/ [A1][ORT1+] √
   - 周年纪念日: anniversary /ˌænɪˈvɜːsəri/ [B1]
 - 时钟: the clock /ðə klɒk/ [A1] √
 - 季节: seasons /ˈsiːznz/ [B1]
@@ -1457,6 +1458,7 @@
 - 面粉: flour /ˈflaʊə/ [B1][ORT1]
 - 蜂蜜: honey /ˈhʌni/ [A2] √
 - 黄油: butter /ˈbʌtə/ [A1][ORT1]
+- 果酱: jam /dʒæm/ [A2][ORT1+]
 - 甜品: dessert /dɪˈzɜːt/ [A2]
 - 布丁: pudding /ˈpʊdɪŋ/ [B2]
 - 奶酪, 芝士: cheese /tʃiːz/ [A1] √
@@ -1691,6 +1693,7 @@
 - 顶部: top /tɒp/ [A2][ORT1+]
 - 小心: caution /ˈkɔːʃn/ [C1]
 - 乐趣: fun /fʌn/ [A1][ORT1]
+- 脏乱: mess /mes/ [B1][ORT1+]
 - 产品: product /ˈprɒdʌkt/ [B1]
 - 奖品: prize /praɪz/ [A2]
 - 小费: tip /tɪp/ [B1]
@@ -1968,7 +1971,7 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 限定词: determiners /dɪˈtɜːmɪnəz/ [B2]
-- 一些: some /səm/ [A1], any /ˈeni/ [A1]
+- 一些: some /səm/ [A1][ORT1+], any /ˈeni/ [A1]
 - 每个: every /ˈevri/ [A1][ORT1+]
 - 什么: what /wɒt/ [A1][ORT1+]
 - 很多: many /ˈmeni/ [A1], much /mʌtʃ/ [A2]
