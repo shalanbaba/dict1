@@ -1206,7 +1206,7 @@
 #### 情感: emotions /ɪˈməʊʃnz/ [B2]
 - 爱: love /lʌv/ [A1] √
 - 喜欢: like /laɪk/ [A1][ORT1+]
-- 讨厌: hate /heɪt/ [A2]
+- 讨厌: hate /heɪt/ [A2][ORT1+]
 #### 感觉: feelings /ˈfiːlɪŋz/ [B1]
 - 无聊的: bored /bɔːd/ [A1]
 - 舒服的: comfortable /ˈkʌmftəbl/ [B1]
@@ -1220,7 +1220,7 @@
 - 困的: sleepy /ˈsliːpi/ [B1]
 - 疲倦的: tired /ˈtaɪəd/ [A1][ORT1+], worn /wɔːn/
 - 生气的: angry /ˈæŋɡri/ [A2][3000] √, cross /krɒs/ (英) [ORT1+]
-- 抱歉的: sorry /ˈsɒri/ [A1] √
+- 抱歉的: sorry /ˈsɒri/ [A1][ORT1+] √
 - 恶心的: silly /ˈsɪli/ [B1] √
 - 好奇的: curious /ˈkjʊəriəs/ [B1]
 #### 数学: maths /mæθs/ (英) [A2], math /mæθ/ (美) [A2], mathematics /ˌmæθəˈmætɪks/
@@ -1372,7 +1372,7 @@
 - 绿: green /ɡriːn/ [A2] √
 - 灰: grey (英), gray (美) /ɡreɪ/ [A2]
 - 黄: yellow /ˈjeləʊ/ [A2] √
-- 蓝: blue /bluː/ [A2] √
+- 蓝: blue /bluː/ [A2][ORT1+] √
 - 白: white /waɪt/ [A2] √
 - 棕: brown /braʊn/ [A2] √
 - 黑: black /blæk/ [A2] √
@@ -1601,7 +1601,7 @@
 - 体操: gymnastics /dʒɪmˈnæstɪks/ [B1]
 - 乒乓球: table tennis /ˈteɪbl tenɪs/ [A2]
 - 游泳: swimming /ˈswɪmɪŋ/ [A2] √
-- 跳绳: skipping /skɪpɪŋ/ √
+- 跳绳: skipping /skɪpɪŋ/
 #### 运动装备: sports equipments /spɔːts ɪˈkwɪpmənts/
 - 头盔: helmet /ˈhelmɪt/ [B2] √
 - 球拍: racket /ˈrækɪt/ [A2]
@@ -1674,6 +1674,7 @@
 - 娱乐: recreation /ˌriːkriˈeɪʃn/ [B2]
 - 狂欢节, 嘉年华: carnival /ˈkɑːnɪvl/ [B2]
 - 沟通: communication /kəˌmjuːnɪˈkeɪʃn/ [B1]
+- 方式: way /weɪ/ [A1][ORT1+]
 - 爱好: hobby /ˈhɒbi/ [A2]
 - 恶作剧: trick /trɪk/ [B1][ORT1]
 - 冒险: adventure /ədˈventʃə/ [A2]
@@ -1792,6 +1793,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 跳绳: skip /skɪp/ [ORT1+]
 - 挖: dig /dɪɡ/ [B1][ORT1+]
 - 来: come /kʌm/ [A1][ORT1+]
 - 说: say /seɪ/ [A1][ORT1+]
@@ -1835,7 +1837,7 @@
 - 滑动: slide /slaɪd/
 - 钓鱼: fish /fɪʃ/ [B1]
 - 划船: row /rəʊ/ [B2] √
-- 走: walk /wɔːk/ [A1] √
+- 走: walk /wɔːk/ [A1][ORT1+] √
 - 慢跑: jog /dʒɒɡ/ [B1]
 - 跑: run /rʌn/ [A1][ORT1+] √
 - 伸展: stretch /stretʃ/ [B2]
@@ -1949,17 +1951,19 @@
 - 相同的: same /seɪm/ [A1]
 - 不同的: different /ˈdɪfrənt/ [A1]
 - 微型的: miniature /ˈmɪnətʃə/ [C2]
-- 泥的: muddy /ˈmʌdi/ [B2]
+- 泥的: muddy /ˈmʌdi/ [B2][ORT1+]
 - 有魔力的: magic /ˈmædʒɪk/ [A2][ORT1]
 - 痛苦的: miserable /ˈmɪzrəbl/ [B1][ORT1+]
 - 平的: flat /flæt/ [B1][ORT1+]
 - 巨大的: enormous /ɪˈnɔːməs/ [B1][3000][ORT1+]
 - 最高的 (位置): top /tɒp/ [B1][3000][ORT1+]
+- 忙碌的: busy /ˈbɪzi/ [A2][ORT1+]
 #### 冠词: articles /ˈɑːtɪklz/ [B1]
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 限定词: determiners /dɪˈtɜːmɪnəz/ [B2]
 - 一些: some /səm/ [A1], any /ˈeni/ [A1]
+- 每个: every /ˈevri/ [A1][ORT1+]
 - 很多: many /ˈmeni/ [A1], much /mʌtʃ/ [A2]
 - 更多: more /mɔː/ [A1]
 - 最多: most /məʊst/ [B1]
@@ -1979,6 +1983,7 @@
 - 再次: again /əˈɡeɪn/ [A1][ORT1+][3000]
 - 进: in /ɪn/ [A2][3000][ORT1] √
 - 出: out /aʊt/ [B1][ORT1+] √
+- 回: back /bæk/ [A1][ORT1+]
 - 继续: on /ɒn/ [ORT1+]
 - 也: also /ˈɔːlsəʊ/ [A1]
 - 非常: very /ˈveri/ [A1][ORT1+]
@@ -2005,6 +2010,7 @@
 - 在...里面: in /ɪn/ [A1][3000][ORT1+]
 - 在...上面: on /ɒn/ [A1][ORT1+]
 - 沿着: along /əˈlɒŋ/ [A2]
+- 像: like /laɪk/ [A2][ORT1+]
 #### 连词: conjunctions /kənˈdʒʌŋkʃnz/ [B2]
 - 和: and /ænd/ [A1][ORT1] √
 - 或: or /ɔː/ [A1]
@@ -2050,7 +2056,7 @@
 - 没有事物: nothing /ˈnʌθɪŋ/ [A2]
 - 没有人: nobody /ˈnəʊbədi/ [A2]
 - 没有任何人, 没有任何事物: none /nʌn/ [B1]
-- 什么事物: what /wɒt/ [A1] √
+- 什么事物: what /wɒt/ [A1][ORT1+] √
 - 谁: who /huː/ [A1][ORT1] √
 - 哪个: which /wɪtʃ/ [A2] √
 - 无论什么: whatever /wɒtˈevə/ [B1]
