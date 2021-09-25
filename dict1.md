@@ -230,7 +230,7 @@
 - 山谷: valley /ˈvæli/ [B1]
 - 山: mountain /ˈmaʊntən/ [A2] √
 - 河: river /ˈrɪvə/ [A1] √
-- 泥: mud /mʌd/ [B2] √
+- 泥: mud /mʌd/ [B2][ORT1+] √
 - 土: soil /sɔɪl/ [B2]
 - 沙: sand /sænd/ [B1][ORT1+] √
 - 火山: volcano /vɒlˈkeɪnəʊ/ [B2] √
@@ -302,7 +302,7 @@
 - 海啸: tsunami /tsuːˈnɑːmi/
 - 洪水: flood /flʌd/ [B1] √
 - 台风: typhoon /taɪˈfuːn/
-#### 水: water /ˈwɔːtə/ [A1]
+#### 水: water /ˈwɔːtə/ [A1][ORT1+]
 - 泉水: spring /sprɪŋ/ [C1]
 - 淡水: fresh water /ˈfreʃwɔːtə/ [C2]
 - 咸水: salt water /ˈsɔːltwɔːtə/
@@ -600,7 +600,7 @@
 - 高脚杯: goblet /ˈɡɒblət/
 #### 容器 : containers /kənˈteɪnəz/ [B2]
 - 瓶: bottle /ˈbɒtl/ [A2]
-- 罐头: can /kæn/ [A2], tin /tɪn/ [B1]
+- 罐头: can /kæn/ [A2][ORT1+], tin /tɪn/ [B1]
 - 罐: jar /dʒɑː/ [B1]
 - 保温杯: vacuum flask /ˈvækjuːm flɑːsk/
 - 篮子: basket /ˈbɑːskɪt/ [B1]
@@ -675,6 +675,7 @@
 - 齿轮: gear /ɡɪə/ [B2]
 #### 工具: tools /tuːlz/ [B2]
 - 梯子: ladder /ˈlædə/ [B1][ORT1+]
+- 手推车: trolley /ˈtrɒli/ [B2][ORT1+]
 - 网: net /net/ [B1][ORT1+]
 - 洒水壶: watering can /ˈwɔːtərɪŋ kæn/
 - 锄头: hoe /həʊ/
@@ -834,7 +835,7 @@
 #### 鞋子: shoes /ʃuːz/ [A1]
 - 拖鞋: slippers /ˈslɪpəz/
 - 雨靴: rain boots /reɪn buːts/ √
-#### 包: bags /bæɡz/ [A1]
+#### 包: bags /bæɡz/ [A1][ORT1+]
 - 背包: backpack /ˈbækpæk/ [A2]
 #### 眼镜: glasses /ˈɡlɑːsɪz/ [A1]
 - 墨镜: shades /ʃeɪdz/ √
@@ -1149,6 +1150,7 @@
 #### 身体: the body /ðə ˈbɒdi/ [A1]
 - 骨架: skeleton /ˈskelɪtn/ [B2]
 - 头: head /hed/ [A1] √
+- 手: hand /hænd/ [A1][ORT1+]
 - 手指: fingers /ˈfɪŋɡəz/ [A2] √
   - 拇指: thumb /θʌm/ [B1]
   - 食指: pointer finger /ˈpɔɪntə ˈfɪŋɡə/
@@ -1476,7 +1478,7 @@
 - 饼干: biscuit /ˈbɪskɪt/ [A1] √, cookie /ˈkʊki/ [A2] √, cracker /ˈkrækə/ [A1]
 - 甜甜圈: doughnut /ˈdəʊnʌt/ √
 - 羊角面包: croissant /ˈkwɑːsɒŋ/
-- 馅饼: pie /paɪ/ [B1]
+- 馅饼: pie /paɪ/ [B1][ORT1+]
 - 吐司: toast /təʊst/ [A2]
 - 披萨: pizza /ˈpiːtsə/ [A1] √
 - 肉圆: meatball /ˈmiːtbɔːl/
@@ -1721,7 +1723,7 @@
   - 镑: pound /paʊnd/ [A2] √
   - 十分钱: dime /daɪm/ [C1]
   - 一分钱: penny /ˈpeni/ [B1]
-#### 购物: shopping /ˈʃɒpɪŋ/ [A2] √
+#### 购物: shopping /ˈʃɒpɪŋ/ [A2][ORT1+] √
 - 钱: money /ˈmʌni/ [A1] √
 - 信用卡: credit card /ˈkredɪt kɑːd/ [A1]
 - 价格: price /praɪs/ [A2]
@@ -1795,6 +1797,8 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 倾倒: tip /tɪp/ [C2][ORT1+]
+- 混合: mix /mɪks/ [A2][ORT1+]
 - 跳绳: skip /skɪp/ [ORT1+]
 - 挖: dig /dɪɡ/ [B1][ORT1+]
 - 来: come /kʌm/ [A1][ORT1+]
