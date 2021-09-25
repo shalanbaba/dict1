@@ -277,7 +277,7 @@
 - 蜂巢: hive /haɪv/ √
 - 鸟巢: nest /nest/ [C2] √
 - 巢穴: den /den/
-- 洞: hole /həʊl/ [B1][ORT1+]
+- 洞: hole /həʊl/ [B1]
 - 蜘蛛网: web /web/ [B1] √
 - 山峰: peak /piːk/ [B1]
 - 沙漠: desert /ˈdezət/ [A2]
@@ -1210,13 +1210,13 @@
 - 喜欢: like /laɪk/ [A1][ORT1+]
 - 讨厌: hate /heɪt/ [A2][ORT1+]
 #### 感觉: feelings /ˈfiːlɪŋz/ [B1]
-- 无聊的: bored /bɔːd/ [A1]
+- 无聊的: bored /bɔːd/ [A1][3000][ORT1+]
 - 舒服的: comfortable /ˈkʌmftəbl/ [B1]
 - 开心的: happy /ˈhæpi/ [A1] √, glad /ɡlæd/ [A2]
 - 伤心的: sad /sæd/ [A1]
 - 饱的: full /fʊl/ [B2]
-- 饿的: hungry /ˈhʌŋɡri/ [A1] √
-- 口渴的: thirsty /ˈθɜːsti/ [A2]
+- 饿的: hungry /ˈhʌŋɡri/ [A1][ORT1+] √
+- 口渴的: thirsty /ˈθɜːsti/ [A2][ORT1+]
 - 害怕的: afraid /əˈfreɪd/ [B1]
 - 惊讶的: surprised /səˈpraɪzd/ [A2]
 - 困的: sleepy /ˈsliːpi/ [B1]
@@ -1587,7 +1587,7 @@
 - 切: cut /kʌt/ [A2] √
 #### 旅行: travel /ˈtrævl/ [A1], the trip /ðə trɪp/ [A2]
 - 行李: luggage /ˈlʌɡɪdʒ/ (英) [A2], baggage /ˈbæɡɪdʒ/ (美) [B1]
-- 旅途: journey /ˈdʒɜːni/ [A2][3000]
+- 旅途: journey /ˈdʒɜːni/ [A2][3000][ORT1+]
 #### 运动: sports /spɔːts/ [A1]
 - 篮球: basketball /ˈbɑːskɪtbɔːl/ [A1]
 - 足球: football /ˈfʊtbɔːl/ (英) [A1][ORT1+] √, soccer /ˈsɒkə/ (美) [A2]
@@ -1914,7 +1914,7 @@
     - 将会: will /wɪl/ [A2][ORT1+], would /wʊd/ [B1]
     - 应该: shall /ʃæl/ [A2], should /ʃʊd/ [A2]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
-- 遗失的: lost /lɒst/ [B1]
+- 遗失的: lost /lɒst/ [B1][ORT1+]
 - 贪婪的: greedy /ˈɡriːdi/ [B2]
 - 勇敢的: brave /breɪv/ [B1]
 - 自信的: confident /ˈkɒnfɪdənt/ [B1]
@@ -1932,7 +1932,7 @@
 - 美丽的: beautiful /ˈbjuːtɪfl/ [A1]
 - 热的: hot /hɒt/ [A1][ORT1+] √
 - 冷的: cold /kəʊld/ [A1][ORT1+] √
-- 长的 (时间, 距离): long /lɒŋ/ [A1]
+- 长的 (时间, 距离): long /lɒŋ/ [A1][ORT1+]
 - 短的 (时间, 距离): short /ʃɔːt/ [A1]
 - 大的 (大小, 数量): large /lɑːdʒ/ [A2], big /bɪɡ/ [A1][ORT1] √
 - 小的 (大小, 数量): small /smɔːl/ [A1], little /ˈlɪtl/ [A1][ORT1] √
@@ -1966,6 +1966,7 @@
 #### 限定词: determiners /dɪˈtɜːmɪnəz/ [B2]
 - 一些: some /səm/ [A1], any /ˈeni/ [A1]
 - 每个: every /ˈevri/ [A1][ORT1+]
+- 什么: what /wɒt/ [A1][ORT1+]
 - 很多: many /ˈmeni/ [A1], much /mʌtʃ/ [A2]
 - 更多: more /mɔː/ [A1]
 - 最多: most /məʊst/ [B1]
@@ -2058,7 +2059,7 @@
 - 没有事物: nothing /ˈnʌθɪŋ/ [A2]
 - 没有人: nobody /ˈnəʊbədi/ [A2]
 - 没有任何人, 没有任何事物: none /nʌn/ [B1]
-- 什么事物: what /wɒt/ [A1][ORT1+] √
+- 什么事物: what /wɒt/ [A1] √
 - 谁: who /huː/ [A1][ORT1] √
 - 哪个: which /wɪtʃ/ [A2] √
 - 无论什么: whatever /wɒtˈevə/ [B1]
@@ -2069,7 +2070,7 @@
 - 你好: hello /həˈləʊ/ [A1] √
 - 嗨: hi /haɪ/ [A1] √, hey /heɪ/ [A2] √
 - 再见: bye /baɪ/ [A1] √
-- 好极了: hooray /huˈreɪ/ √
+- 好极了: hooray /huˈreɪ/ [ORT1+] √
 - 好: OK /əʊˈkeɪ/ [A1] √
 - 变: presto /ˈprestəʊ/ √
 - 干杯: cheers /tʃɪəz/ [C2]
