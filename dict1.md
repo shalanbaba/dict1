@@ -540,7 +540,7 @@
 - 扫帚: broom /bruːm/
 - 簸箕: dustpan /ˈdʌstpæn/
 - 海绵: sponge /spʌndʒ/
-- 垃圾桶: waste bin /weɪst bɪn/
+- 垃圾桶: waste bin /weɪst bɪn/, bin /bɪn/ (英) [B1][ORT1+]
 - 拖把: mop /mɒp/
 - 刷子: brush /brʌʃ/ [A2]
 - 晾衣架: drying rack /ˈdraɪɪŋ ræk/
@@ -604,7 +604,7 @@
 - 罐头: can /kæn/ [A2][ORT1+], tin /tɪn/ [B1]
 - 罐: jar /dʒɑː/ [B1]
 - 保温杯: vacuum flask /ˈvækjuːm flɑːsk/
-- 篮子: basket /ˈbɑːskɪt/ [B1]
+- 篮子: basket /ˈbɑːskɪt/ [B1][ORT1+]
 - 桶: bucket /ˈbʌkɪt/ [B1][ORT1+]
 - 盒子: box /bɒks/ [A1][ORT1]
 - 储物箱: storage box /ˈstɔːrɪdʒ bɒks/
@@ -923,7 +923,7 @@
   - 兔子: rabbit /ˈræbɪt/ [A2] √
   - 小兔子: bunny /ˈbʌni/ √
   - 猫: cat /kæt/ [A1][ORT1+] √
-  - 小猫: kitten /ˈkɪtn/ [B1] √
+  - 小猫: kitten /ˈkɪtn/ [B1][ORT1+] √
   - 黑豹: panther /ˈpænθə/
   - 狗: dog /dɒɡ/ [A1][ORT1+] √
   - 小狗: puppy /ˈpʌpi/ [B1] √
@@ -1697,6 +1697,7 @@
 - 乐趣: fun /fʌn/ [A1][ORT1]
 - 脏乱: mess /mes/ [B1][ORT1+]
 - 产品: product /ˈprɒdʌkt/ [B1]
+- 铃铛: bell /bel/ [3000][ORT1+]
 - 奖品: prize /praɪz/ [A2]
 - 小费: tip /tɪp/ [B1]
 - 包裹: package /ˈpækɪdʒ/ [B2]
@@ -1987,7 +1988,7 @@
 - 我的: my /maɪ/ [A1][ORT1+] √
 - 你的, 你们的: your /jɔː/ [A1] √
 - 他的: his /hɪz/ [A1]
-- 她的: her /hə/ [A1]
+- 她的: her /hə/ [A1][ORT1+]
 - 我们的: our /ˈaʊə/ [A1][ORT1+]
 - 他们的: their /ðeə/ [A1]
 - 谁的: whose /huːz/ [B1]
@@ -2015,6 +2016,7 @@
 - 怎么样: how /haʊ/ [A2] √
 - 然而: however /haʊˈevə/ [A2]
 - 离开: away /əˈweɪ/ [A2][ORT1+]
+- 脱离: off [B1][ORT1+]
 - 这里: here /hɪə/ [A1][3000][ORT1+]
 - 那里: there /ðeə/ [A1][3000]
 #### 介词: prepositions /ˌprepəˈzɪʃnz/ [B1]
