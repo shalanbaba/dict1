@@ -277,6 +277,7 @@
 - 蜂巢: hive /haɪv/ √
 - 鸟巢: nest /nest/ [C2] √
 - 巢穴: den /den/
+- 洞: hole /həʊl/ [B1][ORT1+]
 - 蜘蛛网: web /web/ [B1] √
 - 山峰: peak /piːk/ [B1]
 - 沙漠: desert /ˈdezət/ [A2]
@@ -701,7 +702,7 @@
 - 彩色铅笔: colored pencil /ˈkʌləd ˈpensl/
 - 水彩笔: colored marker /ˈkʌləd ˈmɑːkə/
 - 圆珠笔: ballpoint pen /ˈbɔːlpɔɪnt pen/
-- 笔: pen /pen/ [A1]
+- 笔: pen /pen/ [A1][ORT1+]
 - 钢笔: fountain pen /ˈfaʊntən pen/
 - 地球仪: globe /ɡləʊb/
 - 黑板: chalkboard /ˈtʃɔːkbɔːd/, blackboard /ˈblækbɔːd/
@@ -804,14 +805,14 @@
 #### 服装: clothes /kləʊðz/ [A1]
 - 内衣: underwear /ˈʌndəweə/ [B1]
 - 体恤衫: t-shirt /ˈtiː ʃɜːt/ [A1]
-- 袜子: socks /sɒks/ [A2]
+- 袜子: socks /sɒks/ [A2][ORT1+]
 - 连裤袜: tights /taɪts/ [A2]
 - 内裤: pants /pænts/ (英) [B1], underpants /ˈʌndəpænts/ (美) [B1]
 - 牛仔裤: jeans /dʒiːnz/ [A1]
 - 套头毛衣: jumper /ˈdʒʌmpə/ (英) [A2], sweater /ˈswetə/ (美) [A2]
 - 短裤: shorts /ʃɔːts/ [A2]
 - 裙子: skirt /skɜːt/ [A1]
-- 帽子: hat /hæt/ [A1], cap /kæp/ [A2]
+- 帽子: hat /hæt/ [A1][ORT1+], cap /kæp/ [A2]
 - 围巾: scarf /skɑːf/ [A2] √
 - 手套: gloves /ɡlʌvz/ [A2], mittens /ˈmɪtnz/ √
 - 靴子: boots /buːts/ [A2][ORT1+] √
@@ -848,7 +849,7 @@
 - 线: thread /θred/ [C2]
 - 拉链: zip /zɪp/ [B2], zipper /ˈzɪpə/ [B2]
 - 带扣: buckle /ˈbʌkl/
-- 纽扣: button /ˈbʌtn/ [B1]
+- 纽扣: button /ˈbʌtn/ [B1][ORT1+]
 #### 动物: the animal /ði ˈænɪml/ [A1]
 - 爬行动物: reptiles /ˈreptaɪlz/ [C1]
   - 蛇: snake /sneɪk/ [A2][ORT1+] √
@@ -1010,6 +1011,7 @@
 - 观众: audience /ˈɔːdiəns/ [B1]
 - 学生: student /ˈstjuːdnt/ [A1]
 - 游客: tourist /ˈtʊərɪst/ [A2]
+- 牛仔: cowboy /ˈkaʊbɔɪ/ [ORT1+]
 - 叙述者 (旁白): narrator /nəˈreɪtə/ [C2]
 - 访客: visitor /ˈvɪzɪtə/ [A2]
 - 囚犯: prisoner /ˈprɪznə/ [B1]
@@ -1108,7 +1110,7 @@
 - 舅舅: uncle /ˈʌŋkl/ [A2]
 - 舅妈: aunt /ɑːnt/ [A2]
 - 父母: parent /ˈpeərənt/ [A1]
-- 爷爷, 外公: grandpa /ˈɡrænpɑː/ [A2]
+- 爷爷, 外公: grandpa /ˈɡrænpɑː/ [A2][ORT1+]
 - 奶奶, 外婆: grandma /ˈɡrænmɑː/ [A2]
 - 姐姐: sister /ˈsɪstə/ [A1] √
 - 兄弟: brother /ˈbrʌðə/ [A1] √
@@ -1635,7 +1637,7 @@
 - 粘土: clay /kleɪ/ √
 - 橡皮泥: play dough /pleɪ dəʊ/
 - 拼图: jigsaw /ˈdʒɪɡsɔː/
-- 木偶: puppet /ˈpʌpɪt/
+- 木偶: puppet /ˈpʌpɪt/ [ORT1+]
 - 玩偶: doll /dɒl/ [A1]
 - 迷宫: puzzle /ˈpʌzl/ [A2]
 - 积木: building block /ˈbɪldɪŋ blɔk/
@@ -1907,7 +1909,7 @@
 - 情态动词: modal verbs /ˈməʊdl vɜːbz/ [B1]
     - 必须: must /mʌst/ [B1]
     - 能: can /kæn/ [A1][ORT1], could /kʊd/ [A2]
-    - 不能: cannot /ˈkænɒt/ [A1], can't /kɑːnt/
+    - 不能: cannot /ˈkænɒt/ [A1][ORT1+], can't /kɑːnt/
     - 可能: may /meɪ/ [A2], might /maɪt/ [A2]
     - 将会: will /wɪl/ [A2][ORT1+], would /wʊd/ [B1]
     - 应该: shall /ʃæl/ [A2], should /ʃʊd/ [A2]
