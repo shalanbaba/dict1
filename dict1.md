@@ -1636,7 +1636,7 @@
 - 游泳圈: swimming ring /ˈswɪmɪŋ rɪŋ/
 - 救生圈: life buoy /laɪf bɔɪ/
 #### 游戏: games /ɡeɪmz/ [A1]
-- 捉迷藏: hide and seek /haɪd ənd siːk/ √
+- 捉迷藏: hide and seek /haɪd ənd siːk/ [ORT1+] √
 - 躲猫猫: peekaboo /ˈpiːkəbuː/ √
 #### 玩具: toys /tɔɪz/ [A2]
 - 球: ball /bɔːl/ [A1][ORT1+]
@@ -1803,6 +1803,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 寻找: seek /siːk/ [B2][ORT1+]
 - 推: push /pʊʃ/ [A2][ORT1+]
 - 拉: pull /pʊl/ [A2][ORT1+]
 - 倾倒: tip /tɪp/ [C2][ORT1+]
@@ -2045,7 +2046,7 @@
 - 那些: those /ðəʊz/ [A1]
 - 一个: one /wʌn/ [A2]
 - 我: I /aɪ/ (主) [A1][ORT1] √, me /miː/ (宾) [A1][ORT1] √
-- 我们: we /wiː/ (主) [A1][ORT1], us /əs/ (宾) [A1]
+- 我们: we /wiː/ (主) [A1][ORT1], us /əs/ (宾) [A1][ORT1+]
 - 你, 你们: you /juː/ [A1][ORT1] √
 - 他: he /hiː/ (主) [A1][ORT1+], him /hɪm/ (宾) [A1]
 - 她: she /ʃiː/ (主) [A1][ORT1+], her /hə/ (宾) [A1]
