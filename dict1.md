@@ -481,6 +481,7 @@
 - 地毯: carpet /ˈkɑːpɪt/ [A2], rug /rʌɡ/ [B1][ORT1]
 - 花瓶: vase /veɪs/ [B1]
 - 镜子: mirror /ˈmɪrə/ [A2]
+- 台阶: step /step/ [B1][ORT1+]
 #### 游乐场: the playground /ðə ˈpleɪɡraʊnd/ [A2] √, the funfair /ðə ˈfʌnfeə/
 - 摩天轮: ferris wheel /ferɪs wiːl/
 - 旋转木马: carousel /ˌkærəˈsel/
@@ -1004,7 +1005,7 @@
 - 幼童: toddler /ˈtɒdlə/ [C2]
 - 儿童: kid /kɪd/ [A2]
 - 孩子: child /tʃaɪld/ [A1][ORT1+]
-- 男人: man /mæn/ [A1] √
+- 男人: man /mæn/ [A1][ORT1+] √
 - 女人: woman /ˈwʊmən/ [A1]
 - 成年人: adult /ˈædʌlt/ [A1]
 - 男孩: boy /bɔɪ/ [A1] √
@@ -1192,7 +1193,7 @@
 - 胸: chest /tʃest/ [B2]
 - 颈: neck /nek/ [A2]
 - 血: blood /blʌd/ [A2]
-- 骨: bone /bəʊn/ [B1]
+- 骨: bone /bəʊn/ [B1][ORT1+]
 - 皮肤: skin /skɪn/ [B1]
 - 手肘: elbow /ˈelbəʊ/ [B1]
 - 脚踝: ankle /ˈæŋkl/ [B1]
@@ -1476,6 +1477,7 @@
 - 煎饺: fried dumpling /fraɪd ˈdʌmplɪŋ/
 - 馒头: steamed bun /stiːmd bʌn/
 - 肉包子: steamed meat bun /stiːmd miːt bʌn/
+- 炒蛋: scrambled eggs /ˈskræmbld eɡz/ [ORT1+]
 - 面包: bread /bred/ [A1] √
 - 蛋糕: cake /keɪk/ [A1] √
 - 煎饼: pancake /ˈpænkeɪk/ [B2][ORT1] √
@@ -1810,6 +1812,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 拿: take /teɪk/ [A1][ORT1+]
 - 赢: win /wɪn/ [A2][ORT1+]
 - 寻找: seek /siːk/ [B2][ORT1+]
 - 推: push /pʊʃ/ [A2][ORT1+]
@@ -1847,7 +1850,7 @@
 - 偎依: snuggle /ˈsnʌɡl/ √
 - 洗: wash /wɒʃ/ [A1] √
 - 喝: drink /drɪŋk/ [A1] √
-- 吃: eat /iːt/ [A1] √
+- 吃: eat /iːt/ [A1][ORT1+] √
 - 攀登: climb /klaɪm/ [A2] √
 - 爬: crawl /krɔːl/ [B2] √
 - 骑: ride /raɪd/ [A1][ORT1+] √
@@ -1919,7 +1922,7 @@
 - 尖叫: squeal /skwiːl/
 - 是: be /biː/ [A1][ORT1] √
 - 需要: need /niːd/ [A1]
-- 停: stop /stɒp/ [A1]
+- 停: stop /stɒp/ [A1][ORT1+]
 - 去: go /ɡəʊ/ [A1][ORT1]
 - 吸气 (惊讶): gasp /ɡɑːsp/ [C2]
 - 狗叫: bark /bɑːk/ [B2]
@@ -2003,6 +2006,7 @@
 - 我们的: our /ˈaʊə/ [A1][ORT1+]
 - 他们的: their /ðeə/ [A1]
 - 谁的: whose /huːz/ [B1]
+- 哪个: which /wɪtʃ/ [A1][3000][ORT1+] √
 - 全部: all /ɔːl/ [A1][ORT1+]
 #### 副词: adverbs /ˈædvɜːbz/ [A2]
 - 然后: then /ðen/ [A1][ORT1+]
