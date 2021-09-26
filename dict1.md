@@ -2075,7 +2075,7 @@
 - 我: I /aɪ/ (主) [A1][ORT1] √, me /miː/ (宾) [A1][ORT1] √
 - 我们: we /wiː/ (主) [A1][ORT1], us /əs/ (宾) [A1][ORT1+]
 - 你, 你们: you /juː/ [A1][ORT1] √
-- 他: he /hiː/ (主) [A1][ORT1+], him /hɪm/ (宾) [A1]
+- 他: he /hiː/ (主) [A1][ORT1+], him /hɪm/ (宾) [A1][ORT1+]
 - 她: she /ʃiː/ (主) [A1][ORT1+], her /hə/ (宾) [A1]
 - 他们: they /ðeɪ/ (主) [A1][ORT1+], them /ðəm/ (宾) [A1]
 - 它: it /ɪt/ [A1][ORT1] √
