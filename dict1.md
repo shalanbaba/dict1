@@ -2020,6 +2020,7 @@
 - 脱离: off [B1][ORT1+]
 - 这里: here /hɪə/ [A1][3000][ORT1+]
 - 那里: there /ðeə/ [A1][3000]
+- 完全地: all /ɔːl/ [A2][ORT1+]
 #### 介词: prepositions /ˌprepəˈzɪʃnz/ [B1]
 - 从: from /frɒm/ [A1]
 - 到: to /tuː/ [A1]
