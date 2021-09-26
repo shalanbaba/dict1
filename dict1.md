@@ -671,6 +671,7 @@
 - 叉车: fork lift /fɔːk lɪft/ √
 - 塔吊: tower crane /ˈtaʊə kreɪn/
 - 割草机: lawn mower /lɔːn ˈməʊə/
+- 机器人: robot /ˈrəʊbɒt/ [B1][ORT1+]
 #### 零件: parts /pɑːts/ [B2]
 - 螺丝: screw /skruː/
 - 螺母: nut /nʌt/
@@ -1156,7 +1157,7 @@
 - 淋浴: shower /ˈʃaʊə/ [A1]
 #### 身体: the body /ðə ˈbɒdi/ [A1]
 - 骨架: skeleton /ˈskelɪtn/ [B2]
-- 头: head /hed/ [A1] √
+- 头: head /hed/ [A1][ORT1+] √
 - 手: hand /hænd/ [A1][ORT1+]
 - 手指: fingers /ˈfɪŋɡəz/ [A2] √
   - 拇指: thumb /θʌm/ [B1]
@@ -1200,7 +1201,7 @@
 - 脚后跟: heel /hiːl/ [B2]
 - 脚底板: sole /səʊl/
 - 腿: leg /leɡ/ [A1]
-- 手臂: arm /ɑːm/ [A1]
+- 手臂: arm /ɑːm/ [A1][ORT1+]
 - 大腿: thigh /θaɪ/ [B2]
 - 小腿: calf /kɑːf/ [C2]
 - 手掌: palm /pɑːm/ [C2]
@@ -2035,6 +2036,8 @@
 - 这里: here /hɪə/ [A1][3000][ORT1+]
 - 那里: there /ðeə/ [A1][3000]
 - 全部地: all /ɔːl/ [A2][ORT1+]
+- 已经: yet /jet/ [A2][ORT1+]
+- 现在: now /naʊ/ [A1][ORT1+]
 #### 介词: prepositions /ˌprepəˈzɪʃnz/ [B1]
 - 从: from /frɒm/ [A1]
 - 到: to /tuː/ [A1]
