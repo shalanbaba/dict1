@@ -257,7 +257,6 @@
 - 沙尘暴: sandstorm /ˈsændstɔːm/
 - 雷阵雨: thundershower /ˈθʌndəˌʃaʊə/ 
 - 霜冻: frost /frɒst/ [B2]
-- 声音: sound /saʊnd/ [A2]
 - 气温: temperature /ˈtemprətʃə/ [A2]
 - 湿度: humidity /hjuːˈmɪdəti/
 - 光: light /laɪt/ [B1]
@@ -286,6 +285,7 @@
 - 贝壳: shell /ʃel/ [B2] √
 - 油田: oilfield /ˈɔɪlfiːld/
 - 草地: meadow /ˈmedəʊ/
+- 陆地: land /lænd/ [B2][ORT1+]
 #### 天气: the weather /ðə ˈweðə/ [A1][3000] √
 - 晴: sunny /ˈsʌni/ [A2][ORT1+] √
 - 雨: rainy /ˈreɪni/ [B1] √
@@ -756,7 +756,7 @@
 - 拖车: tow truck /təʊ trʌk/ √
 - 洒水车: sprinkler /ˈsprɪŋklə/
 - 扫地车: sweeper /ˈswiːpə/
-- 公交车: bus /bʌs/ [A1] √
+- 公交车: bus /bʌs/ [A1][ORT1+] √
 - 摩托车: motorbike /ˈməʊtəbaɪk/ [A2] √, motorcycle /ˈməʊtəsaɪkl/ [A2] √
 - 平板摩托车: scooter /ˈskuːtə/ [A2]
 - 房车: camper van /ˈkæmpə væn/
@@ -1444,6 +1444,7 @@
 - 呱呱 (青蛙): ribbit /ˈrɪbɪt/ √
 - 嘎嘎 (鸭子): quack /kwæk/ √
 - 喔喔 (公鸡): cock-a-doodle-doo /ˌkɒk ə ˌduːdl ˈduː/
+- 砰 (爆裂): pop /pɒp/ [ORT1+]
 #### 食物: food /fuːd/ [A1] √
 - 早饭: breakfast /ˈbrekfəst/ [A1]
 - 中饭: lunch /lʌntʃ/ [A1]
@@ -1506,7 +1507,7 @@
   - 糖果: candy /ˈkændi/ [A2] √, sweet /swiːt/ (英) [A2][ORT1+]
   - 棒棒糖: lollipop /ˈlɒlipɒp/ √
   - 棒冰: ice lolly /aɪs ˈlɒli/ √
-  - 冰激凌: ice cream /aɪs kriːm/ [A1] √
+  - 冰激凌: ice cream /aɪs kriːm/ [A1][ORT1+] √
   - 薯片: crisp /krɪsp/ (英) [A2], potato chip /tʃɪp/ (美) [A2]
   - 薯条: chip /tʃɪp/ (英) [A1], french fry /frentʃ fraɪ/ (美) 
   - 坚果: nut /nʌt/ [B2]
@@ -1639,6 +1640,7 @@
 - 捉迷藏: hide and seek /haɪd ənd siːk/ [ORT1+] √
 - 躲猫猫: peekaboo /ˈpiːkəbuː/ √
 #### 玩具: toys /tɔɪz/ [A2]
+- 跳跳球: hopper /ˈhɒpə/ [ORT1+]
 - 球: ball /bɔːl/ [A1][ORT1+]
 - 粘土: clay /kleɪ/ √
 - 橡皮泥: play dough /pleɪ dəʊ/
@@ -1695,6 +1697,7 @@
 - 顶部: top /tɒp/ [A2][ORT1+]
 - 小心: caution /ˈkɔːʃn/ [C1]
 - 乐趣: fun /fʌn/ [A1][ORT1]
+- 尝试: try /traɪ/ [B2][3000], go /ɡəʊ/ (英) [B2][ORT1+]
 - 脏乱: mess /mes/ [B1][ORT1+]
 - 产品: product /ˈprɒdʌkt/ [B1]
 - 铃铛: bell /bel/ [3000][ORT1+]
@@ -1803,6 +1806,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 赢: win /wɪn/ [A2][ORT1+]
 - 寻找: seek /siːk/ [B2][ORT1+]
 - 推: push /pʊʃ/ [A2][ORT1+]
 - 拉: pull /pʊl/ [A2][ORT1+]
@@ -1815,6 +1819,7 @@
 - 找到: find /faɪnd/ [A1]
 - 发现: find /faɪnd/ [A2][ORT1+], discover /dɪˈskʌvə/ [B1]
 - 放: put /pʊt/ [A1][ORT1+]
+- 设置: set [B1][ORT1+]
 - 停留: stay /steɪ/ [A1][ORT1+]
 - 做: do /duː/ [A1][ORT1]
 - 想要: want /wɒnt/ [A1][ORT1]
@@ -1857,7 +1862,7 @@
 - 跑: run /rʌn/ [A1][ORT1+] √
 - 伸展: stretch /stretʃ/ [B2]
 - 滚: roll /rəʊl/
-- 跳: jump /dʒʌmp/ [A2] √
+- 跳: jump /dʒʌmp/ [A2] √, hop /hɒp/ [ORT1+]
 - 挥: wave /weɪv/ [B1] √
 - 跺脚: stamp /stæmp/ [C2] √
 - 弯曲: bend /bend/ [B2] √
