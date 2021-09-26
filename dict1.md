@@ -1178,7 +1178,7 @@
 - 肚脐: belly button /ˈbeli ˈbʌtn/
 - 胃: stomach /ˈstʌmək/ [A2]
 - 脸颊: cheek /tʃiːk/ [B1]
-- 脸: face /feɪs/ [A1]
+- 脸: face /feɪs/ [A1][ORT1+]
 - 鼻子: nose /nəʊz/ [A1][ORT1+]
 - 耳垂: earlobe /ˈɪələʊb/
 - 眉毛: eyebrow /ˈaɪbraʊ/ [B2][ORT1+]
@@ -1223,7 +1223,9 @@
 - 无聊的: bored /bɔːd/ [A1][3000][ORT1+]
 - 舒服的: comfortable /ˈkʌmftəbl/ [B1]
 - 开心的: happy /ˈhæpi/ [A1] √, glad /ɡlæd/ [A2]
-- 伤心的: sad /sæd/ [A1]
+- 伤心的: sad /sæd/ [A1][ORT1+]
+- 凶猛的: fierce /fɪəs/ [B2][ORT1+]
+- 受惊吓的: frightened /ˈfraɪtnd/ [B1][3000][ORT1+]
 - 饱的: full /fʊl/ [B2]
 - 饿的: hungry /ˈhʌŋɡri/ [A1][ORT1+] √
 - 口渴的: thirsty /ˈθɜːsti/ [A2][ORT1+]
@@ -1644,7 +1646,7 @@
 - 救生衣: life vest /laɪf vest/
 - 游泳圈: swimming ring /ˈswɪmɪŋ rɪŋ/
 - 救生圈: life buoy /laɪf bɔɪ/
-#### 游戏: games /ɡeɪmz/ [A1]
+#### 游戏: games /ɡeɪmz/ [A1][ORT1+]
 - 捉迷藏: hide and seek /haɪd ənd siːk/ [ORT1+] √
 - 躲猫猫: peekaboo /ˈpiːkəbuː/ √
 #### 玩具: toys /tɔɪz/ [A2]
@@ -1748,7 +1750,7 @@
 - 卖: sale /seɪl/ [B2]
 - 买: purchase /baɪ/ [B2]
 - 折扣: discount /ˈdɪskaʊnt/ [A2]
-#### 聚会: the party /ðə ˈpɑːti/ [A1] √
+#### 聚会: the party /ðə ˈpɑːti/ [A1][ORT1+] √
 - 气球: balloon /bəˈluːn/ [A2] √
 - 礼物: present /ˈpreznt/ [A2][ORT1+] √
 - 蜡烛: candle /ˈkændl/ [B1] √
