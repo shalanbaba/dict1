@@ -115,7 +115,7 @@
 - 井号: pound /paʊnd/
 - 星号: asterisk /ˈæstərɪsk/
 - 叉: cross /krɒs/ [A1] √
-- 勾: tick /tɪk/ [B1]
+- 钩: tick /tɪk/ [B1]
 - 下划线: underline /ˌʌndəˈlaɪn/ [B1]
 #### 品牌: brands /brændz/ [B2][3000]
 - 宜家: IKEA /ˌaɪˈkiə/
