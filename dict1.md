@@ -391,7 +391,7 @@
 - 港口: harbor /ˈhɑ:bə/ [B1]
 - 火车站: railway station /ˈreɪlweɪ ˈsteɪʃn/
 - 药店: pharmacy /ˈfɑːməsi/ [B1]
-- 医院: hospital /ˈhɒspɪtl/ [A1] √
+- 医院: hospital /ˈhɒspɪtl/ [A1][ORT1+] √
 - 牙医诊所: dental clinic /ˈdentl ˈklɪnɪk/
 - 网球场: tennis court /ˈtenɪs kɔːt/
 - 篮球场: basketball court /ˈbɑːskɪtbɔːl kɔːt/
@@ -979,7 +979,7 @@
 - 大象鼻子: trunk /trʌŋk/ √
 - 爪子: claw /klɔː/
 #### 植物: the plant /ðə plænt/ [A1]
-- 花: flowers /ˈflaʊəz/ [A1] √
+- 花: flowers /ˈflaʊəz/ [A1][ORT1+] √
   - 樱花: sakura /sakurə/
 - 花苞: bud /bʌd/ √
 - 花瓣: petal /ˈpetl/
@@ -1362,7 +1362,7 @@
 - 块: block /blɒk/ [B2]
 - 组, 群: group /ɡruːp/ [A1]
 - 推: stack /stæk/
-- 束: bunch /bʌntʃ/ [B1]
+- 束: bunch /bʌntʃ/ [B1][ORT1+]
 - 堆: heap /hiːp/ [C2]
 - 滴: drop /drɒp/ [B1]
 - 一打: dozen /ˈdʌzn/ (十二个) [B1]
@@ -1517,6 +1517,7 @@
   - 薯片: crisp /krɪsp/ (英) [A2], potato chip /tʃɪp/ (美) [A2]
   - 薯条: chip /tʃɪp/ (英) [A1], french fry /frentʃ fraɪ/ (美) 
   - 坚果: nut /nʌt/ [B2]
+  - 巧克力: chocolate /ˈtʃɒklət/ [A1][ORT1+]
 - 水果: fruit /fruːt/ [A1]
   - 菠萝: pineapple /ˈpaɪnæpl/ [B1] √
   - 苹果: apple /ˈæpl/ [A1] √
@@ -1545,6 +1546,7 @@
   - 金桔: kumquat /ˈkʌmkwɒt/
   - 桃子: peach /piːtʃ/ [B1] √
   - 橄榄: olive /ˈɒlɪv/ [B1]
+  - 葡萄: grape /ɡreɪp/ [A2][ORT1+]
 - 蔬菜: vegetables /ˈvedʒtəblz/ [A1]
   - 黄瓜, 青瓜: cucumber /ˈkjuːkʌmbə/ [B1]
   - 茄子: eggplant /ˈeɡplænt/ [B2]
@@ -1748,7 +1750,7 @@
 - 折扣: discount /ˈdɪskaʊnt/ [A2]
 #### 聚会: the party /ðə ˈpɑːti/ [A1] √
 - 气球: balloon /bəˈluːn/ [A2] √
-- 礼物: present /ˈpreznt/ [A2] √
+- 礼物: present /ˈpreznt/ [A2][ORT1+] √
 - 蜡烛: candle /ˈkændl/ [B1] √
 - 火柴: match /mætʃ/ [B2]
 - 旗: flag /flæɡ/ [B1]
@@ -2046,6 +2048,7 @@
 - 在...上面: on /ɒn/ [A1][ORT1+]
 - 沿着: along /əˈlɒŋ/ [A2]
 - 像: like /laɪk/ [A2][ORT1+]
+- 给, 为: for /fɔː/ [A1][ORT1+]
 #### 连词: conjunctions /kənˈdʒʌŋkʃnz/ [B2]
 - 和: and /ænd/ [A1][ORT1] √
 - 或: or /ɔː/ [A1]
