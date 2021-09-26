@@ -497,6 +497,7 @@
 - 牲口房: barn /bɑːn/ [C2]
 - 果园: orchard /ˈɔːtʃəd/
 - 围栏, 篱笆: fence /fens/ [B2] √
+- 稻草人: scarecrow /ˈskeəkrəʊ/ [ORT1+]
 #### 建材: construction materials /kənˈstrʌkʃn məˈtɪərɪəlz/
 - 水泥: cement /sɪˈment/
 - 混凝土: concrete /ˈkɒŋkriːt/ [B2] √
@@ -875,8 +876,10 @@
   - 乌鸦: crow /krəʊ/
   - 燕子: swallow /ˈswɒləʊ/
   - 火鸡: turkey /ˈtɜːki/ [B1]
-  - 母鸡: hen /hen/ √
-  - 公鸡: rooster /ˈruːstə/ √
+  - 鸡: chickens /ˈtʃɪkɪnz/ [A2][ORT1+]
+    - 公鸡: rooster /ˈruːstə/ √
+    - 母鸡: hen /hen/ √
+    - 小鸡: chick /tʃɪk/ √
   - 孔雀: peacock /ˈpiːkɒk/ √
   - 海鸥: seagull /siːɡʌl/ √
   - 巨嘴鸟: toucan /ˈtuːkæn/
@@ -929,7 +932,6 @@
   - 小狗: puppy /ˈpʌpi/ [B1] √
   - 猪: pig /pɪɡ/ [A1] √
   - 小猪: piggy /ˈpɪɡi/ √
-  - 小鸡: chick /tʃɪk/ √
   - 小羊: lamb /læm/ [B1] √
   - 马: horse /hɔːs/ [A1][3000][ORT1+]
   - 小马: foal /fəʊl/, pony /ˈpəʊni/ [C1] √
@@ -1019,6 +1021,7 @@
 - 叙述者 (旁白): narrator /nəˈreɪtə/ [C2]
 - 访客: visitor /ˈvɪzɪtə/ [A2]
 - 囚犯: prisoner /ˈprɪznə/ [B1]
+- 海盗: pirate /ˈpaɪrət/ [B1][ORT1+]
 - 国王: king /kɪŋ/ [A2] √
 - 皇后: queen /kwiːn/ [A2] √
 - 公主: princess /ˌprɪnˈses/ [B1] √
@@ -1769,6 +1772,7 @@
 - 宝藏: treasure /ˈtreʒə/ [B2][ORT1+]
 - 藏宝图: treasure map /ˈtreʒə mæp/ [ORT1+]
 - 精灵: elf /elf/
+- 天使: angel /ˈeɪndʒl/ [B1] [ORT1+]
 - 圣诞老人: father christmas /ˈfɑːðə ˈkrɪsməs/, santa claus /ˈsæntə klɔːz/
 - 美人鱼: mermaid /ˈmɜːmeɪd/
 - 独角兽: unicorn /ˈjuːnɪkɔːn/
@@ -1932,6 +1936,7 @@
     - 将会: will /wɪl/ [A2][ORT1+], would /wʊd/ [B1]
     - 应该: shall /ʃæl/ [A2], should /ʃʊd/ [A2]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 装饰引人注意的: fancy /ˈfænsi/ [B1][3000][ORT1+]
 - 遗失的: lost /lɒst/ [B1][ORT1+]
 - 贪婪的: greedy /ˈɡriːdi/ [B2]
 - 勇敢的: brave /breɪv/ [B1]
