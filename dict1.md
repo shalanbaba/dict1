@@ -38,7 +38,7 @@
 - 歌词: lyrics /ˈlɪrɪks/ [B2]
 - 书: book /bʊk/ [A1][3000] √
 - 绘本: picture book /ˈpɪktʃə bʊk/
-- 漫画: comic /ˈkɒmɪk/ [A2]
+- 漫画: comic /ˈkɒmɪk/ [A2][ORT1+]
 - 闪卡: flashcard /'flæʃˌkɑːd/
 - 日记: diary /ˈdaɪəri/ [A2][3000][ORT1+]
 - 日志: journal /ˈdʒɜːnl/ [C2][3000], log /lɔːɡ/
@@ -353,8 +353,8 @@
 - 咖啡馆: cafe /ˈkæfeɪ/ [A1], coffee shop /ˈkɒfi ʃɒp/ [A1]
 - 商场: shopping mall /ˈʃɒpɪŋ mɔːl/ √, mall /mɔːl/
 - 电影院: camera /ˈkæmrə/ [A1]
-- 市场: market /ˈmɑːkɪt/ [A2], mart /mɑːt/
-- 超市: supermarket /ˈsuːpəmɑːkɪt/ [A1]
+- 市场: market /ˈmɑːkɪt/ [A2][ORT1+], mart /mɑːt/
+- 超市: supermarket /ˈsuːpəmɑːkɪt/ [A1][ORT1+]
 - 停车场: parking lot /ˈpɑːkɪŋ lɒt/ [A2] √
 - 停车位: parking space /ˈpɑːkɪŋ speɪs/, parking stall /ˈpɑːkɪŋ stɔːl/
 - 车库: garage /ˈɡærɑːʒ/ [A2] √
@@ -1516,7 +1516,7 @@
   - 棒棒糖: lollipop /ˈlɒlipɒp/ √
   - 棒冰: ice lolly /aɪs ˈlɒli/ √
   - 冰激凌: ice cream /aɪs kriːm/ [A1][ORT1+] √
-  - 薯片: crisp /krɪsp/ (英) [A2], potato chip /tʃɪp/ (美) [A2]
+  - 薯片: crisp /krɪsp/ (英) [A2][ORT1+], potato chip /tʃɪp/ (美) [A2]
   - 薯条: chip /tʃɪp/ (英) [A1], french fry /frentʃ fraɪ/ (美) 
   - 坚果: nut /nʌt/ [B2]
   - 巧克力: chocolate /ˈtʃɒklət/ [A1][ORT1+]
@@ -1591,7 +1591,7 @@
   - 番茄酱: ketchup /ˈketʃəp/
   - 醋: vinegar /ˈvɪnɪɡə/ [B2]
   - 盐: salt /sɔːlt/ [A1] √
-  - 糖: sugar /ˈʃʊɡə/ [A1] √
+  - 糖: sugar /ˈʃʊɡə/ [A1][ORT1+] √
 #### 烹饪: cooking /ˈkʊkɪŋ/ [A2]
 - 煮: boil /bɔɪl/ [B1]
 - 炒, 煎: fry /fraɪ/ [B1]
@@ -1711,7 +1711,7 @@
 - 脏乱: mess /mes/ [B1][ORT1+]
 - 产品: product /ˈprɒdʌkt/ [B1]
 - 铃铛: bell /bel/ [3000][ORT1+]
-- 奖品: prize /praɪz/ [A2]
+- 奖品: prize /praɪz/ [A2][ORT1+]
 - 小费: tip /tɪp/ [B1]
 - 包裹: package /ˈpækɪdʒ/ [B2]
 - 注意: attention /əˈtenʃn/ [B1]
@@ -1817,6 +1817,9 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 移动一点点: budge /bʌdʒ/ [ORT1+]
+- 钩住: hook /hʊk/ [ORT1+]
+- 忘记: forget /fəˈɡet/ [A1][3000][ORT1+]
 - 拿: take /teɪk/ [A1][ORT1+]
 - 赢: win /wɪn/ [A2][ORT1+]
 - 寻找: seek /siːk/ [B2][ORT1+]
@@ -1944,6 +1947,7 @@
     - 将会: will /wɪl/ [A2][ORT1+], would /wʊd/ [B1]
     - 应该: shall /ʃæl/ [A2], should /ʃʊd/ [A2]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 后面的: back /bæk/ [A2][ORT1+]
 - 装饰引人注意的: fancy /ˈfænsi/ [B1][3000][ORT1+]
 - 遗失的: lost /lɒst/ [B1][ORT1+]
 - 贪婪的: greedy /ˈɡriːdi/ [B2]
@@ -1980,7 +1984,7 @@
 - 野生的: wild /waɪld/ [A2]
 - 脏的: dirty /ˈdɜːti/ [A2]
 - 极地的: polar /ˈpəʊlə/ √
-- 卡住的: stuck /stʌk/ [B2] √
+- 卡住的: stuck /stʌk/ [B2][ORT1+] √
 - 相同的: same /seɪm/ [A1]
 - 不同的: different /ˈdɪfrənt/ [A1]
 - 微型的: miniature /ˈmɪnətʃə/ [C2]
@@ -2006,7 +2010,7 @@
 - 最少: least /liːst/ [B2]
 - 我的: my /maɪ/ [A1][ORT1+] √
 - 你的, 你们的: your /jɔː/ [A1] √
-- 他的: his /hɪz/ [A1]
+- 他的: his /hɪz/ [A1][ORT1+]
 - 她的: her /hə/ [A1][ORT1+]
 - 我们的: our /ˈaʊə/ [A1][ORT1+]
 - 他们的: their /ðeə/ [A1]
