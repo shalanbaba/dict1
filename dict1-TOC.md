@@ -64,19 +64,18 @@
 
 #### 人: people
 #### 职业: jobs
-#### 称谓: titles
 #### 关系: relationships
+#### 职位: positions
+#### 称谓: titles
 
 #### 健康: health
 #### 身体: the body
 #### 五官感觉: five senses
-#### 情感: emotions
 #### 感觉: feelings
 
 #### 数学: maths (英), math (美), mathematics
 #### 时间: time
 #### 计量单位: units of measure
-#### 量词: quantifiers
 #### 方位: directions
 #### 颜色: colors
 #### 形状: shapes
@@ -110,11 +109,12 @@
 #### 武器: weapons
 
 #### 动词: verbs
-#### 形容词: adjectives
 #### 冠词: articles
+#### 形容词: adjectives
 #### 限定词: determiners
 #### 副词: adverbs
 #### 介词: prepositions
 #### 连词: conjunctions
 #### 代词: pronouns
+#### 量词: quantifiers
 #### 感叹词: exclamations, interjections

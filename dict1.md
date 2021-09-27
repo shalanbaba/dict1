@@ -795,7 +795,7 @@
 - 发动机, 引擎: engine /ˈendʒɪn/ [A2] √
 - 轮胎: tyre /ˈtaɪə/ (英) [A2], tire /ˈtaɪə/ (美) [A2]
 - 雨刮器: wiper /ˈwaɪpə/ √
-- 轮子: wheel /wiːl/ [A2] √
+- 轮子: wheel /wiːl/ [A2][ORT1+] √
 - 喇叭: horn /hɔːn/ [B2]
 - 后备箱: boot /buːt/ (英) [B1], trunk /trʌŋk/ (美) [B1]
 #### 火车零部件: train parts /treɪn pɑːts/
@@ -1101,17 +1101,6 @@
 - 矿工: miner /ˈmaɪnə/ [C1]
 - 导游: guide /ɡaɪd/ [A2]
 - 售票员 (公交): conductor /kənˈdʌktə/
-#### 职位: positions /pəˈzɪʃnz/ [B2]
-- 总统, 主席: president /ˈprezɪdənt/ [B1]
-- 总裁: president /ˈprezɪdənt/
-- 校长: principal /ˈprɪnsəpl/ [B2]
-- 领导: leader /ˈliːdə/ [B1]
-- 经理: manager /ˈmænɪdʒə/ [A2]
-- 队长: captain /ˈkæptɪn/ [B1]
-#### 称谓: titles /ˈtaɪtlz/
-- 女士: Miss /mɪs/ [A1], madam /ˈmædəm/ [B1]
-- 夫人: Mrs /ˈmɪsɪz/ [A1], madam /ˈmædəm/ [B1]
-- 先生: Mr /ˈmɪstə/ [A1] √, sir /sɜː/ [B1]
 #### 关系: relationships /rɪˈleɪʃnʃɪps/ [B1]
 - 丈夫: husband /ˈhʌzbənd/ [A1]
 - 妻子: wife /waɪf/ [A1]
@@ -1140,6 +1129,17 @@
 - 同事: colleague /ˈkɒliːɡ/ [A2]
 - 邻居: neighbour (英), neighbor (美) /ˈneɪbə/ [A2]
 - 室友: roommate /ˈruːmmeɪt/ [B2]
+#### 职位: positions /pəˈzɪʃnz/ [B2]
+- 总统, 主席: president /ˈprezɪdənt/ [B1]
+- 总裁: president /ˈprezɪdənt/
+- 校长: principal /ˈprɪnsəpl/ [B2]
+- 领导: leader /ˈliːdə/ [B1]
+- 经理: manager /ˈmænɪdʒə/ [A2]
+- 队长: captain /ˈkæptɪn/ [B1]
+#### 称谓: titles /ˈtaɪtlz/
+- 女士: Miss /mɪs/ [A1], madam /ˈmædəm/ [B1]
+- 夫人: Mrs /ˈmɪsɪz/ [A1], madam /ˈmædəm/ [B1]
+- 先生: Mr /ˈmɪstə/ [A1] √, sir /sɜː/ [B1]
 #### 健康: health /helθ/ [A2]
 - 维生素: vitamin /ˈvɪtəmɪn/ [B2]
 - 药丸: pill /pɪl/ [B1]
@@ -1218,10 +1218,6 @@
 - 触觉: touch /tʌtʃ/ [B2]
 - 嗅觉: smell /smel/ [B2]
 - 味觉: taste /teɪst/ [B2]
-#### 情感: emotions /ɪˈməʊʃnz/ [B2]
-- 爱: love /lʌv/ [A1] √
-- 喜欢: like /laɪk/ [A1][ORT1+]
-- 讨厌: hate /heɪt/ [A2][ORT1+]
 #### 感觉: feelings /ˈfiːlɪŋz/ [B1]
 - 无聊的: bored /bɔːd/ [A1][3000][ORT1+]
 - 舒服的: comfortable /ˈkʌmftəbl/ [B1]
@@ -1248,10 +1244,10 @@
     - 第三: third /θɜːd/ [A2]
   - 基数: cardinal numbers /ˈkɑːdɪnl ˈnʌmbəz/
     - 0: zero /ˈzɪərəʊ/ [A2] √
-    - 1: one /wʌn/ [A1] √
-    - 2: two /tuː/ [A1] √
-    - 3: three /θriː/ [A1] √
-    - 4: four /fɔː/ [A1] √
+    - 1: one /wʌn/ [A1][ORT1+] √
+    - 2: two /tuː/ [A1][ORT1+] √
+    - 3: three /θriː/ [A1][ORT1+] √
+    - 4: four /fɔː/ [A1][ORT1+] √
     - 5: five /faɪv/ [A1] √
     - 6: six /sɪks/ [A1][ORT1] √
     - 7: seven /ˈsevn/ [A1] √
@@ -1288,11 +1284,12 @@
     - 万亿: trillion /ˈtrɪljən/, tera /ˈterə/
 - 十进制: decimal system /ˈdesɪml ˈsɪstəm/
 - 二进制: binary system /ˈbaɪnəri ˈsɪstəm/
-- 运算符: operators /ˈɒpəreɪtəs/
-  - 加: plus /plʌs/ [A2]
-  - 减: subtract /səbˈtrækt/
-  - 乘: multiply /ˈmʌltɪplaɪ/
-  - 除: divide /dɪˈvaɪd/ [C1]
+- 符号: symbols /sɪmbəlz/ [B2]
+  - 加号: addition sign /əˈdɪʃn saɪn/
+  - 减号: subtraction sign /səbˈtrækʃn saɪn/
+  - 乘号: multiplication sign /ˌmʌltɪplɪˈkeɪʃn saɪn/
+  - 除号: division sign /dɪˈvɪʒn saɪn/
+  - 等号: equal sign /ˈiːkwəl saɪn/
 - 数数: count /kaʊnt/ [B1] √
 - 百分比: percentage /pəˈsentɪdʒ/ [B2]
 #### 时间: time /taɪm/ [A2] √
@@ -1361,16 +1358,6 @@
 - 质量: mass /mæs/
 - 体积: volume /ˈvɒljuːm/ [B2]
 - 速度: speed /spiːd/ [B1]
-#### 量词: quantifiers /ˈkwɒntɪfaɪəz/
-- 片: slice /slaɪs/ [A2]
-- 张: piece /piːs/ [A2]
-- 块: block /blɒk/ [B2]
-- 组, 群: group /ɡruːp/ [A1]
-- 推: stack /stæk/
-- 束: bunch /bʌntʃ/ [B1][ORT1+]
-- 堆: heap /hiːp/ [C2]
-- 滴: drop /drɒp/ [B1]
-- 一打: dozen /ˈdʌzn/ (十二个) [B1]
 #### 方位: directions /dəˈrekʃnz/ [B1]
 - 东: east /iːst/ [A2]
 - 西: west /west/ [A2]
@@ -1378,10 +1365,6 @@
 - 南: south /saʊθ/ [A2]
 - 左: left /left/ [A2] √
 - 右: right /raɪt/ [A2] √
-- 上: up /ʌp/ [A2][ORT1] √
-- 下: down /daʊn/ [A2] √
-- 前: before /bɪˈfɔː/ [B1]
-- 后: after /ˈɑːftə/ [B1][ORT1+]
 #### 颜色: colors /ˈkʌləz/ [A1]
 - 红: red /red/ [A2][ORT1+] √
 - 橙: orange /ˈɒrɪndʒ/ [A2] √
@@ -1635,7 +1618,7 @@
 - 野餐垫: picnic rug /ˈpɪknɪk rʌɡ/
 - 口哨: whistle /ˈwɪsl/ [B2] √
 - 帐篷: tent /tent/ [B1][ORT1+] √
-- 蹦床: trampoline /ˌtræmpəˈliːn/ √
+- 蹦床: trampoline /ˌtræmpəˈliːn/ [ORT1+] √
 - 篮球筐: basketball hoop /ˈbɑːskɪtbɔːl huːp/
 - 自行车: bike /baɪk/ [A2][ORT1+] √, bicycle /ˈbaɪsɪkl/ [A2]
 - 雪橇: sleigh /sleɪ/
@@ -1823,6 +1806,9 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 爱: love /lʌv/ [A1] √
+- 喜欢: like /laɪk/ [A1][ORT1+]
+- 讨厌: hate /heɪt/ [A2][ORT1+]
 - 移动一点点: budge /bʌdʒ/ [ORT1+]
 - 钩住: hook /hʊk/ [ORT1+]
 - 忘记: forget /fəˈɡet/ [A1][3000][ORT1+]
@@ -1952,6 +1938,9 @@
     - 可能: may /meɪ/ [A2], might /maɪt/ [A2]
     - 将会: will /wɪl/ [A2][ORT1+], would /wʊd/ [B1]
     - 应该: shall /ʃæl/ [A2], should /ʃʊd/ [A2]
+#### 冠词: articles /ˈɑːtɪklz/ [B1]
+- 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
+- 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
 - 后面的: back /bæk/ [A2][ORT1+]
 - 装饰引人注意的: fancy /ˈfænsi/ [B1][3000][ORT1+]
@@ -2001,9 +1990,6 @@
 - 巨大的: enormous /ɪˈnɔːməs/ [B1][3000][ORT1+]
 - 最高的 (位置): top /tɒp/ [B1][3000][ORT1+]
 - 忙碌的: busy /ˈbɪzi/ [A2][ORT1+]
-#### 冠词: articles /ˈɑːtɪklz/ [B1]
-- 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
-- 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 限定词: determiners /dɪˈtɜːmɪnəz/ [B2]
 - 一些: some /səm/ [A1][ORT1+], any /ˈeni/ [A1]
 - 每个: every /ˈevri/ [A1][ORT1+]
@@ -2023,11 +2009,14 @@
 - 谁的: whose /huːz/ [B1]
 - 哪个: which /wɪtʃ/ [A1][3000][ORT1+] √
 - 全部: all /ɔːl/ [A1][ORT1+]
+- 没有: no /nəʊ/ [A1][ORT1+] √
 #### 副词: adverbs /ˈædvɜːbz/ [A2]
 - 然后: then /ðen/ [A1][ORT1+]
 - 再次: again /əˈɡeɪn/ [A1][ORT1+][3000]
 - 进: in /ɪn/ [A2][3000][ORT1] √
 - 出: out /aʊt/ [B1][ORT1+] √
+- 上: up /ʌp/ [A2][ORT1] √
+- 下: down /daʊn/ [A2] √
 - 回: back /bæk/ [A1][ORT1+]
 - 继续: on /ɒn/ [ORT1+]
 - 也: also /ˈɔːlsəʊ/ [A1]
@@ -2058,6 +2047,8 @@
 - 在: at /æt/ [A1][ORT1]
 - 在...里面: in /ɪn/ [A1][3000][ORT1+]
 - 在...上面: on /ɒn/ [A1][ORT1+]
+- 在...前面: before /bɪˈfɔː/ [B1]
+- 在...后面: after /ˈɑːftə/ [B1][ORT1+]
 - 沿着: along /əˈlɒŋ/ [A2]
 - 像: like /laɪk/ [A2][ORT1+]
 - 给, 为: for /fɔː/ [A1][ORT1+]
@@ -2113,6 +2104,16 @@
 - 无论哪个: whichever /wɪtʃˈevə/ [B2]
 - 无论谁: whoever /huːˈevə/ [B2]
 - 很多: lot /lɒt/ [A1][3000][ORT1+]
+#### 量词: quantifiers /ˈkwɒntɪfaɪəz/
+- 片: slice /slaɪs/ [A2]
+- 张: piece /piːs/ [A2]
+- 块: block /blɒk/ [B2]
+- 组, 群: group /ɡruːp/ [A1]
+- 推: stack /stæk/
+- 束: bunch /bʌntʃ/ [B1][ORT1+]
+- 堆: heap /hiːp/ [C2]
+- 滴: drop /drɒp/ [B1]
+- 一打: dozen /ˈdʌzn/ (十二个) [B1]
 #### 感叹词: exclamations /ˌekskləˈmeɪʃnz/, interjections /ˌɪntəˈdʒekʃnz/
 - 你好: hello /həˈləʊ/ [A1] √
 - 嗨: hi /haɪ/ [A1] √, hey /heɪ/ [A2] √
