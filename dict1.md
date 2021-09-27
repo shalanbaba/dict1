@@ -1236,6 +1236,7 @@
 - 抱歉的: sorry /ˈsɒri/ [A1][ORT1+] √
 - 恶心的: silly /ˈsɪli/ [B1] √
 - 好奇的: curious /ˈkjʊəriəs/ [B1]
+- 痛苦的: miserable /ˈmɪzrəbl/ [B1][ORT1+]
 #### 数学: maths /mæθs/ (英) [A2], math /mæθ/ (美) [A2], mathematics /ˌmæθəˈmætɪks/
 - 数字: numbers /ˈnʌmbəz/ [A1]
   - 序数: ordinal numbers /ˈɔːdɪnl ˈnʌmbəz/
@@ -1985,7 +1986,6 @@
 - 微型的: miniature /ˈmɪnətʃə/ [C2]
 - 泥的: muddy /ˈmʌdi/ [B2][ORT1+]
 - 有魔力的: magic /ˈmædʒɪk/ [A2][ORT1]
-- 痛苦的: miserable /ˈmɪzrəbl/ [B1][ORT1+]
 - 平的: flat /flæt/ [B1][ORT1+]
 - 巨大的: enormous /ɪˈnɔːməs/ [B1][3000][ORT1+]
 - 最高的 (位置): top /tɒp/ [B1][3000][ORT1+]
