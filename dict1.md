@@ -1696,6 +1696,7 @@
 - 顶部: top /tɒp/ [A2][ORT1+]
 - 小心: caution /ˈkɔːʃn/ [C1]
 - 乐趣: fun /fʌn/ [A1][ORT1]
+- 情绪: emotion /ɪˈməʊʃnz/ [B2][3000]
 - 尝试: try /traɪ/ [B2][3000], go /ɡəʊ/ (英) [B2][ORT1+]
 - 脏乱: mess /mes/ [B1][ORT1+]
 - 产品: product /ˈprɒdʌkt/ [B1]
