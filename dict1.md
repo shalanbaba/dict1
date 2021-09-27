@@ -2011,6 +2011,7 @@
 - 全部: all /ɔːl/ [A1][ORT1+]
 - 没有: no /nəʊ/ [A1][ORT1+] √
 #### 副词: adverbs /ˈædvɜːbz/ [A2]
+- 不: not /nɒt/ [A1][ORT1+] √
 - 然后: then /ðen/ [A1][ORT1+]
 - 再次: again /əˈɡeɪn/ [A1][ORT1+][3000]
 - 进: in /ɪn/ [A2][3000][ORT1] √
@@ -2063,7 +2064,6 @@
 - 无论哪里: wherever /weərˈevə/ [B1]
 - 当: while /waɪl/ [A2]
 #### 代词: pronouns /ˈprəʊnaʊnz/ [B1]
-- 不: not /nɒt/ [A1][ORT1+] √
 - 这: this /ðɪs/ [A2][ORT1] √
 - 这些: these /ðiːz/ [A2]
 - 那: that /ðæt/ [A1][ORT1+] √
