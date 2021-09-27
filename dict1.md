@@ -287,16 +287,16 @@
 - 草地: meadow /ˈmedəʊ/
 - 陆地: land /lænd/ [B2][ORT1+]
 #### 天气: the weather /ðə ˈweðə/ [A1][3000] √
-- 晴: sunny /ˈsʌni/ [A2][ORT1+] √
-- 雨: rainy /ˈreɪni/ [B1] √
-- 有风: windy /ˈwɪndi/ [A2][ORT1+] √
-- 微风: breezy /ˈbriːzi/
-- 多云, 阴: cloudy /ˈklaʊdi/ [A2] √
-- 局部多云: partly cloudy /ˈpɑːtli ˈklaʊdi/
-- 大部多云: mostly cloudy /ˈməʊstli ˈklaʊdi/
-- 雪: snowy /ˈsnəʊi/
-- 雾: foggy /ˈfɒɡi/ [A2]
-- 雾霾: smoggy /ˈsmɒɡi/
+- 晴的: sunny /ˈsʌni/ [A2][ORT1+] √
+- 有雨的: rainy /ˈreɪni/ [B1] √
+- 有风的: windy /ˈwɪndi/ [A2][ORT1+] √
+- 有微风的: breezy /ˈbriːzi/
+- 多云的, 阴的: cloudy /ˈklaʊdi/ [A2] √
+- 局部多云的: partly cloudy /ˈpɑːtli ˈklaʊdi/
+- 大部多云的: mostly cloudy /ˈməʊstli ˈklaʊdi/
+- 有雪的: snowy /ˈsnəʊi/
+- 有雾的: foggy /ˈfɒɡi/ [A2]
+- 有雾霾的: smoggy /ˈsmɒɡi/
 #### 自然灾害: natural disasters /ˈnætʃrəl dɪˈzɑːstəz/
 - 龙卷风: tornado /tɔːˈneɪdəʊ/ [B2]
 - 地震: earthquake /ˈɜːθkweɪk/ [B2]
