@@ -578,7 +578,9 @@
 #### 厨具: cooking utensils /ˈkʊkɪŋ juːˈtenslz/
 - 水壶: kettle /ˈketl/ [B1]
 - 火锅: hotpot /ˈhɒtpɒt/ √
-- 锅: pot /pɒt/ [B1]
+- 锅: pot /pɒt/ [B1][ORT1]
+- 平底锅: pan /pæn/ [B1][ORT1]
+- 高压锅: pressure cooker /ˈpreʃə kʊkə/
 - 锅盖: lid /lɪd/ [B2]
 - 炒锅: wok /wɒk/
 - 煎锅: frying pan /ˈfraɪɪŋ pæn/ [B1][ORT1]
@@ -603,7 +605,7 @@
 - 高脚杯: goblet /ˈɡɒblət/
 #### 容器 : containers /kənˈteɪnəz/ [B2]
 - 瓶: bottle /ˈbɒtl/ [A2]
-- 罐头: can /kæn/ [A2][ORT1+], tin /tɪn/ [B1]
+- 罐头: can /kæn/ [A2][ORT1+], tin /tɪn/ [B1][ORT1+]
 - 罐: jar /dʒɑː/ [B1]
 - 保温杯: vacuum flask /ˈvækjuːm flɑːsk/
 - 篮子: basket /ˈbɑːskɪt/ [B1][ORT1+]
@@ -763,6 +765,7 @@
 - 摩托车: motorbike /ˈməʊtəbaɪk/ [A2] √, motorcycle /ˈməʊtəsaɪkl/ [A2] √
 - 平板摩托车: scooter /ˈskuːtə/ [A2]
 - 房车: camper van /ˈkæmpə væn/
+- 厢式货车: van /væn/ [B1][ORT1+]
 - 班车: shuttle bus /ˈʃʌtl bʌs/ √
 - 电动自行车: electric bicycle /ɪˈlektrɪk ˈbaɪsɪkl/
 - 双层巴士: double-decker bus /ˈdʌbl ˈdekə bʌs/ √
@@ -1452,6 +1455,9 @@
 - 嘎嘎 (鸭子): quack /kwæk/ √
 - 喔喔 (公鸡): cock-a-doodle-doo /ˌkɒk ə ˌduːdl ˈduː/
 - 砰 (爆裂): pop /pɒp/ [ORT1+]
+- 喧闹声: din /dɪn/ [ORT1+]
+- 突然的巨响: crash /kræʃ/ [B2][ORT1+], bang /bæŋ/ [B2][ORT1+]
+- 湿东西掉落声: splat /splæt/ [ORT1+]
 #### 食物: food /fuːd/ [A1] √
 - 早饭: breakfast /ˈbrekfəst/ [A1]
 - 中饭: lunch /lʌntʃ/ [A1]
@@ -2100,7 +2106,7 @@
 - 没有事物: nothing /ˈnʌθɪŋ/ [A2]
 - 没有人: nobody /ˈnəʊbədi/ [A2]
 - 没有任何人, 没有任何事物: none /nʌn/ [B1]
-- 什么事物: what /wɒt/ [A1] √
+- 什么事物: what /wɒt/ [A1][ORT1+] √
 - 谁: who /huː/ [A1][ORT1] √
 - 哪个: which /wɪtʃ/ [A2] √
 - 无论什么: whatever /wɒtˈevə/ [B1]
