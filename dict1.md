@@ -1782,8 +1782,6 @@
 - 陆军: army /ˈɑːmi/ [B1]
 - 空军: air force /ˈeə fɔːs/ [B1]
 - 海军陆战队: marine corps /məˈriːn kɔː/
-#### 军事活动: military actions /ˈmɪlətri ˈækʃnz/
-- 站岗: stand guard /stænd ɡɑːd/
 #### 武器: weapons /ˈwepən/ [B2]
 - 弓: bow /bəʊ/ [B2]
 - 箭: arrow /ˈærəʊ/ [B2]
@@ -1943,7 +1941,7 @@
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
 - 后面的: back /bæk/ [A2][ORT1+]
-- 装饰引人注意的: fancy /ˈfænsi/ [B1][3000][ORT1+]
+- 花哨的: fancy /ˈfænsi/ [B1][3000][ORT1+]
 - 遗失的: lost /lɒst/ [B1][ORT1+]
 - 贪婪的: greedy /ˈɡriːdi/ [B2]
 - 勇敢的: brave /breɪv/ [B1]
@@ -1979,6 +1977,7 @@
 - 野生的: wild /waɪld/ [A2]
 - 脏的: dirty /ˈdɜːti/ [A2]
 - 极地的: polar /ˈpəʊlə/ √
+- 军事的: military /ˈmɪlətri/ [B1]
 - 卡住的: stuck /stʌk/ [B2][ORT1+] √
 - 相同的: same /seɪm/ [A1]
 - 不同的: different /ˈdɪfrənt/ [A1]
