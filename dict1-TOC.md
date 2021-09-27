@@ -105,7 +105,6 @@
 #### 故事: the story
 
 #### 武装部队: armed forces
-#### 军事活动: military actions
 #### 武器: weapons
 
 #### 动词: verbs
