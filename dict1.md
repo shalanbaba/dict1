@@ -544,6 +544,7 @@
 - 毯子: blanket /blanket/ [A2]
 - 靠垫: cushion /ˈkʊʃn/ [B1]
 #### 清洁用品: cleaning supplies /ˈkliːnɪŋ səˈplaɪz/
+- 抹布: rag /ræɡ/ [ORT1+]
 - 扫帚: broom /bruːm/
 - 簸箕: dustpan /ˈdʌstpæn/
 - 海绵: sponge /spʌndʒ/
@@ -685,6 +686,7 @@
 - 钩子: hook /hʊk/ [B2]
 - 齿轮: gear /ɡɪə/ [B2]
 #### 工具: tools /tuːlz/ [B2]
+- 工具套装: kit /kɪt/ [B1][ORT1+]
 - 梯子: ladder /ˈlædə/ [B1][ORT1+]
 - 手推车: trolley /ˈtrɒli/ [B2][ORT1+]
 - 网: net /net/ [B1][ORT1+]
@@ -1616,7 +1618,7 @@
 - 头盔: helmet /ˈhelmɪt/ [B2] √
 - 球拍: racket /ˈrækɪt/ [A2]
 - 球棒 (棒球): bat /bæt/ [A1]
-- 垫子: mat /mæt/ [C1] √
+- 垫子: mat /mæt/ [C1][ORT1+] √
 - 野餐垫: picnic rug /ˈpɪknɪk rʌɡ/
 - 口哨: whistle /ˈwɪsl/ [B2] √
 - 帐篷: tent /tent/ [B1][ORT1+] √
@@ -1697,6 +1699,7 @@
 - 事情, 东西: thing /θɪŋ/ [A1]
 - 顶部: top /tɒp/ [A2][ORT1+]
 - 小心: caution /ˈkɔːʃn/ [C1]
+- 运气: luck /lʌk/ [A2][ORT1+]
 - 乐趣: fun /fʌn/ [A1][ORT1]
 - 情绪: emotion /ɪˈməʊʃnz/ [B2][3000]
 - 尝试: try /traɪ/ [B2][3000], go /ɡəʊ/ (英) [B2][ORT1+]
@@ -1807,6 +1810,9 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 吸: suck /sʌk/ [C2][ORT1+]
+- 摆脱: rid /rɪd/ [B1][ORT1+]
+- 用拖把拖: mop /mɒp/ [ORT1+]
 - 爱: love /lʌv/ [A1] √
 - 喜欢: like /laɪk/ [A1][ORT1+]
 - 讨厌: hate /heɪt/ [A2][ORT1+]
@@ -1827,6 +1833,7 @@
 - 找到: find /faɪnd/ [A1]
 - 发现: find /faɪnd/ [A2][ORT1+], discover /dɪˈskʌvə/ [B1]
 - 放: put /pʊt/ [A1][ORT1+]
+- 掉落: fall /fɔːl/ [A2][ORT1+]
 - 设置: set [B1][ORT1+]
 - 停留: stay /steɪ/ [A1][ORT1+]
 - 做: do /duː/ [A1][ORT1]
@@ -1975,7 +1982,7 @@
 - 好的: good /ɡʊd/ [A1][ORT1] √
 - 更好的: better /ˈbetə/ [A1]
 - 最好的: best /best/ [A1][ORT1+]
-- 坏的: bad /bæd/ [A1]
+- 坏的: bad /bæd/ [A1][ORT1+]
 - 更坏的: worse /wɜːs/ [A2]
 - 最坏的: worst /wɜːst/ [A2]
 - 野生的: wild /waɪld/ [A2]
