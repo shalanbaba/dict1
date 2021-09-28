@@ -36,8 +36,8 @@
 - 传说: tale /teɪl/ [B2][3000]
 - 诗: poem /ˈpəʊɪm/ [B1][3000]
 - 歌词: lyrics /ˈlɪrɪks/ [B2]
-- 书: book /bʊk/ [A1][3000] √
-- 绘本: picture book /ˈpɪktʃə bʊk/
+- 书: book /bʊk/ [A1][3000][ORT1+] √
+- 绘本: picture book /ˈpɪktʃə bʊk/ [ORT1+]
 - 漫画: comic /ˈkɒmɪk/ [A2][ORT1+]
 - 闪卡: flashcard /'flæʃˌkɑːd/
 - 日记: diary /ˈdaɪəri/ [A2][3000][ORT1+]
@@ -722,6 +722,7 @@
 - 胶水: glue /ɡluː/ [C2] √
 - 胶带: tape /teɪp/
 - 放大镜: magnifying glass /mægnɪfaɪɪŋ ɡlɑːs/
+- 便笺本: pad /pæd/ [ORT1+]
 #### 交通: transportation /ˌtrænspɔːˈteɪʃn/ [C1]
 - 入口: entrance /ˈentrəns/ [A2] √
 - 出口: exit /ˈeksɪt/ [A2] √
@@ -1481,6 +1482,7 @@
 - 甜甜圈: doughnut /ˈdəʊnʌt/ √
 - 羊角面包: croissant /ˈkwɑːsɒŋ/
 - 馅饼: pie /paɪ/ [B1][ORT1+]
+- 香肠: sausage /ˈsɒsɪdʒ/ [A2][ORT1+]
 - 吐司: toast /təʊst/ [A2]
 - 披萨: pizza /ˈpiːtsə/ [A1] √
 - 肉圆: meatball /ˈmiːtbɔːl/
@@ -1930,6 +1932,7 @@
 - 夹: pinch /pɪntʃ/, nip /nɪp/ [ORT1+]
 - 拿着: hold /həʊld/ [A2][3000][ORT1+]
 - 隐藏: hide /haɪd/ [B1][ORT1+]
+- 遇见: meet /miːt/ [A1][ORT1+]
 - 情态动词: modal verbs /ˈməʊdl vɜːbz/ [B1]
     - 必须: must /mʌst/ [B1]
     - 能: can /kæn/ [A1][ORT1], could /kʊd/ [A2]
