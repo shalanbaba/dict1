@@ -117,6 +117,11 @@
 - 叉: cross /krɒs/ [A1] √
 - 钩: tick /tɪk/ [B1]
 - 下划线: underline /ˌʌndəˈlaɪn/ [B1]
+- 加号: addition sign /əˈdɪʃn saɪn/
+- 减号: subtraction sign /səbˈtrækʃn saɪn/
+- 乘号: multiplication sign /ˌmʌltɪplɪˈkeɪʃn saɪn/
+- 除号: division sign /dɪˈvɪʒn saɪn/
+- 等号: equal sign /ˈiːkwəl saɪn/
 #### 品牌: brands /brændz/ [B2][3000]
 - 宜家: IKEA /ˌaɪˈkiə/
 - 乐高: LEGO /ˈleɡəu/ √
@@ -1285,12 +1290,6 @@
     - 万亿: trillion /ˈtrɪljən/, tera /ˈterə/
 - 十进制: decimal system /ˈdesɪml ˈsɪstəm/
 - 二进制: binary system /ˈbaɪnəri ˈsɪstəm/
-- 符号: symbols /sɪmbəlz/ [B2]
-  - 加号: addition sign /əˈdɪʃn saɪn/
-  - 减号: subtraction sign /səbˈtrækʃn saɪn/
-  - 乘号: multiplication sign /ˌmʌltɪplɪˈkeɪʃn saɪn/
-  - 除号: division sign /dɪˈvɪʒn saɪn/
-  - 等号: equal sign /ˈiːkwəl saɪn/
 - 数数: count /kaʊnt/ [B1] √
 - 百分比: percentage /pəˈsentɪdʒ/ [B2]
 #### 时间: time /taɪm/ [A2] √
