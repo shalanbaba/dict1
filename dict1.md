@@ -1512,6 +1512,7 @@
   - 薯条: chip /tʃɪp/ (英) [A1], french fry /frentʃ fraɪ/ (美) 
   - 坚果: nut /nʌt/ [B2]
   - 巧克力: chocolate /ˈtʃɒklət/ [A1][ORT1+]
+  - 爆米花: popcorn /ˈpɒpkɔːn/ [B1]
 - 水果: fruit /fruːt/ [A1]
   - 菠萝: pineapple /ˈpaɪnæpl/ [B1] √
   - 苹果: apple /ˈæpl/ [A1] √
