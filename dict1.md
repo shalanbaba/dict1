@@ -91,6 +91,8 @@
 #### 英语: English /ˈɪŋɡlɪʃ/ √
 - 字母表: alphabet /ˈælfəbet/ [B1]
 - 字母: letter /ˈletə/ [A2] √
+- 大写字母: capital letter /ˌkæpɪtl ˈletə/ [A2], upper case letter /ˌʌpə ˈkeɪs ˈletə/
+- 小写字母: lower case letter /ˌləʊə ˈkeɪs ˈletə/ 
 - 单词: word /wɜːd/ [A1]
 - 名词: noun /naʊn/ [A2]
 - 拼写: spell /spel/ [A2]
@@ -1811,6 +1813,12 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 匹配: match /mætʃ/ [B1]
+- 发音: sound /saʊnd/ [A2][3000]
+- 融合: blend /blend/
+- 指: point /pɔɪnt/ [A2]
+- 追踪: trace /treɪs/ [C1]
+- 使用: use /juːz/ [A1]
 - 吸: suck /sʌk/ [C2][ORT1+]
 - 摆脱: rid /rɪd/ [B1][ORT1+]
 - 用拖把拖: mop /mɒp/ [ORT1+]
@@ -1952,6 +1960,7 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 其他的: other /ˈʌðə/ [A1]
 - 后面的: back /bæk/ [A2][ORT1+]
 - 花哨的: fancy /ˈfænsi/ [B1][3000][ORT1+]
 - 遗失的: lost /lɒst/ [B1][ORT1+]
@@ -2001,6 +2010,10 @@
 - 最高的 (位置): top /tɒp/ [B1][3000][ORT1+]
 - 忙碌的: busy /ˈbɪzi/ [A2][ORT1+]
 #### 限定词: determiners /dɪˈtɜːmɪnəz/ [B2]
+- 这: this /ðɪs/ [A1] √
+- 那: that /ðæt/ [A1] √
+- 这些: these /ðiːz/ [A1]
+- 那些: those /ðəʊz/ [A1]
 - 一些: some /səm/ [A1][ORT1+], any /ˈeni/ [A1]
 - 每个: every /ˈevri/ [A1][ORT1+]
 - 什么: what /wɒt/ [A1][ORT1+]
@@ -2062,6 +2075,7 @@
 - 在...后面: after /ˈɑːftə/ [B1][ORT1+]
 - 沿着: along /əˈlɒŋ/ [A2]
 - 像: like /laɪk/ [A2][ORT1+]
+- 和...一起: with /wɪð/ [A1]
 - 给, 为: for /fɔː/ [A1][ORT1+]
 #### 连词: conjunctions /kənˈdʒʌŋkʃnz/ [B2]
 - 和: and /ænd/ [A1][ORT1] √
@@ -2075,8 +2089,8 @@
 - 当: while /waɪl/ [A2]
 #### 代词: pronouns /ˈprəʊnaʊnz/ [B1]
 - 这: this /ðɪs/ [A2][ORT1] √
-- 这些: these /ðiːz/ [A2]
 - 那: that /ðæt/ [A1][ORT1+] √
+- 这些: these /ðiːz/ [A2]
 - 那些: those /ðəʊz/ [A1]
 - 一个: one /wʌn/ [A2]
 - 我: I /aɪ/ (主) [A1][ORT1] √, me /miː/ (宾) [A1][ORT1] √
