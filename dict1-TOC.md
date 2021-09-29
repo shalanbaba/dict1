@@ -49,6 +49,7 @@
 #### 汽车零部件: car parts
 #### 火车零部件: train parts
 #### 飞机零部件: airplane parts
+#### 船零部件: boat part
 #### 航天: aerospace
 
 #### 服装: clothes

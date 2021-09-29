@@ -1,4 +1,6 @@
 #### 信息: information /ˌɪnfəˈmeɪʃn/ [A2][3000]
+- 目录: contents /ˈkɒntents/ [B2][3000][ORT1+]
+- 页: page /peɪdʒ/ [A1][ORT1+]
 - 奖: award /əˈwɔːd/ [B2][3000]
 - 地图: map /mæp/ [A2][ORT1+]
 - 线索: clue /kluː/ [B2][3000]
@@ -119,8 +121,8 @@
 - 叉: cross /krɒs/ [A1] √
 - 钩: tick /tɪk/ [B1]
 - 下划线: underline /ˌʌndəˈlaɪn/ [B1]
-- 加号: addition sign /əˈdɪʃn saɪn/
-- 减号: subtraction sign /səbˈtrækʃn saɪn/
+- 加号: addition sign /əˈdɪʃn saɪn/, plus sign /plʌs saɪn/
+- 减号: subtraction sign /səbˈtrækʃn saɪn/, minus sign /ˈmaɪnəs saɪn/
 - 乘号: multiplication sign /ˌmʌltɪplɪˈkeɪʃn saɪn/
 - 除号: division sign /dɪˈvɪʒn saɪn/
 - 等号: equal sign /ˈiːkwəl saɪn/
@@ -162,7 +164,7 @@
 - 星系: galaxy /ˈɡæləksi/
 - 恒星: star /stɑː/ [A2] √
 - 太阳系: the Solar System /ðə səʊlə ˈsɪstəm/
-  - 太阳: Sun /sʌn/ [A1] √
+  - 太阳: Sun /sʌn/ [A1][ORT1+] √
   - 月亮: Moon /muːn/ [A2] √
   - 火星: Mars /mɑːz/
   - 地球: Earth /ɜːθ/ [B1] √
@@ -813,6 +815,8 @@
 - 火车车厢: coach /kəʊtʃ/ (英) [A2], car /kɑː/ (美) [C1]
 #### 飞机零部件: airplane parts /ˈerpleɪn pɑːts/
 - 驾驶舱: cockpit /ˈkɒkpɪt/
+#### 船零部件: boat parts /bəʊt pɑːts/
+- 甲板: deck /dek/ [B2][ORT1+]
 #### 航天: aerospace /ˈeərəʊspeɪs/
 - 火箭: rocket /ˈrɒkɪt/ [B2] √
 - 航天飞机: space shuttle /speɪs ˈʃʌtl/
@@ -832,6 +836,7 @@
 - 短裤: shorts /ʃɔːts/ [A2]
 - 裙子: skirt /skɜːt/ [A1]
 - 帽子: hat /hæt/ [A1][ORT1+], cap /kæp/ [A2]
+- 太阳帽: sunhat /ˈsʌnhæt/ [ORT1+]
 - 围巾: scarf /skɑːf/ [A2][ORT1+] √
 - 手套: gloves /ɡlʌvz/ [A2], mittens /ˈmɪtnz/ √
 - 靴子: boots /buːts/ [A2][ORT1+] √
@@ -880,6 +885,7 @@
 - 鸟: birds /bɜːdz/ [A1] √
   - 小鸟: birdie /ˈbɜːdi/ √
   - 鸵鸟: ostrich /ˈɒstrɪtʃ/
+  - 鸭: duck /dʌk/ [A2][ORT1+]
   - 小鸭: duckling /ˈdʌklɪŋ/
   - 鸽子: pigeon /ˈpɪdʒɪn/ √
   - 鹅: goose /ɡuːs/
@@ -898,6 +904,7 @@
   - 海鸥: seagull /siːɡʌl/ √
   - 巨嘴鸟: toucan /ˈtuːkæn/
   - 猎鹰: falcon /ˈfælkən/ √
+  - 知更鸟: robin /ˈrɒbɪn/ [ORT1+]
 - 蛤蜊: clam /klæm/
 - 昆虫: insects /ˈɪnsekts/ [A2]
   - 虫子: bug /bʌɡ/ [B1] √
@@ -1427,7 +1434,7 @@
 - 嫩的: tender /ˈtendə/ [C2]
 #### 气味: smells /smelz/ [B1]
 - 臭的: stinky /ˈstɪŋki/
-#### 声音: sounds /saʊndz/ [A2]
+#### 声音: sounds /saʊndz/ [A2][ORT1+]
 - 咕噜声 (猪): grunt /ɡrʌnt/
 - 汪 (狗): woof /wʊf/ √
 - 嘶 (蛇): hiss /hɪs/ √
@@ -1451,7 +1458,7 @@
 - 晚饭: dinner /ˈdɪnə/ [A1] √, supper /ˈsʌpə/ [A2]
 - 套餐: combo meal /ˈkɒmbəʊ miːl/
 - 自助餐: buffet /bəˈfeɪ/
-- 野餐: picnic /ˈpɪknɪk/ [A1] √
+- 野餐: picnic /ˈpɪknɪk/ [A1][ORT1+] √
 - 快餐: fast food /ˌfɑːst ˈfuːd/ [A2]
 - 谷物: grain /ɡreɪn/ [C2]
 - 海鲜: seafood /ˈsiːfuːd/
@@ -1714,6 +1721,7 @@
 - 包裹: package /ˈpækɪdʒ/ [B2]
 - 注意: attention /əˈtenʃn/ [B1]
 - 问候: greeting /ˈɡriːtɪŋ/ [B1]
+- 打盹: nap /næp/ [C1][ORT1+]
 - 规则: rule /ruːl/ [B1]
 #### 教育: education /ˌedʒuˈkeɪʃn/ [B1]
 - 考试: examination /ɪɡˌzæmɪˈneɪʃn/ [A2]
@@ -1813,6 +1821,8 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 告诉: tell [A1][ORT1+]
+- 喂: feed /fiːd/ [B1][ORT1+]
 - 匹配: match /mætʃ/ [B1]
 - 发音: sound /saʊnd/ [A2][3000]
 - 融合: blend /blend/
@@ -1918,7 +1928,7 @@
 - 出生: born /bɔːn/ [A2]
 - 死亡: die /daɪ/ [A1]
 - 睡: sleep /sliːp/ [A1][ORT1+] √
-- 打盹: nap /næp/ [C1]
+- 打盹: nap /næp/
 - 做梦: dream /driːm/ [A2]
 - 刷: brush /brʌʃ/ [A2]
 - 工作: work /wɜːk/ [A1]
