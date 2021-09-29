@@ -498,6 +498,7 @@
 - 跷跷板: seesaw /ˈsiːsɔː/ [ORT1+] √
 - 滑梯: slide /slaɪd/ [3000][ORT1+] √
 - 秋千: swing /swɪŋ/ [B2][ORT1+] √
+- 脚踏船: pedalo /ˈpedələʊ/ (英), pedal boat /ˈpedl bəʊt/ (美)
 #### 农场: the farm /ðə fɑːm/ [A1] √
 - 猪圈: pigpen /pɪɡpen/
 - 干草: hay /heɪ/ √
