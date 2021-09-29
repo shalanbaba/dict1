@@ -94,7 +94,7 @@
 - 字母表: alphabet /ˈælfəbet/ [B1]
 - 字母: letter /ˈletə/ [A2] √
 - 大写字母: capital letter /ˌkæpɪtl ˈletə/ [A2], upper case letter /ˌʌpə ˈkeɪs ˈletə/
-- 小写字母: lower case letter /ˌləʊə ˈkeɪs ˈletə/ 
+- 小写字母: lower case letter /ˌləʊə ˈkeɪs ˈletə/
 - 单词: word /wɜːd/ [A1]
 - 名词: noun /naʊn/ [A2]
 - 拼写: spell /spel/ [A2]
@@ -1087,7 +1087,7 @@
 - 教练: coach /kəʊtʃ/ [B1] √
 - 音乐家: musician /mjuˈzɪʃn/ [B1]
 - 运动员: athlete /ˈæθliːt/ [B1]
-- 探险家: explorer /ɪkˈsplɔːrə/
+- 探险家: explorer /ɪkˈsplɔːrə/ [ORT1+]
 - 园丁: gardener /ˈɡɑːdnə/ [B2] √
 - 裁缝: tailor /ˈteɪlə/
 - 木匠: carpenter /ˈkɑːpəntə/
@@ -1688,6 +1688,7 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
+- 挑战: challenge /ˈtʃælɪndʒ/ [B1]
 - 家: home /həʊm/ [A1]
 - 家庭: family /ˈfæməli/ [A1]
 - 结婚: marriage /ˈmærɪdʒ/ [B1]
@@ -1783,6 +1784,8 @@
 - 婚礼: wedding /ˈwedɪŋ/ [B1]
 - 葬礼: funeral /ˈfjuːnərəl/ [B2]
 #### 故事: the story /ðə ˈstɔːri/ [A2]
+- 虚构: fiction /ˈfɪkʃn/ [B1]
+- 非虚构: non-fiction /ˌnɒn ˈfɪkʃn/
 - 宝藏: treasure /ˈtreʒə/ [B2][ORT1+]
 - 藏宝图: treasure map /ˈtreʒə mæp/ [ORT1+]
 - 精灵: elf /elf/
@@ -1822,6 +1825,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 探索: explore /ɪkˈsplɔː/ [B1]
 - 告诉: tell [A1][ORT1+]
 - 喂: feed /fiːd/ [B1][ORT1+]
 - 匹配: match /mætʃ/ [B1]
