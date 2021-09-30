@@ -165,9 +165,15 @@
 - 恒星: star /stɑː/ [A2] √
 - 太阳系: the Solar System /ðə səʊlə ˈsɪstəm/
   - 太阳: Sun /sʌn/ [A1][ORT1+] √
-  - 月亮: Moon /muːn/ [A2] √
-  - 火星: Mars /mɑːz/
   - 地球: Earth /ɜːθ/ [B1] √
+  - 火星: Mars /mɑːz/
+  - 木星: Jupiter /ˈdʒuːpɪtə/
+  - 水星: Mercury /ˈmɜːkjəri/
+  - 金星: Venus /ˈviːnəs/
+  - 土星: Saturn /ˈsætɜːn/
+  - 天王星: Uranus /ˈjʊərənəs/
+  - 海王星: Neptune /ˈneptjuːn/
+  - 月亮: Moon /muːn/ [A2] √
 - 银河系: Milky Way Galaxy /ˈmɪlki weɪ ˈɡæləksi/
 #### 世界: the world /ðə wɜːld/ [A1][3000]
 - 海洋: oceans /ˈəʊʃnz/ [B1]
