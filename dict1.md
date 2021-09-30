@@ -95,7 +95,7 @@
 - 字母: letter /ˈletə/ [A2] √
 - 大写字母: capital letter /ˌkæpɪtl ˈletə/ [A2], upper case letter /ˌʌpə ˈkeɪs ˈletə/
 - 小写字母: lower case letter /ˌləʊə ˈkeɪs ˈletə/
-- 单词: word /wɜːd/ [A1]
+- 单词: word /wɜːd/ [A1][ORT1+]
 - 名词: noun /naʊn/ [A2]
 - 拼写: spell /spel/ [A2]
 - 句子: sentence /ˈsentəns/ [A1]
@@ -877,7 +877,7 @@
 - 拉链: zip /zɪp/ [B2], zipper /ˈzɪpə/ [B2]
 - 带扣: buckle /ˈbʌkl/
 - 纽扣: button /ˈbʌtn/ [B1][ORT1+]
-#### 动物: the animal /ði ˈænɪml/ [A1]
+#### 动物: the animal /ði ˈænɪml/ [A1][ORT1+]
 - 爬行动物: reptiles /ˈreptaɪlz/ [C1]
   - 蛇: snake /sneɪk/ [A2][ORT1+] √
   - 乌龟: turtle /ˈtɜːtl/ (水, 陆), tortoise /ˈtɔːtəs/ (陆)
@@ -934,7 +934,7 @@
   - 瞪羚: gazelle /ɡəˈzel/
   - 斑马: zebra /ˈzebrə/ [B2] √
   - 长颈鹿: giraffe /dʒəˈrɑːf/ [B1] √
-  - 大熊猫: panda /ˈpændə/ √
+  - 大熊猫: panda /ˈpændə/ [ORT1+] √
   - 考拉: koala /kəʊˈɑːlə/
   - 松鼠: squirrel /ˈskwɪrəl/ √
   - 树懒: sloth /sləʊθ/
@@ -1389,7 +1389,7 @@
 - 蓝: blue /bluː/ [A2][ORT1+] √
 - 白: white /waɪt/ [A2] √
 - 棕: brown /braʊn/ [A2] √
-- 黑: black /blæk/ [A2] √
+- 黑: black /blæk/ [A2][ORT1+] √
 - 紫: purple /ˈpɜːpl/ [A2] √
 - 银: silver /ˈsɪlvə/
 - 金: gold /ɡəʊld/ √
@@ -1689,6 +1689,7 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
+- 一点: bit /bɪt/ [A2][ORT1+]
 - 钥匙: key /kiː/ [A1][ORT1+]
 - 挑战: challenge /ˈtʃælɪndʒ/ [B1][ORT1+]
 - 家: home /həʊm/ [A1]
@@ -1709,8 +1710,9 @@
 - 技能: skill /skɪl/ [B1]
 - 某种东西: whatsit /ˈwɒtsɪt/ [ORT5]
 - 假期: holiday /ˈhɒlədeɪ/ (英) [A1] √, vacation /veɪˈkeɪʃn/ (美) [A1]
-- 事情, 东西: thing /θɪŋ/ [A1]
+- 事情, 东西: thing /θɪŋ/ [A1][ORT1+]
 - 顶部: top /tɒp/ [A2][ORT1+]
+- 结尾: end /end/ [A1][ORT1+]
 - 小心: caution /ˈkɔːʃn/ [C1]
 - 运气: luck /lʌk/ [A2][ORT1+]
 - 乐趣: fun /fʌn/ [A1][ORT1]
@@ -1718,6 +1720,7 @@
 - 尝试: try /traɪ/ [B2][3000], go /ɡəʊ/ (英) [B2][ORT1+]
 - 脏乱: mess /mes/ [B1][ORT1+]
 - 产品: product /ˈprɒdʌkt/ [B1]
+- 材料: material /məˈtɪərɪəlz/ [B2][ORT1+]
 - 设备套装: kit /kɪt/ [B1][ORT1+]
 - 铃铛: bell /bel/ [3000][ORT1+]
 - 奖品: prize /praɪz/ [A2][ORT1+]
@@ -1785,7 +1788,7 @@
 #### 典礼: ceremonies /ˈserəməniz/ [B1]
 - 婚礼: wedding /ˈwedɪŋ/ [B1]
 - 葬礼: funeral /ˈfjuːnərəl/ [B2]
-#### 故事: the story /ðə ˈstɔːri/ [A2]
+#### 故事: the story /ðə ˈstɔːri/ [A2][ORT1+]
 - 虚构: fiction /ˈfɪkʃn/ [B1]
 - 非虚构: non-fiction /ˌnɒn ˈfɪkʃn/
 - 宝藏: treasure /ˈtreʒə/ [B2][ORT1+]
@@ -1827,11 +1830,15 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 吻合: fit /fɪt/ [B1][ORT1+]
+- 自己的: own /əʊn/ [A2][ORT1+]
+- 按: press /pres/ [B1][ORT1+]
 - 发生: happen /ˈhæpən/ [A2][ORT1+]
 - 破裂: crack /kræk/ [B2][ORT1+]
 - 看出: spot /spɒt/ [B2][ORT1+]
 - 探索: explore /ɪkˈsplɔː/ [B1]
-- 告诉: tell [A1][ORT1+]
+- 告诉: tell /tel/ [A1][ORT1+]
+- 复述: retell /ˌriːˈtel/ [ORT1+]
 - 喂: feed /fiːd/ [B1][ORT1+]
 - 匹配: match /mætʃ/ [B1]
 - 发音: sound /saʊnd/ [A2][3000]
@@ -1933,7 +1940,7 @@
 - 穿, 戴: wear /weə/ [A1] √
 - 穿衣服: dress /dres/ [A2][ORT1+]
 - 写: write /raɪt/ [A1][ORT1+]
-- 读: read /riːd/ [A1] √
+- 读: read /riːd/ [A1][ORT1+] √
 - 画: draw /drɔː/ [A1], paint /peɪnt/ (颜料) [A1][ORT1] √
 - 出生: born /bɔːn/ [A2]
 - 死亡: die /daɪ/ [A1]
@@ -1965,7 +1972,7 @@
 - 狗叫: bark /bɑːk/ [B2]
 - 制作: make /meɪk/ [A1][ORT1]
 - 咬: bite /baɪt/ [B1]
-- 夹: pinch /pɪntʃ/, nip /nɪp/ [ORT1+]
+- 夹: pinch /pɪntʃ/ [ORT1+], nip /nɪp/ [ORT1+]
 - 拿着: hold /həʊld/ [A2][3000][ORT1+]
 - 隐藏: hide /haɪd/ [B1][ORT1+]
 - 遇见: meet /miːt/ [A1][ORT1+]
@@ -2022,7 +2029,7 @@
 - 军事的: military /ˈmɪlətri/ [B1]
 - 卡住的: stuck /stʌk/ [B2][ORT1+] √
 - 相同的: same /seɪm/ [A1]
-- 不同的: different /ˈdɪfrənt/ [A1]
+- 不同的: different /ˈdɪfrənt/ [A1][ORT1+]
 - 微型的: miniature /ˈmɪnətʃə/ [C2]
 - 泥的: muddy /ˈmʌdi/ [B2][ORT1+]
 - 有魔力的: magic /ˈmædʒɪk/ [A2][ORT1]
@@ -2045,7 +2052,7 @@
 - 更少: less /les/ [A2]
 - 最少: least /liːst/ [B2]
 - 我的: my /maɪ/ [A1][ORT1+] √
-- 你的, 你们的: your /jɔː/ [A1] √
+- 你的, 你们的: your /jɔː/ [A1][ORT1+] √
 - 他的: his /hɪz/ [A1][ORT1+]
 - 她的: her /hə/ [A1][ORT1+]
 - 我们的: our /ˈaʊə/ [A1][ORT1+]
@@ -2087,8 +2094,8 @@
 - 已经: yet /jet/ [A2][ORT1+]
 - 现在: now /naʊ/ [A1][ORT1+]
 #### 介词: prepositions /ˌprepəˈzɪʃnz/ [B1]
-- 从: from /frɒm/ [A1]
-- 到: to /tuː/ [A1]
+- 从: from /frɒm/ [A1][ORT1+]
+- 到: to /tuː/ [A1][ORT1+]
 - 在: at /æt/ [A1][ORT1]
 - 在...里面: in /ɪn/ [A1][3000][ORT1+]
 - 在...上面: on /ɒn/ [A1][ORT1+]
@@ -2098,6 +2105,7 @@
 - 像: like /laɪk/ [A2][ORT1+]
 - 和...一起: with /wɪð/ [A1]
 - 给, 为: for /fɔː/ [A1][ORT1+]
+- 关于: about /əˈbaʊt/ [A1][ORT1+]
 #### 连词: conjunctions /kənˈdʒʌŋkʃnz/ [B2]
 - 和: and /ænd/ [A1][ORT1] √
 - 或: or /ɔː/ [A1]
