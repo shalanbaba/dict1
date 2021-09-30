@@ -27,7 +27,7 @@
 - 语音: voice /vɔɪs/ [B1]
 - 新闻: news /njuːz/ [A2]
 - 报纸: newspaper /njuːz ˈpeɪpə/ [A1]
-- 论文: paper /ˈpeɪpə/ [C2]]
+- 论文: paper /ˈpeɪpə/ [C2]
 - 杂志: magazine /ˌmæɡəˈziːn/ [A2]
 - 文章: article /ˈɑːtɪkl/ [B1]
 - 广告: advertisement /ˌædvəˈtaɪzmənt/ [A2]
@@ -1803,6 +1803,7 @@
 - 神: god /ɡɒd/ [A2]
 - 巨人: giant /ˈdʒaɪənt/ [C1][ORT1+]
 - 变形金刚: transformer /trænsˈfɔːmə/
+- 鬼: ghost /ɡəʊst/ [B1][3000]
 #### 武装部队: armed forces /ɑːmd ˈfɔːsɪz/
 - 海军: navy /ˈneɪvi/ [B2]
 - 陆军: army /ˈɑːmi/ [B1]
