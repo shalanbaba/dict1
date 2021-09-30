@@ -1720,7 +1720,7 @@
 - 尝试: try /traɪ/ [B2][3000], go /ɡəʊ/ (英) [B2][ORT1+]
 - 脏乱: mess /mes/ [B1][ORT1+]
 - 产品: product /ˈprɒdʌkt/ [B1]
-- 材料: material /məˈtɪərɪəlz/ [B2][ORT1+]
+- 材料: material /məˈtɪərɪəlz/ [B2][3000][ORT1+]
 - 设备套装: kit /kɪt/ [B1][ORT1+]
 - 铃铛: bell /bel/ [3000][ORT1+]
 - 奖品: prize /praɪz/ [A2][ORT1+]
