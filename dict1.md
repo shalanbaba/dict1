@@ -331,12 +331,12 @@
 - 电: electricity /ɪˌlekˈtrɪsəti/ [A2]
   - 电池: battery /ˈbætəri/ [A2]
 #### 原材料: raw materials /rɔː məˈtɪərɪəlz/
-- 金属: metals /ˈmetlz/ [B1]
+- 金属: metals /ˈmetlz/ [B1][ORT1+]
   - 铁: iron /ˈaɪən/ [B1]
   - 钢: steel /stiːl/ [B2]
   - 铜: copper /ˈkɒpə/ [B2]
   - 不锈钢: stainless steel /ˈsteɪnləs stiːl/
-- 塑料: plastic /ˈplæstɪk/ [A2]
+- 塑料: plastic /ˈplæstɪk/ [A2][ORT1+]
 - 木: wood /wʊd/ [A2]
 - 羊毛: wool /wʊl/ [A2]
 - 羊绒: cashmere /ˈkæʃmɪə/
@@ -346,6 +346,7 @@
 - 玻璃: glass /ɡlɑːs/ [A1] √
 - 石头: stone /stəʊn/ [B1]
 - 大理石: marble /ˈmɑːbl/
+- 粘土: clay /kleɪ/ [ORT1+] √
 #### 城市: the city /ðə ˈsɪti/ [A1]
 - 井盖: manhole cover /ˈmænhəʊl ˈkʌvə/
 - 草坪: lawn /lɔːn/ [C1]
@@ -527,7 +528,7 @@
 - 高脚椅: highchair /ˌhaɪˈtʃeə/
 - 椅子: chair /tʃeə/ [A1] √
 - 书桌: desk /desk/ [A1]
-- 桌子: table /ˈteɪbl/ [A1] √
+- 桌子: table /ˈteɪbl/ [A1][ORT1+] √
 - 橱柜: cupboard /ˈkʌbəd/ [A2]
 - 床垫: mattress /ˈmætrəs/
 - 餐桌: dining table /ˈdaɪnɪŋ ˈteɪbl/
@@ -610,7 +611,7 @@
 - 叉: fork /fɔːk/ [A2]
 - 筷子: chopsticks /ˈtʃɒpstɪks/ √
 - 杯: cup /kʌp/ [A1]
-- 马克杯: mug /mʌɡ/ [A2]
+- 马克杯: mug /mʌɡ/ [A2][ORT1+]
 - 茶壶: teapot /ˈtiːpɒt/
 - 玻璃杯: glass /ɡlɑːs/ [A1]
 - 高脚杯: goblet /ˈɡɒblət/
@@ -623,6 +624,7 @@
 - 桶: bucket /ˈbʌkɪt/ [B1][ORT1+]
 - 盒子: box /bɒks/ [A1][ORT1]
 - 储物箱: storage box /ˈstɔːrɪdʒ bɒks/
+- 圆形容器: pot /pɒt/ [B1][ORT1+]
 #### 宠物用品: pet supplies /pet səˈplaɪz/
 - 狗绳: dog leash /dɔːɡ liːʃ/
 - 笼子: cage /keɪdʒ/ [B1]
@@ -1655,7 +1657,6 @@
 #### 玩具: toys /tɔɪz/ [A2]
 - 跳跳球: hopper /ˈhɒpə/ [ORT1+]
 - 球: ball /bɔːl/ [A1][ORT1+]
-- 粘土: clay /kleɪ/ √
 - 橡皮泥: play dough /pleɪ dəʊ/
 - 拼图: jigsaw /ˈdʒɪɡsɔː/
 - 木偶: puppet /ˈpʌpɪt/ [ORT1+]
@@ -1688,7 +1689,8 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
-- 挑战: challenge /ˈtʃælɪndʒ/ [B1]
+- 钥匙: key /kiː/ [A1][ORT1+]
+- 挑战: challenge /ˈtʃælɪndʒ/ [B1][ORT1+]
 - 家: home /həʊm/ [A1]
 - 家庭: family /ˈfæməli/ [A1]
 - 结婚: marriage /ˈmærɪdʒ/ [B1]
@@ -1825,6 +1827,9 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 发生: happen /ˈhæpən/ [A2][ORT1+]
+- 破裂: crack /kræk/ [B2][ORT1+]
+- 看出: spot /spɒt/ [B2][ORT1+]
 - 探索: explore /ɪkˈsplɔː/ [B1]
 - 告诉: tell [A1][ORT1+]
 - 喂: feed /fiːd/ [B1][ORT1+]
@@ -1854,7 +1859,7 @@
 - 挖: dig /dɪɡ/ [B1][ORT1+]
 - 来: come /kʌm/ [A1][ORT1+]
 - 说: say /seɪ/ [A1][ORT1+]
-- 找到: find /faɪnd/ [A1]
+- 找到: find /faɪnd/ [A1][ORT1+]
 - 发现: find /faɪnd/ [A2][ORT1+], discover /dɪˈskʌvə/ [B1]
 - 放: put /pʊt/ [A1][ORT1+]
 - 掉落: fall /fɔːl/ [A2][ORT1+]
@@ -1975,6 +1980,7 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 下一个的: next [A2][ORT1+]
 - 其他的: other /ˈʌðə/ [A1]
 - 后面的: back /bæk/ [A2][ORT1+]
 - 花哨的: fancy /ˈfænsi/ [B1][3000][ORT1+]
@@ -2127,7 +2133,7 @@
 - 她自己: herself /hɜːˈself/ [A2]
 - 它自己: itself /ɪtˈself/ [A2]
 - 他们自己: themselves /ðəmˈselvz/ [A2]
-- 某事物: something /ˈsʌmθɪŋ/ [A1]
+- 某事物: something /ˈsʌmθɪŋ/ [A1][ORT1+]
 - 某人: someone /ˈsʌmwʌn/ [A2], somebody /ˈsʌmbədi/ [A2]
 - 任何事物: anything /ˈeniθɪŋ/ [A1]
 - 任何人: anyone /ˈeniwʌn/ [A2], anybody /ˈenibɒdi/ [A2]
