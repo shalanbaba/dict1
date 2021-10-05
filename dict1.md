@@ -264,6 +264,7 @@
 - 小雨: light rain /laɪt reɪn/
 - 大雨: heavy rain /ˈhevi reɪn/
 - 闪电: lightning /ˈlaɪtnɪŋ/ [B1] √
+- 日落: sunset /ˈsʌnset/ [B1][ORT1+]
 - 暴风雨: storm /stɔːm/ [A2] √
 - 雷: thunder /ˈθʌndə(r)/ [B1] √
 - 雪: snow /snəʊ/ [A1] √
@@ -294,6 +295,7 @@
 - 巢穴: den /den/
 - 洞: hole /həʊl/ [B1]
 - 蜘蛛网: web /web/ [B1] √
+- 地洞: burrow /ˈbʌrəʊ/ [ORT1+]
 - 山峰: peak /piːk/ [B1]
 - 沙漠: desert /ˈdezət/ [A2]
 - 珊瑚礁: coral reef /ˈkɒrəl riːf/
@@ -481,7 +483,6 @@
 - 墙纸: wallpaper /ˈwɔːlpeɪpə/
 - 天窗: skylight /ˈskaɪlaɪt/
 - 水槽: sink /sɪŋk/ [A2]
-- 浴缸: tub /tʌb/
 - 栏杆: railing /ˈreɪlɪŋ/
 - 扶手: handrail /ˈhændreɪl/
 - 一楼: ground floor /ɡraʊnd flɔː/ (英) [B1], first floor /fɜːst flɔː/ (美) [B1]
@@ -497,6 +498,7 @@
 - 地毯: carpet /ˈkɑːpɪt/ [A2], rug /rʌɡ/ [B1][ORT1]
 - 花瓶: vase /veɪs/ [B1]
 - 镜子: mirror /ˈmɪrə/ [A2]
+- 龙头: tap /tæp/ (英), faucet /ˈfɔːsɪt/ (美) [B1]
 - 台阶: step /step/ [B1][ORT1+]
 #### 游乐场: the playground /ðə ˈpleɪɡraʊnd/ [A2] √, the funfair /ðə ˈfʌnfeə/
 - 摩天轮: ferris wheel /ferɪs wiːl/
@@ -625,12 +627,14 @@
 - 瓶: bottle /ˈbɒtl/ [A2]
 - 罐头: can /kæn/ [A2][ORT1+], tin /tɪn/ [B1][ORT1+]
 - 罐: jar /dʒɑː/ [B1]
+- 缸: tub /tʌb/
 - 保温杯: vacuum flask /ˈvækjuːm flɑːsk/
 - 篮子: basket /ˈbɑːskɪt/ [B1][ORT1+]
 - 桶: bucket /ˈbʌkɪt/ [B1][ORT1+]
 - 盒子: box /bɒks/ [A1][ORT1]
 - 储物箱: storage box /ˈstɔːrɪdʒ bɒks/
 - 圆形容器: pot /pɒt/ [B1][ORT1+]
+- 大型液体或气体容器: tank /tæŋk/ [C2]
 #### 宠物用品: pet supplies /pet səˈplaɪz/
 - 狗绳: dog leash /dɔːɡ liːʃ/
 - 笼子: cage /keɪdʒ/ [B1]
@@ -900,7 +904,7 @@
   - 鹅: goose /ɡuːs/
   - 小鹅: gosling /ˈɡɒzlɪŋ/
   - 小蝌蚪: tadpole /ˈtædpəʊl/ √
-  - 猫头鹰: owl /aʊl/ [B2] √
+  - 猫头鹰: owl /aʊl/ [B2][ORT1+] √
   - 小猫头鹰: owlet /ˈaʊlət/
   - 乌鸦: crow /krəʊ/
   - 燕子: swallow /ˈswɒləʊ/
@@ -916,7 +920,7 @@
   - 知更鸟: robin /ˈrɒbɪn/ [ORT1+]
 - 蛤蜊: clam /klæm/
 - 昆虫: insects /ˈɪnsekts/ [A2]
-  - 虫子: bug /bʌɡ/ [B1] √
+  - 虫子: bug /bʌɡ/ [B1][ORT1+] √
   - 苍蝇: fly /flaɪ/ [B1] √
   - 萤火虫: firefly /ˈfaɪəflaɪ/
   - 蚊子: mosquito /məˈskiːtəʊ/ [B1] √
@@ -993,7 +997,7 @@
 - 龙虾: lobster /ˈlɒbstə/
 - 小龙虾: crayfish /ˈkreɪfɪʃ/, crawfish /ˈkrɔːfɪʃ/
 - 水母: jellyfish /ˈdʒelifɪʃ/
-- 蠕虫: worms /wɜːmz/ [B2] √
+- 蠕虫: worms /wɜːmz/ [B2][ORT1+] √
   - 蚯蚓: earthworm /ˈɜːθwɜːm/
   - 鼻涕虫: slug /slʌɡ/
 - 毛毛虫: caterpillar /ˈkætəpɪlə/ [ORT1+] √
@@ -1268,6 +1272,7 @@
     - 第一: first /fɜːst/ [A1]
     - 第二: second /ˈsekənd/ [A1]
     - 第三: third /θɜːd/ [A2]
+    - 第一百: one hundredth /wʌn ˈhʌndrədθ/
   - 基数: cardinal numbers /ˈkɑːdɪnl ˈnʌmbəz/
     - 0: zero /ˈzɪərəʊ/ [A2] √
     - 1: one /wʌn/ [A1][ORT1+] √
@@ -1696,6 +1701,7 @@
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
 - 一点: bit /bɪt/ [A2][ORT1+]
+- 上面: upside /ˈʌpsaɪd/ [B2][ORT1+]
 - 钥匙: key /kiː/ [A1][ORT1+]
 - 挑战: challenge /ˈtʃælɪndʒ/ [B1][ORT1+]
 - 家: home /həʊm/ [A1]
@@ -1837,6 +1843,11 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 加入: join /dʒɔɪn/ [A2][ORT1+]
+- 意思: mean /miːn/ [A2][ORT1+]
+- 下沉: sink /sɪŋk/ [B1]
+- 打猎: hunt /hʌnt/ [B1][ORT1+]
+- 休息: rest /rest/ [B1][ORT1+]
 - 吻合: fit /fɪt/ [B1][ORT1+]
 - 自己的: own /əʊn/ [A2][ORT1+]
 - 按: press /pres/ [B1][ORT1+]
@@ -1850,7 +1861,7 @@
 - 匹配: match /mætʃ/ [B1]
 - 发音: sound /saʊnd/ [A2][3000]
 - 融合: blend /blend/
-- 指: point /pɔɪnt/ [A2]
+- 指: point /pɔɪnt/ [A2][ORT1+]
 - 追踪: trace /treɪs/ [C1]
 - 使用: use /juːz/ [A1]
 - 吸: suck /sʌk/ [C2][ORT1+]
@@ -1877,7 +1888,7 @@
 - 发现: find /faɪnd/ [A2][ORT1+], discover /dɪˈskʌvə/ [B1]
 - 放: put /pʊt/ [A1][ORT1+]
 - 掉落: fall /fɔːl/ [A2][ORT1+]
-- 设置: set [B1][ORT1+]
+- 设置, 落下 (太阳): set [B1][ORT1+]
 - 停留: stay /steɪ/ [A1][ORT1+]
 - 做: do /duː/ [A1][ORT1]
 - 想要: want /wɒnt/ [A1][ORT1]
@@ -1991,9 +2002,10 @@
     - 将会: will /wɪl/ [A2][ORT1+], would /wʊd/ [B1]
     - 应该: shall /ʃæl/ [A2], should /ʃʊd/ [A2]
 #### 冠词: articles /ˈɑːtɪklz/ [B1]
-- 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
+- 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000][ORT1+]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 黑暗的: dark /dɑːk/ [A2][ORT1+]
 - 下一个的: next [A2][ORT1+]
 - 其他的: other /ˈʌðə/ [A1]
 - 后面的: back /bæk/ [A2][ORT1+]
@@ -2089,7 +2101,7 @@
 - 一起: together /təˈɡeðə/ [A1], along /əˈlɒŋ/ [B1]
 - 外面: outside /ˌaʊtˈsaɪd/ [A1]
 - 什么时候: when /wen/ [A1] √
-- 什么地方: where /weə/ [A1] √
+- 什么地方: where /weə/ [A1][ORT1+] √
 - 为什么: why /waɪ/ [A1] √
 - 怎么样: how /haʊ/ [A2] √
 - 然而: however /haʊˈevə/ [A2]
@@ -2119,7 +2131,7 @@
 - 因此: so /səʊ/ [A2]
 - 如果: if /ɪf/ [A2][ORT1+]
 - 但是: but /bʌt/ [A1][ORT1+]
-- 如同: as /æz/ [B1][ORT1+]
+- 如同, 当...时: as /æz/ [B1][ORT1+]
 - 的: of /ɒv/ [A1][ORT1+]
 - 无论哪里: wherever /weərˈevə/ [B1]
 - 当: while /waɪl/ [A2]
