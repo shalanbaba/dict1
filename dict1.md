@@ -926,7 +926,7 @@
   - 蚊子: mosquito /məˈskiːtəʊ/ [B1] √
   - 蚂蚁: ant /ænt/ [B1] √
   - 蜻蜓: dragonfly /ˈdræɡənflaɪ/ √
-  - 瓢虫: ladybug /leɪdɪbʌɡ/ √
+  - 瓢虫: ladybird /ˈleɪdibɜːd/ (英), ladybug /leɪdɪbʌɡ/ (美) √
   - 蜜蜂: honeybee /ˈhʌnibiː/ √
   - 黄蜂: wasp /wɒsp/ [B2]
   - 大黄蜂: bumblebee /ˈbʌmblbiː/
