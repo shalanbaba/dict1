@@ -355,6 +355,7 @@
 - 石头: stone /stəʊn/ [B1]
 - 大理石: marble /ˈmɑːbl/
 - 粘土: clay /kleɪ/ [ORT1+] √
+- 橡胶: rubber /ˈrʌbə/ [B2]
 #### 城市: the city /ðə ˈsɪti/ [A1]
 - 井盖: manhole cover /ˈmænhəʊl ˈkʌvə/
 - 草坪: lawn /lɔːn/ [C1]
