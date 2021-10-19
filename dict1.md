@@ -301,6 +301,7 @@
 - 珊瑚礁: coral reef /ˈkɒrəl riːf/
 - 贝壳: shell /ʃel/ [B2] √
 - 油田: oilfield /ˈɔɪlfiːld/
+- 化石: fossil /ˈfɒsl/
 - 草地: meadow /ˈmedəʊ/
 - 陆地: land /lænd/ [B2][ORT1+]
 #### 天气: the weather /ðə ˈweðə/ [A1][3000] √
