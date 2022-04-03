@@ -1057,7 +1057,7 @@
 - 叙述者 (旁白): narrator /nəˈreɪtə/ [C2]
 - 访客: visitor /ˈvɪzɪtə/ [A2]
 - 囚犯: prisoner /ˈprɪznə/ [B1]
-- 海盗: pirate /ˈpaɪrət/ [B1][ORT1+]
+- 海盗: pirate /ˈpaɪrət/ [B1][ORT1+] √
 - 国王: king /kɪŋ/ [A2] √
 - 皇后: queen /kwiːn/ [A2] √
 - 公主: princess /ˌprɪnˈses/ [B1] √
