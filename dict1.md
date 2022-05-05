@@ -2183,7 +2183,6 @@
 - 张: piece /piːs/ [A2]
 - 块: block /blɒk/ [B2]
 - 组, 群: group /ɡruːp/ [A1]
-- 推: stack /stæk/
 - 束: bunch /bʌntʃ/ [B1][ORT1+]
 - 堆: heap /hiːp/ [C2]
 - 滴: drop /drɒp/ [B1]
