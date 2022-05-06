@@ -143,17 +143,17 @@
 - 无印良品: MUJI /muːdʒiː/
 - 耐克: Nike /ˈnaɪki/
 #### 名字: names /neɪmz/ [A1][3000]
-- 奥尔夫: Olaf /ˈəʊlɑːf/
-- 瓦力: WALL·E /wɔːl iː/
-- 麦克唐纳: MacDonald /məkˈdɔnəld/ √
+- Olaf /ˈəʊlɑːf/
+- WALL·E /wɔːl iː/
+- MacDonald /məkˈdɔnəld/ √
 - Biff /bɪf/ [ORT1] √
 - Chip /tʃɪp/ [ORT1] √
 - Kipper /ˈkɪpə/ [ORT1] √
 - Floppy /ˈflɒpi/ [ORT1] √
-- 威尔夫: Wilf /wɪlf/ [ORT1+] √
-- 威尔玛: Wilma /ˈwɪlmə/ [ORT1+] √
-- 纳迪姆: Nadim /nəˈdɪm/ [ORT3]
-- 安妮娜: Anneena /əˈniːnə/ [ORT4]
+- Wilf /wɪlf/ [ORT1+] √
+- Wilma /ˈwɪlmə/ [ORT1+] √
+- Nadim /nəˈdɪm/ [ORT3]
+- Anneena /əˈniːnə/ [ORT4]
 #### 宇宙: the universe /ði ˈjuːnɪvɜːs/ [B1][3000]
 - 行星: planet /ˈplænɪt/ [B1]
 - 小行星: asteroid /ˈæstərɔɪd/
