@@ -68,7 +68,8 @@
 - 搜索引擎: search engine /sɜːtʃ ˈendʒɪn/
 - 秘密: secret /ˈsiːkrət/ [B1]
 - 记录: record /ˈrekɔːd/ [B2]
-- 票, 罚单: ticket /ˈtɪkɪt/ [A1] √
+- 票: ticket /ˈtɪkɪt/ [A1][3000][ORT1+]
+- 罚单: ticket /ˈtɪkɪt/
 - 名字: name /neɪm/ [A1] √
 - 区号: area code /ˈeəriə kəʊd/
 - 地址: address /əˈdres/ [A1]
@@ -433,7 +434,7 @@
 - 工厂: factory /ˈfæktri/ [A1]
 - 商店: shop /ʃɒp/ [A2][ORT1+], store /stɔː/ [B1]
 - 垃圾房: garbage room /ˈɡɑːbɪdʒ ruːm/
-- 垃圾场: dump /dʌmp/ [C1]
+- 垃圾场: dump /dʌmp/ [C1], tip /tɪp/ (英) [C2][ORT1+]
 - 变电站: transformer substation /trænsˈfɔːmə ˈsʌbsteɪʃn/
 - 亭子: pavilion /pəˈvɪliən/
 - 加油站: gas station /ˈɡæs steɪʃn/ [A2]
@@ -518,6 +519,7 @@
 - 脚踏船: pedalo /ˈpedələʊ/ (英), pedal boat /ˈpedl bəʊt/ (美)
 #### 农场: the farm /ðə fɑːm/ [A1] √
 - 猪圈: pigpen /pɪɡpen/
+- 圈: pen /pen/ [ORT1+]
 - 干草: hay /heɪ/ √
 - 马厩: stable /ˈsteɪbl/ [C2]
 - 村舍: cottage /ˈkɒtɪdʒ/ [B1]
@@ -970,7 +972,7 @@
   - 大象: elephant /ˈelɪfənt/ [A2] √
   - 骆驼: camel /ˈkæml/ [B1] √
   - 狐狸: fox /fɒks/ [B2] √
-  - 兔子: rabbit /ˈræbɪt/ [A2] √
+  - 兔子: rabbit /ˈræbɪt/ [A2][ORT1+] √
   - 小兔子: bunny /ˈbʌni/ √
   - 猫: cat /kæt/ [A1][ORT1+] √
   - 小猫: kitten /ˈkɪtn/ [B1][ORT1+] √
@@ -1077,7 +1079,7 @@
 - 中国人: Chinese /ˌtʃaɪˈniːz/
 - 美国人: American /əˈmerɪkən/
 - 英国人: British /ˈbrɪtɪʃ/
-#### 职业: jobs /dʒobs/ [A1]
+#### 职业: jobs /dʒobs/ [A1][ORT1+]
 - 邮递员: postman /ˈpəʊstmən/ [B1]
 - 宇航员: astronaut /ˈæstrənɔːt/ √, spaceman /ˈspeɪsmæn/ [ORT1]
 - 消防员: firefighter /ˈfaɪəfaɪtə/ [B1] √
@@ -1219,7 +1221,7 @@
   - 小脚趾: little toe /ˈlɪtl təʊ/
 - 脚: foot /fʊt/ [A1][ORT1+]
 - 脚尖: tiptoe /ˈtɪptəʊ/
-- 肚子: tummy /ˈtʌmi/ (儿语) √
+- 肚子: tum /tʌm/ (儿语) [ORT1+], tummy /ˈtʌmi/ (儿语) √
 - 腹部: belly /ˈbeli/
 - 肚脐: belly button /ˈbeli ˈbʌtn/
 - 胃: stomach /ˈstʌmək/ [A2]
@@ -1860,6 +1862,9 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 挑选: pick /pɪk/ [B1][ORT1+]
+- 舔: lick /lɪk/ [B2][ORT1+]
+- 拥抱: hug /hʌɡ/ [B1][ORT1+]
 - 轻敲: tap /tæp/ [B2][ORT1+]
 - 踩踏板: pedal /ˈpedl/ [ORT1+]
 - 踢: kick /kɪk/ [A1][3000][ORT1+]
@@ -2028,6 +2033,7 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000][ORT1+]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 肥的: fat /fæt/ [A1][3000][ORT1+]
 - 发疯的: mad /mæd/ [B1][3000][ORT1+]
 - 黑暗的: dark /dɑːk/ [A2][ORT1+]
 - 下一个的: next [A2][ORT1+]
