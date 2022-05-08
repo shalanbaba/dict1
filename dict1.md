@@ -338,6 +338,7 @@
 - 木炭: charcoal /ˈtʃɑːkəʊl/
 - 石油: petroleum /pəˈtrəʊliəm/
 - 天然气: natural gas /ˈnætʃrəl ɡæs/
+- 燃气: gas /ɡæs/ [A2][ORT1+]
 - 汽油: petrol /ˈpetrəl/ (英) [A2] √, gas /ɡæs/ (美) [A2] √, gasoline /ˌɡæsəˈliːn/ (美) [B2]
 - 柴油: diesel /ˈdiːzl/ [C1] √
 - 电: electricity /ɪˌlekˈtrɪsəti/ [A2]
@@ -607,7 +608,6 @@
 - 锅: pot /pɒt/ [B1][ORT1]
 - 平底锅: pan /pæn/ [B1][ORT1]
 - 高压锅: pressure cooker /ˈpreʃə kʊkə/
-- 锅盖: lid /lɪd/ [B2]
 - 炒锅: wok /wɒk/
 - 煎锅: frying pan /ˈfraɪɪŋ pæn/ [B1][ORT1]
 - 烤盘: oven dish /ˈʌvn dɪʃ/
@@ -633,7 +633,7 @@
 - 瓶: bottle /ˈbɒtl/ [A2]
 - 罐头: can /kæn/ [A2][ORT1+], tin /tɪn/ [B1][ORT1+]
 - 罐: jar /dʒɑː/ [B1]
-- 缸: tub /tʌb/
+- 缸: tub /tʌb/ [ORT1+]
 - 保温杯: vacuum flask /ˈvækjuːm flɑːsk/
 - 篮子: basket /ˈbɑːskɪt/ [B1][ORT1+]
 - 桶: bucket /ˈbʌkɪt/ [B1][ORT1+]
@@ -1710,6 +1710,7 @@
 #### 生活: life /laɪf/ [B1]
 - 一点: bit /bɪt/ [A2][ORT1+]
 - 上面: upside /ˈʌpsaɪd/ [B2][ORT1+]
+- 盖: lid /lɪd/ [B2][ORT1+]
 - 钥匙: key /kiː/ [A1][ORT1+]
 - 挑战: challenge /ˈtʃælɪndʒ/ [B1][ORT1+]
 - 家: home /həʊm/ [A1]
