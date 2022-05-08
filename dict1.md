@@ -506,7 +506,7 @@
 - 地毯: carpet /ˈkɑːpɪt/ [A2], rug /rʌɡ/ [B1][ORT1]
 - 花瓶: vase /veɪs/ [B1]
 - 镜子: mirror /ˈmɪrə/ [A2]
-- 龙头: tap /tæp/ (英), faucet /ˈfɔːsɪt/ (美) [B1]
+- 龙头: tap /tæp/ (英) [ORT1+], faucet /ˈfɔːsɪt/ (美) [B1]
 - 台阶: step /step/ [B1][ORT1+]
 #### 游乐场: the playground /ðə ˈpleɪɡraʊnd/ [A2] √, the funfair /ðə ˈfʌnfeə/
 - 摩天轮: ferris wheel /ferɪs wiːl/
@@ -859,7 +859,9 @@
 - 套头毛衣: jumper /ˈdʒʌmpə/ (英) [A2], sweater /ˈswetə/ (美) [A2]
 - 短裤: shorts /ʃɔːts/ [A2]
 - 裙子: skirt /skɜːt/ [A1]
-- 帽子: hat /hæt/ [A1][ORT1+], cap /kæp/ [A2]
+- 帽子: hat /hæt/ [A1][ORT1+]
+- 有帽舌的帽子: cap /kæp/ [A2][ORT1+]
+- 绒球: pom-pom /pɒm pɒm/ [ORT1+]
 - 太阳帽: sunhat /ˈsʌnhæt/ [ORT1+]
 - 围巾: scarf /skɑːf/ [A2][ORT1+] √
 - 手套: gloves /ɡlʌvz/ [A2], mittens /ˈmɪtnz/ √
@@ -1152,8 +1154,8 @@
 - 舅舅: uncle /ˈʌŋkl/ [A2]
 - 舅妈: aunt /ɑːnt/ [A2]
 - 父母: parent /ˈpeərənt/ [A1]
-- 爷爷, 外公: grandpa /ˈɡrænpɑː/ [A2][ORT1+]
-- 奶奶, 外婆: grandma /ˈɡrænmɑː/ [A2]
+- 爷爷, 外公: grandpa /ˈɡrænpɑː/ [A2][ORT1+], grandfather /ˈɡrænfɑːðə/ [A2][3000]
+- 奶奶, 外婆: grandma /ˈɡrænmɑː/ [A2], grandmother /ˈɡrænmʌðə/ [A2][3000], gran /ɡræn/ [ORT1+]
 - 姐姐: sister /ˈsɪstə/ [A1] √
 - 兄弟: brother /ˈbrʌðə/ [A1] √
 - 堂、表兄弟姐妹: cousin /ˈkʌzn/ [A2]
@@ -2026,6 +2028,7 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000][ORT1+]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 发疯的: mad /mæd/ [B1][3000][ORT1+]
 - 黑暗的: dark /dɑːk/ [A2][ORT1+]
 - 下一个的: next [A2][ORT1+]
 - 其他的: other /ˈʌðə/ [A1]
