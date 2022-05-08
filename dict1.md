@@ -607,7 +607,7 @@
 #### 厨具: cooking utensils /ˈkʊkɪŋ juːˈtenslz/
 - 水壶: kettle /ˈketl/ [B1]
 - 火锅: hotpot /ˈhɒtpɒt/ √
-- 锅: pot /pɒt/ [B1][ORT1]
+- 锅: pot /pɒt/ [B1][3000][ORT1]
 - 平底锅: pan /pæn/ [B1][ORT1]
 - 高压锅: pressure cooker /ˈpreʃə kʊkə/
 - 炒锅: wok /wɒk/
@@ -641,7 +641,7 @@
 - 桶: bucket /ˈbʌkɪt/ [B1][ORT1+]
 - 盒子: box /bɒks/ [A1][ORT1]
 - 储物箱: storage box /ˈstɔːrɪdʒ bɒks/
-- 圆形容器: pot /pɒt/ [B1][ORT1+]
+- 圆形容器: pot /pɒt/ [B1][3000][ORT1+]
 - 大型液体或气体容器: tank /tæŋk/ [C2]
 #### 宠物用品: pet supplies /pet səˈplaɪz/
 - 狗绳: dog leash /dɔːɡ liːʃ/
@@ -1022,7 +1022,7 @@
 #### 植物: the plant /ðə plænt/ [A1]
 - 花: flowers /ˈflaʊəz/ [A1][ORT1+] √
   - 樱花: sakura /sakurə/
-- 花苞: bud /bʌd/ √
+- 花苞: bud /bʌd/ [ORT1+]
 - 花瓣: petal /ˈpetl/
 - 树: trees /triːz/ [A1] √
   - 橡树: oak tree /əʊk triː/
