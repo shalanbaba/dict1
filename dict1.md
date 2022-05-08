@@ -710,6 +710,7 @@
 - 螺母: nut /nʌt/
 - 钩子: hook /hʊk/ [B2]
 - 齿轮: gear /ɡɪə/ [B2]
+- 踏板: pedal /ˈpedl/ [B2]
 #### 工具: tools /tuːlz/ [B2]
 - 梯子: ladder /ˈlædə/ [B1][ORT1+]
 - 手推车: trolley /ˈtrɒli/ [B2][ORT1+]
@@ -1648,6 +1649,7 @@
 - 乒乓球: table tennis /ˈteɪbl tenɪs/ [A2]
 - 游泳: swimming /ˈswɪmɪŋ/ [A2] √
 - 跳绳: skipping /skɪpɪŋ/
+- 跑: run /rʌn/ [B1][3000]
 #### 运动装备: sports equipments /spɔːts ɪˈkwɪpmənts/
 - 头盔: helmet /ˈhelmɪt/ [B2] √
 - 球拍: racket /ˈrækɪt/ [A2]
@@ -1730,6 +1732,7 @@
 - 恶作剧: trick /trɪk/ [B1][ORT1]
 - 冒险: adventure /ədˈventʃə/ [A2]
 - 比赛: race /reɪs/ [A2][ORT1], match /mætʃ/ [A2]
+- 板球或棒球比赛中的一分: run /rʌn/ [B2][3000][ORT1+]
 - 进球: goal /ɡəʊl/ [A2][ORT1+]
 - 技能: skill /skɪl/ [B1]
 - 某种东西: whatsit /ˈwɒtsɪt/ [ORT5]
@@ -1855,6 +1858,9 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 轻敲: tap /tæp/ [B2][ORT1+]
+- 踩踏板: pedal /ˈpedl/ [ORT1+]
+- 踢: kick /kɪk/ [A1][3000][ORT1+]
 - 唱: sing /sɪŋ/ [A1][3000]
 - 游泳: swim /swɪm/ [A1][3000]
 - 悬挂: hang /hæŋ/ [B1][3000]
