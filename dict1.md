@@ -969,7 +969,7 @@
   - 狗: dog /dɒɡ/ [A1][ORT1+] √
   - 小狗: puppy /ˈpʌpi/ [B1] √
   - 猪: pig /pɪɡ/ [A1] √
-  - 小猪: piggy /ˈpɪɡi/ √
+  - 小猪: piggy /ˈpɪɡi/ √, piglet /ˈpɪɡlət/
   - 小羊: lamb /læm/ [B1] √
   - 马: horse /hɔːs/ [A1][3000][ORT1+]
   - 小马: foal /fəʊl/, pony /ˈpəʊni/ [C1] √
@@ -987,7 +987,6 @@
   - 河狸: beaver /ˈbiːvə/
   - 狮子: lion ˈlaɪən [A2] √
   - 熊: bear /beə/ [A2] √
-  - 海象: walrus /ˈwɔːlrəs/
 - 恐龙: dinosaur /ˈdaɪnəsɔː/ [A2][ORT1+] √
 - 鱼: fish /fɪʃ/ [A1] √
   - 金鱼: goldfish /ˈɡəʊldfɪʃ/ [ORT1+] √
@@ -1117,6 +1116,7 @@
 - 环卫工: sanitation worker /ˌsænɪˈteɪʃn ˈwɜːkə/
 - 保洁工: cleaner /ˈkliːnə/ [A2] √
 - 魔术师: conjurer /ˈkʌndʒərə/
+- 小丑: clown /klaʊn/ [A2]
 - 潜水员: diver /ˈdaɪvə/ [B1]
 - 建筑师: architect /ˈɑːkɪtekt/ [B1]
 - 会计师: accountant /əˈkaʊntənt/ [B1]
@@ -1848,6 +1848,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 唱: sing /sɪŋ/ [A1][3000]
 - 游泳: swim /swɪm/ [A1][3000]
 - 悬挂: hang /hæŋ/ [B1][3000]
 - 加入: join /dʒɔɪn/ [A2][ORT1+]
