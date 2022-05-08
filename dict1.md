@@ -847,6 +847,7 @@
 - 发射: launch /lɔːntʃ/ [C1] √
 - 发射台: launch pad /ˈlɔːntʃ pæd/
 #### 服装: clothes /kləʊðz/ [A1]
+- 上衣: top /tɒp/ [B1][3000][ORT1+]
 - 内衣: underwear /ˈʌndəweə/ [B1]
 - 体恤衫: t-shirt /ˈtiː ʃɜːt/ [A1][3000]
 - 衬衫: shirt /ʃɜːt/ [A1][3000], blouse (女式) /blaʊs/ [A1]
