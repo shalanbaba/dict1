@@ -154,6 +154,7 @@
 - Wilma /ˈwɪlmə/ [ORT1+] √
 - Nadim /nəˈdɪm/ [ORT3]
 - Anneena /əˈniːnə/ [ORT4]
+- Robin Hood /ˌrɒbɪn ˈhʊd/
 #### 宇宙: the universe /ði ˈjuːnɪvɜːs/ [B1][3000]
 - 行星: planet /ˈplænɪt/ [B1]
 - 小行星: asteroid /ˈæstərɔɪd/
@@ -985,6 +986,7 @@
   - 河狸: beaver /ˈbiːvə/
   - 狮子: lion ˈlaɪən [A2] √
   - 熊: bear /beə/ [A2] √
+  - 海象: walrus /ˈwɔːlrəs/
 - 恐龙: dinosaur /ˈdaɪnəsɔː/ [A2][ORT1+] √
 - 鱼: fish /fɪʃ/ [A1] √
   - 金鱼: goldfish /ˈɡəʊldfɪʃ/ [ORT1+] √
@@ -1845,6 +1847,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 悬挂: hang /hæŋ/ [B1]
 - 加入: join /dʒɔɪn/ [A2][ORT1+]
 - 意思: mean /miːn/ [A2][ORT1+]
 - 下沉: sink /sɪŋk/ [B1]
