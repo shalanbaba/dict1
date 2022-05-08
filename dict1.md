@@ -248,6 +248,8 @@
 - 山: mountain /ˈmaʊntən/ [A2] √
 - 河: river /ˈrɪvə/ [A1] √
 - 泥: mud /mʌd/ [B2][ORT1+] √
+- 沼泽: bog /bɒɡ/ (泥) [ORT1+], marsh /mɑːʃ/ (草), swamp /swɒmp/ (木)
+- 湿地: wetland /ˈwetlənd/
 - 土: soil /sɔɪl/ [B2]
 - 沙: sand /sænd/ [B1][ORT1+] √
 - 火山: volcano /vɒlˈkeɪnəʊ/ [B2] √
@@ -523,6 +525,7 @@
 - 稻草人: scarecrow /ˈskeəkrəʊ/ [ORT1+]
 #### 建材: construction materials /kənˈstrʌkʃn məˈtɪərɪəlz/
 - 水泥: cement /sɪˈment/
+- 原木: log /lɔːɡ/ [C1][ORT1+]
 - 混凝土: concrete /ˈkɒŋkriːt/ [B2] √
 - 砖: brick /brɪk/ [B2] √
 - 木地板: wood floor /wʊd flɔː/
@@ -1990,7 +1993,6 @@
 - 挤: squeeze /skwiːz/ [B2]
 - 狼吞虎咽: gobble /ˈɡɒbl/
 - 尖叫: squeal /skwiːl/
-- 是: be /biː/ [A1][ORT1] √
 - 需要: need /niːd/ [A1]
 - 停: stop /stɒp/ [A1][ORT1+]
 - 去: go /ɡəʊ/ [A1][ORT1]
@@ -2002,6 +2004,7 @@
 - 拿着: hold /həʊld/ [A2][3000][ORT1+]
 - 隐藏: hide /haɪd/ [B1][ORT1+]
 - 遇见: meet /miːt/ [A1][ORT1+]
+- 是: be /biː/ [A1][3000][ORT1] √
 - 情态动词: modal verbs /ˈməʊdl vɜːbz/ [B1]
     - 必须: must /mʌst/ [B1]
     - 能: can /kæn/ [A1][ORT1], could /kʊd/ [A2]
