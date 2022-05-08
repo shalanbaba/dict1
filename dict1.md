@@ -1847,7 +1847,8 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
-- 悬挂: hang /hæŋ/ [B1]
+- 游泳: swim /swɪm/ [A1][3000]
+- 悬挂: hang /hæŋ/ [B1][3000]
 - 加入: join /dʒɔɪn/ [A2][ORT1+]
 - 意思: mean /miːn/ [A2][ORT1+]
 - 下沉: sink /sɪŋk/ [B1]
@@ -1928,7 +1929,7 @@
 - 跋涉: trek /trek/
 - 训练: train /treɪn/ [B1]
 - 伤害: hurt /hɜːt/ [A2]
-- 滑动: slide /slaɪd/
+- 滑动: slide /slaɪd/ [B2][3000]
 - 钓鱼: fish /fɪʃ/ [B1]
 - 划船: row /rəʊ/ [B2] √
 - 走: walk /wɔːk/ [A1][ORT1+] √
