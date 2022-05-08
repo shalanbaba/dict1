@@ -1881,7 +1881,7 @@
 - 按: press /pres/ [B1][ORT1+]
 - 发生: happen /ˈhæpən/ [A2][ORT1+]
 - 破裂: crack /kræk/ [B2][ORT1+]
-- 看出: spot /spɒt/ [B2][ORT1+]
+- 看出: spot /spɒt/ [B2][3000][ORT1+]
 - 探索: explore /ɪkˈsplɔː/ [B1]
 - 告诉: tell /tel/ [A1][ORT1+]
 - 复述: retell /ˌriːˈtel/ [ORT1+]
