@@ -1,5 +1,6 @@
 #### 信息: information /ˌɪnfəˈmeɪʃn/ [A2][3000]
 - 目录: contents /ˈkɒntents/ [B2][3000][ORT1+]
+- 词汇表: glossary /ˈɡlɒsəri/ [ORT1+]
 - 页: page /peɪdʒ/ [A1][ORT1+]
 - 奖: award /əˈwɔːd/ [B2][3000]
 - 地图: map /mæp/ [A2][ORT1+]
@@ -120,6 +121,7 @@
 - 星号: asterisk /ˈæstərɪsk/
 - 叉: cross /krɒs/ [A1] √
 - 钩: tick /tɪk/ [B1]
+- 点: dot /dɒt/ [B1][ORT1+]
 - 下划线: underline /ˌʌndəˈlaɪn/ [B1]
 - 加号: addition sign /əˈdɪʃn saɪn/, plus sign /plʌs saɪn/
 - 减号: subtraction sign /səbˈtrækʃn saɪn/, minus sign /ˈmaɪnəs saɪn/
@@ -837,7 +839,7 @@
 #### 船零部件: boat parts /bəʊt pɑːts/
 - 甲板: deck /dek/ [B2][ORT1+]
 #### 航天: aerospace /ˈeərəʊspeɪs/
-- 火箭: rocket /ˈrɒkɪt/ [B2] √
+- 火箭: rocket /ˈrɒkɪt/ [B2][ORT1+] √
 - 航天飞机: space shuttle /speɪs ˈʃʌtl/
 - 人造卫星: satellite /ˈsætəlaɪt/ [B2]
 - 点火: ignition /ɪɡˈnɪʃn/
@@ -1625,7 +1627,7 @@
 - 烘焙: bake /beɪk/ [A2]
 - 烤: roast /rəʊst/ [A2]
 - 削: peel /piːl/ [B2]
-- 切: cut /kʌt/ [A2] √
+- 切: cut /kʌt/ [A2][ORT1+] √
 #### 旅行: travel /ˈtrævl/ [A1], the trip /ðə trɪp/ [A2]
 - 行李: luggage /ˈlʌɡɪdʒ/ (英) [A2], baggage /ˈbæɡɪdʒ/ (美) [B1]
 - 旅途: journey /ˈdʒɜːni/ [A2][3000][ORT1+]
