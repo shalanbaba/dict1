@@ -843,7 +843,8 @@
 - 发射台: launch pad /ˈlɔːntʃ pæd/
 #### 服装: clothes /kləʊðz/ [A1]
 - 内衣: underwear /ˈʌndəweə/ [B1]
-- 体恤衫: t-shirt /ˈtiː ʃɜːt/ [A1]
+- 体恤衫: t-shirt /ˈtiː ʃɜːt/ [A1][3000]
+- 衬衫: shirt /ʃɜːt/ [A1][3000], blouse (女式) /blaʊs/ [A1]
 - 袜子: socks /sɒks/ [A2][ORT1+]
 - 连裤袜: tights /taɪts/ [A2]
 - 内裤: pants /pænts/ (英) [B1], underpants /ˈʌndəpænts/ (美) [B1]
