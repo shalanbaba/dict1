@@ -570,7 +570,7 @@
 - 簸箕: dustpan /ˈdʌstpæn/
 - 海绵: sponge /spʌndʒ/
 - 垃圾桶: waste bin /weɪst bɪn/, bin /bɪn/ (英) [B1][ORT1+]
-- 拖把: mop /mɒp/
+- 拖把: mop /mɒp/ [ORT1+]
 - 刷子: brush /brʌʃ/ [A2]
 - 晾衣架: drying rack /ˈdraɪɪŋ ræk/
 - 衣架: coat hanger /kəʊt hanger/
@@ -1543,7 +1543,7 @@
   - 薯条: chip /tʃɪp/ (英) [A1], french fry /frentʃ fraɪ/ (美) 
   - 坚果: nut /nʌt/ [B2]
   - 巧克力: chocolate /ˈtʃɒklət/ [A1][ORT1+]
-  - 爆米花: popcorn /ˈpɒpkɔːn/ [B1]
+  - 爆米花: popcorn /ˈpɒpkɔːn/ [B1][ORT1+]
 - 水果: fruit /fruːt/ [A1]
   - 菠萝: pineapple /ˈpaɪnæpl/ [B1] √
   - 苹果: apple /ˈæpl/ [A1] √
