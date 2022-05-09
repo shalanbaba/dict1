@@ -1747,7 +1747,7 @@
 - 技能: skill /skɪl/ [B1]
 - 某种东西: whatsit /ˈwɒtsɪt/ [ORT5]
 - 假期: holiday /ˈhɒlədeɪ/ (英) [A1] √, vacation /veɪˈkeɪʃn/ (美) [A1]
-- 事情, 东西: thing /θɪŋ/ [A1]
+- 事情, 东西: thing /θɪŋ/ [A1][ORT1+]
 - 顶部: top /tɒp/ [A2][ORT1+]
 - 结尾: end /end/ [A1]
 - 小心: caution /ˈkɔːʃn/ [C1]
