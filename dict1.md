@@ -1869,8 +1869,8 @@
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
 - 举起: lift /lɪft/ [B1][3000][ORT1+]
-- 感觉: feel /fiːl/ [A1][3000][ORT1+]
-- 思考: think /θɪŋk/ [A1][3000][ORT1+]
+- 感觉: feel /fiːl/ [A1][3000]
+- 思考: think /θɪŋk/ [A1][3000]
 - 挑选: pick /pɪk/ [B1][ORT1+]
 - 舔: lick /lɪk/ [B2][ORT1+]
 - 拥抱: hug /hʌɡ/ [B1][ORT1+]
@@ -2033,7 +2033,7 @@
 - 是: be /biː/ [A1][3000][ORT1] √
 - 情态动词: modal verbs /ˈməʊdl vɜːbz/ [B1]
     - 必须: must /mʌst/ [B1]
-    - 能: can /kæn/ [A1][ORT1], could /kʊd/ [A2][ORT1+]
+    - 能: can /kæn/ [A1][ORT1], could /kʊd/ [A2]
     - 不能: cannot /ˈkænɒt/ [A1][ORT1+]
     - 可能: may /meɪ/ [A2], might /maɪt/ [A2]
     - 将会: will /wɪl/ [A2][ORT1+], would /wʊd/ [B1]
@@ -2126,7 +2126,7 @@
 - 进: in /ɪn/ [A2][3000][ORT1] √
 - 出: out /aʊt/ [B1][ORT1+] √
 - 上: up /ʌp/ [A2][ORT1] √
-- 下: down /daʊn/ [A2][3000][ORT1+] √
+- 下: down /daʊn/ [A2][3000] √
 - 回: back /bæk/ [A1][ORT1+]
 - 继续: on /ɒn/ [ORT1+]
 - 也: also /ˈɔːlsəʊ/ [A1]
@@ -2139,10 +2139,10 @@
 - 最多地: most /məʊst/ [A1][3000]
 - 一起: together /təˈɡeðə/ [A1], along /əˈlɒŋ/ [B1][ORT1+]
 - 外面: outside /ˌaʊtˈsaɪd/ [A1]
-- 什么时候: when /wen/ [A1][ORT1+] √
+- 什么时候: when /wen/ [A1] √
 - 什么地方: where /weə/ [A1][ORT1+] √
 - 为什么: why /waɪ/ [A1] √
-- 怎么样: how /haʊ/ [A2][ORT1+] √
+- 怎么样: how /haʊ/ [A2] √
 - 然而: however /haʊˈevə/ [A2]
 - 离开: away /əˈweɪ/ [A2][ORT1+]
 - 脱离: off [B1][ORT1+]
@@ -2171,7 +2171,7 @@
 - 如果: if /ɪf/ [A2][ORT1+]
 - 但是: but /bʌt/ [A1][ORT1+]
 - 如同: as /æz/ [B1][ORT1+]
-- 当...时: when /wen/ [A2][3000][ORT1+], as /æz/ [B1][ORT1+], 
+- 当...时: when /wen/ [A2][3000], as /æz/ [B1][ORT1+]
 - 的: of /ɒv/ [A1][ORT1+]
 - 无论哪里: wherever /weərˈevə/ [B1]
 - 当: while /waɪl/ [A2]
