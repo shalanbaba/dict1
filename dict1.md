@@ -530,6 +530,7 @@
 - 果园: orchard /ˈɔːtʃəd/
 - 围栏, 篱笆: fence /fens/ [B2] √
 - 稻草人: scarecrow /ˈskeəkrəʊ/ [ORT1+]
+- 磨坊: mill /mɪl/ [ORT1+]
 #### 建材: construction materials /kənˈstrʌkʃn məˈtɪərɪəlz/
 - 水泥: cement /sɪˈment/
 - 原木: log /lɔːɡ/ [C1][ORT1+]
@@ -820,6 +821,7 @@
 - 飞机: aeroplane /ˈeərəpleɪn/ (英) [A2] √, airplane /ˈeəpleɪn/ (美) [A2] √
 - 直升机: helicopter /ˈhelɪkɒptə/ [A2] √
 - 热气球: hot air balloon /hɒt eə bəˈluːn/ √
+- 滑翔伞: paraglider /ˈpærəɡlaɪdə/
 #### 船: boats /bəʊts/ [A1] √
 - 皮划艇: kayak /ˈkaɪæk/
 - 独木舟: canoe /kəˈnuː/
@@ -931,6 +933,7 @@
     - 公鸡: rooster /ˈruːstə/ √
     - 母鸡: hen /hen/ √
     - 小鸡: chick /tʃɪk/ √
+    - 小公鸡: cockerel /ˈkɒkərəl/
   - 孔雀: peacock /ˈpiːkɒk/ √
   - 海鸥: seagull /siːɡʌl/ √
   - 巨嘴鸟: toucan /ˈtuːkæn/
@@ -1865,6 +1868,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 举起: lift /lɪft/ [B1][3000][ORT1+]
 - 感觉: feel /fiːl/ [A1][3000][ORT1+]
 - 思考: think /θɪŋk/ [A1][3000][ORT1+]
 - 挑选: pick /pɪk/ [B1][ORT1+]
@@ -1974,7 +1978,7 @@
 - 听: listen /ˈlɪsn/ [A1]
 - 跳舞: dance /dæns/ [A1] √
 - 拍: clap /klæp/ [B1] √
-- 旋转: spin /spɪn/ [C1] √
+- 旋转: spin /spɪn/ [C1][ORT1+] √
 - 轻拍: pat /pæt/ [C2][ORT1+]
 - 滑雪: ski /skiː/ [B1]
 - 看: look /lʊk/ [A1][ORT1+]
@@ -2133,7 +2137,7 @@
 - 很多地: much /mʌtʃ/ [B1][3000]
 - 更多地: more /mɔː/ [A1][3000]
 - 最多地: most /məʊst/ [A1][3000]
-- 一起: together /təˈɡeðə/ [A1], along /əˈlɒŋ/ [B1]
+- 一起: together /təˈɡeðə/ [A1], along /əˈlɒŋ/ [B1][ORT1+]
 - 外面: outside /ˌaʊtˈsaɪd/ [A1]
 - 什么时候: when /wen/ [A1][ORT1+] √
 - 什么地方: where /weə/ [A1][ORT1+] √
