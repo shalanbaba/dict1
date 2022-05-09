@@ -235,6 +235,8 @@
   - 紫禁城: Forbidden City /fəˈbɪdn ˈsɪti/
   - 长城: Great Wall /ɡreɪt wɔːl/
 #### 自然: nature /ˈneɪtʃə/ [A2][3000]
+- 天空: sky /skaɪ/ [A2][3000][ORT1+]
+- 悬崖: cliff /klɪf/ [B1][ORT1+]
 - 海岸: seashore /ˈsiːʃɔː/
 - 沿海: coast /kəʊst/ [B1]
 - 海滩: beach /biːtʃ/ [A1][3000][ORT1] √
@@ -264,7 +266,7 @@
 - 池塘: pond /pɒnd/ [B2] √
 - 云: cloud /klaʊd/ [A2] √
 - 雾: fog /fɒɡ/ [A2]
-- 风: wind /wɪnd/ [A1] √
+- 风: wind /wɪnd/ [A1][ORT1+] √
 - 微风: breeze /briːz/ [B1]
 - 雨: rain /reɪn/ [A1] √
 - 小雨: light rain /laɪt reɪn/
@@ -379,7 +381,7 @@
 - 面包店: bakery /ˈbeɪkəri/ [B2]
 - 咖啡馆: cafe /ˈkæfeɪ/ [A1], coffee shop /ˈkɒfi ʃɒp/ [A1]
 - 商场: shopping mall /ˈʃɒpɪŋ mɔːl/ √, mall /mɔːl/
-- 电影院: camera /ˈkæmrə/ [A1]
+- 电影院: camera /ˈkæmrə/ [A1][3000][ORT1+]
 - 市场: market /ˈmɑːkɪt/ [A2][ORT1+], mart /mɑːt/
 - 超市: supermarket /ˈsuːpəmɑːkɪt/ [A1][ORT1+]
 - 停车场: parking lot /ˈpɑːkɪŋ lɒt/ [A2] √
@@ -873,6 +875,7 @@
 - 睡衣: pajama /pəˈdʒɑːmə/
 - 腰带: belt /belt/ [A2]
 - 领带: tie /taɪ/ [A2]
+- 口袋: pocket /ˈpɒkɪt/ [A2][3000][ORT1+]
 - 演出服: costume /ˈkɒstjuːm/ [B2]
 - 制服: uniform /ˈjuːnɪfɔːm/ [A2] √
 - 倒挂衣: bib /bɪb/
@@ -1263,7 +1266,7 @@
 - 触觉: touch /tʌtʃ/ [B2]
 - 嗅觉: smell /smel/ [B2]
 - 味觉: taste /teɪst/ [B2]
-#### 感觉: feelings /ˈfiːlɪŋz/ [B1]
+#### 感觉: feelings /ˈfiːlɪŋz/ [B1][3000]
 - 无聊的: bored /bɔːd/ [A1][3000][ORT1+]
 - 舒服的: comfortable /ˈkʌmftəbl/ [B1]
 - 开心的: happy /ˈhæpi/ [A1] √, glad /ɡlæd/ [A2]
@@ -1862,6 +1865,8 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 感觉: feel /fiːl/ [A1][3000][ORT1+]
+- 思考: think /θɪŋk/ [A1][3000][ORT1+]
 - 挑选: pick /pɪk/ [B1][ORT1+]
 - 舔: lick /lɪk/ [B2][ORT1+]
 - 拥抱: hug /hʌɡ/ [B1][ORT1+]
@@ -2024,8 +2029,8 @@
 - 是: be /biː/ [A1][3000][ORT1] √
 - 情态动词: modal verbs /ˈməʊdl vɜːbz/ [B1]
     - 必须: must /mʌst/ [B1]
-    - 能: can /kæn/ [A1][ORT1], could /kʊd/ [A2]
-    - 不能: cannot /ˈkænɒt/ [A1][ORT1+], can't /kɑːnt/
+    - 能: can /kæn/ [A1][ORT1], could /kʊd/ [A2][ORT1+]
+    - 不能: cannot /ˈkænɒt/ [A1][ORT1+]
     - 可能: may /meɪ/ [A2], might /maɪt/ [A2]
     - 将会: will /wɪl/ [A2][ORT1+], would /wʊd/ [B1]
     - 应该: shall /ʃæl/ [A2], should /ʃʊd/ [A2]
@@ -2117,7 +2122,7 @@
 - 进: in /ɪn/ [A2][3000][ORT1] √
 - 出: out /aʊt/ [B1][ORT1+] √
 - 上: up /ʌp/ [A2][ORT1] √
-- 下: down /daʊn/ [A2] √
+- 下: down /daʊn/ [A2][3000][ORT1+] √
 - 回: back /bæk/ [A1][ORT1+]
 - 继续: on /ɒn/ [ORT1+]
 - 也: also /ˈɔːlsəʊ/ [A1]
@@ -2130,10 +2135,10 @@
 - 最多地: most /məʊst/ [A1][3000]
 - 一起: together /təˈɡeðə/ [A1], along /əˈlɒŋ/ [B1]
 - 外面: outside /ˌaʊtˈsaɪd/ [A1]
-- 什么时候: when /wen/ [A1] √
+- 什么时候: when /wen/ [A1][ORT1+] √
 - 什么地方: where /weə/ [A1][ORT1+] √
 - 为什么: why /waɪ/ [A1] √
-- 怎么样: how /haʊ/ [A2] √
+- 怎么样: how /haʊ/ [A2][ORT1+] √
 - 然而: however /haʊˈevə/ [A2]
 - 离开: away /əˈweɪ/ [A2][ORT1+]
 - 脱离: off [B1][ORT1+]
@@ -2161,7 +2166,8 @@
 - 因此: so /səʊ/ [A2]
 - 如果: if /ɪf/ [A2][ORT1+]
 - 但是: but /bʌt/ [A1][ORT1+]
-- 如同, 当...时: as /æz/ [B1][ORT1+]
+- 如同: as /æz/ [B1][ORT1+]
+- 当...时: when /wen/ [A2][3000][ORT1+], as /æz/ [B1][ORT1+], 
 - 的: of /ɒv/ [A1][ORT1+]
 - 无论哪里: wherever /weərˈevə/ [B1]
 - 当: while /waɪl/ [A2]
@@ -2218,6 +2224,7 @@
 #### 感叹词: exclamations /ˌekskləˈmeɪʃnz/, interjections /ˌɪntəˈdʒekʃnz/
 - 你好: hello /həˈləʊ/ [A1] √
 - 嗨: hi /haɪ/ [A1] √, hey /heɪ/ [A2] √
+- 哦: oh /əʊ/ [A1][3000][ORT1+]
 - 再见: bye /baɪ/ [A1] √
 - 好极了: hooray /huˈreɪ/ [ORT1+] √
 - 好: OK /əʊˈkeɪ/ [A1] √
