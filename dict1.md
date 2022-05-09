@@ -924,7 +924,7 @@
   - 鹅: goose /ɡuːs/
   - 小鹅: gosling /ˈɡɒzlɪŋ/
   - 小蝌蚪: tadpole /ˈtædpəʊl/ √
-  - 猫头鹰: owl /aʊl/ [B2][ORT1+] √
+  - 猫头鹰: owl /aʊl/ [B2] √
   - 小猫头鹰: owlet /ˈaʊlət/
   - 乌鸦: crow /krəʊ/
   - 燕子: swallow /ˈswɒləʊ/
@@ -1724,7 +1724,7 @@
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
 - 一点: bit /bɪt/ [A2][ORT1+]
-- 上面: upside /ˈʌpsaɪd/ [B2][ORT1+]
+- 上面: upside /ˈʌpsaɪd/ [B2]
 - 盖: lid /lɪd/ [B2][ORT1+]
 - 钥匙: key /kiː/ [A1]
 - 挑战: challenge /ˈtʃælɪndʒ/ [B1]
@@ -1880,8 +1880,8 @@
 - 唱: sing /sɪŋ/ [A1][3000]
 - 游泳: swim /swɪm/ [A1][3000]
 - 悬挂: hang /hæŋ/ [B1][3000]
-- 加入: join /dʒɔɪn/ [A2][ORT1+]
-- 意思: mean /miːn/ [A2][ORT1+]
+- 加入: join /dʒɔɪn/ [A2]
+- 意思: mean /miːn/ [A2]
 - 下沉: sink /sɪŋk/ [B1]
 - 打猎: hunt /hʌnt/ [B1][ORT1+]
 - 休息: rest /rest/ [B1][ORT1+]
@@ -1898,7 +1898,7 @@
 - 匹配: match /mætʃ/ [B1]
 - 发音: sound /saʊnd/ [A2][3000]
 - 融合: blend /blend/
-- 指: point /pɔɪnt/ [A2][ORT1+]
+- 指: point /pɔɪnt/ [A2]
 - 追踪: trace /treɪs/ [C1]
 - 使用: use /juːz/ [A1]
 - 吸: suck /sʌk/ [C2][ORT1+]
@@ -2039,7 +2039,7 @@
     - 将会: will /wɪl/ [A2][ORT1+], would /wʊd/ [B1]
     - 应该: shall /ʃæl/ [A2], should /ʃʊd/ [A2]
 #### 冠词: articles /ˈɑːtɪklz/ [B1]
-- 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000][ORT1+]
+- 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
 - 肥的: fat /fæt/ [A1][3000][ORT1+]
@@ -2140,7 +2140,7 @@
 - 一起: together /təˈɡeðə/ [A1], along /əˈlɒŋ/ [B1][ORT1+]
 - 外面: outside /ˌaʊtˈsaɪd/ [A1]
 - 什么时候: when /wen/ [A1] √
-- 什么地方: where /weə/ [A1][ORT1+] √
+- 什么地方: where /weə/ [A1] √
 - 为什么: why /waɪ/ [A1] √
 - 怎么样: how /haʊ/ [A2] √
 - 然而: however /haʊˈevə/ [A2]
