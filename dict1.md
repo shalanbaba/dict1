@@ -1,5 +1,6 @@
 #### 信息: information /ˌɪnfəˈmeɪʃn/ [A2][3000]
 - 目录: contents /ˈkɒntents/ [B2][3000][ORT1+]
+- 索引: index /ˈɪndeks/ [C1]
 - 词汇表: glossary /ˈɡlɒsəri/ [ORT1+]
 - 页: page /peɪdʒ/ [A1][ORT1+]
 - 奖: award /əˈwɔːd/ [B2][3000]
