@@ -260,7 +260,7 @@
 - 火山: volcano /vɒlˈkeɪnəʊ/ [B2] √
 - 湖: lake /leɪk/ [A2]
 - 大陆: mainland /ˈmeɪnlænd/
-- 大海: sea /siː/ [A1] √
+- 大海: sea /siː/ [A1][ORT2] √
 - 潮水: tide /taɪd/ [B2]
 - 水坑: puddle /ˈpʌdl/ √
 - 池塘: pond /pɒnd/ [B2] √
@@ -1685,6 +1685,7 @@
 - 救生衣: life vest /laɪf vest/
 - 游泳圈: swimming ring /ˈswɪmɪŋ rɪŋ/
 - 救生圈: life buoy /laɪf bɔɪ/
+- 滑雪板, 划水板: ski /skiː/ [B1][3000][ORT2]
 #### 游戏: games /ɡeɪmz/ [A1][ORT1+]
 - 捉迷藏: hide and seek /haɪd ənd siːk/ [ORT1+] √
 - 躲猫猫: peekaboo /ˈpiːkəbuː/ √
@@ -1724,6 +1725,8 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
+- 喷射流: jet /dʒet/ [ORT2]
+- 一阵狂吹: gust /ɡʌst/ [ORT2]
 - 一点: bit /bɪt/ [A2][ORT1+]
 - 上面: upside /ˈʌpsaɪd/ [B2]
 - 盖: lid /lɪd/ [B2][ORT1+]
@@ -1869,6 +1872,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 抓住: catch /kætʃ/ [A1][3000][ORT2]
 - 问: ask /ɑːsk/ [A1][3000][ORT2]
 - 给: give /ɡɪv/ [A1][3000][ORT2]
 - 使不安: upset /ˌʌpˈset/ [B2][3000][ORT1+]
@@ -1937,7 +1941,7 @@
 - 去取来: fetch /fetʃ/ [B1]
 - 获得: get /ɡet/ [A1][ORT1]
 - 迎接: greet /ɡriːt/ [B1]
-- 感谢: thank /θæŋk/ √
+- 感谢: thank /θæŋk/ [A1][3000][ORT2] √
 - 织: knit /nɪt/ [B1]
 - 广播: broadcast /ˈbrɔːdkɑːst/ [B2]
 - 射击: shoot /ʃuːt/ [B1]
@@ -2152,7 +2156,7 @@
 - 离开: away /əˈweɪ/ [A2][ORT1+]
 - 脱离: off [B1][ORT1+]
 - 这里: here /hɪə/ [A1][3000][ORT1+]
-- 那里: there /ðeə/ [A1][3000]
+- 那里: there /ðeə/ [A1][3000][ORT2]
 - 全部地: all /ɔːl/ [A2][ORT1+]
 - 已经: yet /jet/ [A2][ORT1+]
 - 现在: now /naʊ/ [A1][ORT1+]
@@ -2164,6 +2168,7 @@
 - 在...上面: on /ɒn/ [A1][ORT1+]
 - 在...前面: before /bɪˈfɔː/ [B1]
 - 在...后面: after /ˈɑːftə/ [B1][ORT1+]
+- 到...里面: into [A1][3000][ORT2]
 - 沿着: along /əˈlɒŋ/ [A2]
 - 像: like /laɪk/ [A2][ORT1+]
 - 和...一起: with /wɪð/ [A1]
