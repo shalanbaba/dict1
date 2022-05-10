@@ -427,7 +427,7 @@
 - 足球场: football field /ˈfʊtbɔːl fiːld/
 - 操场: playground /ˈpleɪɡraʊnd/ [A2] √
 - 跑道: racetrack /ˈreɪstræk/
-- 库房: shed /ʃed/ [B2]
+- 库房: shed /ʃed/ [B2][ORT1+]
 - 地下车库: underground garage /ˌʌndəˈɡraʊnd ˈɡærɑːʒ/ √
 - 城堡: castle /ˈkɑːsl/ [A2] √
 - 寺庙: temple /ˈtempl/ [B1]
@@ -542,7 +542,7 @@
 - 水管: water pipe /ˈwɔːtə paɪp/
 #### 灯: the light /ðə laɪt/ [A2]
 - 灯泡: bulb /bʌlb/ [B2]
-- 台灯: lamp /læmp/ [A2]
+- 台灯: desk lamp /desk læmp/
 - 路灯: street light /striːt laɪt/
 - 手电筒: torch /tɔːtʃ/ (英) [B2] √, flashlight /ˈflæʃlaɪt/ (美) [B2]
 - 灯笼: lantern /ˈlæntən/ √
@@ -1175,7 +1175,7 @@
 - 孙子, 外孙: grandson /ˈɡrænsʌn/ [A2]
 - 孙女, 外孙女: granddaughter /ˈɡrændɔːtə/ [A2]
 - 双胞胎: twins /twɪnz/ [B1] √
-- 朋友: friend /frend/ [A1] √
+- 朋友: friend /frend/ [A1] √, pal /pæl/ [ORT1+]
 - 同学: classmate /ˈklɑːsmeɪt/ [A2]
 - 同事: colleague /ˈkɒliːɡ/ [A2]
 - 邻居: neighbour (英), neighbor (美) /ˈneɪbə/ [A2]
@@ -1689,6 +1689,7 @@
 - 捉迷藏: hide and seek /haɪd ənd siːk/ [ORT1+] √
 - 躲猫猫: peekaboo /ˈpiːkəbuː/ √
 #### 玩具: toys /tɔɪz/ [A2]
+- 风筝: kite /kaɪt/ [A2][ORT1+]
 - 跳跳球: hopper /ˈhɒpə/ [ORT1+]
 - 球: ball /bɔːl/ [A1][ORT1+]
 - 橡皮泥: play dough /pleɪ dəʊ/
@@ -1868,6 +1869,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 使不安: upset /ˌʌpˈset/ [B2][3000][ORT1+]
 - 举起: lift /lɪft/ [B1][3000][ORT1+]
 - 感觉: feel /fiːl/ [A1][3000]
 - 思考: think /θɪŋk/ [A1][3000]
