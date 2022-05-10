@@ -561,7 +561,7 @@
 - 床头柜: bedside table /ˈbedsaɪd ˈteɪbl/
 - 沙发: sofa /ˈsəʊfə/ [A2]
 - 床: bed /bed/ [A1][ORT1] √
-- 架子: shelf /ʃelf/ [A2]
+- 架子: shelf /ʃelf/ [A2], rack /ræk/ [ORT2]
 - 衣柜: wardrobe /ˈwɔːdrəʊb/ [B1]
 - 梳妆台: dresser /ˈdresə/ [A2]
 - 抽屉: drawer /drɔ:r/ [A2]
@@ -670,7 +670,7 @@
 - 摄像机: camcorder /ˈkæmkɔːdə/
 - 电视机: television /ˈtelɪvɪʒn/ [A1]
 - 冰箱: fridge /frɪdʒ/ [A2], refrigerator /rɪˈfrɪdʒəreɪtə/ [A1]
-- 烤箱: oven /ˈʌvn/ [B1]
+- 烤箱: oven /ˈʌvn/ [B1][ORT2]
 - 微波炉: microwave /ˈmaɪkrəweɪv/
 - 洗碗机: dishwasher /ˈdɪʃwɔːʃə/ [B1]
 - 烘干机: dryer /ˈdraɪə/
@@ -1502,6 +1502,7 @@
 - 米饭: rice /raɪs/ [A1] √
 - 汤: soup /suːp/ [A1]
 - 墨西哥卷饼: taco /ˈtækəʊ/
+- 姜饼: gingerbread /ˈdʒɪndʒəbred/ [ORT2]
 - 面粉: flour /ˈflaʊə/ [B1][ORT1]
 - 蜂蜜: honey /ˈhʌni/ [A2] √
 - 黄油: butter /ˈbʌtə/ [A1][ORT1]
@@ -1951,7 +1952,7 @@
 - 保护: protect /prəˈtekt/ [B1]
 - 救援: rescue /ˈreskjuː/ [B1] √
 - 擦除: erase /ɪˈreɪz/ [B2]
-- 检查: check /tʃek/ [A2]
+- 检查: check /tʃek/ [A2][ORT2]
 - 巡逻: patrol /pəˈtrəʊl/
 - 吻: kiss /kɪs/ [A2] √
 - 追逐: chase /tʃeɪs/ [B2] √
@@ -1979,7 +1980,7 @@
 - 跑: run /rʌn/ [A1][ORT1+] √
 - 伸展: stretch /stretʃ/ [B2]
 - 滚: roll /rəʊl/
-- 跳: jump /dʒʌmp/ [A2] √, hop /hɒp/ [ORT1+]
+- 跳: jump /dʒʌmp/ [A2][ORT2] √, hop /hɒp/ [ORT1+]
 - 挥: wave /weɪv/ [B1] √
 - 跺脚: stamp /stæmp/ [C2] √
 - 弯曲: bend /bend/ [B2] √
@@ -2084,7 +2085,7 @@
 - 大的 (大小, 数量): large /lɑːdʒ/ [A2], big /bɪɡ/ [A1][ORT1] √
 - 小的 (大小, 数量): small /smɔːl/ [A1][ORT2], little /ˈlɪtl/ [A1][ORT1] √
 - 老的, 旧的: old /əʊld/ [A1][ORT1+]
-- 新的: new /njuː/ [A1]
+- 新的: new /njuː/ [A1][3000][ORT2]
 - 便宜的: cheap /tʃiːp/ [A1]
 - 昂贵的: expensive /ɪkˈspensɪv/ [A1]
 - 好的: good /ɡʊd/ [A1][ORT1] √
@@ -2114,7 +2115,6 @@
 - 那些: those /ðəʊz/ [A1]
 - 一些: some /səm/ [A1][ORT1+], any /ˈeni/ [A1]
 - 每个: every /ˈevri/ [A1][ORT1+]
-- 什么: what /wɒt/ [A1][ORT1+]
 - 很多: many /ˈmeni/ [A1], much /mʌtʃ/ [A2]
 - 更多: more /mɔː/ [A1]
 - 最多: most /məʊst/ [B1]
@@ -2127,6 +2127,7 @@
 - 她的: her /hə/ [A1][ORT1+]
 - 我们的: our /ˈaʊə/ [A1][ORT1+]
 - 他们的: their /ðeə/ [A1]
+- 什么: what /wɒt/ [A1][ORT1+]
 - 谁的: whose /huːz/ [B1]
 - 哪个: which /wɪtʃ/ [A1][3000][ORT1+] √
 - 全部: all /ɔːl/ [A1][ORT1+]
@@ -2177,7 +2178,7 @@
 - 像: like /laɪk/ [A2][ORT1+]
 - 和...一起: with /wɪð/ [A1]
 - 给, 为: for /fɔː/ [A1][ORT1+]
-- 关于: about /əˈbaʊt/ [A1]
+- 关于: about /əˈbaʊt/ [A1][ORT2]
 #### 连词: conjunctions /kənˈdʒʌŋkʃnz/ [B2]
 - 和: and /ænd/ [A1][ORT1] √
 - 或: or /ɔː/ [A1]
