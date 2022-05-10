@@ -1008,7 +1008,7 @@
 - 鱼: fish /fɪʃ/ [A1] √
   - 金鱼: goldfish /ˈɡəʊldfɪʃ/ [ORT1+] √
   - 鲨鱼: shark /ʃɑːk/ [B1] √
-  - 海豚: dolphin /ˈdɒlfɪn/ [B1] √
+  - 海豚: dolphin /ˈdɒlfɪn/ [B1][ORT2] √
   - 三文鱼: salmon /ˈsæmən/ [B1]
   - 银鳕鱼 (小鳞犬牙南极鱼): patagonian toothfish /pætəˈɡəunjən tuːθfɪʃ/
   - 热带鱼: tropical fish /ˈtrɒpɪkl fɪʃ/
@@ -1286,7 +1286,6 @@
 - 疲倦的: tired /ˈtaɪəd/ [A1][ORT1+], worn /wɔːn/
 - 生气的: angry /ˈæŋɡri/ [A2][3000] √, cross /krɒs/ (英) [ORT1+]
 - 抱歉的: sorry /ˈsɒri/ [A1][ORT1+] √
-- 恶心的: silly /ˈsɪli/ [B1] √
 - 好奇的: curious /ˈkjʊəriəs/ [B1]
 - 痛苦的: miserable /ˈmɪzrəbl/ [B1][ORT1+]
 #### 数学: maths /mæθs/ (英) [A2], math /mæθ/ (美) [A2], mathematics /ˌmæθəˈmætɪks/
@@ -1728,6 +1727,7 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
+- 梦: dream /driːm/ [A2][3000][ORT2] √
 - 打架: fight /faɪt/ [B1][3000][ORT2] √
 - 喷射流: jet /dʒet/ [ORT2]
 - 一阵狂吹: gust /ɡʌst/ [ORT2]
@@ -1839,7 +1839,7 @@
 - 宝藏: treasure /ˈtreʒə/ [B2][ORT1+]
 - 藏宝图: treasure map /ˈtreʒə mæp/ [ORT1+]
 - 精灵: elf /elf/
-- 天使: angel /ˈeɪndʒl/ [B1] [ORT1+]
+- 天使: angel /ˈeɪndʒl/ [B1][ORT1+]
 - 圣诞老人: father christmas /ˈfɑːðə ˈkrɪsməs/, santa claus /ˈsæntə klɔːz/
 - 美人鱼: mermaid /ˈmɜːmeɪd/
 - 独角兽: unicorn /ˈjuːnɪkɔːn/
@@ -1849,6 +1849,7 @@
 - 巨人: giant /ˈdʒaɪənt/ [C1][ORT1+]
 - 变形金刚: transformer /trænsˈfɔːmə/
 - 鬼: ghost /ɡəʊst/ [B1][3000]
+- 龙: dragon /ˈdræɡən/ [ORT2]
 #### 武装部队: armed forces /ɑːmd ˈfɔːsɪz/
 - 海军: navy /ˈneɪvi/ [B2]
 - 陆军: army /ˈɑːmi/ [B1]
@@ -1957,7 +1958,7 @@
 - 吻: kiss /kɪs/ [A2] √
 - 追逐: chase /tʃeɪs/ [B2] √
 - 帮助: help /help/ [A1] √
-- 打架: fight /faɪt/ [B1] √
+- 打架: fight /faɪt/ [B1][ORT2] √
 - 偎依: snuggle /ˈsnʌɡl/ √
 - 洗: wash /wɒʃ/ [A1] √
 - 喝: drink /drɪŋk/ [A1] √
@@ -2013,7 +2014,7 @@
 - 死亡: die /daɪ/ [A1]
 - 睡: sleep /sliːp/ [A1][ORT1+] √
 - 打盹: nap /næp/
-- 做梦: dream /driːm/ [A2]
+- 做梦: dream /driːm/ [A2][ORT2]
 - 刷: brush /brʌʃ/ [A2]
 - 工作: work /wɜːk/ [A1]
 - 跪: kneel /niːl/ [B2]
@@ -2054,6 +2055,8 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 恶心的: silly /ˈsɪli/ [B1] √
+- 可恶的: nasty /ˈnɑːsti/ [B1][ORT2]
 - 特别的: special /ˈspeʃl/ [A2][3000][ORT2]
 - 肥的: fat /fæt/ [A1][3000][ORT1+]
 - 发疯的: mad /mæd/ [B1][3000][ORT1+]
