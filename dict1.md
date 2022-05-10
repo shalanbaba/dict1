@@ -1082,6 +1082,7 @@
 - 公主: princess /ˌprɪnˈses/ [B1] √
 - 王子: prince /prɪns/ [B1] √
 - 船员, 机组: crew /kruː/ [B1]
+- 临时照顾孩子的人: babysitter [B1][ORT2]
 - 中国人: Chinese /ˌtʃaɪˈniːz/
 - 美国人: American /əˈmerɪkən/
 - 英国人: British /ˈbrɪtɪʃ/
@@ -1511,6 +1512,7 @@
 - 意大利面: pasta /ˈpɑːstə/ [A2]
 - 面条: noodle /ˈnuːdl/ √
 - 汉堡: hamburger /ˈhæmbɜːɡə/ √
+- 三明治: sandwich /ˈsænwɪtʃ/ [A1][3000][ORT2]
 - 水饺: boiled dumpling /bɔɪld ˈdʌmplɪŋ/
 - 蒸饺: steamed dumpling /stiːmd ˈdʌmplɪŋ/
 - 煎饺: fried dumpling /fraɪd ˈdʌmplɪŋ/
@@ -1725,6 +1727,7 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
+- 打架: fight /faɪt/ [B1][3000][ORT2] √
 - 喷射流: jet /dʒet/ [ORT2]
 - 一阵狂吹: gust /ɡʌst/ [ORT2]
 - 一点: bit /bɪt/ [A2][ORT1+]
@@ -1829,7 +1832,7 @@
 #### 典礼: ceremonies /ˈserəməniz/ [B1]
 - 婚礼: wedding /ˈwedɪŋ/ [B1]
 - 葬礼: funeral /ˈfjuːnərəl/ [B2]
-#### 故事: the story /ðə ˈstɔːri/ [A2]
+#### 故事: the story /ðə ˈstɔːri/ [A2][ORT2]
 - 虚构: fiction /ˈfɪkʃn/ [B1]
 - 非虚构: non-fiction /ˌnɒn ˈfɪkʃn/
 - 宝藏: treasure /ˈtreʒə/ [B2][ORT1+]
@@ -1888,7 +1891,7 @@
 - 唱: sing /sɪŋ/ [A1][3000]
 - 游泳: swim /swɪm/ [A1][3000]
 - 悬挂: hang /hæŋ/ [B1][3000]
-- 加入: join /dʒɔɪn/ [A2]
+- 加入: join /dʒɔɪn/ [A2][3000][ORT2]
 - 意思: mean /miːn/ [A2]
 - 下沉: sink /sɪŋk/ [B1]
 - 打猎: hunt /hʌnt/ [B1][ORT1+]
@@ -2148,6 +2151,7 @@
 - 最多地: most /məʊst/ [A1][3000]
 - 一起: together /təˈɡeðə/ [A1], along /əˈlɒŋ/ [B1][ORT1+]
 - 外面: outside /ˌaʊtˈsaɪd/ [A1]
+- 楼下: downstairs /ˌdaʊnˈsteəz/ [A2][3000][ORT2]
 - 什么时候: when /wen/ [A1] √
 - 什么地方: where /weə/ [A1] √
 - 为什么: why /waɪ/ [A1] √
