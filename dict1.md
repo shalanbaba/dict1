@@ -1869,6 +1869,8 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 问: ask /ɑːsk/ [A1][3000][ORT2]
+- 给: give /ɡɪv/ [A1][3000][ORT2]
 - 使不安: upset /ˌʌpˈset/ [B2][3000][ORT1+]
 - 举起: lift /lɪft/ [B1][3000][ORT1+]
 - 感觉: feel /fiːl/ [A1][3000]
@@ -1990,7 +1992,7 @@
 - 闻: smell /smel/ [B1] √
 - 摸: touch /tʌtʃ/ [B1] √
 - 哭: cry /kraɪ/ [A2] √
-- 笑: laugh /lɑːf/ [A2] √
+- 笑: laugh /lɑːf/ [A2][ORT2] √
 - 微笑: smile /smaɪl/ [B1] √
 - 玩: play /pleɪ/ [A1][ORT1+] √
 - 处理: handle /ˈhændl/ [B1]
@@ -2044,6 +2046,7 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 特别的: special /ˈspeʃl/ [A2][3000][ORT2]
 - 肥的: fat /fæt/ [A1][3000][ORT1+]
 - 发疯的: mad /mæd/ [B1][3000][ORT1+]
 - 黑暗的: dark /dɑːk/ [A2][ORT1+]
@@ -2072,7 +2075,7 @@
 - 长的 (时间, 距离): long /lɒŋ/ [A1][ORT1+]
 - 短的 (时间, 距离): short /ʃɔːt/ [A1]
 - 大的 (大小, 数量): large /lɑːdʒ/ [A2], big /bɪɡ/ [A1][ORT1] √
-- 小的 (大小, 数量): small /smɔːl/ [A1], little /ˈlɪtl/ [A1][ORT1] √
+- 小的 (大小, 数量): small /smɔːl/ [A1][ORT2], little /ˈlɪtl/ [A1][ORT1] √
 - 老的, 旧的: old /əʊld/ [A1][ORT1+]
 - 新的: new /njuː/ [A1]
 - 便宜的: cheap /tʃiːp/ [A1]
