@@ -1046,6 +1046,7 @@
 - 茎: stem /stem/
 - 芽: sprout /spraʊt/
 - 根: root /ruːt/ [B2] √
+- 豆: bean /biːn/ [A2][3000][ORT2]
 - 叶: leaf /liːf/ [B1][ORT1+] √
 - 树枝: branch /bræntʃ/ [B1], twig /twɪɡ/ (小)
 - 灌木: bush /bʊʃ/ [B2]
@@ -1504,11 +1505,13 @@
 - 米饭: rice /raɪs/ [A1] √
 - 汤: soup /suːp/ [A1]
 - 墨西哥卷饼: taco /ˈtækəʊ/
+- 玉米片: cornflake /kɔ:nfleik/ [ORT2]
 - 姜饼: gingerbread /ˈdʒɪndʒəbred/ [ORT2]
 - 面粉: flour /ˈflaʊə/ [B1][ORT1]
 - 蜂蜜: honey /ˈhʌni/ [A2] √
 - 黄油: butter /ˈbʌtə/ [A1][ORT1]
 - 果酱: jam /dʒæm/ [A2][ORT1+]
+- 调味酱: sauce /sɔːs/ [A2][3000][ORT2]
 - 甜品: dessert /dɪˈzɜːt/ [A2]
 - 布丁: pudding /ˈpʊdɪŋ/ [B2]
 - 奶酪, 芝士: cheese /tʃiːz/ [A1] √
@@ -1523,7 +1526,7 @@
 - 肉包子: steamed meat bun /stiːmd miːt bʌn/
 - 炒蛋: scrambled eggs /ˈskræmbld eɡz/ [ORT1+]
 - 面包: bread /bred/ [A1] √
-- 蛋糕: cake /keɪk/ [A1] √
+- 蛋糕: cake /keɪk/ [A1][ORT2] √
 - 煎饼: pancake /ˈpænkeɪk/ [B2][ORT1] √
 - 蛋饼: omelette (英), omelet (美) /ˈɒmlət/ [A2]
 - 纸杯蛋糕: cupcake /ˈkʌpkeɪk/
@@ -1595,6 +1598,7 @@
 - 蔬菜: vegetables /ˈvedʒtəblz/ [A1]
   - 黄瓜, 青瓜: cucumber /ˈkjuːkʌmbə/ [B1]
   - 茄子: eggplant /ˈeɡplænt/ [B2]
+  - 番茄: tomato /təˈmɑːtəʊ/ [A1][3000][ORT2]
   - 卷心菜: cabbage /ˈkæbɪdʒ/ [B1]
   - 紫甘蓝: purple cabbage /ˈpɜːpl ˈkæbɪdʒ/
   - 生姜: ginger /ˈdʒɪndʒə/
@@ -1641,7 +1645,7 @@
 - 炸: deep-fry /diːp fraɪ/
 - 蒸: steam /stiːm/
 - 烧烤: grill /ɡrɪl/ [B1]
-- 烘焙: bake /beɪk/ [A2]
+- 烘焙: bake /beɪk/ [A2][ORT2]
 - 烤: roast /rəʊst/ [A2]
 - 削: peel /piːl/ [B2]
 - 切: cut /kʌt/ [A2][ORT1+] √
@@ -1694,7 +1698,7 @@
 #### 游戏: games /ɡeɪmz/ [A1][ORT1+]
 - 捉迷藏: hide and seek /haɪd ənd siːk/ [ORT1+] √
 - 躲猫猫: peekaboo /ˈpiːkəbuː/ √
-#### 玩具: toys /tɔɪz/ [A2]
+#### 玩具: toys /tɔɪz/ [A2][ORT2]
 - 风筝: kite /kaɪt/ [A2][ORT1+]
 - 跳跳球: hopper /ˈhɒpə/ [ORT1+]
 - 球: ball /bɔːl/ [A1][ORT1+]
@@ -2229,7 +2233,7 @@
 - 所有事物: everything /ˈevriθɪŋ/ [A2]
 - 所有人: everyone /ˈevriwʌn/ [A2][ORT1], everybody /ˈevribɒdi/ [A2]
 - 没有事物: nothing /ˈnʌθɪŋ/ [A2]
-- 没有人: nobody /ˈnəʊbədi/ [A2]
+- 没有人: nobody /ˈnəʊbədi/ [A2][ORT2]
 - 没有任何人, 没有任何事物: none /nʌn/ [B1]
 - 什么事物: what /wɒt/ [A1][ORT1+] √
 - 谁: who /huː/ [A1][ORT1] √
