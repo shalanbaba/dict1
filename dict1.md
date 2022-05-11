@@ -988,7 +988,7 @@
   - 小猫: kitten /ˈkɪtn/ [B1][ORT1+] √
   - 黑豹: panther /ˈpænθə/
   - 狗: dog /dɒɡ/ [A1][ORT1+] √
-  - 小狗: puppy /ˈpʌpi/ [B1] √
+  - 小狗: puppy /ˈpʌpi/ [B1][ORT2] √
   - 猪: pig /pɪɡ/ [A1] √
   - 小猪: piggy /ˈpɪɡi/ √, piglet /ˈpɪɡlət/
   - 小羊: lamb /læm/ [B1] √
@@ -1195,7 +1195,7 @@
 - 队长: captain /ˈkæptɪn/ [B1]
 #### 称谓: titles /ˈtaɪtlz/
 - 女士: Miss /mɪs/ [A1], madam /ˈmædəm/ [B1]
-- 夫人: Mrs /ˈmɪsɪz/ [A1], madam /ˈmædəm/ [B1]
+- 夫人: Mrs /ˈmɪsɪz/ [A1][ORT2], madam /ˈmædəm/ [B1]
 - 先生: Mr /ˈmɪstə/ [A1] √, sir /sɜː/ [B1]
 #### 健康: health /helθ/ [A2]
 - 维生素: vitamin /ˈvɪtəmɪn/ [B2]
@@ -1889,6 +1889,8 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 遗失: lose /luːz/ [A2][3000][ORT2]
+- 叫: call /kɔːl/ [A1][3000][ORT2]
 - 飞: fly /flaɪ/ [A1][3000][ORT2] √
 - 抓住: catch /kætʃ/ [A1][3000][ORT2]
 - 问: ask /ɑːsk/ [A1][3000][ORT2]
@@ -2087,7 +2089,7 @@
 - 自信的: confident /ˈkɒnfɪdənt/ [B1]
 - 愚蠢的: stupid /ˈstjuːpɪd/ [B1]
 - 搞笑的: funny /ˈfʌni/ [A1] √
-- 聪明的: smart /smɑːt/ [B1]
+- 聪明的: smart /smɑːt/ [B1], clever /ˈklevə/ [A1][3000][ORT2]
 - 湿的: wet /wet/ [A2][ORT1]
 - 怀孕的: pregnant /ˈpreɡnənt/ [B1]
 - 年轻的: young /jʌŋ/ [A1]
@@ -2198,7 +2200,8 @@
 - 在...上面: on /ɒn/ [A1][ORT1+]
 - 在...前面: before /bɪˈfɔː/ [B1]
 - 在...后面: after /ˈɑːftə/ [B1][ORT1+]
-- 到...里面: into [A1][3000][ORT2]
+- 到...里面: into /ˈɪntu/ [A1][3000][ORT2]
+- 靠: by /baɪ/ [A2][3000][ORT2]
 - 沿着: along /əˈlɒŋ/ [A2]
 - 像: like /laɪk/ [A2][ORT1+]
 - 和...一起: with /wɪð/ [A1]
