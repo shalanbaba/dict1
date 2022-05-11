@@ -2104,6 +2104,7 @@
 - 新的: new /njuː/ [A1][3000][ORT2]
 - 便宜的: cheap /tʃiːp/ [A1]
 - 昂贵的: expensive /ɪkˈspensɪv/ [A1]
+- 健康的: well /wel/ [A1][3000][ORT2]
 - 好的: good /ɡʊd/ [A1][ORT1] √
 - 更好的: better /ˈbetə/ [A1]
 - 最好的: best /best/ [A1][ORT1+]
