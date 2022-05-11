@@ -853,7 +853,9 @@
 #### 航天: aerospace /ˈeərəʊspeɪs/
 - 火箭: rocket /ˈrɒkɪt/ [B2][ORT1+] √
 - 航天飞机: space shuttle /speɪs ˈʃʌtl/
+- 宇宙飞船: spaceship /ˈspeɪsʃɪp/
 - 人造卫星: satellite /ˈsætəlaɪt/ [B2]
+- 空间站: space station /speɪs ˈsteɪʃn/
 - 点火: ignition /ɪɡˈnɪʃn/
 - 起飞: lift off /ˈlɪft ɒf/ √
 - 发射: launch /lɔːntʃ/ [C1] √
