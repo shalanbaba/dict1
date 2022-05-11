@@ -2156,7 +2156,7 @@
 - 上: up /ʌp/ [A2][ORT1] √
 - 下: down /daʊn/ [A2][3000] √
 - 回: back /bæk/ [A1][ORT1+]
-- 从高到低: over /ˈəʊvə/ [ORT2]
+- 从一侧到另一侧: over /ˈəʊvə/ [B1][ORT2]
 - 继续: on /ɒn/ [ORT1+]
 - 也: also /ˈɔːlsəʊ/ [A1]
 - 非常: very /ˈveri/ [A1][ORT1+]
