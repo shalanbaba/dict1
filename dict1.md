@@ -296,7 +296,7 @@
 - 液体: liquid /ˈlɪkwɪd/ [B1]
 - 固体: solid /ˈsɒlɪd/
 - 气体: gas /ɡæs/ [B2]
-- 烟: smoke /sməʊk/ [B1]
+- 烟: smoke /sməʊk/ [B1][ORT2]
 - 蒸汽: steam /stiːm/ [B2]
 - 影子: shadow /ˈʃædəʊ/ [B1][ORT1] √
 - 蜂巢: hive /haɪv/ √
@@ -526,7 +526,7 @@
 - 干草: hay /heɪ/ √
 - 马厩: stable /ˈsteɪbl/ [C2]
 - 村舍: cottage /ˈkɒtɪdʒ/ [B1]
-- 小屋: cabin /ˈkæbɪn/, hut /hʌt/ [B1]
+- 小屋: cabin /ˈkæbɪn/, hut /hʌt/ [B1][ORT2]
 - 牲口房: barn /bɑːn/ [C2]
 - 果园: orchard /ˈɔːtʃəd/
 - 围栏, 篱笆: fence /fens/ [B2] √
@@ -812,6 +812,7 @@
 - 混凝土搅拌车: concrete mixer /ˈkɒŋkriːt ˈmɪksə/ √
 - 吊车: mobile crane /ˈməʊbaɪl kreɪn/ √
 - 救护车: ambulance /ˈæmbjələns/ [A2] √
+- 消防车: fire engine /ˈfaɪə ˈendʒɪn/ [ORT2]
 #### 火车: trains /treɪnz/ [A1] √
 - 蒸汽火车: steam train /stiːm treɪn/, puffer billy /ˈpʌfə ˈbɪli/
 - 磁悬浮列车: maglev train /ˈmæɡlev treɪn/
@@ -1090,7 +1091,7 @@
 #### 职业: jobs /dʒobs/ [A1][ORT1+]
 - 邮递员: postman /ˈpəʊstmən/ [B1]
 - 宇航员: astronaut /ˈæstrənɔːt/ √, spaceman /ˈspeɪsmæn/ [ORT1]
-- 消防员: firefighter /ˈfaɪəfaɪtə/ [B1] √
+- 消防员: firefighter /ˈfaɪəfaɪtə/ [B1][ORT2] √
 - 医生: doctor /ˈdɒktə/ [A1] √
 - 兽医: veterinarian /ˌvetərɪˈneəriən/, vet /vet/ (缩) [B1] √
 - 农民: farmer /ˈfɑːmə/ [A2] √
@@ -1495,6 +1496,7 @@
 - 晚饭: dinner /ˈdɪnə/ [A1] √, supper /ˈsʌpə/ [A2]
 - 套餐: combo meal /ˈkɒmbəʊ miːl/
 - 自助餐: buffet /bəˈfeɪ/
+- 烧烤: barbecue /ˈbɑːbɪkjuː/ [A2][ORT2]
 - 野餐: picnic /ˈpɪknɪk/ [A1][ORT1+] √
 - 快餐: fast food /ˌfɑːst ˈfuːd/ [A2]
 - 谷物: grain /ɡreɪn/ [C2]
@@ -1728,6 +1730,7 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
+- 火: fire /ˈfaɪə/ [A2][ORT2]
 - 梦: dream /driːm/ [A2][3000][ORT2] √
 - 打架: fight /faɪt/ [B1][3000][ORT2] √
 - 喷射流: jet /dʒet/ [ORT2]
