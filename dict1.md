@@ -491,7 +491,7 @@
 - 窗: window /ˈwɪndəʊ/ [A1]
 - 纱窗: screen window /skriːn ˈwɪndəʊ/
 - 纱门: screen door /skriːn dɔː/
-- 窗帘: curtain /ˈkɜːtn/ [A2]
+- 窗帘: curtain /ˈkɜːtn/ [A2][ORT2]
 - 墙纸: wallpaper /ˈwɔːlpeɪpə/
 - 天窗: skylight /ˈskaɪlaɪt/
 - 水槽: sink /sɪŋk/ [A2]
@@ -506,7 +506,7 @@
 - 地面: floor /flɔː/ [A1]
 - 屋顶: roof /ruːf/ [A2] √
 - 天花板: ceiling /ˈsiːlɪŋ/ [A2]
-- 墙壁: wall /wɔːl/ [A1]
+- 墙壁: wall /wɔːl/ [A1][ORT2]
 - 地毯: carpet /ˈkɑːpɪt/ [A2], rug /rʌɡ/ [B1][ORT1]
 - 花瓶: vase /veɪs/ [B1]
 - 镜子: mirror /ˈmɪrə/ [A2]
@@ -547,7 +547,7 @@
 - 路灯: street light /striːt laɪt/
 - 手电筒: torch /tɔːtʃ/ (英) [B2] √, flashlight /ˈflæʃlaɪt/ (美) [B2]
 - 灯笼: lantern /ˈlæntən/ √
-#### 家具: furniture /ˈfɜːnɪtʃə/ [A2]
+#### 家具: furniture /ˈfɜːnɪtʃə/ [A2][ORT2]
 - 高脚椅: highchair /ˌhaɪˈtʃeə/
 - 椅子: chair /tʃeə/ [A1] √
 - 书桌: desk /desk/ [A1]
@@ -560,7 +560,7 @@
 - 鞋架: shoe rack /ʃuː ræk/
 - 柜子: cabinet /ˈkæbɪnət/ [A2]
 - 床头柜: bedside table /ˈbedsaɪd ˈteɪbl/
-- 沙发: sofa /ˈsəʊfə/ [A2]
+- 沙发: sofa /ˈsəʊfə/ [A2][ORT2]
 - 床: bed /bed/ [A1][ORT1] √
 - 架子: shelf /ʃelf/ [A2], rack /ræk/ [ORT2]
 - 衣柜: wardrobe /ˈwɔːdrəʊb/ [B1]
@@ -1038,7 +1038,7 @@
   - 樱花: sakura /sakurə/
 - 花苞: bud /bʌd/ [ORT1+]
 - 花瓣: petal /ˈpetl/
-- 树: trees /triːz/ [A1] √
+- 树: trees /triːz/ [A1][ORT2] √
   - 橡树: oak tree /əʊk triː/
 - 草: grass /ɡrɑːs/ [A1] √
 - 藤: vine /vaɪn/ [C1]
@@ -1276,7 +1276,7 @@
 #### 感觉: feelings /ˈfiːlɪŋz/ [B1][3000]
 - 无聊的: bored /bɔːd/ [A1][3000][ORT1+]
 - 舒服的: comfortable /ˈkʌmftəbl/ [B1]
-- 开心的: happy /ˈhæpi/ [A1] √, glad /ɡlæd/ [A2]
+- 开心的: happy /ˈhæpi/ [A1][ORT2] √, glad /ɡlæd/ [A2]
 - 伤心的: sad /sæd/ [A1][ORT1+]
 - 凶猛的: fierce /fɪəs/ [B2][ORT1+]
 - 受惊吓的: frightened /ˈfraɪtnd/ [B1][3000][ORT1+]
@@ -1734,6 +1734,7 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
+- 主意: idea /aɪˈdɪə/ [A2][3000][ORT2]
 - 火: fire /ˈfaɪə/ [A2][ORT2]
 - 梦: dream /driːm/ [A2][3000][ORT2] √
 - 打架: fight /faɪt/ [B1][3000][ORT2] √
@@ -1744,7 +1745,7 @@
 - 盖: lid /lɪd/ [B2][ORT1+]
 - 钥匙: key /kiː/ [A1]
 - 挑战: challenge /ˈtʃælɪndʒ/ [B1]
-- 家: home /həʊm/ [A1]
+- 家: home /həʊm/ [A1][ORT2]
 - 家庭: family /ˈfæməli/ [A1]
 - 结婚: marriage /ˈmærɪdʒ/ [B1]
 - 离婚: divorce /dɪˈvɔːs/ [B1]
@@ -1971,7 +1972,7 @@
 - 洗: wash /wɒʃ/ [A1] √
 - 喝: drink /drɪŋk/ [A1] √
 - 吃: eat /iːt/ [A1][ORT1+] √
-- 攀登: climb /klaɪm/ [A2] √
+- 攀登: climb /klaɪm/ [A2][ORT2] √
 - 爬: crawl /krɔːl/ [B2] √
 - 骑: ride /raɪd/ [A1][ORT1+] √
 - 鞠躬: bow /baʊ/
@@ -2063,6 +2064,7 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 淘气的: naughty /ˈnɔːti/ [B2][ORT2]
 - 恶心的: silly /ˈsɪli/ [B1] √
 - 可恶的: nasty /ˈnɑːsti/ [B1][ORT2]
 - 特别的: special /ˈspeʃl/ [A2][3000][ORT2]
