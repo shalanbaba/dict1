@@ -132,7 +132,7 @@
 - 等号: equal sign /ˈiːkwəl saɪn/
 #### 品牌: brands /brændz/ [B2][3000]
 - 宜家: IKEA /ˌaɪˈkiə/
-- 乐高: LEGO /ˈleɡəu/ √
+- 乐高: LEGO /ˈleɡəu/ [ORT2] √
 - 皮克斯: Pixar /ˈpɪksar/
 - 开市客: Costco /ˈkɔskəʊ/
 - 亚马逊: Amazon /ˈæməzɑːn/
@@ -535,7 +535,7 @@
 #### 建材: construction materials /kənˈstrʌkʃn məˈtɪərɪəlz/
 - 水泥: cement /sɪˈment/
 - 原木: log /lɔːɡ/ [C1][ORT1+]
-- 混凝土: concrete /ˈkɒŋkriːt/ [B2] √
+- 混凝土: concrete /ˈkɒŋkriːt/ [B2][ORT2] √
 - 砖: brick /brɪk/ [B2] √
 - 木地板: wood floor /wʊd flɔː/
 - 瓷砖: ceramic tile /səˈræmɪk taɪl/, porcelain tile /ˈpɔːsəlɪn taɪl/
@@ -648,6 +648,7 @@
 - 盒子: box /bɒks/ [A1][ORT1]
 - 储物箱: storage box /ˈstɔːrɪdʒ bɒks/
 - 圆形容器: pot /pɒt/ [B1][3000][ORT1+]
+- 托盘: tray /treɪ/ [B2][ORT2]
 - 大型液体或气体容器: tank /tæŋk/ [C2]
 #### 宠物用品: pet supplies /pet səˈplaɪz/
 - 狗绳: dog leash /dɔːɡ liːʃ/
@@ -1734,6 +1735,7 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
+- 洗涤: washing [A2][3000][ORT2]
 - 主意: idea /aɪˈdɪə/ [A2][3000][ORT2]
 - 火: fire /ˈfaɪə/ [A2][ORT2]
 - 梦: dream /driːm/ [A2][3000][ORT2] √
@@ -2045,7 +2047,7 @@
 - 停: stop /stɒp/ [A1][ORT1+]
 - 去: go /ɡəʊ/ [A1][ORT1]
 - 吸气 (惊讶): gasp /ɡɑːsp/ [C2]
-- 狗叫: bark /bɑːk/ [B2]
+- 狗叫: bark /bɑːk/ [B2][ORT2]
 - 制作: make /meɪk/ [A1][ORT1]
 - 咬: bite /baɪt/ [B1]
 - 夹: pinch /pɪntʃ/ [ORT1+], nip /nɪp/ [ORT1+]
@@ -2055,7 +2057,7 @@
 - 是: be /biː/ [A1][3000][ORT1] √
 - 情态动词: modal verbs /ˈməʊdl vɜːbz/ [B1]
     - 必须: must /mʌst/ [B1]
-    - 能: can /kæn/ [A1][ORT1], could /kʊd/ [A2]
+    - 能: can /kæn/ [A1][ORT1], could /kʊd/ [A2][ORT2]
     - 不能: cannot /ˈkænɒt/ [A1][ORT1+]
     - 可能: may /meɪ/ [A2], might /maɪt/ [A2]
     - 将会: will /wɪl/ [A2][ORT1+], would /wʊd/ [B1]
@@ -2154,6 +2156,7 @@
 - 上: up /ʌp/ [A2][ORT1] √
 - 下: down /daʊn/ [A2][3000] √
 - 回: back /bæk/ [A1][ORT1+]
+- 从高到低: over /ˈəʊvə/ [ORT2]
 - 继续: on /ɒn/ [ORT1+]
 - 也: also /ˈɔːlsəʊ/ [A1]
 - 非常: very /ˈveri/ [A1][ORT1+]
