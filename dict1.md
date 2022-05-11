@@ -413,6 +413,7 @@
 - 家庭旅馆: guesthouse /ˈɡesthaʊs/
 - 酒吧: bar /bɑː/ [A1]
 - 宠物店: pet shop /pet ʃɒp/ [ORT1+]
+- 兽医诊所: vet /vet/ [ORT2]
 - 书店: bookstore /ˈbʊkˌstɔː/ [A1]
 - 游泳池: swimming pool /ˈswɪmɪŋ puːl/ [A1], pool /puːl/ [A2][ORT1+]
 - 体育场: stadium /ˈsteɪdiəm/ [A2]
@@ -1095,7 +1096,7 @@
 - 宇航员: astronaut /ˈæstrənɔːt/ √, spaceman /ˈspeɪsmæn/ [ORT1]
 - 消防员: firefighter /ˈfaɪəfaɪtə/ [B1][ORT2] √
 - 医生: doctor /ˈdɒktə/ [A1] √
-- 兽医: veterinarian /ˌvetərɪˈneəriən/, vet /vet/ (缩) [B1] √
+- 兽医: veterinarian /ˌvetərɪˈneəriən/, vet /vet/ (缩) [B1][ORT2] √
 - 农民: farmer /ˈfɑːmə/ [A2] √
 - 军人: soldier /ˈsəʊldʒə/ [B1] √
 - 水手: sailor /ˈseɪlə/ [B1]
@@ -1198,7 +1199,7 @@
 - 先生: Mr /ˈmɪstə/ [A1] √, sir /sɜː/ [B1]
 #### 健康: health /helθ/ [A2]
 - 维生素: vitamin /ˈvɪtəmɪn/ [B2]
-- 药丸: pill /pɪl/ [B1]
+- 药丸: pill /pɪl/ [B1][ORT2]
 - 药: drug /drʌɡ/ [B2], medicine /ˈmedɪsn/ [A2]
 - 疫苗: vaccine /vækˈsiːn/ [C2]
 - 体温计: thermometer /θəˈmɒmɪtə/ [B2]
@@ -2030,7 +2031,7 @@
 - 刷: brush /brʌʃ/ [A2]
 - 工作: work /wɜːk/ [A1]
 - 跪: kneel /niːl/ [B2]
-- 躺: lie /laɪ/ [A2]
+- 躺: lie /laɪ/ [A2][ORT2]
 - 蹲: squat /skwɒt/
 - 蹲伏: crouch /kraʊtʃ/
 - 敲: knock /nɒk/ [B1]
@@ -2067,6 +2068,8 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 贫穷的: poor /pɔː/ [A1][3000]
+- 可怜的: poor /pɔː/ [A2][3000][ORT2]
 - 淘气的: naughty /ˈnɔːti/ [B2][ORT2]
 - 恶心的: silly /ˈsɪli/ [B1] √
 - 可恶的: nasty /ˈnɑːsti/ [B1][ORT2]
@@ -2106,7 +2109,7 @@
 - 昂贵的: expensive /ɪkˈspensɪv/ [A1]
 - 健康的: well /wel/ [A1][3000][ORT2]
 - 好的: good /ɡʊd/ [A1][ORT1] √
-- 更好的: better /ˈbetə/ [A1]
+- 更好的: better /ˈbetə/ [A1][3000][ORT2]
 - 最好的: best /best/ [A1][ORT1+]
 - 坏的: bad /bæd/ [A1][ORT1+]
 - 更坏的: worse /wɜːs/ [A2]
@@ -2150,6 +2153,9 @@
 - 全部: all /ɔːl/ [A1][ORT1+]
 - 没有: no /nəʊ/ [A1][ORT1+] √
 #### 副词: adverbs /ˈædvɜːbz/ [A2]
+- 很快: soon /suːn/ [A1][3000][ORT2]
+- 只是: just /dʒʌst/ [B1][3000][ORT2]
+- 也: too /tuː/ [A1][3000][ORT2]
 - 不: not /nɒt/ [A1][ORT1+] √
 - 然后: then /ðen/ [A1][ORT1+]
 - 再次: again /əˈɡeɪn/ [A1][ORT1+][3000]
