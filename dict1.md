@@ -542,6 +542,7 @@
 - 瓷砖: ceramic tile /səˈræmɪk taɪl/, porcelain tile /ˈpɔːsəlɪn taɪl/
 - 钉子: nail /neɪl/ [B2]
 - 水管: water pipe /ˈwɔːtə paɪp/
+- 漆刷: paintbrush /ˈpeɪntbrʌʃ/ [ORT2]
 #### 灯: the light /ðə laɪt/ [A2]
 - 灯泡: bulb /bʌlb/ [B2]
 - 台灯: desk lamp /desk læmp/
@@ -1891,6 +1892,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 购物: shop /ʃɒp/ [B1][3000][ORT2]
 - 遗失: lose /luːz/ [A2][3000][ORT2]
 - 叫: call /kɔːl/ [A1][3000][ORT2]
 - 飞: fly /flaɪ/ [A1][3000][ORT2] √
@@ -2166,7 +2168,7 @@
 - 进: in /ɪn/ [A2][3000][ORT1] √
 - 出: out /aʊt/ [B1][ORT1+] √
 - 上: up /ʌp/ [A2][ORT1] √
-- 下: down /daʊn/ [A2][3000] √
+- 下: down /daʊn/ [A2][3000][ORT2] √
 - 回: back /bæk/ [A1][ORT1+]
 - 从一侧到另一侧: over /ˈəʊvə/ [B1][ORT2]
 - 继续: on /ɒn/ [ORT1+]
