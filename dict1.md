@@ -468,7 +468,7 @@
 - 雕像: statue /ˈstætʃuː/ [B1]
 - 电梯: lift /lɪft/ (英) [A2], elevator /ˈelɪveɪtə/ (美) [A2] √
 - 扶梯: escalator /ˈeskəleɪtə/ [B2]
-#### 住宅: the house /ðə haʊs/ [A1]
+#### 住宅: the house /ðə haʊs/ [A1][ORT2]
 - 厕所: bathroom /ˈbɑːθruːm/ [A1]
 - 餐厅: dining room /ˈdaɪnɪŋ ruːm/ [A1]
 - 客厅: living room /ˈlɪvɪŋ ruːm/ [A1]
@@ -821,7 +821,7 @@
 - 地铁: metro /ˈmetrəʊ/, underground /ˌʌndəˈɡraʊnd/ (英) [A2], subway /ˈsʌbweɪ/ (美) [A1]
 - 轻轨: light rail /laɪt reɪl/, overground /ˈəuvəɡraund/ (英) 
 #### 航空器: aircrafts /ˈeəkrɑːfts/ [B2]
-- 飞机: aeroplane /ˈeərəpleɪn/ (英) [A2] √, airplane /ˈeəpleɪn/ (美) [A2] √
+- 飞机: aeroplane /ˈeərəpleɪn/ (英) [A2][ORT2] √, airplane /ˈeəpleɪn/ (美) [A2] √
 - 直升机: helicopter /ˈhelɪkɒptə/ [A2] √
 - 热气球: hot air balloon /hɒt eə bəˈluːn/ √
 - 滑翔伞: paraglider /ˈpærəɡlaɪdə/
@@ -1888,6 +1888,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 飞: fly /flaɪ/ [A1][3000][ORT2] √
 - 抓住: catch /kætʃ/ [A1][3000][ORT2]
 - 问: ask /ɑːsk/ [A1][3000][ORT2]
 - 给: give /ɡɪv/ [A1][3000][ORT2]
@@ -1945,7 +1946,7 @@
 - 挖: dig /dɪɡ/ [B1][ORT1+]
 - 来: come /kʌm/ [A1][ORT1+]
 - 说: say /seɪ/ [A1][ORT1+]
-- 找到: find /faɪnd/ [A1]
+- 找到: find /faɪnd/ [A1][ORT2]
 - 发现: find /faɪnd/ [A2][ORT1+], discover /dɪˈskʌvə/ [B1]
 - 放: put /pʊt/ [A1][ORT1+]
 - 掉落: fall /fɔːl/ [A2][ORT1+]
@@ -1968,7 +1969,7 @@
 - 巡逻: patrol /pəˈtrəʊl/
 - 吻: kiss /kɪs/ [A2] √
 - 追逐: chase /tʃeɪs/ [B2] √
-- 帮助: help /help/ [A1] √
+- 帮助: help /help/ [A1][ORT2] √
 - 打架: fight /faɪt/ [B1][ORT2] √
 - 偎依: snuggle /ˈsnʌɡl/ √
 - 洗: wash /wɒʃ/ [A1] √
@@ -2011,7 +2012,7 @@
 - 听: hear /hɪə/ [A1] √
 - 闻: smell /smel/ [B1] √
 - 摸: touch /tʌtʃ/ [B1] √
-- 哭: cry /kraɪ/ [A2] √
+- 哭: cry /kraɪ/ [A2][ORT2] √
 - 笑: laugh /lɑːf/ [A2][ORT2] √
 - 微笑: smile /smaɪl/ [B1] √
 - 玩: play /pleɪ/ [A1][ORT1+] √
@@ -2168,6 +2169,7 @@
 - 最多地: most /məʊst/ [A1][3000]
 - 一起: together /təˈɡeðə/ [A1], along /əˈlɒŋ/ [B1][ORT1+]
 - 外面: outside /ˌaʊtˈsaɪd/ [A1]
+- 楼上: upstairs /ˌʌpˈsteəz/ [A2][3000][ORT2]
 - 楼下: downstairs /ˌdaʊnˈsteəz/ [A2][3000][ORT2]
 - 什么时候: when /wen/ [A1] √
 - 什么地方: where /weə/ [A1] √
@@ -2216,7 +2218,7 @@
 - 我们: we /wiː/ (主) [A1][ORT1], us /əs/ (宾) [A1][ORT1+]
 - 你, 你们: you /juː/ [A1][ORT1] √
 - 他: he /hiː/ (主) [A1][ORT1+], him /hɪm/ (宾) [A1][ORT1+]
-- 她: she /ʃiː/ (主) [A1][ORT1+], her /hə/ (宾) [A1]
+- 她: she /ʃiː/ (主) [A1][ORT1+], her /hə/ (宾) [A1][ORT2]
 - 他们: they /ðeɪ/ (主) [A1][ORT1+], them /ðəm/ (宾) [A1]
 - 它: it /ɪt/ [A1][ORT1] √
 - 我的: mine /maɪn/ [A2] √
