@@ -895,6 +895,7 @@
 #### 鞋子: shoes /ʃuːz/ [A1]
 - 拖鞋: slippers /ˈslɪpəz/
 - 雨靴: rain boots /reɪn buːts/ √
+- 运动鞋: trainers /treɪnəz/ [A2][3000][ORT2]
 #### 包: bags /bæɡz/ [A1][ORT1+]
 - 背包: backpack /ˈbækpæk/ [A2]
 #### 眼镜: glasses /ˈɡlɑːsɪz/ [A1]
@@ -1736,6 +1737,7 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
+- 一对: pair [A1][3000][ORT2]
 - 洗涤: washing [A2][3000][ORT2]
 - 主意: idea /aɪˈdɪə/ [A2][3000][ORT2]
 - 火: fire /ˈfaɪə/ [A2][ORT2]
@@ -1975,7 +1977,7 @@
 - 帮助: help /help/ [A1][ORT2] √
 - 打架: fight /faɪt/ [B1][ORT2] √
 - 偎依: snuggle /ˈsnʌɡl/ √
-- 洗: wash /wɒʃ/ [A1] √
+- 洗: wash /wɒʃ/ [A1][ORT2] √
 - 喝: drink /drɪŋk/ [A1] √
 - 吃: eat /iːt/ [A1][ORT1+] √
 - 攀登: climb /klaɪm/ [A2][ORT2] √
@@ -2020,7 +2022,7 @@
 - 微笑: smile /smaɪl/ [B1] √
 - 玩: play /pleɪ/ [A1][ORT1+] √
 - 处理: handle /ˈhændl/ [B1]
-- 穿, 戴: wear /weə/ [A1] √
+- 穿, 戴: wear /weə/ [A1][ORT2] √
 - 穿衣服: dress /dres/ [A2][ORT1+]
 - 写: write /raɪt/ [A1][ORT1+]
 - 读: read /riːd/ [A1] √
