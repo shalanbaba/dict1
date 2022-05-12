@@ -1099,7 +1099,7 @@
 - 邮递员: postman /ˈpəʊstmən/ [B1]
 - 宇航员: astronaut /ˈæstrənɔːt/ √, spaceman /ˈspeɪsmæn/ [ORT1]
 - 消防员: firefighter /ˈfaɪəfaɪtə/ [B1][ORT2] √
-- 医生: doctor /ˈdɒktə/ [A1] √
+- 医生: doctor /ˈdɒktə/ [A1][ORT2] √
 - 兽医: veterinarian /ˌvetərɪˈneəriən/, vet /vet/ (缩) [B1][ORT2] √
 - 农民: farmer /ˈfɑːmə/ [A2] √
 - 军人: soldier /ˈsəʊldʒə/ [B1] √
@@ -1741,6 +1741,7 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
+- 斑点: spot /spɒt/ [B1][3000][ORT2]
 - 一对: pair [A1][3000][ORT2]
 - 洗涤: washing [A2][3000][ORT2]
 - 主意: idea /aɪˈdɪə/ [A2][3000][ORT2]
