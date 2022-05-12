@@ -313,7 +313,7 @@
 - 化石: fossil /ˈfɒsl/
 - 草地: meadow /ˈmedəʊ/
 - 陆地: land /lænd/ [B2][ORT1+]
-#### 天气: the weather /ðə ˈweðə/ [A1][3000] √
+#### 天气: the weather /ðə ˈweðə/ [A1][3000][ORT2] √
 - 晴的: sunny /ˈsʌni/ [A2][ORT1+] √
 - 有雨的: rainy /ˈreɪni/ [B1] √
 - 有风的: windy /ˈwɪndi/ [A2][ORT1+] √
@@ -1283,6 +1283,7 @@
 - 无聊的: bored /bɔːd/ [A1][3000][ORT1+]
 - 舒服的: comfortable /ˈkʌmftəbl/ [B1]
 - 开心的: happy /ˈhæpi/ [A1][ORT2] √, glad /ɡlæd/ [A2]
+- 不开心的: unhappy /ʌnˈhæpi/ [A2][3000][ORT2]
 - 伤心的: sad /sæd/ [A1][ORT1+]
 - 凶猛的: fierce /fɪəs/ [B2][ORT1+]
 - 受惊吓的: frightened /ˈfraɪtnd/ [B1][3000][ORT1+]
@@ -1890,6 +1891,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 闪耀: shine /ʃaɪn/ [B1][3000][ORT2]
 - 购物: shop /ʃɒp/ [B1][3000][ORT2]
 - 遗失: lose /luːz/ [A2][3000][ORT2]
 - 叫做: call /kɔːl/ [A1][3000][ORT2]
@@ -2071,10 +2073,14 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 暴躁的: grumpy /ˈɡrʌmpi/ [C1][ORT2]
+- 脏乱的: messy /ˈmesi/ [B1][ORT2]
+- 不整洁的: untidy /ʌnˈtaɪdi/ [B1][ORT2]
+- 吵闹的: noisy /ˈnɔɪzi/ [A2][3000][ORT2]
 - 贫穷的: poor /pɔː/ [A1][3000]
 - 可怜的: poor /pɔː/ [A2][3000][ORT2]
 - 淘气的: naughty /ˈnɔːti/ [B2][ORT2]
-- 恶心的: silly /ˈsɪli/ [B1] √
+- 恶心的: silly /ˈsɪli/ [B1][ORT2] √
 - 可恶的: nasty /ˈnɑːsti/ [B1][ORT2]
 - 特别的: special /ˈspeʃl/ [A2][3000][ORT2]
 - 肥的: fat /fæt/ [A1][3000][ORT1+]
@@ -2273,6 +2279,7 @@
 - 你好: hello /həˈləʊ/ [A1] √
 - 嗨: hi /haɪ/ [A1] √, hey /heɪ/ [A2] √
 - 哦: oh /əʊ/ [A1][3000][ORT1+]
+- 天哪: dear /dɪə/ [A2][3000][ORT2]
 - 再见: bye /baɪ/ [A1] √
 - 好极了: hooray /huˈreɪ/ [ORT1+] √
 - 好: OK /əʊˈkeɪ/ [A1] √
