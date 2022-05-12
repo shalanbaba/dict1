@@ -1895,7 +1895,8 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
-- 生活: live /lɪv/ [A1][3000][ORT2]
+- 居住: live /lɪv/ [A1][3000][ORT2]
+- 生活: live /lɪv/ [B1][3000]
 - 让 (某事发生): let [B1][3000][ORT2]
 - 买: buy /baɪ/ [A1][3000][ORT2]
 - 闪耀: shine /ʃaɪn/ [B1][3000][ORT2]
