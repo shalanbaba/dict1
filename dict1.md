@@ -387,7 +387,7 @@
 - 超市: supermarket /ˈsuːpəmɑːkɪt/ [A1][ORT1+]
 - 停车场: parking lot /ˈpɑːkɪŋ lɒt/ [A2] √
 - 停车位: parking space /ˈpɑːkɪŋ speɪs/, parking stall /ˈpɑːkɪŋ stɔːl/
-- 车库: garage /ˈɡærɑːʒ/ [A2] √
+- 车库: garage /ˈɡærɑːʒ/ [A2][ORT2] √
 - 修车店: garage /ˈɡærɑːʒ/ [B1] √
 - 图书馆: library /ˈlaɪbrəri/ [A2]
 - 博物院: museum /mjuˈziːəm/ [A1]
@@ -901,7 +901,7 @@
 - 运动鞋: trainers /treɪnəz/ [A2][3000][ORT2]
 #### 包: bags /bæɡz/ [A1][ORT1+]
 - 背包: backpack /ˈbækpæk/ [A2]
-#### 眼镜: glasses /ˈɡlɑːsɪz/ [A1]
+#### 眼镜: glasses /ˈɡlɑːsɪz/ [A1][ORT2]
 - 墨镜: shades /ʃeɪdz/ √
 - 太阳眼镜: sunglasses /ˈsʌnɡlɑːsɪz/ [A2] √
 - 游泳眼镜: goggles /ˈɡɑːɡlz/
@@ -1741,6 +1741,7 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
+- 坑: pit /pɪt/ [C2][ORT2]
 - 斑点: spot /spɒt/ [B1][3000][ORT2]
 - 一对: pair [A1][3000][ORT2]
 - 洗涤: washing [A2][3000][ORT2]
@@ -1842,6 +1843,7 @@
 - 舞台: stage /steɪdʒ/ [A2]
 - 音乐会: concert /ˈkɒnsət/ [A2]
 - 音乐: music /ˈmjuːzɪk/ [A1] √
+- 乐队: band /bænd/ [A1][3000][ORT2]
 - 旋律, 曲调: tune /tjuːn/ [C1]
 - 节奏: rhythm /ˈrɪðəm/ [B2]
 - 歌曲: song /sɒŋ/ [A2] √
@@ -1867,6 +1869,7 @@
 - 神: god /ɡɒd/ [A2]
 - 巨人: giant /ˈdʒaɪənt/ [C1][ORT1+]
 - 变形金刚: transformer /trænsˈfɔːmə/
+- 蝙蝠侠: batman /ˈbætmən/ [ORT2]
 - 鬼: ghost /ɡəʊst/ [B1][3000]
 - 龙: dragon /ˈdræɡən/ [ORT2]
 #### 武装部队: armed forces /ɑːmd ˈfɔːsɪz/
@@ -2065,7 +2068,7 @@
 - 遇见: meet /miːt/ [A1][ORT1+]
 - 是: be /biː/ [A1][3000][ORT1] √
 - 情态动词: modal verbs /ˈməʊdl vɜːbz/ [B1]
-    - 必须: must /mʌst/ [B1]
+    - 必须: must /mʌst/ [B1][ORT2]
     - 能: can /kæn/ [A1][ORT1], could /kʊd/ [A2][ORT2]
     - 不能: cannot /ˈkænɒt/ [A1][ORT1+]
     - 可能: may /meɪ/ [A2], might /maɪt/ [A2]
@@ -2075,6 +2078,7 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 奇怪的: odd /ɒd/ [B2][3000][ORT2]
 - 暴躁的: grumpy /ˈɡrʌmpi/ [C1][ORT2]
 - 脏乱的: messy /ˈmesi/ [B1][ORT2]
 - 不整洁的: untidy /ʌnˈtaɪdi/ [B1][ORT2]
@@ -2238,7 +2242,7 @@
 - 你, 你们: you /juː/ [A1][ORT1] √
 - 他: he /hiː/ (主) [A1][ORT1+], him /hɪm/ (宾) [A1][ORT1+]
 - 她: she /ʃiː/ (主) [A1][ORT1+], her /hə/ (宾) [A1][ORT2]
-- 他们: they /ðeɪ/ (主) [A1][ORT1+], them /ðəm/ (宾) [A1]
+- 他们: they /ðeɪ/ (主) [A1][ORT1+], them /ðəm/ (宾) [A1][ORT2]
 - 它: it /ɪt/ [A1][ORT1] √
 - 我的: mine /maɪn/ [A2] √
 - 你的, 你们的: yours /jɔːz/ [A2]
@@ -2268,6 +2272,7 @@
 - 无论哪个: whichever /wɪtʃˈevə/ [B2]
 - 无论谁: whoever /huːˈevə/ [B2]
 - 很多: lot /lɒt/ [A1][3000][ORT1+]
+- 全部: all /ɔːl/ [A1][3000][ORT2]
 #### 量词: quantifiers /ˈkwɒntɪfaɪəz/
 - 片: slice /slaɪs/ [A2]
 - 张: piece /piːs/ [A2]
