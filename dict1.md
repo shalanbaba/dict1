@@ -1879,10 +1879,6 @@
 - 盔甲: armour (英), armor (美) /ˈɑːmə/
 - 剑: sword /sɔːd/ [B2]
 - 枪: gun /ɡʌn/ [B1] √
-- 机枪: machine gun /məˈʃiːn ɡʌn/
-- 手枪: pistol /ˈpɪstl/
-- 狙击步枪: snipe rifle /snaɪp ˈraɪfl/
-- 自动步枪: automatic rifle /ˌɔːtəˈmætɪk ˈraɪfl/
 - 子弹: bullet /ˈbʊlɪt/ [B2]
 - 坦克: tank /tæŋk/ [C1] √
 - 战斗机: fighter plane /ˈfaɪtə pleɪn/ √
@@ -1896,7 +1892,7 @@
 #### 动词: verbs /vɜːbz/ [A2]
 - 购物: shop /ʃɒp/ [B1][3000][ORT2]
 - 遗失: lose /luːz/ [A2][3000][ORT2]
-- 叫: call /kɔːl/ [A1][3000][ORT2]
+- 叫做: call /kɔːl/ [A1][3000][ORT2]
 - 飞: fly /flaɪ/ [A1][3000][ORT2] √
 - 抓住: catch /kætʃ/ [A1][3000][ORT2]
 - 问: ask /ɑːsk/ [A1][3000][ORT2]
@@ -1915,7 +1911,6 @@
 - 游泳: swim /swɪm/ [A1][3000]
 - 悬挂: hang /hæŋ/ [B1][3000]
 - 加入: join /dʒɔɪn/ [A2][3000][ORT2]
-- 意思: mean /miːn/ [A2]
 - 下沉: sink /sɪŋk/ [B1]
 - 打猎: hunt /hʌnt/ [B1][ORT1+]
 - 休息: rest /rest/ [B1][ORT1+]
@@ -2207,7 +2202,7 @@
 - 在...前面: before /bɪˈfɔː/ [B1]
 - 在...后面: after /ˈɑːftə/ [B1][ORT1+]
 - 到...里面: into /ˈɪntu/ [A1][3000][ORT2]
-- 靠: by /baɪ/ [A2][3000][ORT2]
+- 在...旁边: by /baɪ/ [A2][3000][ORT2]
 - 沿着: along /əˈlɒŋ/ [A2]
 - 像: like /laɪk/ [A2][ORT1+]
 - 和...一起: with /wɪð/ [A1]
