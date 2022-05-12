@@ -442,7 +442,7 @@
 - 变电站: transformer substation /trænsˈfɔːmə ˈsʌbsteɪʃn/
 - 亭子: pavilion /pəˈvɪliən/
 - 加油站: gas station /ˈɡæs steɪʃn/ [A2]
-- 厕所: toilet /ˈtɔɪlət/ [A1]
+- 厕所: toilet /ˈtɔɪlət/ [A1][ORT2]
 - 售票处: ticket office /ˈtɪkɪt ˈɒfɪs/
 - 检票口: ticket gate /ˈtɪkɪt ɡeɪt/
 - 站台: platform /ˈplætfɔːm/ [A2]
@@ -466,7 +466,7 @@
 - 溜冰场: ice rink /ˈaɪs rɪŋk/
 - 动物园: zoo /zuː/ [A1] √
 - 电线杆: wire pole /ˈwaɪə pəʊl/ √
-- 雕像: statue /ˈstætʃuː/ [B1]
+- 雕像: statue /ˈstætʃuː/ [B1][ORT2]
 - 电梯: lift /lɪft/ (英) [A2], elevator /ˈelɪveɪtə/ (美) [A2] √
 - 扶梯: escalator /ˈeskəleɪtə/ [B2]
 #### 住宅: the house /ðə haʊs/ [A1][ORT2]
@@ -1827,7 +1827,7 @@
 - 买: purchase /baɪ/ [B2]
 - 折扣: discount /ˈdɪskaʊnt/ [A2]
 #### 聚会: the party /ðə ˈpɑːti/ [A1][ORT1+] √
-- 气球: balloon /bəˈluːn/ [A2] √
+- 气球: balloon /bəˈluːn/ [A2][ORT2] √
 - 礼物: present /ˈpreznt/ [A2][ORT1+] √
 - 蜡烛: candle /ˈkændl/ [B1] √
 - 火柴: match /mætʃ/ [B2]
@@ -1891,6 +1891,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 买: buy /baɪ/ [A1][3000][ORT2]
 - 闪耀: shine /ʃaɪn/ [B1][3000][ORT2]
 - 购物: shop /ʃɒp/ [B1][3000][ORT2]
 - 遗失: lose /luːz/ [A2][3000][ORT2]
@@ -1974,7 +1975,7 @@
 - 检查: check /tʃek/ [A2][ORT2]
 - 巡逻: patrol /pəˈtrəʊl/
 - 吻: kiss /kɪs/ [A2] √
-- 追逐: chase /tʃeɪs/ [B2] √
+- 追逐: chase /tʃeɪs/ [B2][ORT2] √
 - 帮助: help /help/ [A1][ORT2] √
 - 打架: fight /faɪt/ [B1][ORT2] √
 - 偎依: snuggle /ˈsnʌɡl/ √
