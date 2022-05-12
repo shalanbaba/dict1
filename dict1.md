@@ -308,7 +308,7 @@
 - 山峰: peak /piːk/ [B1]
 - 沙漠: desert /ˈdezət/ [A2]
 - 珊瑚礁: coral reef /ˈkɒrəl riːf/
-- 贝壳: shell /ʃel/ [B2] √
+- 贝壳: shell /ʃel/ [B2][ORT2] √
 - 油田: oilfield /ˈɔɪlfiːld/
 - 化石: fossil /ˈfɒsl/
 - 草地: meadow /ˈmedəʊ/
@@ -356,7 +356,7 @@
   - 铜: copper /ˈkɒpə/ [B2]
   - 不锈钢: stainless steel /ˈsteɪnləs stiːl/
 - 塑料: plastic /ˈplæstɪk/ [A2][ORT1+]
-- 木: wood /wʊd/ [A2]
+- 木: wood /wʊd/ [A2][ORT2]
 - 羊毛: wool /wʊl/ [A2]
 - 羊绒: cashmere /ˈkæʃmɪə/
 - 瓷: porcelain /ˈpɔːsəlɪn/
@@ -1021,7 +1021,7 @@
   - 银鳕鱼 (小鳞犬牙南极鱼): patagonian toothfish /pætəˈɡəunjən tuːθfɪʃ/
   - 热带鱼: tropical fish /ˈtrɒpɪkl fɪʃ/
 - 蟹: crab /kræb/ [B2][ORT1+] √
-- 寄居蟹: hermit crab /ˈhɜːmɪt kræb/
+- 寄居蟹: hermit crab /ˈhɜːmɪt kræb/ [ORT2]
 - 虾: shrimp /ʃrɪmp/ [B1] √
 - 龙虾: lobster /ˈlɒbstə/
 - 小龙虾: crayfish /ˈkreɪfɪʃ/, crawfish /ˈkrɔːfɪʃ/
@@ -1264,7 +1264,7 @@
 - 脚踝: ankle /ˈæŋkl/ [B1]
 - 脚后跟: heel /hiːl/ [B2]
 - 脚底板: sole /səʊl/
-- 腿: leg /leɡ/ [A1]
+- 腿: leg /leɡ/ [A1][ORT2]
 - 手臂: arm /ɑːm/ [A1][ORT1+]
 - 大腿: thigh /θaɪ/ [B2]
 - 小腿: calf /kɑːf/ [C2]
@@ -1895,6 +1895,8 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 生活: live /lɪv/ [A1][3000][ORT2]
+- 让 (某事发生): let [B1][3000][ORT2]
 - 买: buy /baɪ/ [A1][3000][ORT2]
 - 闪耀: shine /ʃaɪn/ [B1][3000][ORT2]
 - 购物: shop /ʃɒp/ [B1][3000][ORT2]
