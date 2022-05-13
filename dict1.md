@@ -634,7 +634,7 @@
 - 刀: knife /naɪf/ [A1]
 - 叉: fork /fɔːk/ [A2]
 - 筷子: chopsticks /ˈtʃɒpstɪks/ √
-- 杯: cup /kʌp/ [A1]
+- 杯: cup /kʌp/ [A1][ORT2]
 - 马克杯: mug /mʌɡ/ [A2][ORT1+]
 - 茶壶: teapot /ˈtiːpɒt/
 - 玻璃杯: glass /ɡlɑːs/ [A1]
@@ -1216,6 +1216,7 @@
 - 疼痛: ache /eɪk/ [B1]
 - 头疼: headache /ˈhedeɪk/ [A2][3000][ORT1+]
 - 咳嗽: cough /kɒf/ [B1]
+- 嗝: hiccup /ˈhɪkʌp/ [ORT2]
 - 打针: injection /ɪnˈdʒekʃn/ [C2]
 - 过敏: allergy /ˈælədʒi/
 - 水疗: spa /spɑː/
@@ -1630,7 +1631,7 @@
   - 青椒, 甜椒: sweet pepper /swiːt ˈpepə/ √, bell pepper /bel ˈpepə/
   - 红辣椒: chili pepper /ˈtʃɪli ˈpepə/ √
   - 葱: green onion /ɡriːn ˈʌnjən/
-- 饮料: drink /drɪŋk/ [A1]
+- 饮料: drink /drɪŋk/ [A1][ORT2]
   - 茶: tea /tiː/ [A1] √
   - 咖啡: coffee /ˈkɔːfi/ [A1] √
   - 奶: milk /mɪlk/ [A1][ORT1] √
@@ -1744,6 +1745,7 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
+- 震惊: shock /ʃɒk/ [B1][3000][ORT2]
 - 坑: pit /pɪt/ [C2][ORT2]
 - 斑点: spot /spɒt/ [B1][3000][ORT2]
 - 一对: pair [A1][3000][ORT2]
@@ -1991,7 +1993,7 @@
 - 打架: fight /faɪt/ [B1][ORT2] √
 - 偎依: snuggle /ˈsnʌɡl/ √
 - 洗: wash /wɒʃ/ [A1][ORT2] √
-- 喝: drink /drɪŋk/ [A1] √
+- 喝: drink /drɪŋk/ [A1][ORT2] √
 - 吃: eat /iːt/ [A1][ORT1+] √
 - 攀登: climb /klaɪm/ [A2][ORT2] √
 - 爬: crawl /krɔːl/ [B2] √
@@ -2085,6 +2087,7 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 快的: quick /kwɪk/ [A1][3000]
 - 睡着的: asleep /əˈsliːp/ [B1][3000][ORT2]
 - 高的: tall /tɔːl/ [A1][3000][ORT2]
 - 奇怪的: odd /ɒd/ [B2][3000][ORT2]
@@ -2226,7 +2229,7 @@
 - 在...旁边: by /baɪ/ [A2][3000][ORT2]
 - 沿着: along /əˈlɒŋ/ [A2]
 - 像: like /laɪk/ [A2][ORT1+]
-- 和...一起: with /wɪð/ [A1]
+- 和...一起: with /wɪð/ [A1][ORT2]
 - 给, 为: for /fɔː/ [A1][ORT1+]
 - 关于: about /əˈbaʊt/ [A1][ORT2]
 #### 连词: conjunctions /kənˈdʒʌŋkʃnz/ [B2]
@@ -2298,6 +2301,7 @@
 - 天哪: dear /dɪə/ [A2][3000][ORT2]
 - 再见: bye /baɪ/ [A1] √
 - 好极了: hooray /huˈreɪ/ [ORT1+] √
+- 快: quick /kwɪk/ [ORT2]
 - 好: OK /əʊˈkeɪ/ [A1] √
 - 变: presto /ˈprestəʊ/ √
 - 干杯: cheers /tʃɪəz/ [C2]
