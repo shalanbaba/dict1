@@ -628,7 +628,7 @@
 - 削皮刀: peeler /ˈpiːlə/
 #### 餐具: tableware /ˈteɪblweə/
 - 碟: dish /dɪʃ/ [A2]
-- 盘: plate /pleɪt/ [A1]
+- 盘: plate /pleɪt/ [A1][ORT2]
 - 碗: bowl /bəʊl/ [A2]
 - 勺: spoon /spuːn/ (浅) [A2], scoop /skuːp/ (深)
 - 刀: knife /naɪf/ [A1]
@@ -860,7 +860,7 @@
 - 起飞: lift off /ˈlɪft ɒf/ √
 - 发射: launch /lɔːntʃ/ [C1] √
 - 发射台: launch pad /ˈlɔːntʃ pæd/
-#### 服装: clothes /kləʊðz/ [A1]
+#### 服装: clothes /kləʊðz/ [A1][ORT2]
 - 上衣: top /tɒp/ [B1][3000][ORT1+]
 - 内衣: underwear /ˈʌndəweə/ [B1]
 - 体恤衫: t-shirt /ˈtiː ʃɜːt/ [A1][3000]
@@ -1576,7 +1576,7 @@
 - 水果: fruit /fruːt/ [A1]
   - 菠萝: pineapple /ˈpaɪnæpl/ [B1] √
   - 苹果: apple /ˈæpl/ [A1] √
-  - 桔子: orange /ˈɒrɪndʒ/ [A1] √
+  - 桔子: orange /ˈɒrɪndʒ/ [A1][ORT2] √
   - 梨: pear /peə/ [A2] √
   - 西瓜: watermelon /ˈwɔːtəmelən/ √
   - 草莓: strawberry /ˈstrɔːbəri/ [B1] √
@@ -1825,8 +1825,8 @@
 - 信用卡: credit card /ˈkredɪt kɑːd/ [A1]
 - 价格: price /praɪs/ [A2]
 - 支付: payment /ˈpeɪmənt/ [B2]
-- 卖: sale /seɪl/ [B2]
-- 买: purchase /baɪ/ [B2]
+- 卖: sale /seɪl/ [B2][3000]
+- 买: purchase /ˈpɜːtʃəs/ [B2][3000]
 - 折扣: discount /ˈdɪskaʊnt/ [A2]
 #### 聚会: the party /ðə ˈpɑːti/ [A1][ORT1+] √
 - 气球: balloon /bəˈluːn/ [A2][ORT2] √
