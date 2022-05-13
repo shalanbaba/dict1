@@ -391,7 +391,7 @@
 - 修车店: garage /ˈɡærɑːʒ/ [B1] √
 - 图书馆: library /ˈlaɪbrəri/ [A2]
 - 博物院: museum /mjuˈziːəm/ [A1]
-- 学校: school /skuːl/ [A1]
+- 学校: school /skuːl/ [A1][ORT2]
 - 托儿所: nursery /ˈnɜːsəri/ [B2]
 - 幼儿园: kindergarten /ˈkɪndəɡɑːtn/ √
 - 小学: primary school /ˈpraɪməri skuːl/ [B1]
@@ -895,6 +895,7 @@
 - 袖子: sleeve /sliːv/ [B1]
 - 长裤: trousers /ˈtraʊzəz/ [A1], pants /pænts/ (美) [A1]
 - 雨衣: raincoat /ˈreɪnkəʊt/ [A2]
+- 鞋带: lace /leɪs/ [ORT2]
 #### 鞋子: shoes /ʃuːz/ [A1]
 - 拖鞋: slippers /ˈslɪpəz/
 - 雨靴: rain boots /reɪn buːts/ √
@@ -1200,7 +1201,7 @@
 - 经理: manager /ˈmænɪdʒə/ [A2]
 - 队长: captain /ˈkæptɪn/ [B1]
 #### 称谓: titles /ˈtaɪtlz/
-- 女士: Miss /mɪs/ [A1], madam /ˈmædəm/ [B1]
+- 女士: Miss /mɪs/ [A1][ORT2], madam /ˈmædəm/ [B1]
 - 夫人: Mrs /ˈmɪsɪz/ [A1][ORT2], madam /ˈmædəm/ [B1]
 - 先生: Mr /ˈmɪstə/ [A1] √, sir /sɜː/ [B1]
 #### 健康: health /helθ/ [A2]
@@ -1784,7 +1785,7 @@
 - 运气: luck /lʌk/ [A2][ORT1+]
 - 乐趣: fun /fʌn/ [A1][ORT1]
 - 情绪: emotion /ɪˈməʊʃnz/ [B2][3000]
-- 尝试: try /traɪ/ [B2][3000], go /ɡəʊ/ (英) [B2][ORT1+]
+- 尝试: try /traɪ/ [B2][3000][ORT2], go /ɡəʊ/ (英) [B2][ORT1+]
 - 脏乱: mess /mes/ [B1][ORT1+]
 - 产品: product /ˈprɒdʌkt/ [B1]
 - 材料: material /məˈtɪərɪəlz/ [B2][3000]
@@ -1799,7 +1800,7 @@
 - 规则: rule /ruːl/ [B1]
 #### 教育: education /ˌedʒuˈkeɪʃn/ [B1]
 - 考试: examination /ɪɡˌzæmɪˈneɪʃn/ [A2]
-- 班级: class /klɑːs/ [A1] √
+- 班级: class /klɑːs/ [A1][ORT2] √
 - 课: lesson /ˈlesn/ [A1]
 - 托班: daycare /ˈdeɪkeə/ [C1]
 - 小班: preschool /ˈpriːskuːl/
@@ -1897,6 +1898,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 系: tie /taɪ/ [B1][3000][ORT2]
 - 居住: live /lɪv/ [A1][3000][ORT2]
 - 生活: live /lɪv/ [B1][3000]
 - 让 (某事发生): let [B1][3000][ORT2]
