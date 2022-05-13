@@ -464,7 +464,7 @@
 - 桥: bridge /brɪdʒ/ [A2] √
 - 塔: tower /ˈtaʊə/ [B1]
 - 溜冰场: ice rink /ˈaɪs rɪŋk/
-- 动物园: zoo /zuː/ [A1] √
+- 动物园: zoo /zuː/ [A1][ORT2] √
 - 电线杆: wire pole /ˈwaɪə pəʊl/ √
 - 雕像: statue /ˈstætʃuː/ [B1][ORT2]
 - 电梯: lift /lɪft/ (英) [A2], elevator /ˈelɪveɪtə/ (美) [A2] √
@@ -922,7 +922,7 @@
   - 海龟: sea turtle /siː ˈtɜːtl/
   - 变色龙: chameleon /kəˈmiːliən/
   - 火蜥蜴: salamander /ˈsæləmændə/ [ORT2]
-  - 鳄鱼: crocodile /ˈkrɒkədaɪl/ [B2] √
+  - 鳄鱼: crocodile /ˈkrɒkədaɪl/ [B2][ORT2] √
 - 鸟: birds /bɜːdz/ [A1] √
   - 小鸟: birdie /ˈbɜːdi/ √
   - 鸵鸟: ostrich /ˈɒstrɪtʃ/
@@ -947,6 +947,7 @@
   - 巨嘴鸟: toucan /ˈtuːkæn/
   - 猎鹰: falcon /ˈfælkən/ √
   - 知更鸟: robin /ˈrɒbɪn/ [ORT1+]
+  - 鹦鹉: parrot /ˈpærət/ [B1][ORT2]
 - 蛤蜊: clam /klæm/
 - 昆虫: insects /ˈɪnsekts/ [A2]
   - 虫子: bug /bʌɡ/ [B1][ORT1+] √
@@ -968,22 +969,23 @@
 - 蜘蛛: spider /ˈspaɪdə/ [B1][ORT1+] √
 - 蜈蚣: centipede /ˈsentɪpiːd/
 - 哺乳动物: mammals /ˈmæmlz/ [C1]
+  - 猴子: monkey /ˈmʌŋki/ [A2][3000][ORT2]
   - 老鼠: rat /ræt/ [A2][ORT1+]
   - 人: human /ˈhjuːmən/ [B1]
   - 瞪羚: gazelle /ɡəˈzel/
   - 斑马: zebra /ˈzebrə/ [B2] √
-  - 长颈鹿: giraffe /dʒəˈrɑːf/ [B1] √
+  - 长颈鹿: giraffe /dʒəˈrɑːf/ [B1][ORT2] √
   - 大熊猫: panda /ˈpændə/ [ORT1+] √
   - 考拉: koala /kəʊˈɑːlə/
   - 松鼠: squirrel /ˈskwɪrəl/ √
   - 树懒: sloth /sləʊθ/
   - 老虎: tiger /ˈtaɪɡə/ [B1][ORT1+] √
   - 海狮: sea lion /siː ˈlaɪən/
-  - 海豹: seal /siːl/ [B2] √
+  - 海豹: seal /siːl/ [B2][ORT2] √
   - 海象: walrus /ˈwɔːlrəs/
   - 鲸鱼: whale /weɪl/ [B1] √
   - 臭鼬: skunk /skʌŋk/
-  - 大象: elephant /ˈelɪfənt/ [A2] √
+  - 大象: elephant /ˈelɪfənt/ [A2][ORT2] √
   - 骆驼: camel /ˈkæml/ [B1] √
   - 狐狸: fox /fɒks/ [B2] √
   - 兔子: rabbit /ˈræbɪt/ [A2][ORT1+] √
@@ -2081,6 +2083,8 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 睡着的: asleep /əˈsliːp/ [B1][3000][ORT2]
+- 高的: tall /tɔːl/ [A1][3000][ORT2]
 - 奇怪的: odd /ɒd/ [B2][3000][ORT2]
 - 暴躁的: grumpy /ˈɡrʌmpi/ [C1][ORT2]
 - 脏乱的: messy /ˈmesi/ [B1][ORT2]
@@ -2104,7 +2108,7 @@
 - 勇敢的: brave /breɪv/ [B1]
 - 自信的: confident /ˈkɒnfɪdənt/ [B1]
 - 愚蠢的: stupid /ˈstjuːpɪd/ [B1]
-- 搞笑的: funny /ˈfʌni/ [A1] √
+- 搞笑的: funny /ˈfʌni/ [A1][ORT2] √
 - 聪明的: smart /smɑːt/ [B1], clever /ˈklevə/ [A1][3000][ORT2]
 - 湿的: wet /wet/ [A2][ORT1]
 - 怀孕的: pregnant /ˈpreɡnənt/ [B1]
