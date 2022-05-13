@@ -2285,7 +2285,7 @@
 #### 量词: quantifiers /ˈkwɒntɪfaɪəz/
 - 片: slice /slaɪs/ [A2]
 - 张: piece /piːs/ [A2]
-- 块: block /blɒk/ [B2]
+- 块: block /blɒk/ [B2][3000][ORT2]
 - 组, 群: group /ɡruːp/ [A1]
 - 束: bunch /bʌntʃ/ [B1][ORT1+]
 - 堆: heap /hiːp/ [C2]
