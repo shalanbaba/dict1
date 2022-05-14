@@ -57,7 +57,7 @@
 - 海报: poster /ˈpəʊstə/ [A2]
 - 明信片: postcard /ˈpəʊstkɑːd/ [A2]
 - 邮件: mail /meɪl/ [A2]
-- 小票, 收据: receipt /rɪˈsiːt/ [A2]
+- 收据: receipt /rɪˈsiːt/ [A2]
 - 账单: bill /bɪl/ [A2]
 - 计划: plan /plæn/ [A2], programme (英), program (美) /ˈprəʊɡræm/ [B2]
 - 节目 (电视, 广播): programme (英), program (美) /ˈprəʊɡræm/ [A2]
@@ -266,7 +266,7 @@
 - 水坑: puddle /ˈpʌdl/ √
 - 池塘: pond /pɒnd/ [B2] √
 - 云: cloud /klaʊd/ [A2] √
-- 雾: fog /fɒɡ/ [A2]
+- 雾: fog /fɒɡ/ [A2][ORT2]
 - 风: wind /wɪnd/ [A1][ORT1+] √
 - 微风: breeze /briːz/ [B1]
 - 雨: rain /reɪn/ [A1] √
@@ -284,7 +284,7 @@
 - 霜冻: frost /frɒst/ [B2]
 - 气温: temperature /ˈtemprətʃə/ [A2]
 - 湿度: humidity /hjuːˈmɪdəti/
-- 光: light /laɪt/ [B1]
+- 光: light /laɪt/ [B1][ORT2]
 - 空气: air /eə/ [A2]
 - 引力: gravity /ˈɡrævəti/
 - 生态系统: ecosystem /ˈiːkəʊsɪstəm/
@@ -322,7 +322,7 @@
 - 局部多云的: partly cloudy /ˈpɑːtli ˈklaʊdi/
 - 大部多云的: mostly cloudy /ˈməʊstli ˈklaʊdi/
 - 有雪的: snowy /ˈsnəʊi/
-- 有雾的: foggy /ˈfɒɡi/ [A2]
+- 有雾的: foggy /ˈfɒɡi/ [A2][ORT2]
 - 有雾霾的: smoggy /ˈsmɒɡi/
 #### 自然灾害: natural disasters /ˈnætʃrəl dɪˈzɑːstəz/
 - 龙卷风: tornado /tɔːˈneɪdəʊ/ [B2]
@@ -530,7 +530,8 @@
 - 小屋: cabin /ˈkæbɪn/, hut /hʌt/ [B1][ORT2]
 - 牲口房: barn /bɑːn/ [C2]
 - 果园: orchard /ˈɔːtʃəd/
-- 围栏, 篱笆: fence /fens/ [B2] √
+- 围栏: fence /fens/ [B2]
+- 篱笆: fence /fens/ [B2]
 - 稻草人: scarecrow /ˈskeəkrəʊ/ [ORT1+]
 - 磨坊: mill /mɪl/ [ORT1+]
 #### 建材: construction materials /kənˈstrʌkʃn məˈtɪərɪəlz/
@@ -1093,7 +1094,8 @@
 - 皇后: queen /kwiːn/ [A2] √
 - 公主: princess /ˌprɪnˈses/ [B1] √
 - 王子: prince /prɪns/ [B1] √
-- 船员, 机组: crew /kruː/ [B1]
+- 船员: crew /kruː/ [B1]
+- 机组: crew /kruː/ [B1]
 - 临时照顾孩子的人: babysitter [B1][ORT2]
 - 中国人: Chinese /ˌtʃaɪˈniːz/
 - 美国人: American /əˈmerɪkən/
@@ -1194,7 +1196,7 @@
 - 邻居: neighbour (英), neighbor (美) /ˈneɪbə/ [A2]
 - 室友: roommate /ˈruːmmeɪt/ [B2]
 #### 职位: positions /pəˈzɪʃnz/ [B2]
-- 总统, 主席: president /ˈprezɪdənt/ [B1]
+- 总统: president /ˈprezɪdənt/ [B1]
 - 总裁: president /ˈprezɪdənt/
 - 校长: principal /ˈprɪnsəpl/ [B2]
 - 领导: leader /ˈliːdə/ [B1]
@@ -1652,7 +1654,8 @@
   - 糖: sugar /ˈʃʊɡə/ [A1][ORT1+] √
 #### 烹饪: cooking /ˈkʊkɪŋ/ [A2]
 - 煮: boil /bɔɪl/ [B1]
-- 炒, 煎: fry /fraɪ/ [B1]
+- 炒: fry /fraɪ/ [B1]
+- 煎: fry /fraɪ/ [B1]
 - 炸: deep-fry /diːp fraɪ/
 - 蒸: steam /stiːm/
 - 烧烤: grill /ɡrɪl/ [B1]
@@ -1705,7 +1708,8 @@
 - 救生衣: life vest /laɪf vest/
 - 游泳圈: swimming ring /ˈswɪmɪŋ rɪŋ/
 - 救生圈: life buoy /laɪf bɔɪ/
-- 滑雪板, 划水板: ski /skiː/ [B1][3000][ORT2]
+- 划水板: ski /skiː/ [B1][3000][ORT2]
+- 滑雪板: ski /skiː/ [B1][3000]
 #### 游戏: games /ɡeɪmz/ [A1][ORT1+]
 - 捉迷藏: hide and seek /haɪd ənd siːk/ [ORT1+] √
 - 躲猫猫: peekaboo /ˈpiːkəbuː/ √
@@ -1770,7 +1774,8 @@
 - 娱乐: recreation /ˌriːkriˈeɪʃn/ [B2]
 - 狂欢节, 嘉年华: carnival /ˈkɑːnɪvl/ [B2]
 - 沟通: communication /kəˌmjuːnɪˈkeɪʃn/ [B1]
-- 方式: way /weɪ/ [A1][ORT1+]
+- 方式: way /weɪ/ [A2][3000][ORT1+]
+- 路径: way /weɪ/ [A2][3000][ORT2]
 - 爱好: hobby /ˈhɒbi/ [A2]
 - 恶作剧: trick /trɪk/ [B1][ORT1]
 - 冒险: adventure /ədˈventʃə/ [A2]
@@ -1778,9 +1783,10 @@
 - 板球或棒球比赛中的一分: run /rʌn/ [B2][3000][ORT1+]
 - 进球: goal /ɡəʊl/ [A2][ORT1+]
 - 技能: skill /skɪl/ [B1]
-- 某种东西: whatsit /ˈwɒtsɪt/ [ORT5]
 - 假期: holiday /ˈhɒlədeɪ/ (英) [A1] √, vacation /veɪˈkeɪʃn/ (美) [A1]
-- 事情, 东西: thing /θɪŋ/ [A1][ORT1+]
+- 事情: thing /θɪŋ/ [A1]
+- 东西: thing /θɪŋ/ [A1][ORT1+]
+- 某种东西: whatsit /ˈwɒtsɪt/ [ORT5]
 - 顶部: top /tɒp/ [A2][ORT1+]
 - 结尾: end /end/ [A1]
 - 小心: caution /ˈkɔːʃn/ [C1]
@@ -1842,14 +1848,16 @@
 - 篝火: campfire /ˈkæmpfaɪə/
 #### 演出: the performance /ðə pəˈfɔːməns/ [B1], the show /ðə ʃəʊ/ [A2]
 - 座位: seat /siːt/ [A2]
-- 戏剧, 话剧: drama /ˈdrɑːmə/ [B1]
+- 戏剧: drama /ˈdrɑːmə/ [B1]
+- 话剧: drama /ˈdrɑːmə/ [B1]
 - 歌剧: opera /ˈɒprə/ [A2]
 - 演讲: speech /spiːtʃ/ [B2]
 - 舞台: stage /steɪdʒ/ [A2]
 - 音乐会: concert /ˈkɒnsət/ [A2]
 - 音乐: music /ˈmjuːzɪk/ [A1] √
 - 乐队: band /bænd/ [A1][3000][ORT2]
-- 旋律, 曲调: tune /tjuːn/ [C1]
+- 旋律: tune /tjuːn/ [C1]
+- 曲调: tune /tjuːn/ [C1]
 - 节奏: rhythm /ˈrɪðəm/ [B2]
 - 歌曲: song /sɒŋ/ [A2] √
 - 电影: film /fɪlm/ (英) [A1], movie /ˈmuːvi/ (美) [A1]
@@ -1970,7 +1978,8 @@
 - 发现: find /faɪnd/ [A2][ORT1+], discover /dɪˈskʌvə/ [B1]
 - 放: put /pʊt/ [A1][ORT1+]
 - 掉落: fall /fɔːl/ [A2][ORT1+]
-- 设置, 落下 (太阳): set [B1][ORT1+]
+- 设置: set [B1][ORT1+]
+- 落下 (太阳): set [B1][ORT1+]
 - 停留: stay /steɪ/ [A1][ORT1+]
 - 做: do /duː/ [A1][ORT1]
 - 想要: want /wɒnt/ [A1][ORT1]
@@ -2001,7 +2010,8 @@
 - 鞠躬: bow /baʊ/
 - 复制: copy /ˈkɒpi/ [A2]
 - 粘贴: paste /peɪst/
-- 跳水, 潜水: dive /daɪv/ [B1]
+- 跳水: dive /daɪv/ [B1]
+- 潜水: dive /daɪv/ [B1]
 - 跋涉: trek /trek/
 - 训练: train /treɪn/ [B1]
 - 伤害: hurt /hɜːt/ [A2]
@@ -2037,7 +2047,8 @@
 - 微笑: smile /smaɪl/ [B1] √
 - 玩: play /pleɪ/ [A1][ORT1+] √
 - 处理: handle /ˈhændl/ [B1]
-- 穿, 戴: wear /weə/ [A1][ORT2] √
+- 穿: wear /weə/ [A1][ORT2] √
+- 戴: wear /weə/ [A1] √
 - 穿衣服: dress /dres/ [A2][ORT1+]
 - 写: write /raɪt/ [A1][ORT1+]
 - 读: read /riːd/ [A1] √
@@ -2130,7 +2141,8 @@
 - 短的 (时间, 距离): short /ʃɔːt/ [A1]
 - 大的 (大小, 数量): large /lɑːdʒ/ [A2], big /bɪɡ/ [A1][ORT1] √
 - 小的 (大小, 数量): small /smɔːl/ [A1][ORT2], little /ˈlɪtl/ [A1][ORT1] √
-- 老的, 旧的: old /əʊld/ [A1][ORT1+]
+- 老的: old /əʊld/ [A1][ORT1+]
+- 旧的: old /əʊld/ [A1]
 - 新的: new /njuː/ [A1][3000][ORT2]
 - 便宜的: cheap /tʃiːp/ [A1]
 - 昂贵的: expensive /ɪkˈspensɪv/ [A1]
@@ -2139,7 +2151,7 @@
 - 更好的: better /ˈbetə/ [A1][3000][ORT2]
 - 最好的: best /best/ [A1][ORT1+]
 - 坏的: bad /bæd/ [A1][ORT1+]
-- 更坏的: worse /wɜːs/ [A2]
+- 更坏的: worse /wɜːs/ [A2][ORT2]
 - 最坏的: worst /wɜːst/ [A2]
 - 野生的: wild /waɪld/ [A2]
 - 脏的: dirty /ˈdɜːti/ [A2]
@@ -2169,7 +2181,8 @@
 - 更少: less /les/ [A2]
 - 最少: least /liːst/ [B2]
 - 我的: my /maɪ/ [A1][ORT1+] √
-- 你的, 你们的: your /jɔː/ [A1] √
+- 你的: your /jɔː/ [A1] √
+- 你们的: your /jɔː/ [A1] √
 - 他的: his /hɪz/ [A1][ORT1+]
 - 她的: her /hə/ [A1][ORT1+]
 - 我们的: our /ˈaʊə/ [A1][ORT1+]
@@ -2230,7 +2243,8 @@
 - 沿着: along /əˈlɒŋ/ [A2]
 - 像: like /laɪk/ [A2][ORT1+]
 - 和...一起: with /wɪð/ [A1][ORT2]
-- 给, 为: for /fɔː/ [A1][ORT1+]
+- 给: for /fɔː/ [A1][ORT1+]
+- 为: for /fɔː/ [A1]
 - 关于: about /əˈbaʊt/ [A1][ORT2]
 #### 连词: conjunctions /kənˈdʒʌŋkʃnz/ [B2]
 - 和: and /ænd/ [A1][ORT1] √
@@ -2251,13 +2265,15 @@
 - 一个: one /wʌn/ [A2]
 - 我: I /aɪ/ (主) [A1][ORT1] √, me /miː/ (宾) [A1][ORT1] √
 - 我们: we /wiː/ (主) [A1][ORT1], us /əs/ (宾) [A1][ORT1+]
-- 你, 你们: you /juː/ [A1][ORT1] √
+- 你: you /juː/ [A1][ORT1] √
+- 你们: you /juː/ [A1] √
 - 他: he /hiː/ (主) [A1][ORT1+], him /hɪm/ (宾) [A1][ORT1+]
 - 她: she /ʃiː/ (主) [A1][ORT1+], her /hə/ (宾) [A1][ORT2]
 - 他们: they /ðeɪ/ (主) [A1][ORT1+], them /ðəm/ (宾) [A1][ORT2]
 - 它: it /ɪt/ [A1][ORT1] √
 - 我的: mine /maɪn/ [A2] √
-- 你的, 你们的: yours /jɔːz/ [A2]
+- 你的: yours /jɔːz/ [A2]
+- 你们的: yours /jɔːz/ [A2]
 - 我们的: ours /ˈaʊəz/ [A2]
 - 他们的: theirs /ðeəz/ [A2]
 - 我自己: myself /maɪˈself/ [A2]
@@ -2276,7 +2292,8 @@
 - 所有人: everyone /ˈevriwʌn/ [A2][ORT1], everybody /ˈevribɒdi/ [A2]
 - 没有事物: nothing /ˈnʌθɪŋ/ [A2]
 - 没有人: nobody /ˈnəʊbədi/ [A2][ORT2]
-- 没有任何人, 没有任何事物: none /nʌn/ [B1]
+- 没有任何事物: none /nʌn/ [B1]
+- 没有任何人: none /nʌn/ [B1]
 - 什么事物: what /wɒt/ [A1][ORT1+] √
 - 谁: who /huː/ [A1][ORT1] √
 - 哪个: which /wɪtʃ/ [A2] √
@@ -2289,7 +2306,8 @@
 - 片: slice /slaɪs/ [A2]
 - 张: piece /piːs/ [A2]
 - 块: block /blɒk/ [B2][3000][ORT2]
-- 组, 群: group /ɡruːp/ [A1]
+- 组: group /ɡruːp/ [A1]
+- 群: group /ɡruːp/ [A1]
 - 束: bunch /bʌntʃ/ [B1][ORT1+]
 - 堆: heap /hiːp/ [C2]
 - 滴: drop /drɒp/ [B1]
