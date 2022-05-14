@@ -1713,6 +1713,7 @@
 #### 游戏: games /ɡeɪmz/ [A1][ORT1+]
 - 捉迷藏: hide and seek /haɪd ənd siːk/ [ORT1+] √
 - 躲猫猫: peekaboo /ˈpiːkəbuː/ √
+- 跳房子: hopscotch /ˈhɒpskɒtʃ/ [ORT2]
 #### 玩具: toys /tɔɪz/ [A2][ORT2]
 - 风筝: kite /kaɪt/ [A2][ORT1+]
 - 跳跳球: hopper /ˈhɒpə/ [ORT1+]
@@ -1749,6 +1750,7 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
+- 网格: grid /grid/ [ORT2]
 - 震惊: shock /ʃɒk/ [B1][3000][ORT2]
 - 坑: pit /pɪt/ [C2][ORT2]
 - 斑点: spot /spɒt/ [B1][3000][ORT2]
@@ -2075,7 +2077,7 @@
 - 挤: squeeze /skwiːz/ [B2]
 - 狼吞虎咽: gobble /ˈɡɒbl/
 - 尖叫: squeal /skwiːl/
-- 需要: need /niːd/ [A1]
+- 需要: need /niːd/ [A1][ORT2]
 - 停: stop /stɒp/ [A1][ORT1+]
 - 去: go /ɡəʊ/ [A1][ORT1]
 - 吸气 (惊讶): gasp /ɡɑːsp/ [C2]
