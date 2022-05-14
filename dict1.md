@@ -1227,6 +1227,7 @@
 - 淋浴: shower /ˈʃaʊə/ [A1]
 #### 身体: the body /ðə ˈbɒdi/ [A1]
 - 骨架: skeleton /ˈskelɪtn/ [B2]
+- 牙齿: tooth /tuːθ/ [A1][3000][ORT2]
 - 头: head /hed/ [A1][ORT1+] √
 - 手: hand /hænd/ [A1][ORT1+]
 - 手指: fingers /ˈfɪŋɡəz/ [A2] √
@@ -1288,7 +1289,7 @@
 #### 感觉: feelings /ˈfiːlɪŋz/ [B1][3000]
 - 无聊的: bored /bɔːd/ [A1][3000][ORT1+]
 - 舒服的: comfortable /ˈkʌmftəbl/ [B1]
-- 开心的: happy /ˈhæpi/ [A1][ORT2] √, glad /ɡlæd/ [A2]
+- 开心的: happy /ˈhæpi/ [A1][ORT2] √, glad /ɡlæd/ [A2][ORT2]
 - 不开心的: unhappy /ʌnˈhæpi/ [A2][3000][ORT2]
 - 伤心的: sad /sæd/ [A1][ORT1+]
 - 凶猛的: fierce /fɪəs/ [B2][ORT1+]
@@ -1910,6 +1911,9 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 介意: mind /maɪnd/ [A2][3000][ORT2]
+- 撞击: hit /hɪt/ [B1][3000][ORT2]
+- 吞下: swallow /ˈswɒləʊ/ [B2][ORT2]
 - 系: tie /taɪ/ [B1][3000][ORT2]
 - 居住: live /lɪv/ [A1][3000][ORT2]
 - 生活: live /lɪv/ [B1][3000]
@@ -2170,6 +2174,7 @@
 - 最高的 (位置): top /tɒp/ [B1][3000][ORT1+]
 - 忙碌的: busy /ˈbɪzi/ [A2][ORT1+]
 #### 限定词: determiners /dɪˈtɜːmɪnəz/ [B2]
+- 摇晃的: wobbly /ˈwɒbli/ [ORT2]
 - 这: this /ðɪs/ [A1] √
 - 那: that /ðæt/ [A1] √
 - 这些: these /ðiːz/ [A1]
@@ -2199,6 +2204,8 @@
 - 只是: just /dʒʌst/ [B1][3000][ORT2]
 - 也: too /tuː/ [A1][3000][ORT2]
 - 不: not /nɒt/ [A1][ORT1+] √
+- 从不: never /ˈnevə/ [A1][3000]
+- 永不: never /ˈnevə/ [A1][3000][ORT2]
 - 然后: then /ðen/ [A1][ORT1+]
 - 再次: again /əˈɡeɪn/ [A1][ORT1+][3000]
 - 进: in /ɪn/ [A2][3000][ORT1] √
