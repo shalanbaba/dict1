@@ -248,6 +248,7 @@
 - 瀑布: waterfall /ˈwɔːtəfɔːl/ [B1] √
 - 彩虹: rainbow /ˈreɪnbəʊ/ [B2] √
 - 森林: forest /ˈfɒrɪst/ [A2]
+- 溪流: stream /striːm/ [B1][3000][ORT2]
 - 山洞: cave /keɪv/ [B1] √
 - 山丘: hill /hɪl/ [A2]
 - 山谷: valley /ˈvæli/ [B1]
@@ -302,7 +303,7 @@
 - 蜂巢: hive /haɪv/ √
 - 鸟巢: nest /nest/ [C2] √
 - 巢穴: den /den/
-- 洞: hole /həʊl/ [B1]
+- 洞: hole /həʊl/ [B1][ORT2]
 - 蜘蛛网: web /web/ [B1] √
 - 地洞: burrow /ˈbʌrəʊ/ [ORT1+]
 - 山峰: peak /piːk/ [B1]
@@ -461,7 +462,7 @@
 - 市政厅: town hall /ˌtaʊn ˈhɔːl/ 
 - 洗衣店: laundry /ˈlɔːndri/
 - 免税店: duty free store /ˌduːti ˈfriː stɔː/
-- 桥: bridge /brɪdʒ/ [A2] √
+- 桥: bridge /brɪdʒ/ [A2][ORT2] √
 - 塔: tower /ˈtaʊə/ [B1]
 - 溜冰场: ice rink /ˈaɪs rɪŋk/
 - 动物园: zoo /zuː/ [A1][ORT2] √
@@ -1287,7 +1288,7 @@
 - 触觉: touch /tʌtʃ/ [B2]
 - 嗅觉: smell /smel/ [B2]
 - 味觉: taste /teɪst/ [B2]
-#### 感觉: feelings /ˈfiːlɪŋz/ [B1][3000]
+#### 感觉: feelings /ˈfiːlɪŋz/ [B1][3000][ORT2]
 - 无聊的: bored /bɔːd/ [A1][3000][ORT1+]
 - 舒服的: comfortable /ˈkʌmftəbl/ [B1]
 - 开心的: happy /ˈhæpi/ [A1][ORT2] √, glad /ɡlæd/ [A2][ORT2]
@@ -1682,7 +1683,7 @@
 - 拳击: boxing /ˈbɒksɪŋ/ [B1]
 - 体操: gymnastics /dʒɪmˈnæstɪks/ [B1]
 - 乒乓球: table tennis /ˈteɪbl tenɪs/ [A2]
-- 游泳: swimming /ˈswɪmɪŋ/ [A2] √
+- 游泳: swimming /ˈswɪmɪŋ/ [A2][3000][ORT2] √
 - 跳绳: skipping /skɪpɪŋ/
 - 跑: run /rʌn/ [B1][3000]
 #### 运动装备: sports equipments /spɔːts ɪˈkwɪpmənts/
@@ -1913,6 +1914,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 种植: plant /plɑːnt/ [B1][3000][ORT2]
 - 着陆: land /lænd/ [B1][3000][ORT2]
 - 打赌: bet /bet/ [B1][3000][ORT2]
 - 塞进: tuck /tʌk/ [ORT2]
@@ -1946,7 +1948,7 @@
 - 游泳: swim /swɪm/ [A1][3000]
 - 悬挂: hang /hæŋ/ [B1][3000]
 - 加入: join /dʒɔɪn/ [A2][3000][ORT2]
-- 下沉: sink /sɪŋk/ [B1]
+- 下沉: sink /sɪŋk/ [B1][ORT2]
 - 打猎: hunt /hʌnt/ [B1][ORT1+]
 - 休息: rest /rest/ [B1][ORT1+]
 - 吻合: fit /fɪt/ [B1][ORT1+]
