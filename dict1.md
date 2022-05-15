@@ -673,7 +673,7 @@
 - 表: watch /wɒtʃ/ [A1] √
 - 遥控器: remote control /rɪˈməʊt kənˈtrəʊl/ [B1]
 - 摄像机: camcorder /ˈkæmkɔːdə/
-- 电视机: television /ˈtelɪvɪʒn/ [A1]
+- 电视机: television /ˈtelɪvɪʒn/ [A1][ORT2]
 - 冰箱: fridge /frɪdʒ/ [A2], refrigerator /rɪˈfrɪdʒəreɪtə/ [A1]
 - 烤箱: oven /ˈʌvn/ [B1][ORT2]
 - 微波炉: microwave /ˈmaɪkrəweɪv/
@@ -1752,6 +1752,7 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
+- 气泡: bubble /ˈbʌbl/ [C1][3000][ORT2]
 - 网格: grid /grid/ [ORT2]
 - 震惊: shock /ʃɒk/ [B1][3000][ORT2]
 - 坑: pit /pɪt/ [C2][ORT2]
