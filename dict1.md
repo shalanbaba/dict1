@@ -522,7 +522,7 @@
 - 滑梯: slide /slaɪd/ [3000][ORT1+] √
 - 秋千: swing /swɪŋ/ [B2][ORT1+] √
 - 脚踏船: pedalo /ˈpedələʊ/ (英), pedal boat /ˈpedl bəʊt/ (美)
-#### 农场: the farm /ðə fɑːm/ [A1] √
+#### 农场: the farm /ðə fɑːm/ [A1][ORT2] √
 - 猪圈: pigpen /pɪɡpen/
 - 圈: pen /pen/ [ORT1+]
 - 干草: hay /heɪ/ √
@@ -545,7 +545,7 @@
 - 钉子: nail /neɪl/ [B2]
 - 水管: water pipe /ˈwɔːtə paɪp/
 - 漆刷: paintbrush /ˈpeɪntbrʌʃ/ [ORT2]
-#### 灯: the light /ðə laɪt/ [A2]
+#### 灯: the light /ðə laɪt/ [A2] & the lamp /ðə læmp/ [A2][3000][ORT2]
 - 灯泡: bulb /bʌlb/ [B2]
 - 台灯: desk lamp /desk læmp/
 - 路灯: street light /striːt laɪt/
@@ -666,7 +666,7 @@
 - 强信号: strong signal /strɒŋ ˈsɪɡnəl/
 - 弱信号: weak signal /wiːk ˈsɪɡnəl/
 - 天线: antenna /ænˈtenə/
-#### 电器和电子产品: appliances and electronics /əˈplaɪənsɪz ənd ɪˌlekˈtrɒnɪks/
+#### 电器和电子产品: appliances /əˈplaɪənsɪz/ [C1] & electronics /ɪˌlekˈtrɒnɪks/
 - 搅拌机: blender /ˈblendə/
 - 净水器: water purifier /ˈwɔːtə ˈpjʊərɪfaɪə/
 - 秤: scale /skeɪl/ [B2]
@@ -683,7 +683,7 @@
 - 电吹风: hair dryer /heə ˈdraɪə/ [B1]
 - 电饭煲: rice cooker /raɪs ˈkʊkə/
 - 电水壶: electric kettle /ɪˈlektrɪk ˈketl/
-- 电风扇: fan /fæn/ [B1]
+- 电风扇: fan /fæn/ [B1][ORT2]
 - 显示器: monitor /ˈmɒnɪtə/ [B2]
 - 消毒柜: sterilizer /ˈsterəlaɪzə/
 - 油烟机: range hood /reɪndʒ hʊd/
@@ -707,6 +707,7 @@
 - 插座: socket /ˈsɒkɪt/
 - 插线板: power strip /ˈpaʊə strɪp/
 - 闸机: barrier /ˈbæriə/ [B2], turnstile /ˈtɜːnstaɪl/
+- 孵化器: incubator /ˈɪŋkjubeɪtə/ [ORT2]
 #### 机器: machines /məˈʃiːnz/ [A2]
 - 挖掘机: digger /ˈdɪɡə/ √
 - 吊车: crane /kreɪn/ √
@@ -930,7 +931,7 @@
   - 小鸟: birdie /ˈbɜːdi/ √
   - 鸵鸟: ostrich /ˈɒstrɪtʃ/
   - 鸭: duck /dʌk/ [A2][ORT1+]
-  - 小鸭: duckling /ˈdʌklɪŋ/
+  - 小鸭: duckling /ˈdʌklɪŋ/ [ORT2]
   - 鸽子: pigeon /ˈpɪdʒɪn/ √
   - 鹅: goose /ɡuːs/
   - 小鹅: gosling /ˈɡɒzlɪŋ/
@@ -943,7 +944,7 @@
   - 鸡: chickens /ˈtʃɪkɪnz/ [A2][ORT1+]
     - 公鸡: rooster /ˈruːstə/ √
     - 母鸡: hen /hen/ √
-    - 小鸡: chick /tʃɪk/ √
+    - 小鸡: chick /tʃɪk/ [ORT2] √
     - 小公鸡: cockerel /ˈkɒkərəl/
   - 孔雀: peacock /ˈpiːkɒk/ √
   - 海鸥: seagull /siːɡʌl/ [ORT2] √
@@ -1325,7 +1326,7 @@
     - 7: seven /ˈsevn/ [A1] √
     - 8: eight /eɪt/ [A1] √
     - 9: nine /naɪn/ [A1] √
-    - 10: ten /ten/ [A1] √
+    - 10: ten /ten/ [A1][ORT2] √
     - 11: eleven /ɪˈlevn/ [A1]
     - 12: twelve /twelv/ [A1]
     - 13: thirteen /ˌθɜːˈtiːn/ [A1]
@@ -1795,6 +1796,7 @@
 - 某种东西: whatsit /ˈwɒtsɪt/ [ORT5]
 - 顶部: top /tɒp/ [A2][ORT1+]
 - 结尾: end /end/ [A1]
+- 最后的事物: last /lɑːst/ [B1][3000][ORT2]
 - 小心: caution /ˈkɔːʃn/ [C1]
 - 运气: luck /lʌk/ [A2][ORT1+]
 - 乐趣: fun /fʌn/ [A1][ORT1]
@@ -1914,6 +1916,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 转动: turn /tɜːn/ [A2][3000][ORT2]
 - 种植: plant /plɑːnt/ [B1][3000][ORT2]
 - 着陆: land /lænd/ [B1][3000][ORT2]
 - 打赌: bet /bet/ [B1][3000][ORT2]
@@ -1926,6 +1929,7 @@
 - 生活: live /lɪv/ [B1][3000]
 - 让 (某事发生): let [B1][3000][ORT2]
 - 买: buy /baɪ/ [A1][3000][ORT2]
+- 卖: sell /sel/ [A2][3000][ORT2]
 - 闪耀: shine /ʃaɪn/ [B1][3000][ORT2]
 - 购物: shop /ʃɒp/ [B1][3000][ORT2]
 - 遗失: lose /luːz/ [A2][3000][ORT2]
@@ -2078,7 +2082,7 @@
 - 蹲: squat /skwɒt/
 - 蹲伏: crouch /kraʊtʃ/
 - 敲: knock /nɒk/ [B1]
-- 孵化: hatch /hætʃ/ √
+- 孵化: hatch /hætʃ/ [ORT2] √
 - 融化: melt /melt/ [B2]
 - 猜: guess /ɡes/ [A2]
 - 行进: march /mɑːtʃ/ [C1]
@@ -2234,7 +2238,7 @@
 - 外面: outside /ˌaʊtˈsaɪd/ [A1]
 - 楼上: upstairs /ˌʌpˈsteəz/ [A2][3000][ORT2]
 - 楼下: downstairs /ˌdaʊnˈsteəz/ [A2][3000][ORT2]
-- 什么时候: when /wen/ [A1] √
+- 什么时候: when /wen/ [A1][ORT2] √
 - 什么地方: where /weə/ [A1] √
 - 为什么: why /waɪ/ [A1] √
 - 怎么样: how /haʊ/ [A2] √
