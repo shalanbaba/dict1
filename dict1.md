@@ -264,7 +264,7 @@
 - 大海: sea /siː/ [A1][ORT2] √
 - 潮水: tide /taɪd/ [B2]
 - 水坑: puddle /ˈpʌdl/ √
-- 池塘: pond /pɒnd/ [B2] √
+- 池塘: pond /pɒnd/ [B2][ORT2] √
 - 云: cloud /klaʊd/ [A2] √
 - 雾: fog /fɒɡ/ [A2][ORT2]
 - 风: wind /wɪnd/ [A1][ORT1+] √
@@ -1091,9 +1091,9 @@
 - 访客: visitor /ˈvɪzɪtə/ [A2]
 - 囚犯: prisoner /ˈprɪznə/ [B1]
 - 海盗: pirate /ˈpaɪrət/ [B1][ORT1+] √
-- 国王: king /kɪŋ/ [A2] √
+- 国王: king /kɪŋ/ [A2][ORT2] √
 - 皇后: queen /kwiːn/ [A2] √
-- 公主: princess /ˌprɪnˈses/ [B1] √
+- 公主: princess /ˌprɪnˈses/ [B1][ORT2] √
 - 王子: prince /prɪns/ [B1] √
 - 船员: crew /kruː/ [B1]
 - 机组: crew /kruː/ [B1]
@@ -1161,7 +1161,7 @@
 - 工程师: engineer /ˌendʒɪˈnɪə/ [A2]
 - 记者: reporter /rɪˈpɔːtə/ [B1]
 - 秘书: secretary /ˈsekrətri/ [A2]
-- 骑士: knight /naɪt/
+- 骑士: knight /naɪt/ [ORT2]
 - 机械师: mechanic /məˈkænɪk/ [A2] √
 - 巫师: wizard /ˈwɪzəd/
 - 巫婆: witch /wɪtʃ/ [C1] √
@@ -2249,6 +2249,7 @@
 - 在: at /æt/ [A1][ORT1]
 - 在...里面: in /ɪn/ [A1][3000][ORT1+]
 - 在...上面: on /ɒn/ [A1][ORT1+]
+- 在...下面: under /ˈʌndə/ [A1][3000][ORT2]
 - 在...前面: before /bɪˈfɔː/ [B1]
 - 在...后面: after /ˈɑːftə/ [B1][ORT1+]
 - 到...里面: into /ˈɪntu/ [A1][3000][ORT2]
