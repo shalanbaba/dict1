@@ -808,7 +808,7 @@
 - 拖车: tow truck /təʊ trʌk/ √
 - 洒水车: sprinkler /ˈsprɪŋklə/
 - 扫地车: sweeper /ˈswiːpə/
-- 公交车: bus /bʌs/ [A1][ORT1+] √
+- 公交车: bus /bʌs/ [A1][ORT1+][ORT2] √
 - 摩托车: motorbike /ˈməʊtəbaɪk/ [A2] √, motorcycle /ˈməʊtəsaɪkl/ [A2] √
 - 平板摩托车: scooter /ˈskuːtə/ [A2]
 - 房车: camper van /ˈkæmpə væn/
@@ -877,7 +877,7 @@
 - 套头毛衣: jumper /ˈdʒʌmpə/ (英) [A2], sweater /ˈswetə/ (美) [A2]
 - 短裤: shorts /ʃɔːts/ [A2]
 - 裙子: skirt /skɜːt/ [A1]
-- 帽子: hat /hæt/ [A1][ORT1+]
+- 帽子: hat /hæt/ [A1][ORT1+][ORT2]
 - 有帽舌的帽子: cap /kæp/ [A2][ORT1+]
 - 绒球: pom-pom /pɒm pɒm/ [ORT1+]
 - 太阳帽: sunhat /ˈsʌnhæt/ [ORT1+]
@@ -1017,7 +1017,7 @@
   - 驴: donkey /ˈdɒŋki/ [B1]
   - 牧羊犬: sheepdog /ˈʃi:pdɒg/
   - 黑猩猩: chimpanzee /ˌtʃɪmpænˈziː/
-  - 大猩猩: gorilla /ɡəˈrɪlə/ √
+  - 大猩猩: gorilla /ɡəˈrɪlə/ [ORT2] √
   - 猩猩: orangutan /əˈræŋətæn/
   - 犀牛: rhino /ˈraɪnəʊ/, rhinoceros /raɪˈnɒsərəs/
   - 河狸: beaver /ˈbiːvə/
@@ -1690,7 +1690,7 @@
 - 乒乓球: table tennis /ˈteɪbl tenɪs/ [A2]
 - 游泳: swimming /ˈswɪmɪŋ/ [A2][3000][ORT2] √
 - 跳绳: skipping /skɪpɪŋ/
-- 跑: run /rʌn/ [B1][3000]
+- 跑: run /rʌn/ [B1][3000][ORT2]
 #### 运动装备: sports equipments /spɔːts ɪˈkwɪpmənts/
 - 头盔: helmet /ˈhelmɪt/ [B2] √
 - 球拍: racket /ˈrækɪt/ [A2]
@@ -1758,6 +1758,8 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
+- 背面: back /bæk/ [A2][3000][ORT2]
+- 轻拍: tap /tæp/ [B2][ORT2]
 - 气泡: bubble /ˈbʌbl/ [C1][3000][ORT2]
 - 网格: grid /grid/ [ORT2]
 - 震惊: shock /ʃɒk/ [B1][3000][ORT2]
@@ -1949,7 +1951,7 @@
 - 给: give /ɡɪv/ [A1][3000][ORT2]
 - 使不安: upset /ˌʌpˈset/ [B2][3000][ORT1+]
 - 举起: lift /lɪft/ [B1][3000][ORT1+]
-- 感觉: feel /fiːl/ [A1][3000]
+- 感觉: feel /fiːl/ [A1][3000][ORT2]
 - 思考: think /θɪŋk/ [A1][3000]
 - 挑选: pick /pɪk/ [B1][ORT1+]
 - 舔: lick /lɪk/ [B2][ORT1+]
@@ -2054,14 +2056,14 @@
 - 挥: wave /weɪv/ [B1] √
 - 跺脚: stamp /stæmp/ [C2] √
 - 弯曲: bend /bend/ [B2] √
-- 坐: sit /sɪt/ [A1][ORT1+] √
+- 坐: sit /sɪt/ [A1][ORT1+][ORT2] √
 - 说: talk /tɔːk/ [A1]
 - 站: stand /stænd/ [A2] √
 - 听: listen /ˈlɪsn/ [A1]
 - 跳舞: dance /dæns/ [A1] √
 - 拍: clap /klæp/ [B1] √
 - 旋转: spin /spɪn/ [C1][ORT1+] √
-- 轻拍: pat /pæt/ [C2][ORT1+]
+- 轻抚: pat /pæt/ [C2][ORT1+]
 - 滑雪: ski /skiː/ [B1]
 - 看: look /lʊk/ [A1][ORT1+]
 - 看见: see /siː/ [A1][ORT1] √
@@ -2350,7 +2352,7 @@
 - 滴: drop /drɒp/ [B1]
 - 一打: dozen /ˈdʌzn/ (十二个) [B1]
 #### 感叹词: exclamations /ˌekskləˈmeɪʃnz/, interjections /ˌɪntəˈdʒekʃnz/
-- 你好: hello /həˈləʊ/ [A1] √
+- 你好: hello /həˈləʊ/ [A1][ORT2] √
 - 嗨: hi /haɪ/ [A1] √, hey /heɪ/ [A2][ORT2] √
 - 哦: oh /əʊ/ [A1][3000][ORT1+]
 - 天哪: dear /dɪə/ [A2][3000][ORT2]
