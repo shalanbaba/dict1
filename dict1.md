@@ -827,7 +827,7 @@
 - 飞机: aeroplane /ˈeərəpleɪn/ (英) [A2][ORT2] √, airplane /ˈeəpleɪn/ (美) [A2] √
 - 直升机: helicopter /ˈhelɪkɒptə/ [A2] √
 - 热气球: hot air balloon /hɒt eə bəˈluːn/ √
-- 滑翔伞: paraglider /ˈpærəɡlaɪdə/
+- 滑翔伞: paraglider /ˈpærəɡlaɪdə/ [ORT2]
 #### 船: boats /bəʊts/ [A1] √
 - 皮划艇: kayak /ˈkaɪæk/
 - 独木舟: canoe /kəˈnuː/
@@ -945,7 +945,8 @@
     - 小鸡: chick /tʃɪk/ √
     - 小公鸡: cockerel /ˈkɒkərəl/
   - 孔雀: peacock /ˈpiːkɒk/ √
-  - 海鸥: seagull /siːɡʌl/ √
+  - 海鸥: seagull /siːɡʌl/ [ORT2] √
+  - 鸥: gull /ɡʌl/ [ORT2]
   - 巨嘴鸟: toucan /ˈtuːkæn/
   - 猎鹰: falcon /ˈfælkən/ √
   - 知更鸟: robin /ˈrɒbɪn/ [ORT1+]
@@ -1113,7 +1114,7 @@
 - 狙击手: sniper /ˈsnaɪpə/
 - 警察: policeman /pəˈliːsmən/ [A2] √, policewoman /pəˈliːswʊmən/ [A2], police officer /pəˈliːs ˈɒfɪsə/ [A2]
 - 飞行员: pilot /ˈpaɪlət/ [A2] √
-- 老师: teacher /ˈtiːtʃə/ [A1] √
+- 老师: teacher /ˈtiːtʃə/ [A1][ORT2] √
 - 护士: nurse /nɜːs/ [A2] √
 - 服务员: waiter /ˈweɪtə/ (男) [A1], waitress /ˈweɪtrəs/ (女) [A1]
 - 牙医: dentist /ˈdentɪst/ [A2] √
@@ -1552,7 +1553,7 @@
 - 馅饼: pie /paɪ/ [B1][ORT1+]
 - 香肠: sausage /ˈsɒsɪdʒ/ [A2][ORT1+]
 - 吐司: toast /təʊst/ [A2]
-- 披萨: pizza /ˈpiːtsə/ [A1] √
+- 披萨: pizza /ˈpiːtsə/ [A1][ORT2] √
 - 肉圆: meatball /ˈmiːtbɔːl/
 - 泡菜: pickle /ˈpɪkl/
 - 酸黄瓜: pickle /ˈpɪkl/
@@ -1911,6 +1912,9 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 着陆: land /lænd/ [B1][3000][ORT2]
+- 打赌: bet /bet/ [B1][3000][ORT2]
+- 塞进: tuck /tʌk/ [ORT2]
 - 介意: mind /maɪnd/ [A2][3000][ORT2]
 - 撞击: hit /hɪt/ [B1][3000][ORT2]
 - 吞下: swallow /ˈswɒləʊ/ [B2][ORT2]
@@ -2335,3 +2339,4 @@
 - 好吧: alright /ɔːlˈraɪt/ [A1]
 - 是: yes /jes/ [A1][3000][ORT1] √
 - 不: no /nəʊ/ [A1][3000][ORT1] √
+- 好吃: yum /jʌm/ [ORT2]
