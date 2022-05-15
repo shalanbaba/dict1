@@ -514,6 +514,7 @@
 - 镜子: mirror /ˈmɪrə/ [A2]
 - 龙头: tap /tæp/ (英) [ORT1+], faucet /ˈfɔːsɪt/ (美) [B1]
 - 台阶: step /step/ [B1][ORT1+]
+- 浴缸: bath /bɑːθ/ (英) [A1][3000][ORT2], bathtub /ˈbɑːθtʌb/ (美) [B1]
 #### 游乐场: the playground /ðə ˈpleɪɡraʊnd/ [A2] √, the funfair /ðə ˈfʌnfeə/
 - 摩天轮: ferris wheel /ferɪs wiːl/
 - 旋转木马: carousel /ˌkærəˈsel/
@@ -531,7 +532,7 @@
 - 小屋: cabin /ˈkæbɪn/, hut /hʌt/ [B1][ORT2]
 - 牲口房: barn /bɑːn/ [C2]
 - 果园: orchard /ˈɔːtʃəd/
-- 围栏: fence /fens/ [B2]
+- 围栏: fence /fens/ [B2][ORT2]
 - 篱笆: fence /fens/ [B2]
 - 稻草人: scarecrow /ˈskeəkrəʊ/ [ORT1+]
 - 磨坊: mill /mɪl/ [ORT1+]
@@ -929,7 +930,7 @@
   - 火蜥蜴: salamander /ˈsæləmændə/ [ORT2]
   - 鳄鱼: crocodile /ˈkrɒkədaɪl/ [B2][ORT2] √
 - 鸟: birds /bɜːdz/ [A1] √
-  - 小鸟: birdie /ˈbɜːdi/ √
+  - 小鸟: birdie /ˈbɜːdi/ (儿语) √
   - 鸵鸟: ostrich /ˈɒstrɪtʃ/
   - 鸭: duck /dʌk/ [A2][ORT1+]
   - 小鸭: duckling /ˈdʌklɪŋ/ [ORT2]
@@ -999,13 +1000,14 @@
   - 猫: cat /kæt/ [A1][ORT1+] √
   - 小猫: kitten /ˈkɪtn/ [B1][ORT1+] √
   - 黑豹: panther /ˈpænθə/
-  - 狗: dog /dɒɡ/ [A1][ORT1+] √
+  - 狗: dog /dɒɡ/ [A1][ORT1+] √, doggy /ˈdɒɡi/ (儿语) [ORT2]
   - 小狗: puppy /ˈpʌpi/ [B1][ORT2] √
-  - 猪: pig /pɪɡ/ [A1] √
-  - 小猪: piggy /ˈpɪɡi/ √, piglet /ˈpɪɡlət/
+  - 猪: pig /pɪɡ/ [A1] √, piggy /ˈpɪɡi/ (儿语)
+  - 小猪: piglet /ˈpɪɡlət/
   - 小羊: lamb /læm/ [B1] √
   - 马: horse /hɔːs/ [A1][3000][ORT1+]
-  - 小马: foal /fəʊl/, pony /ˈpəʊni/ [C1] √
+  - 小马: foal /fəʊl/
+  - 矮种马: pony /ˈpəʊni/ [C1] √
   - 小牛: calf /kɑːf/ [B1]
   - 幼崽: cub /kʌb/ (凶猛) √, calf /kɑːf/ (温顺)
   - 小鹿: fawn /fɔːn/
@@ -1227,7 +1229,7 @@
 - 过敏: allergy /ˈælədʒi/
 - 水疗: spa /spɑː/
 - 按摩: massage /ˈmæsɑːʒ/
-- 洗澡: bath /bɑːθ/ [A1]
+- 洗澡: bath /bɑːθ/ [A1][ORT2]
 - 淋浴: shower /ˈʃaʊə/ [A1]
 #### 身体: the body /ðə ˈbɒdi/ [A1]
 - 骨架: skeleton /ˈskelɪtn/ [B2]
@@ -1917,6 +1919,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 弄干: dry /draɪ/ [A2][3000][ORT2]
 - 转动: turn /tɜːn/ [A2][3000][ORT2]
 - 种植: plant /plɑːnt/ [B1][3000][ORT2]
 - 着陆: land /lænd/ [B1][3000][ORT2]
@@ -2116,6 +2119,8 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 干净的: clean /kliːn/ [A1][3000][ORT2]
+- 湿漉漉的: soggy /ˈsɒɡi/ [ORT2]
 - 安全的: safe /seɪf/ [A1][3000][ORT2]
 - 快的: quick /kwɪk/ [A1][3000]
 - 睡着的: asleep /əˈsliːp/ [B1][3000][ORT2]
