@@ -673,7 +673,7 @@
 - 净水器: water purifier /ˈwɔːtə ˈpjʊərɪfaɪə/
 - 秤: scale /skeɪl/ [B2]
 - 钟: clock /klɒk/ [A1]
-- 表: watch /wɒtʃ/ [A1] √
+- 表: watch /wɒtʃ/ [A1][ORT2] √
 - 遥控器: remote control /rɪˈməʊt kənˈtrəʊl/ [B1]
 - 摄像机: camcorder /ˈkæmkɔːdə/
 - 电视机: television /ˈtelɪvɪʒn/ [A1][ORT2], TV /ˌtiː ˈviː/ [A1][3000][ORT2]
@@ -888,7 +888,7 @@
 - 夹克衫: jacket /ˈdʒækɪt/ [A1]
 - 睡衣: pajama /pəˈdʒɑːmə/
 - 腰带: belt /belt/ [A2]
-- 领带: tie /taɪ/ [A2]
+- 领带: tie /taɪ/ [A2][ORT2]
 - 口袋: pocket /ˈpɒkɪt/ [A2][3000][ORT1+]
 - 演出服: costume /ˈkɒstjuːm/ [B2]
 - 制服: uniform /ˈjuːnɪfɔːm/ [A2] √
@@ -1154,7 +1154,7 @@
 - 保安: guard /ɡɑːd/ [B1] √
 - 环卫工: sanitation worker /ˌsænɪˈteɪʃn ˈwɜːkə/
 - 保洁工: cleaner /ˈkliːnə/ [A2] √
-- 魔术师: conjurer /ˈkʌndʒərə/
+- 魔术师: conjurer /ˈkʌndʒərə/ [ORT2]
 - 小丑: clown /klaʊn/ [A2]
 - 潜水员: diver /ˈdaɪvə/ [B1]
 - 建筑师: architect /ˈɑːkɪtekt/ [B1]
@@ -1858,13 +1858,13 @@
 - 火柴: match /mætʃ/ [B2]
 - 旗: flag /flæɡ/ [B1]
 - 篝火: campfire /ˈkæmpfaɪə/
-#### 演出: the performance /ðə pəˈfɔːməns/ [B1], the show /ðə ʃəʊ/ [A2]
+#### 演出: the performance /ðə pəˈfɔːməns/ [B1], the show /ðə ʃəʊ/ [A2][ORT2]
 - 座位: seat /siːt/ [A2]
 - 戏剧: drama /ˈdrɑːmə/ [B1]
 - 话剧: drama /ˈdrɑːmə/ [B1]
 - 歌剧: opera /ˈɒprə/ [A2]
 - 演讲: speech /spiːtʃ/ [B2]
-- 舞台: stage /steɪdʒ/ [A2]
+- 舞台: stage /steɪdʒ/ [A2][ORT2]
 - 音乐会: concert /ˈkɒnsət/ [A2]
 - 音乐: music /ˈmjuːzɪk/ [A1] √
 - 乐队: band /bænd/ [A1][3000][ORT2]
@@ -1876,6 +1876,8 @@
 - 卡通: cartoon /kɑːˈtuːn/ [A2]
 - 马戏: circus /ˈsɜːkəs/ [B1]
 - 抛接杂技: juggling /ˈdʒʌɡlɪŋ/
+- 舞魔杖: wand /wɒnd/ [ORT2]
+- 魔术: magic /ˈmædʒɪk/ [A2][3000][ORT2]
 #### 典礼: ceremonies /ˈserəməniz/ [B1]
 - 婚礼: wedding /ˈwedɪŋ/ [B1]
 - 葬礼: funeral /ˈfjuːnərəl/ [B2]
@@ -1986,6 +1988,7 @@
 - 钩住: hook /hʊk/ [ORT1+]
 - 忘记: forget /fəˈɡet/ [A1][3000][ORT1+]
 - 拿: take /teɪk/ [A1][ORT1+]
+- 带去: take /teɪk/ [A1][3000][ORT2]
 - 赢: win /wɪn/ [A2][ORT1+]
 - 寻找: seek /siːk/ [B2][ORT1+]
 - 推: push /pʊʃ/ [A2][ORT1+]
@@ -2244,6 +2247,7 @@
 - 最多地: most /məʊst/ [A1][3000]
 - 一起: together /təˈɡeðə/ [A1], along /əˈlɒŋ/ [B1][ORT1+]
 - 外面: outside /ˌaʊtˈsaɪd/ [A1]
+- 里面: inside /ˌɪnˈsaɪd/ [A2][3000][ORT2]
 - 楼上: upstairs /ˌʌpˈsteəz/ [A2][3000][ORT2]
 - 楼下: downstairs /ˌdaʊnˈsteəz/ [A2][3000][ORT2]
 - 什么时候: when /wen/ [A1][ORT2] √
@@ -2344,14 +2348,14 @@
 - 一打: dozen /ˈdʌzn/ (十二个) [B1]
 #### 感叹词: exclamations /ˌekskləˈmeɪʃnz/, interjections /ˌɪntəˈdʒekʃnz/
 - 你好: hello /həˈləʊ/ [A1] √
-- 嗨: hi /haɪ/ [A1] √, hey /heɪ/ [A2] √
+- 嗨: hi /haɪ/ [A1] √, hey /heɪ/ [A2][ORT2] √
 - 哦: oh /əʊ/ [A1][3000][ORT1+]
 - 天哪: dear /dɪə/ [A2][3000][ORT2]
 - 再见: bye /baɪ/ [A1] √
 - 好极了: hooray /huˈreɪ/ [ORT1+] √
 - 快: quick /kwɪk/ [ORT2]
 - 好: OK /əʊˈkeɪ/ [A1] √
-- 变: presto /ˈprestəʊ/ √
+- 变: presto /ˈprestəʊ/ [ORT2] √
 - 干杯: cheers /tʃɪəz/ [C2]
 - 好吧: alright /ɔːlˈraɪt/ [A1]
 - 是: yes /jes/ [A1][3000][ORT1] √
