@@ -925,6 +925,7 @@
   - 乌龟: turtle /ˈtɜːtl/ (水, 陆), tortoise /ˈtɔːtəs/ (陆)
   - 海龟: sea turtle /siː ˈtɜːtl/
   - 变色龙: chameleon /kəˈmiːliən/
+  - 蜥蜴: lizard /ˈlɪzəd/ [ORT2]
   - 火蜥蜴: salamander /ˈsæləmændə/ [ORT2]
   - 鳄鱼: crocodile /ˈkrɒkədaɪl/ [B2][ORT2] √
 - 鸟: birds /bɜːdz/ [A1] √
@@ -2115,6 +2116,7 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 安全的: safe /seɪf/ [A1][3000][ORT2]
 - 快的: quick /kwɪk/ [A1][3000]
 - 睡着的: asleep /əˈsliːp/ [B1][3000][ORT2]
 - 高的: tall /tɔːl/ [A1][3000][ORT2]
