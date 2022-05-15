@@ -471,6 +471,7 @@
 - 电梯: lift /lɪft/ (英) [A2], elevator /ˈelɪveɪtə/ (美) [A2] √
 - 扶梯: escalator /ˈeskəleɪtə/ [B2]
 #### 住宅: the house /ðə haʊs/ [A1][ORT2]
+- 房间: room /ruːm/ [A1][3000][ORT2]
 - 厕所: bathroom /ˈbɑːθruːm/ [A1]
 - 餐厅: dining room /ˈdaɪnɪŋ ruːm/ [A1]
 - 客厅: living room /ˈlɪvɪŋ ruːm/ [A1]
@@ -675,7 +676,7 @@
 - 表: watch /wɒtʃ/ [A1] √
 - 遥控器: remote control /rɪˈməʊt kənˈtrəʊl/ [B1]
 - 摄像机: camcorder /ˈkæmkɔːdə/
-- 电视机: television /ˈtelɪvɪʒn/ [A1][ORT2]
+- 电视机: television /ˈtelɪvɪʒn/ [A1][ORT2], TV /ˌtiː ˈviː/ [A1][3000][ORT2]
 - 冰箱: fridge /frɪdʒ/ [A2], refrigerator /rɪˈfrɪdʒəreɪtə/ [A1]
 - 烤箱: oven /ˈʌvn/ [B1][ORT2]
 - 微波炉: microwave /ˈmaɪkrəweɪv/
@@ -1514,7 +1515,7 @@
 #### 食物: food /fuːd/ [A1] √
 - 早饭: breakfast /ˈbrekfəst/ [A1]
 - 中饭: lunch /lʌntʃ/ [A1]
-- 晚饭: dinner /ˈdɪnə/ [A1] √, supper /ˈsʌpə/ [A2]
+- 晚饭: dinner /ˈdɪnə/ [A1][ORT2] √, supper /ˈsʌpə/ [A2]
 - 套餐: combo meal /ˈkɒmbəʊ miːl/
 - 自助餐: buffet /bəˈfeɪ/
 - 烧烤: barbecue /ˈbɑːbɪkjuː/ [A2][ORT2]
@@ -2080,7 +2081,7 @@
 - 打盹: nap /næp/
 - 做梦: dream /driːm/ [A2][ORT2]
 - 刷: brush /brʌʃ/ [A2]
-- 工作: work /wɜːk/ [A1]
+- 工作: work /wɜːk/ [A1], job /dʒɒb/ [A1][3000][ORT2]
 - 跪: kneel /niːl/ [B2]
 - 躺: lie /laɪ/ [A2][ORT2]
 - 蹲: squat /skwɒt/
@@ -2268,6 +2269,7 @@
 - 在...后面: after /ˈɑːftə/ [B1][ORT1+]
 - 到...里面: into /ˈɪntu/ [A1][3000][ORT2]
 - 在...旁边: by /baɪ/ [A2][3000][ORT2]
+- 在...时间内或结束时: in /ɪn/ [A2][3000][ORT2]
 - 沿着: along /əˈlɒŋ/ [A2]
 - 像: like /laɪk/ [A2][ORT1+]
 - 和...一起: with /wɪð/ [A1][ORT2]
