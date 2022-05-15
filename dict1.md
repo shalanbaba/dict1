@@ -2213,7 +2213,7 @@
 #### 副词: adverbs /ˈædvɜːbz/ [A2]
 - 很快: soon /suːn/ [A1][3000][ORT2]
 - 只是: just /dʒʌst/ [B1][3000][ORT2]
-- 也: too /tuː/ [A1][3000][ORT2]
+- 太: too /tuː/ [A1][3000][ORT2]
 - 不: not /nɒt/ [A1][ORT1+] √
 - 从不: never /ˈnevə/ [A1][3000]
 - 永不: never /ˈnevə/ [A1][3000][ORT2]
@@ -2226,7 +2226,7 @@
 - 回: back /bæk/ [A1][ORT1+]
 - 从一侧到另一侧: over /ˈəʊvə/ [B1][ORT2]
 - 继续: on /ɒn/ [ORT1+]
-- 也: also /ˈɔːlsəʊ/ [A1]
+- 也: also /ˈɔːlsəʊ/ [A1], too /tuː/ [A1][3000][ORT2]
 - 非常: very /ˈveri/ [A1][ORT1+]
 - 很好地: well /wel/ [A1][3000]
 - 更好地: better /ˈbetə/ [A2][3000]
