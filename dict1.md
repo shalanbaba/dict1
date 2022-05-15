@@ -731,7 +731,7 @@
 - 网: net /net/ [B1][ORT1+]
 - 洒水壶: watering can /ˈwɔːtərɪŋ kæn/
 - 锄头: hoe /həʊ/
-- 软管: hose /həʊz/ √
+- 软管: hose /həʊz/ [ORT2] √
 - 犁: plow /plaʊ/
 - 铁锹: spade /speɪd/ [C2]
 - 铁铲: shovel /ˈʃʌvl/ [C2] √
@@ -1924,6 +1924,10 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 扔: throw /θrəʊ/ [A2][3000][ORT2]
+- 抢: grab /ɡræb/ [B1][3000][ORT2]
+- 装满: fill /fɪl/ [A2][3000][ORT2]
+- 蹚水: paddle /ˈpædl/ (英) [ORT2], wade /weɪd/ (美)
 - 结束: end /end/ [A2][3000][ORT2]
 - 点: dab /dæb/ [ORT2]
 - 弄干: dry /draɪ/ [A2][3000][ORT2]
