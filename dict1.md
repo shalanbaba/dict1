@@ -1771,7 +1771,7 @@
 - 打架: fight /faɪt/ [B1][3000][ORT2] √
 - 喷射流: jet /dʒet/ [ORT2]
 - 一阵狂吹: gust /ɡʌst/ [ORT2]
-- 一点: bit /bɪt/ [A2][ORT1+]
+- 一点: bit /bɪt/ [A2][ORT1+], dab /dæb/ [ORT2]
 - 上面: upside /ˈʌpsaɪd/ [B2]
 - 盖: lid /lɪd/ [B2][ORT1+]
 - 钥匙: key /kiː/ [A1]
@@ -1922,6 +1922,8 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 结束: end /end/ [A2][3000][ORT2]
+- 点: dab /dæb/ [ORT2]
 - 弄干: dry /draɪ/ [A2][3000][ORT2]
 - 转动: turn /tɜːn/ [A2][3000][ORT2]
 - 种植: plant /plɑːnt/ [B1][3000][ORT2]
@@ -2123,6 +2125,7 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 豪华的: posh /pɒʃ/ [B2][ORT2]
 - 干净的: clean /kliːn/ [A1][3000][ORT2]
 - 湿漉漉的: soggy /ˈsɒɡi/ [ORT2]
 - 安全的: safe /seɪf/ [A1][3000][ORT2]
