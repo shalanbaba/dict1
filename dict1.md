@@ -490,8 +490,9 @@
 - 烟囱: chimney /ˈtʃɪmni/ [B2]
 - 楼梯: stairs /steəz/ [A2]
 - 壁炉: fireplace /ˈfaɪəpleɪs/ [C2]
+- 门: door /dɔː/ [A1][3000][ORT2]
 - 地板或屋顶上的门: trap door /træp dɔː/ [ORT5]
-- 窗: window /ˈwɪndəʊ/ [A1]
+- 窗: window /ˈwɪndəʊ/ [A1][ORT2]
 - 纱窗: screen window /skriːn ˈwɪndəʊ/
 - 纱门: screen door /skriːn dɔː/
 - 窗帘: curtain /ˈkɜːtn/ [A2][ORT2]
@@ -531,7 +532,7 @@
 - 马厩: stable /ˈsteɪbl/ [C2]
 - 村舍: cottage /ˈkɒtɪdʒ/ [B1]
 - 小屋: cabin /ˈkæbɪn/, hut /hʌt/ [B1][ORT2]
-- 牲口房: barn /bɑːn/ [C2]
+- 牲口房: barn /bɑːn/ [C2][ORT2]
 - 果园: orchard /ˈɔːtʃəd/
 - 围栏: fence /fens/ [B2][ORT2]
 - 篱笆: fence /fens/ [B2]
@@ -1110,7 +1111,7 @@
 #### 职业: jobs /dʒobs/ [A1][ORT1+]
 - 邮递员: postman /ˈpəʊstmən/ [B1]
 - 宇航员: astronaut /ˈæstrənɔːt/ √, spaceman /ˈspeɪsmæn/ [ORT1]
-- 消防员: firefighter /ˈfaɪəfaɪtə/ [B1][ORT2] √
+- 消防员: firefighter /ˈfaɪəfaɪtə/ [B1][ORT2] √, fireman /ˈfaɪəmən/ [ORT2]
 - 医生: doctor /ˈdɒktə/ [A1][ORT2] √
 - 兽医: veterinarian /ˌvetərɪˈneəriən/, vet /vet/ (缩) [B1][ORT2] √
 - 农民: farmer /ˈfɑːmə/ [A2] √
@@ -1902,6 +1903,7 @@
 - 蝙蝠侠: batman /ˈbætmən/ [ORT2]
 - 鬼: ghost /ɡəʊst/ [B1][3000]
 - 龙: dragon /ˈdræɡən/ [ORT2]
+- 英雄: hero /ˈhɪərəʊ/ [B1][3000][ORT2]
 #### 武装部队: armed forces /ɑːmd ˈfɔːsɪz/
 - 海军: navy /ˈneɪvi/ [B2]
 - 陆军: army /ˈɑːmi/ [B1]
@@ -2026,7 +2028,7 @@
 - 广播: broadcast /ˈbrɔːdkɑːst/ [B2]
 - 射击: shoot /ʃuːt/ [B1]
 - 保护: protect /prəˈtekt/ [B1]
-- 救援: rescue /ˈreskjuː/ [B1] √
+- 救援: rescue /ˈreskjuː/ [B1][ORT2] √
 - 擦除: erase /ɪˈreɪz/ [B2]
 - 检查: check /tʃek/ [A2][ORT2]
 - 巡逻: patrol /pəˈtrəʊl/
