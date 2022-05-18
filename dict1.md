@@ -263,7 +263,7 @@
 - 湖: lake /leɪk/ [A2]
 - 大陆: mainland /ˈmeɪnlænd/
 - 大海: sea /siː/ [A1][ORT2] √
-- 潮水: tide /taɪd/ [B2]
+- 潮水: tide /taɪd/ [B2][ORT2]
 - 水坑: puddle /ˈpʌdl/ √
 - 池塘: pond /pɒnd/ [B2][ORT2] √
 - 云: cloud /klaʊd/ [A2] √
@@ -733,7 +733,7 @@
 - 锄头: hoe /həʊ/
 - 软管: hose /həʊz/ [ORT2] √
 - 犁: plow /plaʊ/
-- 铁锹: spade /speɪd/ [C2]
+- 铁锹: spade /speɪd/ [C2][ORT2]
 - 铁铲: shovel /ˈʃʌvl/ [C2] √
 - 螺丝刀: screwdriver /ˈskruːdraɪvə/
 - 锤子: hammer /ˈhæmə/ [B2] √
@@ -2131,6 +2131,7 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 深的: deep /diːp/ [A2][3000][ORT2]
 - 豪华的: posh /pɒʃ/ [B2][ORT2]
 - 干净的: clean /kliːn/ [A1][3000][ORT2]
 - 湿漉漉的: soggy /ˈsɒɡi/ [ORT2]
@@ -2152,7 +2153,7 @@
 - 肥的: fat /fæt/ [A1][3000][ORT1+]
 - 发疯的: mad /mæd/ [B1][3000][ORT1+]
 - 黑暗的: dark /dɑːk/ [A2][ORT1+]
-- 下一个的: next [A2]
+- 下一个的: next [A2][ORT2]
 - 其他的: other /ˈʌðə/ [A1]
 - 后面的: back /bæk/ [A2][ORT1+]
 - 花哨的: fancy /ˈfænsi/ [B1][3000][ORT1+]
