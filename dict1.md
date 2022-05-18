@@ -1739,6 +1739,7 @@
 - 弹珠: marble /ˈmɑːbl/
 - 沙堡: sandcastle /ˈsændkɑːsl/ [ORT1+]
 - 泰迪熊: teddy bear /ˈtedi beə/ [ORT1+]
+- 卡丁车: go-kart /ˈɡəʊ kɑːt/ [ORT2]
 #### 乐器: musical instruments /ˈmjuːzɪkl ˈɪnstrʊmənts/
 - 吉他: guitar /ɡɪˈtɑː/ [A1][3000][ORT1+]
 - 钢琴: piano /piˈænəʊ/ [A2]
@@ -1759,6 +1760,7 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
+- 轮到的时候: turn /tɜːn/ [B1][3000][ORT2]
 - 冲: rush /rʌʃ/ [B2][3000][ORT2]
 - 背面: back /bæk/ [A2][3000][ORT2]
 - 轻拍: tap /tæp/ [B2][ORT2]
