@@ -1904,6 +1904,7 @@
 - 鬼: ghost /ɡəʊst/ [B1][3000]
 - 龙: dragon /ˈdræɡən/ [ORT2]
 - 英雄: hero /ˈhɪərəʊ/ [B1][3000][ORT2]
+- 可怕的爬虫: creepy-crawly /ˌkriːpi ˈkrɔːli/ [ORT2]
 #### 武装部队: armed forces /ɑːmd ˈfɔːsɪz/
 - 海军: navy /ˈneɪvi/ [B2]
 - 陆军: army /ˈɑːmi/ [B1]
@@ -1952,6 +1953,7 @@
 - 购物: shop /ʃɒp/ [B1][3000][ORT2]
 - 遗失: lose /luːz/ [A2][3000][ORT2]
 - 叫做: call /kɔːl/ [A1][3000][ORT2]
+- 叫来: call /kɔːl/ [C1][3000][ORT2]
 - 飞: fly /flaɪ/ [A1][3000][ORT2] √
 - 抓住: catch /kætʃ/ [A1][3000][ORT2]
 - 问: ask /ɑːsk/ [A1][3000][ORT2]
@@ -2134,6 +2136,7 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 容易的: easy /ˈiːzi/ [A1][3000][ORT2]
 - 深的: deep /diːp/ [A2][3000][ORT2]
 - 豪华的: posh /pɒʃ/ [B2][ORT2]
 - 干净的: clean /kliːn/ [A1][3000][ORT2]
@@ -2374,3 +2377,4 @@
 - 是: yes /jes/ [A1][3000][ORT1] √
 - 不: no /nəʊ/ [A1][3000][ORT1] √
 - 好吃: yum /jʌm/ [ORT2]
+- 啊: ugh /ɜː/ [ORT2]
