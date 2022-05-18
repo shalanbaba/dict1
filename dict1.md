@@ -1758,6 +1758,7 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
+- 冲: rush /rʌʃ/ [B2][3000][ORT2]
 - 背面: back /bæk/ [A2][3000][ORT2]
 - 轻拍: tap /tæp/ [B2][ORT2]
 - 气泡: bubble /ˈbʌbl/ [C1][3000][ORT2]
@@ -2367,7 +2368,7 @@
 - 好: OK /əʊˈkeɪ/ [A1] √
 - 变: presto /ˈprestəʊ/ [ORT2] √
 - 干杯: cheers /tʃɪəz/ [C2]
-- 好吧: alright /ɔːlˈraɪt/ [A1]
+- 好吧: all right /ˌɔːl ˈraɪt/ [A1][3000], well /wel/ [A1][3000][ORT2]
 - 是: yes /jes/ [A1][3000][ORT1] √
 - 不: no /nəʊ/ [A1][3000][ORT1] √
 - 好吃: yum /jʌm/ [ORT2]
