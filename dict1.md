@@ -1243,7 +1243,7 @@
   - 食指: pointer finger /ˈpɔɪntə ˈfɪŋɡə/
   - 中指: middle finger /ˈmɪdl ˈfɪŋɡə/
   - 无名指: ring finger /rɪŋ ˈfɪŋɡə/
-  - 小手指: little finger /ˈlɪtl ˈfɪŋɡə/
+  - 小手指: little finger /ˈlɪtl ˈfɪŋɡə/, pinkie /ˈpɪŋki/
 - 脚趾: toes /təʊz/ [A2]
   - 大脚趾: big toe /bɪɡ təʊ/
   - 第二脚趾: second toe /ˈsekənd təʊ/
