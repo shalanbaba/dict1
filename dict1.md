@@ -1516,7 +1516,7 @@
 - 叮: ding /dɪŋ/ [ORT2]
 - 咚: dong /dɒŋ/ [ORT2]
 - 嘡: bong /bɒŋ/ [ORT2]
-- 噗 (气体喷出): puff /pʌf/ [ORT2]
+- 喘气声: puff /pʌf/ [ORT2]
 #### 食物: food /fuːd/ [A1] √
 - 早饭: breakfast /ˈbrekfəst/ [A1]
 - 中饭: lunch /lʌntʃ/ [A1]
