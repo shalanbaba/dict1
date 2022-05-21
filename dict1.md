@@ -919,7 +919,7 @@
 #### 缝纫: sewing /ˈsəʊɪŋ/ [C1]
 - 针: needle /ˈniːdl/ [B2]
 - 线: thread /θred/ [C2]
-- 拉链: zip /zɪp/ [B2], zipper /ˈzɪpə/ [B2]
+- 拉链: zip /zɪp/ [B2][ORT2], zipper /ˈzɪpə/ [B2]
 - 带扣: buckle /ˈbʌkl/
 - 纽扣: button /ˈbʌtn/ [B1][ORT1+]
 #### 动物: the animal /ði ˈænɪml/ [A1]
@@ -1501,7 +1501,7 @@
 - 嘶 (蛇): hiss /hɪs/ √
 - 喵 (猫): meow /miˈaʊ/ √
 - 吱吱 (兔子, 老鼠): squeak /skwiːk/ √
-- 嗡嗡 (蜜蜂): buzz /bʌz/ [C2] √
+- 嗡嗡 (蜜蜂): buzz /bʌz/ [C2][ORT2] √
 - 鸟叫声: tweet /twiːt/
 - 羊叫声: baa /bɑː/
 - 吭哧 (火车): choochoo /ˈtʃu: tʃu:/ √
@@ -1935,6 +1935,7 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 喘气: puff /pʌf/ [ORT2]
 - 发出铃声: ring /rɪŋ/ [B1][3000][ORT2]
 - 发出突然的巨响: bang /bæŋ/ [B2][ORT2]
 - 扔: throw /θrəʊ/ [A2][3000][ORT2]
