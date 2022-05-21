@@ -302,7 +302,7 @@
 - 影子: shadow /ˈʃædəʊ/ [B1][ORT1] √
 - 蜂巢: hive /haɪv/ √
 - 鸟巢: nest /nest/ [C2] √
-- 巢穴: den /den/
+- 巢穴: den /den/ [ORT2]
 - 洞: hole /həʊl/ [B1][ORT2]
 - 蜘蛛网: web /web/ [B1] √
 - 地洞: burrow /ˈbʌrəʊ/ [ORT1+]
@@ -619,7 +619,7 @@
 - 口红: lipstick /ˈlɪpstɪk/
 #### 厨具: cooking utensils /ˈkʊkɪŋ juːˈtenslz/
 - 水壶: kettle /ˈketl/ [B1]
-- 火锅: hotpot /ˈhɒtpɒt/ √
+- 火锅: hotpot /ˈhɒtpɒt/ [ORT2] √
 - 锅: pot /pɒt/ [B1][3000][ORT1]
 - 平底锅: pan /pæn/ [B1][ORT1]
 - 高压锅: pressure cooker /ˈpreʃə kʊkə/
@@ -1025,7 +1025,7 @@
   - 狮子: lion ˈlaɪən [A2] √
   - 熊: bear /beə/ [A2] √
 - 恐龙: dinosaur /ˈdaɪnəsɔː/ [A2][ORT1+] √
-- 鱼: fish /fɪʃ/ [A1] √
+- 鱼: fish /fɪʃ/ [A1][3000][ORT2] √
   - 金鱼: goldfish /ˈɡəʊldfɪʃ/ [ORT1+] √
   - 鲨鱼: shark /ʃɑːk/ [B1] √
   - 海豚: dolphin /ˈdɒlfɪn/ [B1][ORT2] √
@@ -1513,6 +1513,9 @@
 - 喧闹声: din /dɪn/ [ORT1+]
 - 突然的巨响: crash /kræʃ/ [B2][ORT1+], bang /bæŋ/ [B2][ORT1+]
 - 湿东西掉落声: splat /splæt/ [ORT1+]
+- 叮: ding /dɪŋ/ [ORT2]
+- 咚: dong /dɒŋ/ [ORT2]
+- 嘡: bong /bɒŋ/ [ORT2]
 #### 食物: food /fuːd/ [A1] √
 - 早饭: breakfast /ˈbrekfəst/ [A1]
 - 中饭: lunch /lʌntʃ/ [A1]
@@ -1747,7 +1750,8 @@
 - 鼓: drum /drʌm/ [A2][ORT1+]
 - 竖笛: recorder /rɪˈkɔːdə/ [ORT1+]
 - 小号: trumpet /ˈtrʌmpɪt/ [B1][ORT1+]
-- 电子琴: keyboard [A2]
+- 电子琴: keyboard /ˈkiːbɔːd/ [A2]
+- 锣: gong /ɡɒŋ/ [ORT2]
 #### 社会: society /səˈsaɪəti/ [B1]
 - 法律: law /lɔː/ [B2]
 - 政府: government /ˈɡʌvənmənt/ [B1]
@@ -1760,6 +1764,7 @@
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
 #### 生活: life /laɪf/ [B1]
+- 一盘比赛: set /set/ [B2][ORT2]
 - 轮到的时候: turn /tɜːn/ [B1][3000][ORT2]
 - 冲: rush /rʌʃ/ [B2][3000][ORT2]
 - 背面: back /bæk/ [A2][3000][ORT2]
@@ -1930,6 +1935,8 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 发出铃声: ring /rɪŋ/ [B1][3000][ORT2]
+- 发出突然的巨响: bang /bæŋ/ [B2][ORT2]
 - 扔: throw /θrəʊ/ [A2][3000][ORT2]
 - 抢: grab /ɡræb/ [B1][3000][ORT2]
 - 装满: fill /fɪl/ [A2][3000][ORT2]
