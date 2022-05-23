@@ -23,7 +23,7 @@
 - 练习册: workbook /ˈwɜːkbʊk/ [A2]
 - 字典: dictionary /ˈdɪkʃəneri/ [A1][3000]
 - 照片: photo /ˈfəʊtəʊ/ [A1][3000], photograph /ˈfəʊtəɡrɑːf/ [A2][3000]
-- 图片: picture /ˈpɪktʃə/ [A1][3000][ORT1]
+- 图片: picture /ˈpɪktʃə/ [A1][KET][3000][ORT1]
 - 视频: video /ˈvɪdiəʊ/ [A2][3000]
 - 相册: album /ˈælbəm/ [A2][3000]
 - 语音: voice /vɔɪs/ [B1]
