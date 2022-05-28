@@ -314,6 +314,7 @@
 - 化石: fossil /ˈfɒsl/
 - 草地: meadow /ˈmedəʊ/
 - 陆地: land /lænd/ [B2][ORT1+]
+- X射线, X光: x-ray /ˈeks reɪ/ [B2]
 #### 天气: the weather /ðə ˈweðə/ [A1][3000][ORT2] √
 - 晴的: sunny /ˈsʌni/ [A2][ORT1+] √
 - 有雨的: rainy /ˈreɪni/ [B1] √
@@ -866,6 +867,7 @@
 - 起飞: lift off /ˈlɪft ɒf/ √
 - 发射: launch /lɔːntʃ/ [C1] √
 - 发射台: launch pad /ˈlɔːntʃ pæd/
+- 宇航服: space suit /speɪs suːt/
 #### 服装: clothes /kləʊðz/ [A1][ORT2]
 - 上衣: top /tɒp/ [B1][3000][ORT1+]
 - 内衣: underwear /ˈʌndəweə/ [B1]
@@ -978,6 +980,8 @@
 - 蜘蛛: spider /ˈspaɪdə/ [B1][ORT1+] √
 - 蜈蚣: centipede /ˈsentɪpiːd/
 - 哺乳动物: mammals /ˈmæmlz/ [C1]
+  - 牦牛: yak /jæk/
+  - 狼: wolf /wʊlf/ [B2]
   - 猴子: monkey /ˈmʌŋki/ [A2][3000][ORT2]
   - 老鼠: rat /ræt/ [A2][ORT1+]
   - 人: human /ˈhjuːmən/ [B1]
