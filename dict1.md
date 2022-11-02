@@ -202,6 +202,7 @@
   - 韩国: South Korea /kəˈriə/
   - 泰国: Thailand /ˈtaɪlænd/
   - 澳大利亚: Australia /ɒˈstreɪliə/ √
+  - 新西兰: New Zealand /ˌnjuː ˈziːlənd/
 - 州 (美) : states /steɪts/ [B1]
   - 加利福尼亚: California /ˌkæləˈfɔːniə/
 - 城市: cities /ˈsɪtiz/ [A1]
