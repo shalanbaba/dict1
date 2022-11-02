@@ -714,7 +714,7 @@
 - 闸机: barrier /ˈbæriə/ [B2], turnstile /ˈtɜːnstaɪl/
 - 孵化器: incubator /ˈɪŋkjubeɪtə/ [ORT2]
 #### 机器: machines /məˈʃiːnz/ [A2]
-- 挖掘机: digger /ˈdɪɡə/ √
+- 挖掘机: excavator /ˈekskəveɪtə/, digger /ˈdɪɡə/ √
 - 吊车: crane /kreɪn/ √
 - 绞车: winch /wɪntʃ/
 - 铲车: wheel loader /wiːl ˈləʊdə/
