@@ -634,7 +634,7 @@
 - 水果刀: fruit knife /fruːt naɪf/
 - 削皮刀: peeler /ˈpiːlə/
 #### 餐具: tableware /ˈteɪblweə/
-- 碟: dish /dɪʃ/ [A2]
+- 碟: dish /dɪʃ/ [A2][ORT2]
 - 盘: plate /pleɪt/ [A1][ORT2]
 - 碗: bowl /bəʊl/ [A2]
 - 勺: spoon /spuːn/ (浅) [A2], scoop /skuːp/ (深)
@@ -1502,7 +1502,7 @@
 - 臭的: stinky /ˈstɪŋki/
 #### 声音: sounds /saʊndz/ [A2][ORT1+]
 - 咕噜声 (猪): grunt /ɡrʌnt/
-- 汪 (狗): woof /wʊf/ √
+- 汪 (狗): woof /wʊf/ √, ruff /rʌf/ [ORT2]
 - 嘶 (蛇): hiss /hɪs/ √
 - 喵 (猫): meow /miˈaʊ/ √
 - 吱吱 (兔子, 老鼠): squeak /skwiːk/ √
@@ -1513,7 +1513,7 @@
 - 咀嚼声: crunch /krʌntʃ/
 - 呱呱 (青蛙): ribbit /ˈrɪbɪt/ √
 - 嘎嘎 (鸭子): quack /kwæk/ √
-- 喔喔 (公鸡): cock-a-doodle-doo /ˌkɒk ə ˌduːdl ˈduː/
+- 喔喔 (公鸡): cock-a-doodle-doo /ˌkɒk ə ˌduːdl ˈduː/ [ORT2] √
 - 砰 (爆裂): pop /pɒp/ [ORT1+]
 - 喧闹声: din /dɪn/ [ORT1+]
 - 突然的巨响: crash /kræʃ/ [B2][ORT1+], bang /bæŋ/ [B2][ORT1+]
@@ -1535,6 +1535,7 @@
 - 海鲜: seafood /ˈsiːfuːd/
 - 米饭: rice /raɪs/ [A1] √
 - 汤: soup /suːp/ [A1]
+- 糊: mash /mæʃ/ [ORT2]
 - 墨西哥卷饼: taco /ˈtækəʊ/
 - 玉米片: cornflake /kɔ:nfleik/ [ORT2]
 - 姜饼: gingerbread /ˈdʒɪndʒəbred/ [ORT2]
@@ -1941,6 +1942,8 @@
 - 轰炸机: bomber /ˈbɒmə/ [C2] √
 - 潜水艇: submarine /ˌsʌbməˈriːn/
 #### 动词: verbs /vɜːbz/ [A2]
+- 关: shut /ʃʌt/ [ORT2]
+- 啄: peck /pek/ [ORT2]
 - 发出铃声: ring /rɪŋ/ [B1][3000][ORT2]
 - 发出突然的巨响: bang /bæŋ/ [B2][ORT2]
 - 扔: throw /θrəʊ/ [A2][3000][ORT2]
@@ -2080,7 +2083,7 @@
 - 挥: wave /weɪv/ [B1] √
 - 跺脚: stamp /stæmp/ [C2] √
 - 弯曲: bend /bend/ [B2] √
-- 坐: sit /sɪt/ [A1][ORT1+][ORT2] √
+- 坐: sit /sɪt/ [A1][ORT1+] √
 - 说: talk /tɔːk/ [A1]
 - 站: stand /stænd/ [A2] √
 - 听: listen /ˈlɪsn/ [A1]
@@ -2146,7 +2149,7 @@
     - 不能: cannot /ˈkænɒt/ [A1][ORT1+]
     - 可能: may /meɪ/ [A2], might /maɪt/ [A2]
     - 将会: will /wɪl/ [A2][ORT1+], would /wʊd/ [B1]
-    - 应该: shall /ʃæl/ [A2], should /ʃʊd/ [A2]
+    - 应该: shall /ʃæl/ [A2][ORT2], should /ʃʊd/ [A2]
 #### 冠词: articles /ˈɑːtɪklz/ [B1]
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
@@ -2297,6 +2300,7 @@
 - 从: from /frɒm/ [A1]
 - 到: to /tuː/ [A1][ORT1+]
 - 在: at /æt/ [A1][ORT1]
+- 冲着: at /æt/ [A1][ORT2]
 - 在...里面: in /ɪn/ [A1][3000][ORT1+]
 - 在...上面: on /ɒn/ [A1][ORT1+]
 - 在...下面: under /ˈʌndə/ [A1][3000][ORT2]
@@ -2393,3 +2397,4 @@
 - 不: no /nəʊ/ [A1][3000][ORT1] √
 - 好吃: yum /jʌm/ [ORT2]
 - 啊: ugh /ɜː/ [ORT2]
+- 嘘: sh /ʃ/ [ORT2]
