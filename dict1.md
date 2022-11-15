@@ -668,8 +668,7 @@
 - 可回收垃圾: recyclable waste /ˌriːˈsaɪkləbl weɪst/
 - 有害垃圾: hazardous waste /ˈhæzədəs weɪst/
 #### 通信: communications /kəˌmjuːnɪˈkeɪʃnz/ [B1]
-- 强信号: strong signal /strɒŋ ˈsɪɡnəl/
-- 弱信号: weak signal /wiːk ˈsɪɡnəl/
+- 信号: signal /ˈsɪɡnəl/ [B2]
 - 天线: antenna /ænˈtenə/
 #### 电器和电子产品: appliances /əˈplaɪənsɪz/ [C1] & electronics /ɪˌlekˈtrɒnɪks/
 - 搅拌机: blender /ˈblendə/
