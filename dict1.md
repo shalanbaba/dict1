@@ -426,7 +426,7 @@
 - 火车站: railway station /ˈreɪlweɪ ˈsteɪʃn/
 - 药店: pharmacy /ˈfɑːməsi/ [B1]
 - 医院: hospital /ˈhɒspɪtl/ [A1][ORT1+] √
-- 牙医诊所: dental clinic /ˈdentl ˈklɪnɪk/
+- 牙科诊所: dental clinic /ˈdentl ˈklɪnɪk/
 - 网球场: tennis court /ˈtenɪs kɔːt/
 - 篮球场: basketball court /ˈbɑːskɪtbɔːl kɔːt/
 - 足球场: football field /ˈfʊtbɔːl fiːld/
