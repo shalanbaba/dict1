@@ -668,14 +668,14 @@
 - 可回收垃圾: recyclable waste /ˌriːˈsaɪkləbl weɪst/
 - 有害垃圾: hazardous waste /ˈhæzədəs weɪst/
 #### 通信: communications /kəˌmjuːnɪˈkeɪʃnz/ [B1]
-- 信号: signal /ˈsɪɡnəl/ [B2]
+- 信号: signal /ˈsɪɡnəl/ [B2][3000]
 - 天线: antenna /ænˈtenə/
 #### 电器和电子产品: appliances /əˈplaɪənsɪz/ [C1] & electronics /ɪˌlekˈtrɒnɪks/
 - 搅拌机: blender /ˈblendə/
 - 净水器: water purifier /ˈwɔːtə ˈpjʊərɪfaɪə/
-- 秤: scale /skeɪl/ [B2]
-- 钟: clock /klɒk/ [A1]
-- 表: watch /wɒtʃ/ [A1][ORT2] √
+- 秤: scale /skeɪl/ [B2][3000]
+- 钟: clock /klɒk/ [A1][3000]
+- 表: watch /wɒtʃ/ [A1][3000][ORT2] √
 - 遥控器: remote control /rɪˈməʊt kənˈtrəʊl/ [B1]
 - 摄像机: camcorder /ˈkæmkɔːdə/
 - 电视机: television /ˈtelɪvɪʒn/ [A1][ORT2], TV /ˌtiː ˈviː/ [A1][3000][ORT2]
