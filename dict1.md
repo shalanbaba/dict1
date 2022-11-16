@@ -71,7 +71,7 @@
 - 记录: record /ˈrekɔːd/ [B2]
 - 票: ticket /ˈtɪkɪt/ [A1][3000][ORT1+]
 - 罚单: ticket /ˈtɪkɪt/
-- 名字: name /neɪm/ [A1] √
+- 名字: name /neɪm/ [A1][3000] √
 - 区号: area code /ˈeəriə kəʊd/
 - 地址: address /əˈdres/ [A1]
 - 邮编: zip code /zɪp kəʊd/
@@ -1812,8 +1812,8 @@
 - 进球: goal /ɡəʊl/ [A2][ORT1+]
 - 技能: skill /skɪl/ [B1]
 - 假期: holiday /ˈhɒlədeɪ/ (英) [A1] √, vacation /veɪˈkeɪʃn/ (美) [A1]
-- 事情: thing /θɪŋ/ [A1]
-- 东西: thing /θɪŋ/ [A1][ORT1+]
+- 事情: thing /θɪŋ/ [A1][3000]
+- 东西: thing /θɪŋ/ [A1][3000][ORT1+]
 - 某种东西: whatsit /ˈwɒtsɪt/ [ORT5]
 - 顶部: top /tɒp/ [A2][ORT1+]
 - 结尾: end /end/ [A1]
@@ -2153,6 +2153,7 @@
 - 一个: a /ə/ [A1][3000][ORT1], an /æn/ [A1][3000]
 - 指特定事物: the /ðə/ [A1][3000][ORT1]
 #### 形容词: adjectives /ˈædʒɪktɪvz/ [A2]
+- 最喜欢的: favourite (英), favorite (美) /ˈfeɪvərɪt/ [A1][3000]
 - 容易的: easy /ˈiːzi/ [A1][3000][ORT2]
 - 深的: deep /diːp/ [A2][3000][ORT2]
 - 豪华的: posh /pɒʃ/ [B2][ORT2]
