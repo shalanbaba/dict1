@@ -105,6 +105,7 @@
 - 短语: phrase /freɪz/
 - 拼读: phonics /ˈfɒnɪks/
 - 语法: grammar /ˈɡræmə/ [A2]
+- 押韵: rhyme /raɪm/ [C2]
 #### 符号: symbols /ˈsɪmblz/ [B2][3000]
 - 标点符号: punctuation /ˌpʌŋktʃuˈeɪʃn/ [B1]
   - 破折号: dash /dæʃ/ [B2]
