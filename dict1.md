@@ -165,9 +165,10 @@
 - 小行星: asteroid /ˈæstərɔɪd/
 - 流星: shooting star /ˈʃuːtɪŋ stɑː/, meteor /ˈmiːtiə/
 - 彗星: comet /ˈkɒmɪt/
-- 卫星: satellite /ˈsætəlaɪt/
+- 卫星: satellite /ˈsætəlaɪt/ [3000]
 - 黑洞: black hole /blæk həʊl/
 - 星系: galaxy /ˈɡæləksi/
+- 星座: constellation /ˌkɒnstəˈleɪʃn/
 - 恒星: star /stɑː/ [A2] √
 - 太阳系: the Solar System /ðə səʊlə ˈsɪstəm/
   - 太阳: Sun /sʌn/ [A1][ORT1+] √
@@ -277,6 +278,8 @@
 - 大雨: heavy rain /ˈhevi reɪn/
 - 闪电: lightning /ˈlaɪtnɪŋ/ [B1] √
 - 日落: sunset /ˈsʌnset/ [B1][ORT1+]
+- 白天: day /deɪ/ [A2][3000]
+- 夜晚: night /naɪt/ [A1][3000]
 - 暴风雨: storm /stɔːm/ [A2] √
 - 雷: thunder /ˈθʌndə(r)/ [B1] √
 - 雪: snow /snəʊ/ [A1] √
@@ -330,10 +333,11 @@
 - 有雾霾的: smoggy /ˈsmɒɡi/
 #### 自然灾害: natural disasters /ˈnætʃrəl dɪˈzɑːstəz/
 - 龙卷风: tornado /tɔːˈneɪdəʊ/ [B2]
-- 地震: earthquake /ˈɜːθkweɪk/ [B2]
+- 地震: earthquake /ˈɜːθkweɪk/ [B2][3000]
 - 海啸: tsunami /tsuːˈnɑːmi/
-- 洪水: flood /flʌd/ [B1] √
+- 洪水: flood /flʌd/ [B1][3000] √
 - 台风: typhoon /taɪˈfuːn/
+- 飓风: hurricane /ˈhʌrɪkən/ [3000]
 #### 水: water /ˈwɔːtə/ [A1][ORT1+]
 - 泉水: spring /sprɪŋ/ [C1]
 - 淡水: fresh water /ˈfreʃwɔːtə/ [C2]
@@ -862,7 +866,7 @@
 - 火箭: rocket /ˈrɒkɪt/ [B2][ORT1+] √
 - 航天飞机: space shuttle /speɪs ˈʃʌtl/
 - 宇宙飞船: spaceship /ˈspeɪsʃɪp/
-- 人造卫星: satellite /ˈsætəlaɪt/ [B2]
+- 人造卫星: satellite /ˈsætəlaɪt/ [B2][3000]
 - 空间站: space station /speɪs ˈsteɪʃn/
 - 点火: ignition /ɪɡˈnɪʃn/
 - 起飞: lift off /ˈlɪft ɒf/ √
@@ -1114,6 +1118,7 @@
 - 美国人: American /əˈmerɪkən/
 - 英国人: British /ˈbrɪtɪʃ/
 #### 职业: jobs /dʒobs/ [A1][ORT1+]
+- 猎人: hunter /ˈhʌntə/
 - 邮递员: postman /ˈpəʊstmən/ [B1]
 - 宇航员: astronaut /ˈæstrənɔːt/ √, spaceman /ˈspeɪsmæn/ [ORT1]
 - 消防员: firefighter /ˈfaɪəfaɪtə/ [B1][ORT2] √, fireman /ˈfaɪəmən/ [ORT2]
@@ -1239,6 +1244,7 @@
 - 洗澡: bath /bɑːθ/ [A1][ORT2]
 - 淋浴: shower /ˈʃaʊə/ [A1]
 #### 身体: the body /ðə ˈbɒdi/ [A1]
+- 大脑: brain /breɪn/ [A2][3000]
 - 骨架: skeleton /ˈskelɪtn/ [B2]
 - 牙齿: tooth /tuːθ/ [A1][3000][ORT2]
 - 头: head /hed/ [A1][ORT1+] √
@@ -1767,10 +1773,18 @@
 - 博览会: fair /feə/ [B1], expo /ˈekspəʊ/
 - 俱乐部: club /klʌb/ [A2]
 - 宗教: religion /rɪˈlɪdʒən/ [B1]
+- 时代: age /eɪdʒ/ [A1][3000]
+- 历史: history /ˈhɪstri/ [A2][3000]
 - 公司: companies /ˈkʌmpəniz/ [A2]
   - 航空公司: airline /ˈeəlaɪn/ [B1]
   - 快递: express /ɪkˈspres/
-#### 生活: life /laɪf/ [B1]
+#### 生活: life /laɪf/ [B1][3000]
+- 污染: pollution /pəˈluːʃn/ [B1][3000]
+- 一生: life /laɪf/ [B1][3000]
+- 名声: reputation /ˌrepjuˈteɪʃn/ [B2][3000]
+- 大便: poo /puː/ (儿语) √
+- 小便: pee /piː/ (儿语) √
+- 循环: cycle /saɪkl/ [B2][3000]
 - 一盘比赛: set /set/ [B2][ORT2]
 - 轮到的时候: turn /tɜːn/ [B1][3000][ORT2]
 - 冲: rush /rʌʃ/ [B2][3000][ORT2]
